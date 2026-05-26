@@ -4,6 +4,11 @@
 
 The goal of this project is to periodically scrape selected company websites, identify newly posted roles, and eventually send notifications when relevant openings appear.
 
+## Why This Project?
+
+Unlike job aggregators, company career pages are often the closest source to real-time openings.
+This project seeks to reduce noise from reposted or outdated listings and provide a more direct way to monitor roles from selected companies.
+
 ## Features
 
 * Scrape job postings from company career pages
