@@ -1,3 +1,5 @@
+![Scrape Jobs](https://github.com/BarbaraPFloresRios/JobTracker/actions/workflows/scrape_jobs.yml/badge.svg)
+
 # JobTracker
 
 🚧 A personal project for tracking new job openings across company career pages.
