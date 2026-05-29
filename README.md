@@ -2,24 +2,26 @@
 
 # JobTracker
 
-An automated data pipeline for tracking new job openings directly from company career pages.
+🚧 An MVP data pipeline for tracking job openings directly from company career pages.
 
-JobTracker periodically collects job postings, compares them against previously stored results, identifies newly published roles, and maintains a historical record of openings.
+JobTracker automatically collects job postings, compares them against previously stored results, and keeps a historical record of openings over time.
+
+The long-term goal is to build a lightweight job monitoring system that can notify users when relevant new opportunities appear.
 
 ## Motivation
 
-Company career pages are often the most reliable source of up-to-date job openings, but manually checking multiple websites is inefficient.
+Company career pages are often the closest source to real-time openings, but manually checking multiple websites is time-consuming.
 
-This project automates that process by monitoring selected companies directly, reducing noise from duplicated or outdated job listings commonly found on job aggregators.
+This project explores how to automate that workflow by collecting job data directly from selected companies and reducing noise from repeated listings.
 
-## Features
+## Current Features
 
-- Automated scraping of company career pages
-- Multi-company support (Apple, Amazon)
-- Detection of newly added job postings
-- Historical tracking using CSV storage
-- Scheduled pipeline execution with GitHub Actions
-- Automatic commits when new data is collected
+- Scrape job postings from company career pages
+- Support multiple companies (Apple, Amazon)
+- Detect newly added openings
+- Store historical job data locally
+- Run automatically using GitHub Actions
+- Commit updated datasets after scheduled runs
 
 ## Pipeline Overview
 
@@ -27,17 +29,17 @@ This project automates that process by monitoring selected companies directly, r
 GitHub Actions (scheduled)
           |
           v
-      main.py
+       main.py
           |
           v
-    Company Scrapers
-    (Apple, Amazon)
+   Company Scrapers
+   (Apple, Amazon)
           |
           v
-    Processing Pipeline
+   Processing Pipeline
           |
           v
-   Historical Job Dataset
+   Historical CSV Storage
 ```
 
 ## Project Structure
@@ -46,10 +48,9 @@ GitHub Actions (scheduled)
 JobTracker
 ├── .github/workflows
 │   └── scrape_jobs.yml
-├── data
-│   └── raw
-│       ├── amazon_jobs.csv
-│       └── apple_jobs.csv
+├── data/raw
+│   ├── amazon_jobs.csv
+│   └── apple_jobs.csv
 ├── scrapers
 │   ├── amazon.py
 │   └── apple.py
@@ -67,16 +68,16 @@ JobTracker
 - Pandas
 - GitHub Actions
 
-## Future Improvements
+## Planned Improvements
 
-- Email or Telegram notifications for matching roles
-- Keyword and location-based filtering
-- Database storage with SQLite/PostgreSQL
-- Simple dashboard for exploring job trends
+- Email or Telegram alerts for matching roles
+- Keyword and location filters
+- Better historical tracking (first seen / last seen dates)
+- Database storage (SQLite/PostgreSQL)
+- Simple dashboard for exploring openings
 
 ## Status
 
-MVP completed.
+🚧 Functional MVP.
 
-The current version runs automatically on a schedule and tracks job openings from multiple companies.
-Additional features will focus on notifications, filtering, and improved data storage.
+The current version runs automatically and tracks openings from selected companies. Future iterations will focus on notifications, filtering, and improving data storage.
