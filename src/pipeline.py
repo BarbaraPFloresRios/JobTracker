@@ -12,19 +12,60 @@ AMAZON_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_jobs.csv"
 
 def save_jobs(current_jobs, output_path):
 
+    today = pd.Timestamp.today().strftime("%Y-%m-%d")
+
+    dedupe_key = "job_id" if "job_id" in current_jobs.columns else "url"
+
+    current_jobs = current_jobs.copy()
+    current_jobs[dedupe_key] = current_jobs[dedupe_key].astype(str)
+
+    current_jobs["last_seen_date"] = today
+
     if os.path.exists(output_path):
         old_jobs = pd.read_csv(output_path)
 
+        old_jobs[dedupe_key] = old_jobs[dedupe_key].astype(str)
+
+        if "first_seen_date" not in old_jobs.columns:
+            old_jobs["first_seen_date"] = today
+
+        if "last_seen_date" not in old_jobs.columns:
+            old_jobs["last_seen_date"] = today
+
+        old_keys = old_jobs[dedupe_key]
+
         new_jobs = current_jobs[
-            ~current_jobs["url"].isin(old_jobs["url"])
-        ]
+            ~current_jobs[dedupe_key].isin(old_keys)
+        ].copy()
+
+        current_jobs["first_seen_date"] = current_jobs[dedupe_key].map(
+            old_jobs.set_index(dedupe_key)["first_seen_date"]
+        )
+
+        current_jobs["first_seen_date"] = current_jobs["first_seen_date"].fillna(today)
 
         jobs = pd.concat([old_jobs, current_jobs], ignore_index=True)
-        jobs = jobs.drop_duplicates(subset=["url"])
+        jobs = jobs.drop_duplicates(subset=[dedupe_key], keep="last")
 
     else:
+        current_jobs["first_seen_date"] = today
         new_jobs = current_jobs
         jobs = current_jobs
+
+    if "posted_date" in jobs.columns:
+        jobs["posted_date_sort"] = pd.to_datetime(
+            jobs["posted_date"],
+            errors="coerce"
+        )
+
+        jobs = (
+            jobs
+            .sort_values(
+                by=["posted_date_sort", "last_seen_date"],
+                ascending=[False, False]
+            )
+            .drop(columns=["posted_date_sort"])
+        )
 
     jobs.to_csv(output_path, index=False)
 
