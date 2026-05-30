@@ -2,26 +2,29 @@
 
 # JobTracker
 
-🚧 An MVP data pipeline for tracking job openings directly from company career pages.
+A lightweight job monitoring and semantic matching system built in Python.
 
-JobTracker automatically collects job postings, compares them against previously stored results, and keeps a historical record of openings over time.
+JobTracker automatically collects openings directly from company career pages, maintains historical records of job postings, and ranks opportunities using semantic similarity against a configurable candidate profile.
 
-The long-term goal is to build a lightweight job monitoring system that can notify users when relevant new opportunities appear.
+The project combines web scraping, data pipelines, automation, embeddings, and semantic search to help surface relevant opportunities from large job catalogs.
 
 ## Motivation
 
-Company career pages are often the closest source to real-time openings, but manually checking multiple websites is time-consuming.
+Company career pages are often the most up-to-date source of job openings, but manually checking multiple websites can be repetitive and time-consuming.
 
-This project explores how to automate that workflow by collecting job data directly from selected companies and reducing noise from repeated listings.
+The goal of this project is to automate job discovery while exploring practical applications of semantic search and recommendation systems.
 
 ## Current Features
 
-- Scrape job postings from company career pages
-- Support multiple companies (Apple, Amazon)
-- Detect newly added openings
-- Store historical job data locally
-- Run automatically using GitHub Actions
-- Commit updated datasets after scheduled runs
+* Scrape job postings directly from company career pages
+* Support multiple companies (currently Apple and Amazon)
+* Detect newly discovered openings
+* Track historical job data over time
+* Run automatically using GitHub Actions
+* Store structured datasets as CSV files
+* Semantic job matching using sentence embeddings
+* Configurable candidate profile for personalized ranking
+* Cosine similarity scoring between jobs and candidate profile
 
 ## Pipeline Overview
 
@@ -38,46 +41,74 @@ GitHub Actions (scheduled)
           v
    Processing Pipeline
           |
-          v
-   Historical CSV Storage
+          +------------------+
+          |                  |
+          v                  v
+ Historical Storage   Semantic Matching
+                           |
+                           v
+                 Candidate Profile
+                           |
+                           v
+                 semantic_similarity
+                           |
+                           v
+                     CSV Output
 ```
+
+## Semantic Matching
+
+Each job posting is converted into a text representation using all available job attributes.
+
+The system:
+
+1. Builds a textual representation of each job.
+2. Generates embeddings using the `all-MiniLM-L6-v2` model.
+3. Generates an embedding for a configurable candidate profile.
+4. Computes cosine similarity between jobs and the profile.
+5. Stores a `semantic_similarity` score for ranking opportunities.
+
+This approach enables semantic matching beyond simple keyword filtering.
 
 ## Project Structure
 
 ```text
 JobTracker
-├── .github/workflows
-│   └── scrape_jobs.yml
-├── data/raw
-│   ├── amazon_jobs.csv
-│   └── apple_jobs.csv
+├── data
+│   ├── profile
+│   │   └── job_matching_profile.txt
+│   └── raw
+│       ├── amazon_jobs.csv
+│       └── apple_jobs.csv
 ├── scrapers
 │   ├── amazon.py
 │   └── apple.py
 ├── src
-│   └── pipeline.py
+│   ├── pipeline.py
+│   └── scoring.py
 ├── main.py
 └── requirements.txt
 ```
 
 ## Tech Stack
 
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-- GitHub Actions
+* Python
+* Pandas
+* Requests
+* BeautifulSoup
+* Sentence Transformers
+* Scikit-learn
+* PyTorch
+* GitHub Actions
 
-## Planned Improvements
+## Future Improvements
 
-- Email or Telegram alerts for matching roles
-- Keyword and location filters
-- Better historical tracking (first seen / last seen dates)
-- Database storage (SQLite/PostgreSQL)
-- Simple dashboard for exploring openings
+* Notification system for highly relevant new openings
+* Additional company integrations
+* Database storage (SQLite/PostgreSQL)
+* Dashboard for exploring opportunities
+* Recommendation feedback loop based on user preferences
 
 ## Status
 
-🚧 Functional MVP.
-
-The current version runs automatically and tracks openings from selected companies. Future iterations will focus on notifications, filtering, and improving data storage.
+Active personal project focused on job discovery, semantic search, and recommendation workflows.
