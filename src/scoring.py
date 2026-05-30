@@ -58,15 +58,13 @@ def add_semantic_scores(jobs):
     similarities = cosine_similarity(job_embeddings, profile_embedding).flatten()
 
     jobs = jobs.copy()
-    if "fit_score" in jobs.columns:
-        jobs = jobs.drop(columns=["fit_score"])
-        
+
+    columns_to_drop = ["fit_score", "relative_fit_score"]
+    jobs = jobs.drop(
+        columns=[c for c in columns_to_drop if c in jobs.columns]
+    )
+
     jobs["semantic_similarity"] = np.round(similarities, 4)
-    jobs["relative_fit_score"] = pd.qcut(
-        jobs["semantic_similarity"].rank(method="first"),
-        q=5,
-        labels=[1, 2, 3, 4, 5]
-    ).astype(int)
 
     return jobs
 
