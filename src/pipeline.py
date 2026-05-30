@@ -1,8 +1,9 @@
 import os
 import pandas as pd
-
+from src.scoring import add_semantic_scores
 from scrapers.apple import scrape_apple
 from scrapers.amazon import scrape_amazon
+
 
 RAW_DATA_DIR = "data/raw"
 
@@ -95,7 +96,7 @@ def save_jobs(current_jobs, output_path):
             .drop(columns=["posted_date_sort"])
         )
 
-
+    jobs = add_semantic_scores(jobs)
     jobs.to_csv(output_path, index=False)
 
     print(f"Found {len(current_jobs)} current jobs")
