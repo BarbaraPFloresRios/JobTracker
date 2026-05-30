@@ -1,11 +1,13 @@
 import re
+from html import unescape
+
 import requests
 import pandas as pd
 
 BASE_URL = "https://www.amazon.jobs"
 SEARCH_URL = "https://www.amazon.jobs/en/search.json"
 
-MAX_PAGES = 5  # Covers latest 50 postings per run
+MAX_PAGES = 5
 RESULTS_PER_PAGE = 10
 
 HEADERS = {
@@ -14,17 +16,32 @@ HEADERS = {
 }
 
 
+def clean_html_text(text):
+    if not text:
+        return None
+
+    text = re.sub(r"<br\s*/?>", "\n", text)
+    text = re.sub(r"<.*?>", "", text)
+    text = unescape(text)
+    text = re.sub(r"\n+", "\n", text)
+
+    return text.strip()
+
+
 def extract_amazon_job_id(job_path):
     match = re.search(r"/jobs/(\d+)", job_path)
     return match.group(1) if match else None
 
 
-def scrape_amazon():
+def format_date(date_value):
+    date = pd.to_datetime(date_value, errors="coerce")
+    return date.strftime("%Y-%m-%d") if pd.notna(date) else None
 
+
+def scrape_amazon():
     jobs = []
 
     for page in range(MAX_PAGES):
-
         offset = page * RESULTS_PER_PAGE
 
         params = {
@@ -37,24 +54,19 @@ def scrape_amazon():
         response = requests.get(
             SEARCH_URL,
             params=params,
-            headers=HEADERS
+            headers=HEADERS,
         )
-
         response.raise_for_status()
 
         data = response.json()
-
         current_jobs = data.get("jobs", [])
 
         if not current_jobs:
             break
 
-        print(
-            f"Amazon page {page + 1}: {len(current_jobs)} jobs"
-        )
+        print(f"Amazon page {page + 1}: {len(current_jobs)} jobs")
 
         for job in current_jobs:
-
             job_path = job.get("job_path")
 
             if not job_path:
@@ -62,31 +74,25 @@ def scrape_amazon():
 
             job_id = extract_amazon_job_id(job_path)
 
-            posted_date_raw = job.get("posted_date")
-
-            posted_date = pd.to_datetime(
-                posted_date_raw,
-                errors="coerce"
-            )
-
-            posted_date = (
-                posted_date.strftime("%Y-%m-%d")
-                if pd.notna(posted_date)
-                else None
-            )
-
             jobs.append({
                 "source": "amazon",
                 "job_id": job_id,
                 "title": job.get("title"),
-                "team": job.get("business_category"),
+                "team": job.get("primary_search_label"),
                 "job_category": job.get("job_category"),
+                "job_family": job.get("job_family"),
                 "location": job.get("location"),
-                "posted_date": posted_date,
-                "description": job.get("description_short"),
+                "city": job.get("city"),
+                "state": job.get("state"),
+                "posted_date": format_date(job.get("posted_date")),
+                "updated_time": job.get("updated_time"),
+                "schedule_type": job.get("job_schedule_type"),
+                "description_short": clean_html_text(job.get("description_short")),
+                "description": clean_html_text(job.get("description")),
+                "basic_qualifications": clean_html_text(job.get("basic_qualifications")),
+                "preferred_qualifications": clean_html_text(job.get("preferred_qualifications")),
                 "url": BASE_URL + job_path,
             })
-
 
     df = pd.DataFrame(jobs)
 
@@ -95,12 +101,12 @@ def scrape_amazon():
 
     df = df.drop_duplicates(
         subset=["job_id"],
-        keep="first"
+        keep="first",
     )
 
     df = df.sort_values(
         "posted_date",
-        ascending=False
+        ascending=False,
     )
 
     return df
