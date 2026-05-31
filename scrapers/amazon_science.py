@@ -1,11 +1,12 @@
 import re
 from html import unescape
 
-import pandas as pd
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.amazon.science/careers"
+
 MAX_PAGES = 10
 
 HEADERS = {
@@ -13,20 +14,52 @@ HEADERS = {
 }
 
 
-def clean_text(text):
+def clean_html_text(text):
     if not text:
         return None
+
     text = unescape(text)
     text = re.sub(r"\s+", " ", text)
+
     return text.strip()
+
+
+def extract_amazon_job_id(job_path):
+    match = re.search(r"/jobs/(\d+)", job_path)
+    return match.group(1) if match else None
+
+def extract_location(text):
+    if not text:
+        return None
+
+    match = re.search(
+        r"\b(US,\s*[A-Z]{2},\s*.+?|IN,\s*[A-Z]{2},\s*.+?|IT,\s*.+?|GB,\s*.+?|IL,\s*.+?)\s+Job ID:",
+        text,
+    )
+
+    if match:
+        return match.group(1).strip()
+
+    match = re.search(
+        r"Job Location:\s*([^\.]+)",
+        text,
+    )
+
+    if match:
+        return match.group(1).strip()
+
+    return None
 
 
 def format_date(text):
     if not text:
         return None
+
     match = re.search(r"Posted ([A-Za-z]+ \d{1,2}, \d{4})", text)
+
     if not match:
         return None
+
     date = pd.to_datetime(match.group(1), errors="coerce")
     return date.strftime("%Y-%m-%d") if pd.notna(date) else None
 
@@ -51,26 +84,34 @@ def scrape_amazon_science():
         print(f"Amazon Science page {page}: {len(job_links)} jobs")
 
         for link in job_links:
-            title = clean_text(link.get_text())
-            url = link.get("href")
+            title = clean_html_text(link.get_text())
+            job_path = link.get("href")
 
-            if not title or not url:
+            if not title or not job_path:
                 continue
 
-            job_id_match = re.search(r"/jobs/(\d+)", url)
-            job_id = job_id_match.group(1) if job_id_match else None
+            job_id = extract_amazon_job_id(job_path)
 
             container = link.find_parent("li")
-            text = clean_text(container.get_text(" ")) if container else ""
+            description_short = (
+                clean_html_text(container.get_text(" "))
+                if container
+                else None
+            )
 
             jobs.append({
-                "source": "amazon_science",
-                "job_id": job_id,
+
                 "title": title,
-                "location": None,
-                "posted_date": format_date(text),
-                "description_short": text,
-                "url": url,
+                "location": extract_location(description_short),
+                "posted_date": format_date(description_short),
+
+                "job_id": job_id,
+                "source": "amazon_science",
+
+                "url": job_path,
+
+                "description_short": description_short,
+
             })
 
     df = pd.DataFrame(jobs)
@@ -78,7 +119,15 @@ def scrape_amazon_science():
     if df.empty:
         return df
 
-    df = df.drop_duplicates(subset=["job_id"], keep="first")
-    df = df.sort_values("posted_date", ascending=False, na_position="last")
+    df = df.drop_duplicates(
+        subset=["job_id"],
+        keep="first",
+    )
+
+    df = df.sort_values(
+        "posted_date",
+        ascending=False,
+        na_position="last",
+    )
 
     return df
