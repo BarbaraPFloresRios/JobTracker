@@ -75,23 +75,29 @@ def scrape_amazon():
             job_id = extract_amazon_job_id(job_path)
 
             jobs.append({
-                "source": "amazon",
-                "job_id": job_id,
+
                 "title": job.get("title"),
                 "team": job.get("primary_search_label"),
-                "job_category": job.get("job_category"),
-                "job_family": job.get("job_family"),
                 "location": job.get("location"),
                 "city": job.get("city"),
                 "state": job.get("state"),
                 "posted_date": format_date(job.get("posted_date")),
-                "updated_time": job.get("updated_time"),
+
+                "job_id": job_id,
+                "source": "amazon",
+
+                "job_category": job.get("job_category"),
+                "job_family": job.get("job_family"),
                 "schedule_type": job.get("job_schedule_type"),
+                "updated_time": job.get("updated_time"),
+
+                "url": BASE_URL + job_path,
+
                 "description_short": clean_html_text(job.get("description_short")),
-                "description": clean_html_text(job.get("description")),
                 "basic_qualifications": clean_html_text(job.get("basic_qualifications")),
                 "preferred_qualifications": clean_html_text(job.get("preferred_qualifications")),
-                "url": BASE_URL + job_path,
+                "description": clean_html_text(job.get("description")),
+
             })
 
     df = pd.DataFrame(jobs)
