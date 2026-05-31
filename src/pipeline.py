@@ -137,6 +137,20 @@ def save_jobs(current_jobs, output_path):
 
     print(f"Found {len(current_jobs)} current jobs")
     print(f"Found {len(new_jobs)} truly new jobs")
+
+    if len(new_jobs) > 0:
+        print("New jobs:")
+        for _, job in new_jobs.iterrows():
+            title = job.get("title", "No title")
+            location = job.get("location", "")
+            url = job.get("url", "")
+
+            print(f"- {title}")
+            if location:
+                print(f"  Location: {location}")
+            if url:
+                print(f"  URL: {url}")
+
     print(f"Saved {len(jobs)} total jobs to {output_path}")
 
     return new_jobs
