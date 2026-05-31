@@ -4,13 +4,14 @@ from src.scoring import add_semantic_scores
 from scrapers.apple import scrape_apple
 from scrapers.amazon import scrape_amazon
 from scrapers.amazon_science import scrape_amazon_science
-
+from scrapers.nvidia import scrape_nvidia
 
 RAW_DATA_DIR = "data/raw"
 
 APPLE_OUTPUT_PATH = f"{RAW_DATA_DIR}/apple_jobs.csv"
 AMAZON_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_jobs.csv"
 AMAZON_SCIENCE_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_science_jobs.csv"
+NVIDIA_OUTPUT_PATH = f"{RAW_DATA_DIR}/nvidia_jobs.csv"
 
 def normalize_key(series):
     return (
@@ -163,8 +164,10 @@ def run_pipeline():
     apple_jobs = scrape_apple()
     amazon_jobs = scrape_amazon()
     amazon_science_jobs = scrape_amazon_science()
+    nvidia_jobs = scrape_nvidia()
 
 
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH)
     save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH)
     save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH)
+    save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH)
