@@ -99,6 +99,40 @@ def save_jobs(current_jobs, output_path):
         )
 
     jobs = add_semantic_scores(jobs)
+
+    preferred_order = [
+        "title",
+        "team",
+        "location",
+        "city",
+        "state",
+        "posted_date",
+
+        "job_id",
+        "source",
+
+        "first_seen_date",
+        "last_seen_date",
+        "semantic_similarity",
+
+        "job_category",
+        "job_family",
+        "schedule_type",
+        "updated_time",
+
+        "url",
+
+        "description_short",
+        "basic_qualifications",
+        "preferred_qualifications",
+        "description",
+    ]
+
+    existing_cols = [c for c in preferred_order if c in jobs.columns]
+    remaining_cols = [c for c in jobs.columns if c not in preferred_order]
+
+    jobs = jobs[existing_cols + remaining_cols]
+
     jobs.to_csv(output_path, index=False)
 
     print(f"Found {len(current_jobs)} current jobs")
