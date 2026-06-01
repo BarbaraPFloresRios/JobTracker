@@ -5,6 +5,7 @@ from scrapers.apple import scrape_apple
 from scrapers.amazon import scrape_amazon
 from scrapers.amazon_science import scrape_amazon_science
 from scrapers.nvidia import scrape_nvidia
+from scrapers.microsoft import scrape_microsoft
 
 RAW_DATA_DIR = "data/raw"
 
@@ -12,6 +13,7 @@ APPLE_OUTPUT_PATH = f"{RAW_DATA_DIR}/apple_jobs.csv"
 AMAZON_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_jobs.csv"
 AMAZON_SCIENCE_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_science_jobs.csv"
 NVIDIA_OUTPUT_PATH = f"{RAW_DATA_DIR}/nvidia_jobs.csv"
+MICROSOFT_OUTPUT_PATH = f"{RAW_DATA_DIR}/microsoft_jobs.csv"
 
 def normalize_key(series):
     return (
@@ -35,6 +37,13 @@ def save_jobs(current_jobs, output_path):
 
     if os.path.exists(output_path):
         old_jobs = pd.read_csv(output_path)
+
+        if "position_id" in old_jobs.columns:
+            old_jobs["position_id"] = (
+                old_jobs["position_id"]
+                .astype(str)
+                .str.replace(r"\.0$", "", regex=True)
+            )
 
         # Support old CSV versions before job_id existed
         if dedupe_key in old_jobs.columns:
@@ -134,25 +143,32 @@ def save_jobs(current_jobs, output_path):
 
     jobs = jobs[existing_cols + remaining_cols]
 
+    if "position_id" in jobs.columns:
+        jobs["position_id"] = (
+            jobs["position_id"]
+            .astype(str)
+            .str.replace(r"\.0$", "", regex=True)
+        )
+
     jobs.to_csv(output_path, index=False)
 
-    print(f"Found {len(current_jobs)} current jobs")
+    print(f"\nFound {len(current_jobs)} current jobs")
     print(f"Found {len(new_jobs)} truly new jobs")
 
     if len(new_jobs) > 0:
-        print("New jobs:")
+        print("\nNew jobs:")
+
         for _, job in new_jobs.iterrows():
             title = job.get("title", "No title")
-            location = job.get("location", "")
             url = job.get("url", "")
 
-            print(f"- {title}")
-            if location:
-                print(f"  Location: {location}")
-            if url:
-                print(f"  URL: {url}")
+            print(f"\n- {title}")
 
-    print(f"Saved {len(jobs)} total jobs to {output_path}")
+            if url:
+                print(f"  {url}")
+
+    print(f"\nSaved {len(jobs)} total jobs to {output_path}")
+    print("-" * 80)
 
     return new_jobs
 
@@ -165,9 +181,11 @@ def run_pipeline():
     amazon_jobs = scrape_amazon()
     amazon_science_jobs = scrape_amazon_science()
     nvidia_jobs = scrape_nvidia()
+    microsoft_jobs = scrape_microsoft()
 
 
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH)
     save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH)
     save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH)
     save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH)
+    save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH)
