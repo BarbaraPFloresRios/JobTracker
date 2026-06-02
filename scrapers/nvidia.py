@@ -140,7 +140,7 @@ def scrape_nvidia():
 
                 "url": detail.get("externalUrl") or BASE_URL + external_path,
 
-                "description_short": job.get("postedOn"),
+                "description_short": None,
                 "description": clean_html_text(detail.get("jobDescription")),
             })
 

@@ -12,6 +12,8 @@ DETAIL_URL = f"{BASE_URL}/api/pcsx/position_details"
 
 MAX_PAGES = 2
 RESULTS_PER_PAGE = 10
+SLEEP_SECONDS = 5
+MAX_RETRIES = 3
 
 HEADERS = {
     "Accept": "application/json",
@@ -51,16 +53,24 @@ def fetch_microsoft_job_detail(position_id):
         "hl": "en",
     }
 
-    response = requests.get(
-        DETAIL_URL,
-        params=params,
-        headers=HEADERS,
-    )
-    response.raise_for_status()
+    for attempt in range(MAX_RETRIES):
+        response = requests.get(
+            DETAIL_URL,
+            params=params,
+            headers=HEADERS,
+        )
 
-    data = response.json()
+        if response.status_code == 429:
+            wait = SLEEP_SECONDS * (2 ** attempt)
+            print(f"Rate limited, waiting {wait}s before retry...")
+            time.sleep(wait)
+            continue
 
-    return data.get("data", {})
+        response.raise_for_status()
+        return response.json().get("data", {})
+
+    print(f"Microsoft detail failed after {MAX_RETRIES} retries for {position_id}")
+    return {}
 
 
 def scrape_microsoft():
@@ -99,16 +109,13 @@ def scrape_microsoft():
 
             try:
                 detail = fetch_microsoft_job_detail(position_id)
-                time.sleep(3)
-
             except requests.exceptions.RequestException as e:
                 print(f"Microsoft detail failed for {position_id}: {e}")
                 detail = {}
-                time.sleep(3)
-
+            finally:
+                time.sleep(SLEEP_SECONDS)
 
             jobs.append({
-
                 "title": detail.get("name") or job.get("name"),
                 "team": detail.get("department") or job.get("department"),
                 "location": join_list(detail.get("locations") or job.get("locations")),
@@ -129,7 +136,6 @@ def scrape_microsoft():
 
                 "description_short": clean_html_text(job.get("name")),
                 "description": clean_html_text(detail.get("jobDescription")),
-
             })
 
     df = pd.DataFrame(jobs)
