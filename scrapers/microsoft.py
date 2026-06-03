@@ -14,6 +14,7 @@ MAX_PAGES = 2
 RESULTS_PER_PAGE = 10
 SLEEP_SECONDS = 5
 MAX_RETRIES = 3
+REQUEST_TIMEOUT = 30  # seconds
 
 HEADERS = {
     "Accept": "application/json",
@@ -24,13 +25,11 @@ HEADERS = {
 def clean_html_text(text):
     if not text:
         return None
-
     text = re.sub(r"<br\s*/?>", "\n", text)
     text = re.sub(r"<.*?>", "", text)
     text = unescape(text)
     text = re.sub(r"\n+", "\n", text)
     text = re.sub(r"[ \t]+", " ", text)
-
     return text.strip()
 
 
@@ -42,8 +41,35 @@ def format_date(timestamp):
 def join_list(values):
     if not values:
         return None
-
     return "; ".join(values)
+
+
+def fetch_with_retry(url, params):
+    """GET request with timeout, retry, and exponential back-off on 429."""
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(
+                url,
+                params=params,
+                headers=HEADERS,
+                timeout=REQUEST_TIMEOUT,
+            )
+        except requests.exceptions.Timeout:
+            wait = SLEEP_SECONDS * (2 ** attempt)
+            print(f"Timeout on attempt {attempt + 1}, retrying in {wait}s…")
+            time.sleep(wait)
+            continue
+
+        if response.status_code == 429:
+            wait = SLEEP_SECONDS * (2 ** attempt)
+            print(f"Rate limited, waiting {wait}s before retry…")
+            time.sleep(wait)
+            continue
+
+        response.raise_for_status()
+        return response
+
+    return None  # all retries exhausted
 
 
 def fetch_microsoft_job_detail(position_id):
@@ -52,25 +78,11 @@ def fetch_microsoft_job_detail(position_id):
         "domain": "microsoft.com",
         "hl": "en",
     }
-
-    for attempt in range(MAX_RETRIES):
-        response = requests.get(
-            DETAIL_URL,
-            params=params,
-            headers=HEADERS,
-        )
-
-        if response.status_code == 429:
-            wait = SLEEP_SECONDS * (2 ** attempt)
-            print(f"Rate limited, waiting {wait}s before retry...")
-            time.sleep(wait)
-            continue
-
-        response.raise_for_status()
-        return response.json().get("data", {})
-
-    print(f"Microsoft detail failed after {MAX_RETRIES} retries for {position_id}")
-    return {}
+    response = fetch_with_retry(DETAIL_URL, params)
+    if response is None:
+        print(f"Microsoft detail failed after {MAX_RETRIES} retries for {position_id}")
+        return {}
+    return response.json().get("data", {})
 
 
 def scrape_microsoft():
@@ -86,12 +98,10 @@ def scrape_microsoft():
             "start": start,
         }
 
-        response = requests.get(
-            SEARCH_URL,
-            params=params,
-            headers=HEADERS,
-        )
-        response.raise_for_status()
+        response = fetch_with_retry(SEARCH_URL, params)
+        if response is None:
+            print(f"Microsoft search failed on page {page + 1}, stopping.")
+            break
 
         data = response.json()
         current_jobs = data.get("data", {}).get("positions", [])
@@ -103,7 +113,6 @@ def scrape_microsoft():
 
         for job in current_jobs:
             position_id = job.get("id")
-
             if not position_id:
                 continue
 
@@ -120,20 +129,16 @@ def scrape_microsoft():
                 "team": detail.get("department") or job.get("department"),
                 "location": join_list(detail.get("locations") or job.get("locations")),
                 "posted_date": format_date(detail.get("postedTs") or job.get("postedTs")),
-
                 "job_id": detail.get("displayJobId") or job.get("displayJobId"),
                 "position_id": position_id,
                 "source": "microsoft",
-
                 "job_category": join_list(detail.get("efcustomTextCurrentProfession")),
                 "job_family": join_list(detail.get("efcustomTextTaDisciplineName")),
                 "schedule_type": join_list(detail.get("efcustomTextEmploymentType")),
                 "work_location_option": detail.get("workLocationOption"),
                 "role_type": join_list(detail.get("efcustomTextRoletype")),
                 "required_travel": join_list(detail.get("efcustomTextRequiredTravel")),
-
                 "url": detail.get("publicUrl") or BASE_URL + job.get("positionUrl", ""),
-
                 "description_short": clean_html_text(job.get("name")),
                 "description": clean_html_text(detail.get("jobDescription")),
             })
@@ -143,15 +148,7 @@ def scrape_microsoft():
     if df.empty:
         return df
 
-    df = df.drop_duplicates(
-        subset=["job_id"],
-        keep="first",
-    )
-
-    df = df.sort_values(
-        "posted_date",
-        ascending=False,
-        na_position="last",
-    )
+    df = df.drop_duplicates(subset=["job_id"], keep="first")
+    df = df.sort_values("posted_date", ascending=False, na_position="last")
 
     return df
