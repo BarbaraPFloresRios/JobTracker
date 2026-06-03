@@ -7,6 +7,8 @@ from scrapers.amazon_science import scrape_amazon_science
 from scrapers.nvidia import scrape_nvidia
 from scrapers.microsoft import scrape_microsoft
 from scrapers.netflix import scrape_netflix
+from scrapers.meta import scrape_meta
+
 
 RAW_DATA_DIR = "data/raw"
 
@@ -16,6 +18,8 @@ AMAZON_SCIENCE_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_science_jobs.csv"
 NVIDIA_OUTPUT_PATH = f"{RAW_DATA_DIR}/nvidia_jobs.csv"
 MICROSOFT_OUTPUT_PATH = f"{RAW_DATA_DIR}/microsoft_jobs.csv"
 NETFLIX_OUTPUT_PATH = f"{RAW_DATA_DIR}/netflix_jobs.csv"
+META_OUTPUT_PATH = f"{RAW_DATA_DIR}/meta_jobs.csv"
+
 
 def normalize_key(series):
     return (
@@ -185,7 +189,7 @@ def run_pipeline():
     nvidia_jobs = scrape_nvidia()
     microsoft_jobs = scrape_microsoft()
     netflix_jobs = scrape_netflix()
-
+    meta_jobs = scrape_meta()
 
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH)
     save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH)
@@ -193,3 +197,4 @@ def run_pipeline():
     save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH)
     save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH)
     save_jobs(netflix_jobs, NETFLIX_OUTPUT_PATH)
+    save_jobs(meta_jobs, META_OUTPUT_PATH)
