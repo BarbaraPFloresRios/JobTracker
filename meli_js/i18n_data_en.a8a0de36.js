@@ -1,1 +1,0 @@
-(window.i18nData ??= {})["en"] = Object.assign((window.i18nData["en"] ??= {}), {"": {"plural-forms": "nplurals=2; plural=n>1;", "language": "en"}});
