@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from scrapers.mercadolibre import scrape_mercadolibre
 from src.scoring import add_semantic_scores
 from scrapers.apple import scrape_apple
 from scrapers.amazon import scrape_amazon
@@ -15,6 +16,7 @@ from scrapers.openai import scrape_openai
 
 RAW_DATA_DIR = "data/raw"
 
+MERCADOLIBRE_OUTPUT_PATH = f"{RAW_DATA_DIR}/mercadolibre_jobs.csv"
 APPLE_OUTPUT_PATH = f"{RAW_DATA_DIR}/apple_jobs.csv"
 AMAZON_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_jobs.csv"
 AMAZON_SCIENCE_OUTPUT_PATH = f"{RAW_DATA_DIR}/amazon_science_jobs.csv"
@@ -191,6 +193,7 @@ def run_pipeline():
 
     os.makedirs(RAW_DATA_DIR, exist_ok=True)
 
+    mercadolibre_jobs = scrape_mercadolibre()
     apple_jobs = scrape_apple()
     amazon_jobs = scrape_amazon()
     amazon_science_jobs = scrape_amazon_science()
@@ -201,7 +204,8 @@ def run_pipeline():
     duolingo_jobs = scrape_duolingo()
     spotify_jobs = scrape_spotify()
     openai_jobs = scrape_openai()
-
+    
+    save_jobs(mercadolibre_jobs, MERCADOLIBRE_OUTPUT_PATH, "MercadoLibre")
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH, "Apple")
     save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH, "Amazon")
     save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH, "Amazon Science")
@@ -212,3 +216,5 @@ def run_pipeline():
     save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH, "Duolingo")
     save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH, "Spotify")
     save_jobs(openai_jobs, OPENAI_OUTPUT_PATH, "OpenAI")
+    
+

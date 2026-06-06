@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.amazon.science/careers"
 
-MAX_PAGES = 10
+MAX_PAGES = 5
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
