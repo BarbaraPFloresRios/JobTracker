@@ -34,6 +34,14 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add data/raw/*.csv
-          git diff --cached --quiet || git commit -m "Update jobs data"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update jobs data"
+            git push
+          fi
+
+
