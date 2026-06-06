@@ -8,6 +8,8 @@ from scrapers.nvidia import scrape_nvidia
 from scrapers.microsoft import scrape_microsoft
 from scrapers.netflix import scrape_netflix
 from scrapers.meta import scrape_meta
+from scrapers.duolingo import scrape_duolingo
+from scrapers.spotify import scrape_spotify
 
 
 RAW_DATA_DIR = "data/raw"
@@ -19,6 +21,8 @@ NVIDIA_OUTPUT_PATH = f"{RAW_DATA_DIR}/nvidia_jobs.csv"
 MICROSOFT_OUTPUT_PATH = f"{RAW_DATA_DIR}/microsoft_jobs.csv"
 NETFLIX_OUTPUT_PATH = f"{RAW_DATA_DIR}/netflix_jobs.csv"
 META_OUTPUT_PATH = f"{RAW_DATA_DIR}/meta_jobs.csv"
+DUOLINGO_OUTPUT_PATH = f"{RAW_DATA_DIR}/duolingo_jobs.csv"
+SPOTIFY_OUTPUT_PATH = f"{RAW_DATA_DIR}/spotify_jobs.csv"
 
 
 def normalize_key(series):
@@ -190,6 +194,8 @@ def run_pipeline():
     microsoft_jobs = scrape_microsoft()
     netflix_jobs = scrape_netflix()
     meta_jobs = scrape_meta()
+    duolingo_jobs = scrape_duolingo()
+    spotify_jobs = scrape_spotify()
 
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH)
     save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH)
@@ -198,3 +204,5 @@ def run_pipeline():
     save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH)
     save_jobs(netflix_jobs, NETFLIX_OUTPUT_PATH)
     save_jobs(meta_jobs, META_OUTPUT_PATH)
+    save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH)
+    save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH)
