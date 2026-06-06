@@ -10,6 +10,7 @@ from scrapers.netflix import scrape_netflix
 from scrapers.meta import scrape_meta
 from scrapers.duolingo import scrape_duolingo
 from scrapers.spotify import scrape_spotify
+from scrapers.openai import scrape_openai
 
 
 RAW_DATA_DIR = "data/raw"
@@ -23,6 +24,7 @@ NETFLIX_OUTPUT_PATH = f"{RAW_DATA_DIR}/netflix_jobs.csv"
 META_OUTPUT_PATH = f"{RAW_DATA_DIR}/meta_jobs.csv"
 DUOLINGO_OUTPUT_PATH = f"{RAW_DATA_DIR}/duolingo_jobs.csv"
 SPOTIFY_OUTPUT_PATH = f"{RAW_DATA_DIR}/spotify_jobs.csv"
+OPENAI_OUTPUT_PATH = f"{RAW_DATA_DIR}/openai_jobs.csv"
 
 
 def normalize_key(series):
@@ -34,7 +36,12 @@ def normalize_key(series):
     )
 
 
-def save_jobs(current_jobs, output_path):
+def save_jobs(current_jobs, output_path, company=""):
+
+    width = 80
+    print(f"\n{'═' * width}")
+    print(f"  {company.upper()}")
+    print(f"{'═' * width}")
 
     today = pd.Timestamp.today().strftime("%Y-%m-%d")
 
@@ -55,7 +62,6 @@ def save_jobs(current_jobs, output_path):
                 .str.replace(r"\.0$", "", regex=True)
             )
 
-        # Support old CSV versions before job_id existed
         if dedupe_key in old_jobs.columns:
             old_jobs[dedupe_key] = normalize_key(old_jobs[dedupe_key])
         else:
@@ -101,7 +107,6 @@ def save_jobs(current_jobs, output_path):
         current_jobs["first_seen_date"] = today
         new_jobs = current_jobs
         jobs = current_jobs
-
 
     if "posted_date" in jobs.columns:
         jobs["posted_date_sort"] = pd.to_datetime(
@@ -178,7 +183,6 @@ def save_jobs(current_jobs, output_path):
                 print(f"  {url}")
 
     print(f"\nSaved {len(jobs)} total jobs to {output_path}")
-    print("-" * 80)
 
     return new_jobs
 
@@ -196,13 +200,15 @@ def run_pipeline():
     meta_jobs = scrape_meta()
     duolingo_jobs = scrape_duolingo()
     spotify_jobs = scrape_spotify()
+    openai_jobs = scrape_openai()
 
-    save_jobs(apple_jobs, APPLE_OUTPUT_PATH)
-    save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH)
-    save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH)
-    save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH)
-    save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH)
-    save_jobs(netflix_jobs, NETFLIX_OUTPUT_PATH)
-    save_jobs(meta_jobs, META_OUTPUT_PATH)
-    save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH)
-    save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH)
+    save_jobs(apple_jobs, APPLE_OUTPUT_PATH, "Apple")
+    save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH, "Amazon")
+    save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH, "Amazon Science")
+    save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH, "NVIDIA")
+    save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH, "Microsoft")
+    save_jobs(netflix_jobs, NETFLIX_OUTPUT_PATH, "Netflix")
+    save_jobs(meta_jobs, META_OUTPUT_PATH, "Meta")
+    save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH, "Duolingo")
+    save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH, "Spotify")
+    save_jobs(openai_jobs, OPENAI_OUTPUT_PATH, "OpenAI")
