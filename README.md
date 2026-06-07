@@ -36,7 +36,6 @@ GitHub Actions (scheduled)
           |
           v
    Company Scrapers
-   (Apple, Amazon)
           |
           v
    Processing Pipeline
