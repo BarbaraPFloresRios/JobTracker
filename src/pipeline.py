@@ -12,7 +12,7 @@ from scrapers.meta import scrape_meta
 from scrapers.duolingo import scrape_duolingo
 from scrapers.spotify import scrape_spotify
 from scrapers.openai import scrape_openai
-
+from scrapers.reddit import scrape_reddit
 
 RAW_DATA_DIR = "data/raw"
 
@@ -27,6 +27,7 @@ META_OUTPUT_PATH = f"{RAW_DATA_DIR}/meta_jobs.csv"
 DUOLINGO_OUTPUT_PATH = f"{RAW_DATA_DIR}/duolingo_jobs.csv"
 SPOTIFY_OUTPUT_PATH = f"{RAW_DATA_DIR}/spotify_jobs.csv"
 OPENAI_OUTPUT_PATH = f"{RAW_DATA_DIR}/openai_jobs.csv"
+REDDIT_OUTPUT_PATH = f"{RAW_DATA_DIR}/reddit_jobs.csv"
 
 
 def normalize_key(series):
@@ -136,15 +137,35 @@ def save_jobs(current_jobs, output_path, company=""):
         "posted_date",
 
         "job_id",
+        "internal_job_id",
+        "requisition_id",
+        "position_id",
         "source",
 
         "first_seen_date",
         "last_seen_date",
         "semantic_similarity",
 
+        "management_level",
+        "job_profile",
         "job_category",
         "job_family",
+
+        "worker_type",
+        "worker_sub_type",
         "schedule_type",
+        "time_type",
+        "pay_rate_type",
+        "scheduled_weekly_hours",
+
+        "company_name",
+        "cost_center",
+        "office",
+
+        "recruiting_start_date",
+        "target_hire_date",
+        "target_hire_end_date",
+        "application_deadline",
         "updated_time",
 
         "url",
@@ -204,6 +225,7 @@ def run_pipeline():
     duolingo_jobs = scrape_duolingo()
     spotify_jobs = scrape_spotify()
     openai_jobs = scrape_openai()
+    reddit_jobs = scrape_reddit()
     
     save_jobs(mercadolibre_jobs, MERCADOLIBRE_OUTPUT_PATH, "MercadoLibre")
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH, "Apple")
@@ -216,5 +238,6 @@ def run_pipeline():
     save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH, "Duolingo")
     save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH, "Spotify")
     save_jobs(openai_jobs, OPENAI_OUTPUT_PATH, "OpenAI")
+    save_jobs(reddit_jobs, REDDIT_OUTPUT_PATH, "Reddit")
     
 
