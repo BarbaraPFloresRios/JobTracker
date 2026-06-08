@@ -13,6 +13,7 @@ from scrapers.duolingo import scrape_duolingo
 from scrapers.spotify import scrape_spotify
 from scrapers.openai import scrape_openai
 from scrapers.reddit import scrape_reddit
+from scrapers.discord import scrape_discord
 
 RAW_DATA_DIR = "data/raw"
 
@@ -28,6 +29,7 @@ DUOLINGO_OUTPUT_PATH = f"{RAW_DATA_DIR}/duolingo_jobs.csv"
 SPOTIFY_OUTPUT_PATH = f"{RAW_DATA_DIR}/spotify_jobs.csv"
 OPENAI_OUTPUT_PATH = f"{RAW_DATA_DIR}/openai_jobs.csv"
 REDDIT_OUTPUT_PATH = f"{RAW_DATA_DIR}/reddit_jobs.csv"
+DISCORD_OUTPUT_PATH = f"{RAW_DATA_DIR}/discord_jobs.csv"
 
 
 def normalize_key(series):
@@ -159,6 +161,7 @@ def save_jobs(current_jobs, output_path, company=""):
         "scheduled_weekly_hours",
 
         "company_name",
+        "education",
         "cost_center",
         "office",
 
@@ -226,6 +229,7 @@ def run_pipeline():
     spotify_jobs = scrape_spotify()
     openai_jobs = scrape_openai()
     reddit_jobs = scrape_reddit()
+    discord_jobs = scrape_discord()
     
     save_jobs(mercadolibre_jobs, MERCADOLIBRE_OUTPUT_PATH, "MercadoLibre")
     save_jobs(apple_jobs, APPLE_OUTPUT_PATH, "Apple")
@@ -239,5 +243,6 @@ def run_pipeline():
     save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH, "Spotify")
     save_jobs(openai_jobs, OPENAI_OUTPUT_PATH, "OpenAI")
     save_jobs(reddit_jobs, REDDIT_OUTPUT_PATH, "Reddit")
+    save_jobs(discord_jobs, DISCORD_OUTPUT_PATH, "Discord")
     
 
