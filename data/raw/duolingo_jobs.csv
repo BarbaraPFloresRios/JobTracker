@@ -1,34 +1,73 @@
 title,team,location,posted_date,job_id,requisition_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description,updated_date,division,req_type
-Senior AI Engineering Manager ,AI + Machine Learning Engineering,"Pittsburgh, PA",2026-06-09,8583866002,R-01158,duolingo,2026-06-09,2026-06-09,0.4037,"New York, NY",https://careers.duolingo.com/jobs/8583866002?gh_jid=8583866002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Senior Software Engineer, Backend",Software Engineering,"New York, NY",2026-06-09,8583977002,R-01159,duolingo,2026-06-09,2026-06-09,0.3498,"New York, NY",https://careers.duolingo.com/jobs/8583977002?gh_jid=8583977002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
-<p style=""text-align: left;""><strong>About the role...</strong></p>
-<p style=""text-align: left;"">We are looking for an experienced AI Research Engineering Manager to join our Duolingo Language Learning team. The ideal candidate will have a proven track record leading multidisciplinary teams, including AI research engineers. They will have extensive experience across various machine learning techniques, including large language models, personalization, recommender systems, and experimentation. They will be comfortable working at all levels of the ML stack, including feature engineering, developing training data, fine-tuning, reinforcement learning, quality evaluations, deployment, and monitoring. On the Language Learning team, we’re building the AI systems that support the core learning features of Duolingo, improving the learning experience and helping our learners build healthy, productive habits. Given the broad set of AI domains, broad experience in AI/ML is highly desirable.</p>
+<h4><strong>Below you can find more information about the team we're hiring for:</strong></h4>
+<p><strong>Observability Team:</strong></p>
+<p>The Observability team builds infrastructure and tools that give engineers confidence and clarity at Duolingo scale. We create monitoring, alerting, and debugging experiences that help teams ship faster and respond to incidents effectively. In this team, you'll build instrumentation frameworks, deploy telemetry infrastructure, design dashboards, and connect signals to catch issues before they impact learners. We're looking for engineers passionate about developer experience and reliability.</p>
 <p style=""text-align: left;"">&nbsp;</p>
 <p><strong>🧠&nbsp; You will...</strong></p>
 <ul>
-<li>Manage a full-stack team of frontend, backend, and other AI Research engineers, fostering a collaborative and innovative work environment.</li>
-<li>Contribute to the development and training of a variety of machine learning models, including large-scale neural networks.</li>
-<li>Collaborate with cross-functional teams to understand their needs, to align the models’ outputs with company objectives.</li>
-<li>Participate in and help drive strategic product and business decision-making as a member of the Language Learning leadership group.&nbsp;</li>
-<li>Attract, grow, and retain diverse engineering talent; provide clear expectations, coaching, and career development, and build a healthy, inclusive team culture.</li>
-<li>Stay up-to-date with the latest developments in machine learning and apply this knowledge to drive advancements in our projects.</li>
-<li>Mentor team members, providing guidance and support in their professional development.</li>
-<li>Ensure the delivery of high-quality, scalable, and efficient machine learning solutions.</li>
+<li>Collaborate on software projects with product design and backend aspects</li>
+<li>Develop, release, and maintain backend services and/or infrastructure</li>
+<li>Lead individual project priorities, milestones, and ensure we're always shipping</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>✅&nbsp; You have...</strong></p>
 <ul>
-<li>Experience leading, managing, and building a team of software engineers, with demonstrated ability to hire, develop, and retain talent.</li>
-<li>Proven experience as an AI research engineer, for example, in LLMs, bandits, computer vision, or related fields.</li>
-<li>Strong background in training and fine-tuning large models in an applied setting.</li>
-<li>Advanced degree in Computer Science, Engineering, or a related field with a focus on machine learning or artificial intelligence, or equivalent experience.</li>
-<li>Excellent communication and stakeholder management skills across engineering, product, design, and data; clear written specs and status updates.</li>
-<li>Technical depth sufficient to guide architecture and implementation trade‑offs, evolve quality standards, and mentor engineers on best practices.</li>
-<li>Deep understanding of machine learning concepts, frameworks, and best practices.</li>
+<li>A Bachelor’s degree in Computer Science or a related technical field</li>
+<li>Strong competencies in data structures, algorithms, and software design</li>
+<li>Experience programming in Java, Python, or Kotlin</li>
+<li>Solid understanding of one or more database technologies</li>
 </ul>
-<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$220,800</span><span class=""divider"">&mdash;</span><span>$331,200 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p style=""text-align: center;"">&nbsp;</p>
+<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
+<ul>
+<li>Industry experience building high-traffic APIs using public cloud providers</li>
+<li>Experience with industry observability technology, such as OpenTelemetry, Grafana, Prometheus, or DataDog.</li>
+</ul>
+<p>&nbsp;</p>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$182,800</span><span class=""divider"">&mdash;</span><span>$247,300 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-09,Engineering,Industry
+"Senior Director of Engineering, New Subjects",Software Engineering,"New York, NY",2026-06-09,8584465002,R-01160,duolingo,2026-06-09,2026-06-09,0.3466,"New York, NY",https://careers.duolingo.com/jobs/8584465002?gh_jid=8584465002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<p style=""text-align: left;""><strong>About the role...</strong></p>
+<p>Over the last few years, Duolingo has expanded beyond language learning into entirely new subjects: Math, Music, and Chess. These products reach millions of daily active users, are growing quickly, and represent a CEO-level bet that Duolingo can become a platform for learning anything.</p>
+<p>We're looking for a Senior Director of Engineering to co- lead the New Subjects pillar, responsible for building and scaling products ranging from early stages through to some of the company’s fastest-growing initiatives.</p>
+<p>This is a role for a builder. You'll make decisions about which subjects to invest in, how to allocate engineering resources across bets at different stages, where to continue investing and where to pivot.&nbsp;</p>
+<p>You’ll partner closely with Product and Design to shape the future of the pillar while building the organization that delivers it.</p>
+<p>This role is based in our New York, NY office on a hybrid (4+1) work schedule.</p>
+<p>&nbsp;</p>
+<p><strong>🧠&nbsp; You will...</strong></p>
+<ul>
+<li>Drive the product and technical strategy across <strong>Math, Music, and Chess</strong>, balancing short-term product impact with long-term strategic goals.</li>
+<li>Partner strategically with <strong>Product, Design, Learning and AI</strong> to evolve our strategy, including decisions on when and how to expand to additional subjects.</li>
+<li>Lead multiple engineering directors and their teams as they tackle some of the most interesting technical challenges in industry: AI-based content creation and tutoring at scale, neural bots, and Unity-based gameplay.</li>
+<li>Drive <strong>operational excellence across Duolingo’s engineering org</strong>, including reliability, performance, developer productivity, and efficient execution at scale.</li>
+<li>Contribute to Duolingo’s <strong>engineering hiring bar and talent systems</strong>, playing a central role in hiring decisions, leveling, and organizational design to maintain a high-performance, high-density team.</li>
+<li>Lead an organization that moves quickly, runs high-quality experiments, and translates product insights into measurable business impact.</li>
+<li>Build and develop a strong leadership bench capable of bringing ambitious new products to market.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>✅&nbsp; You have...</strong></p>
+<ul>
+<li>Experience leading <strong>large-scale consumer product engineering organizations</strong> (100+ engineers), ideally across multiple high-growth product experiences.</li>
+<li>Product instincts and experience partnering closely with senior product leadership to define strategy, not just execute against it.</li>
+<li>A track record of driving <strong>measurable impact on business outcomes</strong>, including growing early product development through significant company scale.</li>
+<li>Experience building or scaling LLM-powered product features, with a strong interest in building engineering cultures that embrace AI-first ways of working.</li>
+<li>Deep experience building and scaling <strong>high-velocity, experiment-driven product organizations</strong>, leading through multiple layers of leadership (senior directors, directors, EMs).</li>
+<li>A track record of building high-performance, inclusive teams and making thoughtful, high-judgment talent decisions.</li>
+<li>Ability to influence senior executives and <strong>drive clarity in ambiguous, cross-functional situations</strong>.</li>
+<li>Ability to work from our New York, NY office on a 4+1 hybrid work schedule.</li>
+</ul>
+<p>&nbsp;</p><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$296,000</span><span class=""divider"">&mdash;</span><span>$444,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
 <p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
 <p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
@@ -64,6 +103,76 @@ Senior AI Engineering Manager ,AI + Machine Learning Engineering,"New York, NY",
 <li>Deep understanding of machine learning concepts, frameworks, and best practices.</li>
 </ul>
 <hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$220,800</span><span class=""divider"">&mdash;</span><span>$331,200 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-09,Engineering,Industry
+Senior AI Engineering Manager ,AI + Machine Learning Engineering,"Pittsburgh, PA",2026-06-09,8583866002,R-01158,duolingo,2026-06-09,2026-06-09,0.4037,"New York, NY",https://careers.duolingo.com/jobs/8583866002?gh_jid=8583866002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<p style=""text-align: left;""><strong>About the role...</strong></p>
+<p style=""text-align: left;"">We are looking for an experienced AI Research Engineering Manager to join our Duolingo Language Learning team. The ideal candidate will have a proven track record leading multidisciplinary teams, including AI research engineers. They will have extensive experience across various machine learning techniques, including large language models, personalization, recommender systems, and experimentation. They will be comfortable working at all levels of the ML stack, including feature engineering, developing training data, fine-tuning, reinforcement learning, quality evaluations, deployment, and monitoring. On the Language Learning team, we’re building the AI systems that support the core learning features of Duolingo, improving the learning experience and helping our learners build healthy, productive habits. Given the broad set of AI domains, broad experience in AI/ML is highly desirable.</p>
+<p style=""text-align: left;"">&nbsp;</p>
+<p><strong>🧠&nbsp; You will...</strong></p>
+<ul>
+<li>Manage a full-stack team of frontend, backend, and other AI Research engineers, fostering a collaborative and innovative work environment.</li>
+<li>Contribute to the development and training of a variety of machine learning models, including large-scale neural networks.</li>
+<li>Collaborate with cross-functional teams to understand their needs, to align the models’ outputs with company objectives.</li>
+<li>Participate in and help drive strategic product and business decision-making as a member of the Language Learning leadership group.&nbsp;</li>
+<li>Attract, grow, and retain diverse engineering talent; provide clear expectations, coaching, and career development, and build a healthy, inclusive team culture.</li>
+<li>Stay up-to-date with the latest developments in machine learning and apply this knowledge to drive advancements in our projects.</li>
+<li>Mentor team members, providing guidance and support in their professional development.</li>
+<li>Ensure the delivery of high-quality, scalable, and efficient machine learning solutions.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>✅&nbsp; You have...</strong></p>
+<ul>
+<li>Experience leading, managing, and building a team of software engineers, with demonstrated ability to hire, develop, and retain talent.</li>
+<li>Proven experience as an AI research engineer, for example, in LLMs, bandits, computer vision, or related fields.</li>
+<li>Strong background in training and fine-tuning large models in an applied setting.</li>
+<li>Advanced degree in Computer Science, Engineering, or a related field with a focus on machine learning or artificial intelligence, or equivalent experience.</li>
+<li>Excellent communication and stakeholder management skills across engineering, product, design, and data; clear written specs and status updates.</li>
+<li>Technical depth sufficient to guide architecture and implementation trade‑offs, evolve quality standards, and mentor engineers on best practices.</li>
+<li>Deep understanding of machine learning concepts, frameworks, and best practices.</li>
+</ul>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$220,800</span><span class=""divider"">&mdash;</span><span>$331,200 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-09,Engineering,Industry
+"Senior Software Engineer, Backend",Software Engineering,"Seattle, WA",2026-06-09,8584012002,R-01159,duolingo,2026-06-09,2026-06-09,0.3333,"New York, NY",https://careers.duolingo.com/jobs/8584012002?gh_jid=8584012002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<h4><strong>Below you can find more information about the team we're hiring for:</strong></h4>
+<p><strong>Observability Team:</strong></p>
+<p>The Observability team builds infrastructure and tools that give engineers confidence and clarity at Duolingo scale. We create monitoring, alerting, and debugging experiences that help teams ship faster and respond to incidents effectively. In this team, you'll build instrumentation frameworks, deploy telemetry infrastructure, design dashboards, and connect signals to catch issues before they impact learners. We're looking for engineers passionate about developer experience and reliability.</p>
+<p style=""text-align: left;"">&nbsp;</p>
+<p><strong>🧠&nbsp; You will...</strong></p>
+<ul>
+<li>Collaborate on software projects with product design and backend aspects</li>
+<li>Develop, release, and maintain backend services and/or infrastructure</li>
+<li>Lead individual project priorities, milestones, and ensure we're always shipping</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>✅&nbsp; You have...</strong></p>
+<ul>
+<li>A Bachelor’s degree in Computer Science or a related technical field</li>
+<li>Strong competencies in data structures, algorithms, and software design</li>
+<li>Experience programming in Java, Python, or Kotlin</li>
+<li>Solid understanding of one or more database technologies</li>
+</ul>
+<p style=""text-align: center;"">&nbsp;</p>
+<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
+<ul>
+<li>Industry experience building high-traffic APIs using public cloud providers</li>
+<li>Experience with industry observability technology, such as OpenTelemetry, Grafana, Prometheus, or DataDog.</li>
+</ul>
+<p>&nbsp;</p>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$182,800</span><span class=""divider"">&mdash;</span><span>$247,300 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
 <p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
 <p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
@@ -451,44 +560,6 @@ Head of Influencers & Community,Marketing and Communications,"Pittsburgh, PA",20
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-13,Marketing and Communications,Industry
-"Senior Manager, Scaling Operations",Scaling Operations,"Pittsburgh, PA",2026-05-11,8543137002,R-01150,duolingo,2026-06-05,2026-06-09,0.2945,"New York, NY",https://careers.duolingo.com/jobs/8543137002?gh_jid=8543137002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
-<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
-<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
-<p>Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
-<hr>
-<p style=""text-align: left;""><strong>About the role...</strong></p>
-<p>Scaling Operations is Duolingo’s 1-to-a-billion function. We turn promising ideas into reliable, scalable systems so teams can move faster without adding unnecessary complexity.</p>
-<p>As a Senior Manager Scaling Operations, you’ll lead a small team and own operations for Duolingo’s contingent workforce and vendor procurement. You’ll define strategy, build the systems, and drive workforce planning in partnership with teams across Learning &amp; Curriculum, Product, Engineering, Finance, and Legal. You’ll build centralized operations capability for contractor-heavy workflows across the company, improve the quality of AI-assisted work, automate staffing and assignment routing, and reduce manual effort for partner teams.</p>
-<p>This role is based in Pittsburgh, PA or New York City, NY.</p>
-<p style=""text-align: left;"">&nbsp;</p>
-<p><strong>🧠&nbsp; You will...</strong></p>
-<ul>
-<li><strong>Establish and implement a vision for freelance and vendor operations</strong> at the intersection of content systems and AI integration – defining success, setting roadmaps, and using AI and automation to deliver new learning content at scale while maintaining educational excellence;</li>
-<li><strong>Design durable, tech-forward workflows</strong> that replace manual coordination with self-service tooling: centralized contractor management, self-serve task assignment, and structured QC and feedback loops.</li>
-<li><strong>Identify the critical resources for scaling initiatives to succeed,</strong> both in terms of people and technology, and drive prioritization.</li>
-</ul>
-<p><strong>Manage a team of program managers.</strong></p>
-<p>&nbsp;</p>
-<p><strong>✅&nbsp; You have...</strong></p>
-<ul>
-<li><strong>People management experience.</strong> You have experience hiring and developing a team of program management staff.&nbsp;&nbsp;</li>
-<li><strong>Program management experience. </strong>You have demonstrated strong operational leadership, such as experience running programs of large scale and complexity or building and scaling processes from the ground up.&nbsp;</li>
-<li><strong>Collaboration skills.</strong> Partner with functions across the company—such as engineering, product management, content development, and executive leadership—to ensure alignment across teams and stakeholders.</li>
-<li><strong>Tooling strategy experience. -savviness.</strong> You are curious about new technologies, and define the roadmap for you and your teams to increase efficiency with automation. You have strong, data-driven opinions about build vs buy tooling.</li>
-</ul>
-<p><strong>Strong communication skills. You have excellent verbal and written communication skills in English.</strong></p>
-<p style=""text-align: center;"">&nbsp;</p>
-<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
-<ul>
-<li>Proven wins maturing a 0-to-1 operations function into a durable, instrumented system, including evaluation loops, anomaly detection, and AI-assisted workflows.</li>
-<li>Experience partnering deeply with engineering on internal tooling and operating systems; comfortable shaping roadmaps and trade-offs alongside a tech lead.</li>
-</ul>
-<p>&nbsp;</p><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$163,200</span><span class=""divider"">&mdash;</span><span>$244,800 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-18,Scaling Operations,Industry
 "Senior Manager, Scaling Operations",Scaling Operations,"New York, NY",2026-05-11,8543375002,R-01150,duolingo,2026-06-05,2026-06-09,0.2847,"New York, NY",https://careers.duolingo.com/jobs/8543375002?gh_jid=8543375002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
@@ -527,7 +598,45 @@ Head of Influencers & Community,Marketing and Communications,"Pittsburgh, PA",20
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-18,Scaling Operations,Industry
-"Senior Engineering Manager, Ads Monetization",Software Engineering,"New York, NY",2026-05-06,8537884002,R-01148,duolingo,2026-06-05,2026-06-09,0.3654,"New York, NY",https://careers.duolingo.com/jobs/8537884002?gh_jid=8537884002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Senior Manager, Scaling Operations",Scaling Operations,"Pittsburgh, PA",2026-05-11,8543137002,R-01150,duolingo,2026-06-05,2026-06-09,0.2945,"New York, NY",https://careers.duolingo.com/jobs/8543137002?gh_jid=8543137002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
+<p>Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
+<hr>
+<p style=""text-align: left;""><strong>About the role...</strong></p>
+<p>Scaling Operations is Duolingo’s 1-to-a-billion function. We turn promising ideas into reliable, scalable systems so teams can move faster without adding unnecessary complexity.</p>
+<p>As a Senior Manager Scaling Operations, you’ll lead a small team and own operations for Duolingo’s contingent workforce and vendor procurement. You’ll define strategy, build the systems, and drive workforce planning in partnership with teams across Learning &amp; Curriculum, Product, Engineering, Finance, and Legal. You’ll build centralized operations capability for contractor-heavy workflows across the company, improve the quality of AI-assisted work, automate staffing and assignment routing, and reduce manual effort for partner teams.</p>
+<p>This role is based in Pittsburgh, PA or New York City, NY.</p>
+<p style=""text-align: left;"">&nbsp;</p>
+<p><strong>🧠&nbsp; You will...</strong></p>
+<ul>
+<li><strong>Establish and implement a vision for freelance and vendor operations</strong> at the intersection of content systems and AI integration – defining success, setting roadmaps, and using AI and automation to deliver new learning content at scale while maintaining educational excellence;</li>
+<li><strong>Design durable, tech-forward workflows</strong> that replace manual coordination with self-service tooling: centralized contractor management, self-serve task assignment, and structured QC and feedback loops.</li>
+<li><strong>Identify the critical resources for scaling initiatives to succeed,</strong> both in terms of people and technology, and drive prioritization.</li>
+</ul>
+<p><strong>Manage a team of program managers.</strong></p>
+<p>&nbsp;</p>
+<p><strong>✅&nbsp; You have...</strong></p>
+<ul>
+<li><strong>People management experience.</strong> You have experience hiring and developing a team of program management staff.&nbsp;&nbsp;</li>
+<li><strong>Program management experience. </strong>You have demonstrated strong operational leadership, such as experience running programs of large scale and complexity or building and scaling processes from the ground up.&nbsp;</li>
+<li><strong>Collaboration skills.</strong> Partner with functions across the company—such as engineering, product management, content development, and executive leadership—to ensure alignment across teams and stakeholders.</li>
+<li><strong>Tooling strategy experience. -savviness.</strong> You are curious about new technologies, and define the roadmap for you and your teams to increase efficiency with automation. You have strong, data-driven opinions about build vs buy tooling.</li>
+</ul>
+<p><strong>Strong communication skills. You have excellent verbal and written communication skills in English.</strong></p>
+<p style=""text-align: center;"">&nbsp;</p>
+<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
+<ul>
+<li>Proven wins maturing a 0-to-1 operations function into a durable, instrumented system, including evaluation loops, anomaly detection, and AI-assisted workflows.</li>
+<li>Experience partnering deeply with engineering on internal tooling and operating systems; comfortable shaping roadmaps and trade-offs alongside a tech lead.</li>
+</ul>
+<p>&nbsp;</p><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$163,200</span><span class=""divider"">&mdash;</span><span>$244,800 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-18,Scaling Operations,Industry
+"Senior Engineering Manager, Ads Monetization",Software Engineering,"Pittsburgh, PA",2026-05-06,8534630002,R-01148,duolingo,2026-06-05,2026-06-09,0.3661,"New York, NY",https://careers.duolingo.com/jobs/8534630002?gh_jid=8534630002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -568,7 +677,7 @@ Head of Influencers & Community,Marketing and Communications,"Pittsburgh, PA",20
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-29,Engineering,Industry
-"Senior Engineering Manager, Ads Monetization",Software Engineering,"Pittsburgh, PA",2026-05-06,8534630002,R-01148,duolingo,2026-06-05,2026-06-09,0.3661,"New York, NY",https://careers.duolingo.com/jobs/8534630002?gh_jid=8534630002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Senior Engineering Manager, Ads Monetization",Software Engineering,"New York, NY",2026-05-06,8537884002,R-01148,duolingo,2026-06-05,2026-06-09,0.3654,"New York, NY",https://careers.duolingo.com/jobs/8537884002?gh_jid=8537884002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -700,7 +809,7 @@ Director of Communications,Marketing and Communications,"New York, NY",2026-05-0
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-29,Product,Industry
-"Senior Accountant, Indirect Taxes",Accounting,"New York, NY",2026-04-29,8529915002,R-01140,duolingo,2026-06-05,2026-06-09,0.2311,"New York, NY",https://careers.duolingo.com/jobs/8529915002?gh_jid=8529915002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Senior Accountant, Indirect Taxes",Accounting,"Pittsburgh, PA",2026-04-29,8529896002,R-01140,duolingo,2026-06-05,2026-06-09,0.2364,"New York, NY",https://careers.duolingo.com/jobs/8529896002?gh_jid=8529896002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
 <p style=""text-align: left;"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
@@ -745,7 +854,7 @@ Director of Communications,Marketing and Communications,"New York, NY",2026-05-0
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-18,Finance,Industry
-"Senior Accountant, Indirect Taxes",Accounting,"Pittsburgh, PA",2026-04-29,8529896002,R-01140,duolingo,2026-06-05,2026-06-09,0.2364,"New York, NY",https://careers.duolingo.com/jobs/8529896002?gh_jid=8529896002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Senior Accountant, Indirect Taxes",Accounting,"New York, NY",2026-04-29,8529915002,R-01140,duolingo,2026-06-05,2026-06-09,0.2311,"New York, NY",https://careers.duolingo.com/jobs/8529915002?gh_jid=8529915002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
 <p style=""text-align: left;"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
@@ -882,6 +991,50 @@ Senior Community Manager,Marketing and Communications,"Pittsburgh, PA",2026-04-2
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-04,Marketing and Communications,Industry
+Creative Technology Manager,Design,"New York, NY",2026-04-23,8521484002,R-01134,duolingo,2026-06-05,2026-06-09,0.1842,"New York, NY",https://careers.duolingo.com/jobs/8521484002?gh_jid=8521484002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
+<p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
+<p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<p><strong>About the Role</strong></p>
+<p>Duolingo’s Creative Technologists sit at the intersection of design, animation, and engineering—turning ambitious ideas into interactive, production-ready experiences that reach millions of learners.&nbsp; As a Creative Technology Manager, you’ll both manage a team of Creative Technologists and directly elevate how we use art, motion, and interactivity to create delightful, performant, and scalable learning experiences. You’ll lead the prototyping of new ideas, build production-ready systems, and shape the tooling that enables teams to move faster. This role reports to the Senior Manager of Creative Technology and is based in Pittsburgh, PA or New York, NY.</p>
+<p>🧠 <strong>You will...&nbsp;</strong></p>
+<ul>
+<li>Act as the technical lead for cross-functional partners (product designers, product managers, and engineers) to unblock bold ideas and drive them from concept through delivery</li>
+<li>Develop your team’s skills and careers, giving clear, actionable feedback and coaching toward greater scope and impact</li>
+<li>Create and evolve complex animated UI using Rive or similar technologies for high-visibility features across the app</li>
+<li>Collaborate directly with iOS and Android engineers to design asset functionality, troubleshoot, and optimize performance</li>
+<li>Shape our design and animation ecosystem (Rive, Figma, Unity, internal tools)&nbsp; by developing tools, automations, and systems that scale high-quality output</li>
+</ul>
+<p>✅ <strong>You have...&nbsp;</strong></p>
+<ul>
+<li>5+ years in roles adjacent to creative technology (e.g., technical animation, gameplay scripting, CG supervision, pipeline/TD work) with proven people management or leadership experience.</li>
+<li>A portfolio or demo reel that demonstrates:&nbsp;</li>
+<ul>
+<li>High-quality visuals delivered within real-world performance constraints</li>
+<li>Reducing complexity while achieving product goals</li>
+<li>Systems thinking (e.g., reusable animation or interaction systems)</li>
+<li>Tooling that meaningfully improves team workflows</li>
+<li>Prototyping savvy and end-to-end problem solving</li>
+</ul>
+<li>Strong programming or scripting skills (e.g., Python, C++, or similar).</li>
+<li>Excellent communication skills, including fluency in design-to-engineering handoffs, and communicating technical constraints to non-technical partners.</li>
+<li>Experience operating in highly ambiguous environments and independently driving projects with cross-functional dependencies.</li>
+<li>Ability to work from or relocate to Pittsburgh, PA or New York, NY.</li>
+</ul>
+<p>⭐ <strong>Exceptional candidates will have...&nbsp;</strong></p>
+<ul>
+<li>Experience creating interactive animation for mobile products at scale</li>
+<li>Proficiency with Rive for building UI and designing complex user interactions</li>
+<li>A strong motion and design sensibility across 3D or 2D animation pipelines (Maya, Blender, Houdini, or Toon Boom, etc.)</li>
+<li>Understanding of game design principles, especially for learning contexts</li>
+<li>A passion for the craft and a care for their people.</li>
+</ul>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$182,800</span><span class=""divider"">&mdash;</span><span>$247,300 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Design,Industry
 Creative Technology Manager,Design,"Pittsburgh, PA",2026-04-23,8521468002,R-01134,duolingo,2026-06-05,2026-06-09,0.1784,"New York, NY",https://careers.duolingo.com/jobs/8521468002?gh_jid=8521468002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
 <p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
 <p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
@@ -929,91 +1082,6 @@ Creative Technology Manager,Design,"Pittsburgh, PA",2026-04-23,8521468002,R-0113
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-12,Design,Industry
-Creative Technology Manager,Design,"New York, NY",2026-04-23,8521484002,R-01134,duolingo,2026-06-05,2026-06-09,0.1842,"New York, NY",https://careers.duolingo.com/jobs/8521484002?gh_jid=8521484002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
-<p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
-<p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
-<hr>
-<p><strong>About the Role</strong></p>
-<p>Duolingo’s Creative Technologists sit at the intersection of design, animation, and engineering—turning ambitious ideas into interactive, production-ready experiences that reach millions of learners.&nbsp; As a Creative Technology Manager, you’ll both manage a team of Creative Technologists and directly elevate how we use art, motion, and interactivity to create delightful, performant, and scalable learning experiences. You’ll lead the prototyping of new ideas, build production-ready systems, and shape the tooling that enables teams to move faster. This role reports to the Senior Manager of Creative Technology and is based in Pittsburgh, PA or New York, NY.</p>
-<p>🧠 <strong>You will...&nbsp;</strong></p>
-<ul>
-<li>Act as the technical lead for cross-functional partners (product designers, product managers, and engineers) to unblock bold ideas and drive them from concept through delivery</li>
-<li>Develop your team’s skills and careers, giving clear, actionable feedback and coaching toward greater scope and impact</li>
-<li>Create and evolve complex animated UI using Rive or similar technologies for high-visibility features across the app</li>
-<li>Collaborate directly with iOS and Android engineers to design asset functionality, troubleshoot, and optimize performance</li>
-<li>Shape our design and animation ecosystem (Rive, Figma, Unity, internal tools)&nbsp; by developing tools, automations, and systems that scale high-quality output</li>
-</ul>
-<p>✅ <strong>You have...&nbsp;</strong></p>
-<ul>
-<li>5+ years in roles adjacent to creative technology (e.g., technical animation, gameplay scripting, CG supervision, pipeline/TD work) with proven people management or leadership experience.</li>
-<li>A portfolio or demo reel that demonstrates:&nbsp;</li>
-<ul>
-<li>High-quality visuals delivered within real-world performance constraints</li>
-<li>Reducing complexity while achieving product goals</li>
-<li>Systems thinking (e.g., reusable animation or interaction systems)</li>
-<li>Tooling that meaningfully improves team workflows</li>
-<li>Prototyping savvy and end-to-end problem solving</li>
-</ul>
-<li>Strong programming or scripting skills (e.g., Python, C++, or similar).</li>
-<li>Excellent communication skills, including fluency in design-to-engineering handoffs, and communicating technical constraints to non-technical partners.</li>
-<li>Experience operating in highly ambiguous environments and independently driving projects with cross-functional dependencies.</li>
-<li>Ability to work from or relocate to Pittsburgh, PA or New York, NY.</li>
-</ul>
-<p>⭐ <strong>Exceptional candidates will have...&nbsp;</strong></p>
-<ul>
-<li>Experience creating interactive animation for mobile products at scale</li>
-<li>Proficiency with Rive for building UI and designing complex user interactions</li>
-<li>A strong motion and design sensibility across 3D or 2D animation pipelines (Maya, Blender, Houdini, or Toon Boom, etc.)</li>
-<li>Understanding of game design principles, especially for learning contexts</li>
-<li>A passion for the craft and a care for their people.</li>
-</ul>
-<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$182,800</span><span class=""divider"">&mdash;</span><span>$247,300 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Design,Industry
-Senior Product Recruiter,Talent Acquisition,"Pittsburgh, PA",2026-04-21,8517116002,R-01133,duolingo,2026-06-05,2026-06-09,0.3337,"New York, NY",https://careers.duolingo.com/jobs/8517116002?gh_jid=8517116002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
-<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
-<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
-<p style=""text-align: left;"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
-<hr>
-<p style=""text-align: left;""><strong>About the role...</strong></p>
-<p style=""text-align: left;"">We're looking for a Lead Recruiter to own product hiring at Duolingo — partnering directly with our Chief Product Officer to build and shape the Product org from the ground up. This isn't just executing on a req list. You'll help define what great looks like, influence how we think about product talent, and build the processes and relationships that make hiring a competitive advantage. If you love blending strategy with hands-on execution, operating at the intersection of recruiting and business, and leaving your fingerprints on a world-class team, this is the role for you.</p>
-<p>&nbsp;</p>
-<p><strong>🧠&nbsp; You will...</strong></p>
-<ul>
-<li><strong>Own full-cycle recruiting for Product roles at all levels</strong> — ICs to senior leaders — building deep pipelines and consistently closing top talent.</li>
-<li><strong>Be a true partner to the CPO</strong>, shaping hiring strategy, prioritizing roles, and helping define what great Product talent looks like at Duolingo.</li>
-<li><strong>Lead and influence without direct authority</strong>, working across recruiting, sourcing, and business stakeholders to align processes, calibrate expectations, and drive outcomes.</li>
-<li><strong>Drive sourcing strategy</strong> (roughly 25–30% of your time), going beyond inbound to build proactive outreach for senior and hard-to-fill roles.</li>
-<li><strong>Use data to tell the story</strong> — diagnosing pipeline health, surfacing insights to leadership, and making decisions that balance speed with quality.</li>
-<li><strong>Champion the candidate experience</strong> from first touch to offer close, making sure every interaction reflects Duolingo's brand and values.</li>
-<li><strong>Build the infrastructure</strong> — whether that's interview frameworks, leveling guidance, or hiring playbooks — that scales beyond you.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>✅&nbsp; You have...</strong></p>
-<ul>
-<li>Ability to work onsite in Pittsburgh, PA, Monday–Thursday, with Friday optional</li>
-<li>7+ years of full-cycle recruiting experience, with meaningful depth in Product hiring</li>
-<li>Experience partnering closely with senior leaders (VP/C-suite) to shape org strategy, not just fill seats</li>
-<li>A track record of hiring across levels — from PMs to Directors to VPs — with strong judgment on what ""great"" looks like at each</li>
-<li>Comfort operating in ambiguity, with the ownership mindset to create structure where it doesn't exist</li>
-<li>Strong data fluency — you know how to use pipeline metrics to drive conversations and influence decisions</li>
-</ul>
-<p style=""text-align: center;"">&nbsp;</p>
-<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
-<ul>
-<li>Experience leading or mentoring a recruiting team, even informally</li>
-<li>Deep market knowledge of the Product talent landscape, including how to position Duolingo competitively</li>
-<li>A history of building repeatable hiring systems that improve quality and efficiency at scale</li>
-<li>And, of course… an impressive Duolingo streak.</li>
-</ul><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$163,200</span><span class=""divider"">&mdash;</span><span>$244,800 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-19,People,Industry
 Senior Product Recruiter,Talent Acquisition,"New York, NY",2026-04-21,8517138002,R-01133,duolingo,2026-06-05,2026-06-09,0.3329,"New York, NY",https://careers.duolingo.com/jobs/8517138002?gh_jid=8517138002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
@@ -1036,6 +1104,47 @@ Senior Product Recruiter,Talent Acquisition,"New York, NY",2026-04-21,8517138002
 <p><strong>✅&nbsp; You have...</strong></p>
 <ul>
 <li>Ability to work onsite in New York, NY, Monday–Thursday, with Friday optional</li>
+<li>7+ years of full-cycle recruiting experience, with meaningful depth in Product hiring</li>
+<li>Experience partnering closely with senior leaders (VP/C-suite) to shape org strategy, not just fill seats</li>
+<li>A track record of hiring across levels — from PMs to Directors to VPs — with strong judgment on what ""great"" looks like at each</li>
+<li>Comfort operating in ambiguity, with the ownership mindset to create structure where it doesn't exist</li>
+<li>Strong data fluency — you know how to use pipeline metrics to drive conversations and influence decisions</li>
+</ul>
+<p style=""text-align: center;"">&nbsp;</p>
+<p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p>
+<ul>
+<li>Experience leading or mentoring a recruiting team, even informally</li>
+<li>Deep market knowledge of the Product talent landscape, including how to position Duolingo competitively</li>
+<li>A history of building repeatable hiring systems that improve quality and efficiency at scale</li>
+<li>And, of course… an impressive Duolingo streak.</li>
+</ul><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$163,200</span><span class=""divider"">&mdash;</span><span>$244,800 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-19,People,Industry
+Senior Product Recruiter,Talent Acquisition,"Pittsburgh, PA",2026-04-21,8517116002,R-01133,duolingo,2026-06-05,2026-06-09,0.3337,"New York, NY",https://careers.duolingo.com/jobs/8517116002?gh_jid=8517116002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
+<p style=""text-align: left;"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
+<hr>
+<p style=""text-align: left;""><strong>About the role...</strong></p>
+<p style=""text-align: left;"">We're looking for a Lead Recruiter to own product hiring at Duolingo — partnering directly with our Chief Product Officer to build and shape the Product org from the ground up. This isn't just executing on a req list. You'll help define what great looks like, influence how we think about product talent, and build the processes and relationships that make hiring a competitive advantage. If you love blending strategy with hands-on execution, operating at the intersection of recruiting and business, and leaving your fingerprints on a world-class team, this is the role for you.</p>
+<p>&nbsp;</p>
+<p><strong>🧠&nbsp; You will...</strong></p>
+<ul>
+<li><strong>Own full-cycle recruiting for Product roles at all levels</strong> — ICs to senior leaders — building deep pipelines and consistently closing top talent.</li>
+<li><strong>Be a true partner to the CPO</strong>, shaping hiring strategy, prioritizing roles, and helping define what great Product talent looks like at Duolingo.</li>
+<li><strong>Lead and influence without direct authority</strong>, working across recruiting, sourcing, and business stakeholders to align processes, calibrate expectations, and drive outcomes.</li>
+<li><strong>Drive sourcing strategy</strong> (roughly 25–30% of your time), going beyond inbound to build proactive outreach for senior and hard-to-fill roles.</li>
+<li><strong>Use data to tell the story</strong> — diagnosing pipeline health, surfacing insights to leadership, and making decisions that balance speed with quality.</li>
+<li><strong>Champion the candidate experience</strong> from first touch to offer close, making sure every interaction reflects Duolingo's brand and values.</li>
+<li><strong>Build the infrastructure</strong> — whether that's interview frameworks, leveling guidance, or hiring playbooks — that scales beyond you.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>✅&nbsp; You have...</strong></p>
+<ul>
+<li>Ability to work onsite in Pittsburgh, PA, Monday–Thursday, with Friday optional</li>
 <li>7+ years of full-cycle recruiting experience, with meaningful depth in Product hiring</li>
 <li>Experience partnering closely with senior leaders (VP/C-suite) to shape org strategy, not just fill seats</li>
 <li>A track record of hiring across levels — from PMs to Directors to VPs — with strong judgment on what ""great"" looks like at each</li>
@@ -1260,7 +1369,7 @@ Senior Product Designer,Product Design,"Seattle, WA",2026-04-01,8489189002,1224,
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Marketing and Communications,Industry
-Head of Efficacy Research,Learning and Curriculum,"Pittsburgh, PA",2026-03-25,8479051002,R-01116,duolingo,2026-06-05,2026-06-09,0.256,"New York, NY",https://careers.duolingo.com/jobs/8479051002?gh_jid=8479051002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+Head of Efficacy Research,Learning and Curriculum,"New York, NY",2026-03-25,8479067002,R-01116,duolingo,2026-06-05,2026-06-09,0.2544,"New York, NY",https://careers.duolingo.com/jobs/8479067002?gh_jid=8479067002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
 <p>Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
@@ -1305,7 +1414,7 @@ Head of Efficacy Research,Learning and Curriculum,"Pittsburgh, PA",2026-03-25,84
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-18,Learning and Curriculum,Industry
-Head of Efficacy Research,Learning and Curriculum,"New York, NY",2026-03-25,8479067002,R-01116,duolingo,2026-06-05,2026-06-09,0.2544,"New York, NY",https://careers.duolingo.com/jobs/8479067002?gh_jid=8479067002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+Head of Efficacy Research,Learning and Curriculum,"Pittsburgh, PA",2026-03-25,8479051002,R-01116,duolingo,2026-06-05,2026-06-09,0.256,"New York, NY",https://careers.duolingo.com/jobs/8479051002?gh_jid=8479051002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
 <p>Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
@@ -1384,7 +1493,7 @@ Head of Efficacy Research,Learning and Curriculum,"New York, NY",2026-03-25,8479
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-05,Product,Industry
-"Engineering Manager, Notifications",Engineering,"New York, NY",2026-03-18,8468556002,R-01111,duolingo,2026-06-05,2026-06-09,0.3335,"New York, NY",https://careers.duolingo.com/jobs/8468556002?gh_jid=8468556002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Engineering Manager, Notifications",Engineering,"Pittsburgh, PA",2026-03-18,8468545002,R-01111,duolingo,2026-06-05,2026-06-09,0.333,"New York, NY",https://careers.duolingo.com/jobs/8468545002?gh_jid=8468545002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -1425,7 +1534,7 @@ Head of Efficacy Research,Learning and Curriculum,"New York, NY",2026-03-25,8479
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-30,Engineering,Industry
-"Engineering Manager, Notifications",Engineering,"Pittsburgh, PA",2026-03-18,8468545002,R-01111,duolingo,2026-06-05,2026-06-09,0.333,"New York, NY",https://careers.duolingo.com/jobs/8468545002?gh_jid=8468545002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+"Engineering Manager, Notifications",Engineering,"New York, NY",2026-03-18,8468556002,R-01111,duolingo,2026-06-05,2026-06-09,0.3335,"New York, NY",https://careers.duolingo.com/jobs/8468556002?gh_jid=8468556002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -1767,42 +1876,6 @@ Business Development Manager,Business Development,"London, England",2026-03-09,8
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Product,Industry
-"Product Marketing Manager, Duolingo Math",Marketing and Communications,"London, England",2026-02-02,8400588002,R-01079,duolingo,2026-06-05,2026-06-09,0.3005,"London, England",https://careers.duolingo.com/jobs/8400588002?gh_jid=8400588002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
-<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
-<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
-<p class=""Z7ph2"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
-<hr>
-<h2>About the role</h2>
-<p>We’re looking for a Product Marketing Manager to lead the marketing strategy and go-to-market execution for Duolingo Math— an exciting product that brings the joy and rigor of learning to the lifelong skill of math. You’ll shape how this product connects with learners, parents, and teachers, working cross-functionally with Product, Design, and Marketing. You will play a critical role in driving the success of our learning products by developing compelling product narratives both in and out of the app and developing strategies that drive awareness, engagement, and retention.</p>
-<p>&nbsp;</p>
-<h4><strong>:brain:&nbsp; You will...</strong></h4>
-<ul>
-<li>Develop and implement comprehensive product marketing strategies to drive user acquisition, engagement, and retention for Duolingo Math.&nbsp;</li>
-<li>Collaborate closely with cross-functional teams — including product management, design, engineering, and marketing — to ensure successful product launches with clear, cohesive marketing plans.&nbsp;</li>
-<li>Conduct consumer research and competitive analysis to inform value proposition development and feature positioning.&nbsp;</li>
-<li>Develop and implement go-to-market plans for new product or feature launches, including messaging, positioning, and promotional strategies.&nbsp;</li>
-<li>Collaborate with the marketing and design teams to develop high-impact marketing campaigns, including in-app communications, ASO, social media, email marketing, and content marketing.&nbsp;</li>
-<li>Track and analyze campaign performance, providing actionable insights and recommendations for optimization.&nbsp;</li>
-<li>Serve as the internal authority and advocate for Duolingo Math, ensuring consistent messaging and alignment across teams.&nbsp;</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong>:check:&nbsp; You have...</strong></h4>
-<ul>
-<li>Bachelor’s degree in Marketing, Business, or a related field.</li>
-<li>3+ years of product marketing experience, ideally in consumer technology, with a track record of launching and scaling successful products.</li>
-<li>Strong understanding of the mobile app ecosystem and experience marketing consumer-facing digital products.</li>
-<li>Experience marketing educational products for children; background in mobile apps, games, or classroom learning tools is a plus.</li>
-<li>Excellent written and verbal communication skills, with the ability to craft compelling narratives and present clearly to diverse audiences.</li>
-<li>Data-driven mindset with experience using insights and analytics to inform strategy and optimize performance.</li>
-<li>Experience collaborating cross-functionally and managing multiple projects in a fast-paced environment.</li>
-</ul>
-<p style=""text-align: center;"">&nbsp;</p>
-<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>£75,525</span><span class=""divider"">&mdash;</span><span>£102,181 GBP</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Marketing and Communications,Industry
 "Product Marketing Manager, Duolingo Math",Marketing and Communications,"New York, NY",2026-02-02,8400553002,R-01079,duolingo,2026-06-05,2026-06-09,0.3205,"London, England",https://careers.duolingo.com/jobs/8400553002?gh_jid=8400553002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
@@ -1839,6 +1912,78 @@ Business Development Manager,Business Development,"London, England",2026-03-09,8
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-05-01,Marketing and Communications,Industry
+"Product Marketing Manager, Duolingo Math",Marketing and Communications,"London, England",2026-02-02,8400588002,R-01079,duolingo,2026-06-05,2026-06-09,0.3005,"London, England",https://careers.duolingo.com/jobs/8400588002?gh_jid=8400588002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
+<p class=""Z7ph2"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
+<hr>
+<h2>About the role</h2>
+<p>We’re looking for a Product Marketing Manager to lead the marketing strategy and go-to-market execution for Duolingo Math— an exciting product that brings the joy and rigor of learning to the lifelong skill of math. You’ll shape how this product connects with learners, parents, and teachers, working cross-functionally with Product, Design, and Marketing. You will play a critical role in driving the success of our learning products by developing compelling product narratives both in and out of the app and developing strategies that drive awareness, engagement, and retention.</p>
+<p>&nbsp;</p>
+<h4><strong>:brain:&nbsp; You will...</strong></h4>
+<ul>
+<li>Develop and implement comprehensive product marketing strategies to drive user acquisition, engagement, and retention for Duolingo Math.&nbsp;</li>
+<li>Collaborate closely with cross-functional teams — including product management, design, engineering, and marketing — to ensure successful product launches with clear, cohesive marketing plans.&nbsp;</li>
+<li>Conduct consumer research and competitive analysis to inform value proposition development and feature positioning.&nbsp;</li>
+<li>Develop and implement go-to-market plans for new product or feature launches, including messaging, positioning, and promotional strategies.&nbsp;</li>
+<li>Collaborate with the marketing and design teams to develop high-impact marketing campaigns, including in-app communications, ASO, social media, email marketing, and content marketing.&nbsp;</li>
+<li>Track and analyze campaign performance, providing actionable insights and recommendations for optimization.&nbsp;</li>
+<li>Serve as the internal authority and advocate for Duolingo Math, ensuring consistent messaging and alignment across teams.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>:check:&nbsp; You have...</strong></h4>
+<ul>
+<li>Bachelor’s degree in Marketing, Business, or a related field.</li>
+<li>3+ years of product marketing experience, ideally in consumer technology, with a track record of launching and scaling successful products.</li>
+<li>Strong understanding of the mobile app ecosystem and experience marketing consumer-facing digital products.</li>
+<li>Experience marketing educational products for children; background in mobile apps, games, or classroom learning tools is a plus.</li>
+<li>Excellent written and verbal communication skills, with the ability to craft compelling narratives and present clearly to diverse audiences.</li>
+<li>Data-driven mindset with experience using insights and analytics to inform strategy and optimize performance.</li>
+<li>Experience collaborating cross-functionally and managing multiple projects in a fast-paced environment.</li>
+</ul>
+<p style=""text-align: center;"">&nbsp;</p>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>£75,525</span><span class=""divider"">&mdash;</span><span>£102,181 GBP</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Marketing and Communications,Industry
+Senior iOS Engineer,Engineering,"Pittsburgh, PA",2026-01-27,8393272002,R-01042,duolingo,2026-06-05,2026-06-09,0.3448,"New York, NY",https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<h2><strong>About the role</strong></h2>
+<p><strong>Ads Team:<br></strong><br>Duolingo's Monetization pillar builds the systems that fund our mission: from subscription packaging and advertising to ML-powered personalization and beyond. As a Senior iOS Engineer on Ads, you'll work on a product engineering team responsible for growing and scaling Duolingo's ads business: bringing high-quality ads that delight learners, fit seamlessly into our product experience, and meaningfully contribute to Duolingo’s bottom line. The team will own the systems behind ad serving, mediation and demand, in-product ad formats and surfaces, and more. You'll work cross functionally with product, design, data science, machine learning, and ad operations.</p>
+<h4><strong><br>🧠&nbsp; You will...</strong></h4>
+<ul>
+<li>Collaborate on software projects with product design and backend aspects</li>
+<li>Develop, release, and maintain native iOS applications, primarily in Swift</li>
+<li>Mentor and set technical direction for junior engineers across the company</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>✅&nbsp; You have...</strong></h4>
+<ul>
+<li>A Bachelor’s degree in Computer Science or a related technical field</li>
+<li>A solid foundation in computer science with strong competencies in data structures, algorithms, and software design</li>
+<li>Programming experience in Swift</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>⭐&nbsp; Exceptional candidates will have...</strong></h4>
+<ul>
+<li>Strong proficiency in Swift, with proven ability to build and maintain production-level applications</li>
+<li>Strong technical knowledge of iOS mobile application development for iPhone/iPad using Swift with Cocoa Touch and related frameworks</li>
+<li>Experience designing clean and maintainable APIs</li>
+<li>Experience with multithreaded programming</li>
+<li>Experience writing unit tests and testable code</li>
+<li>Knowledge of iOS SDK performance tools and optimization techniques</li>
+</ul>
+<p>&nbsp;</p>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$177,700</span><span class=""divider"">&mdash;</span><span>$240,400 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Engineering,Industry
 "Senior Product Manager, Score",Product Management,"New York, NY",2026-01-27,8393330002,R-01027,duolingo,2026-06-05,2026-06-09,0.2887,"Pittsburgh, PA",https://careers.duolingo.com/jobs/8393330002?gh_jid=8393330002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
@@ -1881,43 +2026,7 @@ Business Development Manager,Business Development,"London, England",2026-03-09,8
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Product,Industry
-Senior iOS Engineer,Engineering,"Pittsburgh, PA",2026-01-27,8393272002,R-01042,duolingo,2026-06-05,2026-06-09,0.3448,"New York, NY",https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
-<p>At Duolingo, you’ll join a team that cares about finding <a href=""https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224"">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p>
-<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p>
-<hr>
-<h2><strong>About the role</strong></h2>
-<p><strong>Ads Team:<br></strong><br>Duolingo's Monetization pillar builds the systems that fund our mission: from subscription packaging and advertising to ML-powered personalization and beyond. As a Senior iOS Engineer on Ads, you'll work on a product engineering team responsible for growing and scaling Duolingo's ads business: bringing high-quality ads that delight learners, fit seamlessly into our product experience, and meaningfully contribute to Duolingo’s bottom line. The team will own the systems behind ad serving, mediation and demand, in-product ad formats and surfaces, and more. You'll work cross functionally with product, design, data science, machine learning, and ad operations.</p>
-<h4><strong><br>🧠&nbsp; You will...</strong></h4>
-<ul>
-<li>Collaborate on software projects with product design and backend aspects</li>
-<li>Develop, release, and maintain native iOS applications, primarily in Swift</li>
-<li>Mentor and set technical direction for junior engineers across the company</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong>✅&nbsp; You have...</strong></h4>
-<ul>
-<li>A Bachelor’s degree in Computer Science or a related technical field</li>
-<li>A solid foundation in computer science with strong competencies in data structures, algorithms, and software design</li>
-<li>Programming experience in Swift</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong>⭐&nbsp; Exceptional candidates will have...</strong></h4>
-<ul>
-<li>Strong proficiency in Swift, with proven ability to build and maintain production-level applications</li>
-<li>Strong technical knowledge of iOS mobile application development for iPhone/iPad using Swift with Cocoa Touch and related frameworks</li>
-<li>Experience designing clean and maintainable APIs</li>
-<li>Experience with multithreaded programming</li>
-<li>Experience writing unit tests and testable code</li>
-<li>Knowledge of iOS SDK performance tools and optimization techniques</li>
-</ul>
-<p>&nbsp;</p>
-<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$177,700</span><span class=""divider"">&mdash;</span><span>$240,400 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Engineering,Industry
-Senior Product Design Manager,Design,"Pittsburgh, PA",2026-01-22,8385195002,R-01070,duolingo,2026-06-05,2026-06-09,0.1682,"New York, NY",https://careers.duolingo.com/jobs/8385195002?gh_jid=8385195002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
+Senior Product Design Manager,Design,"New York, NY",2026-01-22,8385193002,R-01070,duolingo,2026-06-05,2026-06-09,0.1621,"New York, NY",https://careers.duolingo.com/jobs/8385193002?gh_jid=8385193002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
 <p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
 <p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -1953,68 +2062,13 @@ Senior Product Design Manager,Design,"Pittsburgh, PA",2026-01-22,8385195002,R-01
 <li>Demonstrated organizational savvy with strong relationships across functions and levels.</li>
 <li>A love for the craft and a care for their people.</li>
 </ul>
-<p>&nbsp;</p>
+<h4><strong>&nbsp;</strong></h4>
 <hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$200,000</span><span class=""divider"">&mdash;</span><span>$300,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
 <p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
 <p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Design,Industry
-Senior Community Manager,Marketing and Communications,"Seattle, WA",2026-01-22,8345186002,R-01056,duolingo,2026-06-05,2026-06-09,0.2865,"New York, NY",https://careers.duolingo.com/jobs/8345186002?gh_jid=8345186002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
-<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
-<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
-<p class=""Z7ph2"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
-<hr>
-<h2><strong>About the role</strong></h2>
-<p>We’re looking for a <strong>Senior Community Manager</strong> who is equal parts strategist, builder, and hands-on operator. This is a unique opportunity to shape how millions of learners engage with Duolingo, not just today, but for years to come.</p>
-<p>You will work <strong>hand-in-hand with the Head of Community</strong> to craft and build the community function from scratch. You’ll bring creative ideas, help define structure and best practices, and co-create a vision for what a high-impact, high-delight global community looks like at Duolingo.</p>
-<p>At the same time, you will <strong>own and lead the day-to-day engagement across our community channels</strong>. You’ll be the front line of how we show up with learners, moderators, superfans, and ambassadors — cultivating joy, trust, safety, and belonging through every interaction.</p>
-<p>You’ll partner closely with Product, Engineering, Marketing, Communications, and Customer Support to bring the community’s voice into the heart of the organization.</p>
-<p>&nbsp;</p>
-<h4><strong>🧠&nbsp; You will...</strong></h4>
-<p><strong>Own and lead day-to-day community operations</strong></p>
-<ul>
-<li>Manage our core community channels (e.g., Reddit, Discord) and drive daily engagement, conversation quality, and member experience</li>
-<li>Build and maintain strong relationships with moderators, ambassadors, and superfans</li>
-<li>Develop scalable processes, playbooks, and frameworks that uphold safety, trust, delight, and Duolingo’s signature tone</li>
-<li>Monitor community health, sentiment, and emerging risks, identifying insights and opportunities for continuous improvement</li>
-<li>Launch initiatives that grow participation, sentiment, and long-term community value</li>
-</ul>
-<p><strong>Own and lead day-to-day community operations</strong></p>
-<ul>
-<li>Manage our core community channels (e.g., Reddit, Discord) and drive daily engagement, conversation quality, and member experience</li>
-<li>Build and maintain strong relationships with moderators, ambassadors, and superfans</li>
-<li>Develop scalable processes, playbooks, and frameworks that uphold safety, trust, delight, and Duolingo’s signature tone</li>
-<li>Monitor community health, sentiment, and emerging risks, identifying insights and opportunities for continuous improvement</li>
-<li>Launch initiatives that grow participation, sentiment, and long-term community value</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong>✅&nbsp; You have...</strong></h4>
-<ul>
-<li><strong>8+ years</strong> of experience in community management for a consumer-facing brand, ideally at scale.</li>
-<li>Proven experience growing and engaging online communities across multiple platforms (Reddit, Slack, Discord, etc.).</li>
-<li>Strong instincts for tone, voice, and the dynamics of internet culture.</li>
-<li>Experience managing moderators, ambassadors, creators, or similar stakeholder groups.</li>
-<li>A data-driven approach to decision-making, with comfort in interpreting qualitative and quantitative signals.</li>
-<li>Excellent communication skills and the ability to collaborate cross-functionally.</li>
-<li>Experience navigating complex community conversations and stewarding online reputation.</li>
-<li>Active Duolingo user.</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong>⭐&nbsp; Exceptional candidates will have...</strong></h4>
-<ul>
-<li>Track record of building community programs of 1M+ members.</li>
-<li>Experience with shifting sentiment, scaling, and building advocates through community programs and tactics.</li>
-<li>Experience with international community management or scaling programs across cultures.</li>
-<li>Excels at both strategic planning and hands-on execution.</li>
-</ul>
-<p>&nbsp;</p>
-<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$142,800</span><span class=""divider"">&mdash;</span><span>$193,200 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-04,Marketing and Communications,Industry
 Senior Community Manager,Marketing and Communications,"New York, NY",2026-01-22,8385180002,R-01056,duolingo,2026-06-05,2026-06-09,0.2849,"New York, NY",https://careers.duolingo.com/jobs/8385180002?gh_jid=8385180002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
 <p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
 <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
@@ -2070,7 +2124,62 @@ Senior Community Manager,Marketing and Communications,"New York, NY",2026-01-22,
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-04,Marketing and Communications,Industry
-Senior Product Design Manager,Design,"New York, NY",2026-01-22,8385193002,R-01070,duolingo,2026-06-05,2026-06-09,0.1621,"New York, NY",https://careers.duolingo.com/jobs/8385193002?gh_jid=8385193002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
+Senior Community Manager,Marketing and Communications,"Seattle, WA",2026-01-22,8345186002,R-01056,duolingo,2026-06-05,2026-06-09,0.2865,"New York, NY",https://careers.duolingo.com/jobs/8345186002?gh_jid=8345186002,"<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>
+<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>
+<p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp;</p>
+<p class=""Z7ph2"">Read <a href=""https://blog.duolingo.com/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=generalblog_gh_091224"">our blog</a> to learn more.</p>
+<hr>
+<h2><strong>About the role</strong></h2>
+<p>We’re looking for a <strong>Senior Community Manager</strong> who is equal parts strategist, builder, and hands-on operator. This is a unique opportunity to shape how millions of learners engage with Duolingo, not just today, but for years to come.</p>
+<p>You will work <strong>hand-in-hand with the Head of Community</strong> to craft and build the community function from scratch. You’ll bring creative ideas, help define structure and best practices, and co-create a vision for what a high-impact, high-delight global community looks like at Duolingo.</p>
+<p>At the same time, you will <strong>own and lead the day-to-day engagement across our community channels</strong>. You’ll be the front line of how we show up with learners, moderators, superfans, and ambassadors — cultivating joy, trust, safety, and belonging through every interaction.</p>
+<p>You’ll partner closely with Product, Engineering, Marketing, Communications, and Customer Support to bring the community’s voice into the heart of the organization.</p>
+<p>&nbsp;</p>
+<h4><strong>🧠&nbsp; You will...</strong></h4>
+<p><strong>Own and lead day-to-day community operations</strong></p>
+<ul>
+<li>Manage our core community channels (e.g., Reddit, Discord) and drive daily engagement, conversation quality, and member experience</li>
+<li>Build and maintain strong relationships with moderators, ambassadors, and superfans</li>
+<li>Develop scalable processes, playbooks, and frameworks that uphold safety, trust, delight, and Duolingo’s signature tone</li>
+<li>Monitor community health, sentiment, and emerging risks, identifying insights and opportunities for continuous improvement</li>
+<li>Launch initiatives that grow participation, sentiment, and long-term community value</li>
+</ul>
+<p><strong>Own and lead day-to-day community operations</strong></p>
+<ul>
+<li>Manage our core community channels (e.g., Reddit, Discord) and drive daily engagement, conversation quality, and member experience</li>
+<li>Build and maintain strong relationships with moderators, ambassadors, and superfans</li>
+<li>Develop scalable processes, playbooks, and frameworks that uphold safety, trust, delight, and Duolingo’s signature tone</li>
+<li>Monitor community health, sentiment, and emerging risks, identifying insights and opportunities for continuous improvement</li>
+<li>Launch initiatives that grow participation, sentiment, and long-term community value</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>✅&nbsp; You have...</strong></h4>
+<ul>
+<li><strong>8+ years</strong> of experience in community management for a consumer-facing brand, ideally at scale.</li>
+<li>Proven experience growing and engaging online communities across multiple platforms (Reddit, Slack, Discord, etc.).</li>
+<li>Strong instincts for tone, voice, and the dynamics of internet culture.</li>
+<li>Experience managing moderators, ambassadors, creators, or similar stakeholder groups.</li>
+<li>A data-driven approach to decision-making, with comfort in interpreting qualitative and quantitative signals.</li>
+<li>Excellent communication skills and the ability to collaborate cross-functionally.</li>
+<li>Experience navigating complex community conversations and stewarding online reputation.</li>
+<li>Active Duolingo user.</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>⭐&nbsp; Exceptional candidates will have...</strong></h4>
+<ul>
+<li>Track record of building community programs of 1M+ members.</li>
+<li>Experience with shifting sentiment, scaling, and building advocates through community programs and tactics.</li>
+<li>Experience with international community management or scaling programs across cultures.</li>
+<li>Excels at both strategic planning and hands-on execution.</li>
+</ul>
+<p>&nbsp;</p>
+<hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$142,800</span><span class=""divider"">&mdash;</span><span>$193,200 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-04,Marketing and Communications,Industry
+Senior Product Design Manager,Design,"Pittsburgh, PA",2026-01-22,8385195002,R-01070,duolingo,2026-06-05,2026-06-09,0.1682,"New York, NY",https://careers.duolingo.com/jobs/8385195002?gh_jid=8385195002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
 <p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
 <p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
 <hr>
@@ -2106,7 +2215,7 @@ Senior Product Design Manager,Design,"New York, NY",2026-01-22,8385193002,R-0107
 <li>Demonstrated organizational savvy with strong relationships across functions and levels.</li>
 <li>A love for the craft and a care for their people.</li>
 </ul>
-<h4><strong>&nbsp;</strong></h4>
+<p>&nbsp;</p>
 <hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$200,000</span><span class=""divider"">&mdash;</span><span>$300,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
 <p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
 <p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
@@ -2318,6 +2427,82 @@ Senior/iOS Engineer II,Engineering,"New York, NY",2025-12-02,8318257002,R-01042,
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
 <p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
 <p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-04-27,Product,Industry
+Staff Product Designer,Product Design,"New York, NY",2025-10-07,8200010002,1224,duolingo,2026-06-05,2026-06-09,0.1629,"New York, NY",https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
+<p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
+<p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
+<hr>
+<h2><strong>About the role</strong></h2>
+<p>This role is a key part of the Design team—Duolingo’s key creative partner across nearly every project. From our mobile apps and website to our brand voice, email newsletters, and community events, the Design team helps shape the full user experience. At Duolingo, we take pride in crafting experiences that are both user-friendly and fun—and we sweat the details to get them just right.</p>
+<p>&nbsp;</p>
+<h4><strong><img style=""max-width: 100%;"" src=""https://careers.duolingo.com/274c0c8ca00d7c576894.svg"" alt=""icon-brain-16px"" width=""17"" data-is360=""0"">&nbsp; You will...</strong></h4>
+<ul>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""2h8g6-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""2h8g6-0-0""><span data-offset-key=""2h8g6-0-0""><span data-text=""true"">Work on the user experience across features within the Duolingo language app</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""5kg9a-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""5kg9a-0-0""><span data-offset-key=""5kg9a-0-0""><span data-text=""true"">Play a </span></span><span id=""popover-trigger-:rp:"" class=""chakra-text css-1j6t0d7""><span data-offset-key=""5kg9a-1-0""><span data-text=""true"">leadership</span></span></span><span data-offset-key=""5kg9a-2-0""><span data-text=""true""> role on the product design team</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""abpc5-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""abpc5-0-0""><span data-offset-key=""abpc5-0-0""><span data-text=""true"">Work collaboratively with designers and artists to build upon and expand the Duolingo design language</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""6lp41-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""6lp41-0-0""><span data-offset-key=""6lp41-0-0""><span data-text=""true"">Partner with engineers and product managers to define both the long-term strategy and the short-term tactics for our products</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""7nkvl-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""7nkvl-0-0""><span data-offset-key=""7nkvl-0-0""><span data-text=""true"">Sometimes work on very broadly defined, loose concepts, and sometimes on narrowly defined, tactical features</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""7d0hk-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""7d0hk-0-0""><span data-offset-key=""7d0hk-0-0""><span data-text=""true"">Work in a highly enthusiastic fashion with the design and product teams</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""8dp6r-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""8dp6r-0-0""><span data-offset-key=""8dp6r-0-0""><span data-text=""true"">Consider all parts when crafting the experience: from copy to animation to business impact</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""70uo1-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""70uo1-0-0""><span data-offset-key=""70uo1-0-0""><span data-text=""true"">Use a mix of internal and third-party AI tools at every step of your creative process</span></span></div>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong><img id=""geom_inter_1726854542099_26_1"" style=""max-width: 100%;"" src=""https://careers.duolingo.com/464e534703b1d6feb15d.svg"" alt=""icon-check-16px"" width=""17"" data-is360=""0"">&nbsp; You have...</strong></h4>
+<ul>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""369gq-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""369gq-0-0""><span data-offset-key=""369gq-0-0""><span data-text=""true"">An online portfolio with mobile app or web design samples</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""89ar0-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""89ar0-0-0""><span data-offset-key=""89ar0-0-0""><span data-text=""true"">Design experience in a consumer application, product, or software role</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""84vmk-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""84vmk-0-0""><span data-offset-key=""84vmk-0-0""><span data-text=""true"">A desire to strive for excellence in your work until all details are attended to</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""4jco2-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""4jco2-0-0""><span data-offset-key=""4jco2-0-0""><span data-text=""true"">The ability to explain your work, process, and decisions, and seek feedback to help you produce your best work</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""4g3d-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""4g3d-0-0""><span data-offset-key=""4g3d-0-0""><span data-text=""true"">Experience ideating, building, and prototyping with AI tools, like ChatGPT and Cursor</span></span></div>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong><img style=""max-width: 100%;"" src=""https://careers.duolingo.com/d26c1c52534fdf7f9587.svg"" alt=""icon-star-16px"" width=""17"" data-is360=""0"">&nbsp; Exceptional candidates will have...</strong></h4>
+<ul>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""f7795-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""f7795-0-0""><span data-offset-key=""f7795-0-0""><span data-text=""true"">Experience with managing early-career designers and an interest in developing design talent</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""abadc-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""abadc-0-0""><span data-offset-key=""abadc-0-0""><span data-text=""true"">Have worked at a high-paced tech start-up</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""b3ou-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""b3ou-0-0""><span data-offset-key=""b3ou-0-0""><span data-text=""true"">Illustration and/or animation skill-set</span></span></div>
+</li>
+<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""9v4mo-0-0"">
+<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""9v4mo-0-0""><span data-offset-key=""9v4mo-0-0""><span data-text=""true"">Experience participating in or leading user research sessions</span></span></div>
+</li>
+<li>Shipped AI-driven products</li>
+</ul>
+<p>&nbsp;</p><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$200,000</span><span class=""divider"">&mdash;</span><span>$300,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
+<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
+<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
+<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
+<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Design,Industry
 Staff Product Designer,Product Design,"Pittsburgh, PA",2025-10-07,8200009002,1224,duolingo,2026-06-05,2026-06-09,0.1717,"New York, NY",https://careers.duolingo.com/jobs/8200009002?gh_jid=8200009002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
 <p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
 <p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
@@ -2390,82 +2575,6 @@ Staff Product Designer,Product Design,"Pittsburgh, PA",2025-10-07,8200009002,122
 </ul>
 <p>&nbsp;</p>
 <hr><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$200,000</span><span class=""divider"">&mdash;</span><span>$300,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
-<p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
-<p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
-<p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
-<p class=""Z7ph2"">Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in&nbsp;<strong>@duolingo.com</strong>&nbsp;or&nbsp;<strong>@recruiting.duolingo.com</strong>. Stay alert and double-check these details before sharing any information.</p>
-<p class=""Z7ph2"">Sign up for job alerts&nbsp;<a href=""http://my.greenhouse.io/users/sign_in?job_board=duolingo"">here</a>.</p></div>",2026-06-03,Design,Industry
-Staff Product Designer,Product Design,"New York, NY",2025-10-07,8200010002,1224,duolingo,2026-06-05,2026-06-09,0.1629,"New York, NY",https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002,"<p class=""Z7ph2"">Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and even though we've made a lot of headway, we still have work to do — and that’s where you come in!</p>
-<p class=""Z7ph2"">Duolingo’s designers care about creating high-quality&nbsp;<a class=""Z7ph2"" href=""https://www.instagram.com/duolingodesign/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=designig_gh_091224"">experiences that look and feel fun</a>. From animators to writers, product designers to researchers, Design brings purpose, feeling, and delight to every interaction with our brand, inside the app and out. As a designer, you’ll join a culture of creativity and craft, where we have a high bar for excellence and an endless curiosity about how to bring more unexpected quirk and fun to the pursuit of learning.&nbsp;</p>
-<p class=""Z7ph2"">Join us in our mission to develop education for our half a billion (and growing!) learners around the world.</p>
-<hr>
-<h2><strong>About the role</strong></h2>
-<p>This role is a key part of the Design team—Duolingo’s key creative partner across nearly every project. From our mobile apps and website to our brand voice, email newsletters, and community events, the Design team helps shape the full user experience. At Duolingo, we take pride in crafting experiences that are both user-friendly and fun—and we sweat the details to get them just right.</p>
-<p>&nbsp;</p>
-<h4><strong><img style=""max-width: 100%;"" src=""https://careers.duolingo.com/274c0c8ca00d7c576894.svg"" alt=""icon-brain-16px"" width=""17"" data-is360=""0"">&nbsp; You will...</strong></h4>
-<ul>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""2h8g6-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""2h8g6-0-0""><span data-offset-key=""2h8g6-0-0""><span data-text=""true"">Work on the user experience across features within the Duolingo language app</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""5kg9a-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""5kg9a-0-0""><span data-offset-key=""5kg9a-0-0""><span data-text=""true"">Play a </span></span><span id=""popover-trigger-:rp:"" class=""chakra-text css-1j6t0d7""><span data-offset-key=""5kg9a-1-0""><span data-text=""true"">leadership</span></span></span><span data-offset-key=""5kg9a-2-0""><span data-text=""true""> role on the product design team</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""abpc5-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""abpc5-0-0""><span data-offset-key=""abpc5-0-0""><span data-text=""true"">Work collaboratively with designers and artists to build upon and expand the Duolingo design language</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""6lp41-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""6lp41-0-0""><span data-offset-key=""6lp41-0-0""><span data-text=""true"">Partner with engineers and product managers to define both the long-term strategy and the short-term tactics for our products</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""7nkvl-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""7nkvl-0-0""><span data-offset-key=""7nkvl-0-0""><span data-text=""true"">Sometimes work on very broadly defined, loose concepts, and sometimes on narrowly defined, tactical features</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""7d0hk-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""7d0hk-0-0""><span data-offset-key=""7d0hk-0-0""><span data-text=""true"">Work in a highly enthusiastic fashion with the design and product teams</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""8dp6r-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""8dp6r-0-0""><span data-offset-key=""8dp6r-0-0""><span data-text=""true"">Consider all parts when crafting the experience: from copy to animation to business impact</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""70uo1-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""70uo1-0-0""><span data-offset-key=""70uo1-0-0""><span data-text=""true"">Use a mix of internal and third-party AI tools at every step of your creative process</span></span></div>
-</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong><img id=""geom_inter_1726854542099_26_1"" style=""max-width: 100%;"" src=""https://careers.duolingo.com/464e534703b1d6feb15d.svg"" alt=""icon-check-16px"" width=""17"" data-is360=""0"">&nbsp; You have...</strong></h4>
-<ul>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""369gq-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""369gq-0-0""><span data-offset-key=""369gq-0-0""><span data-text=""true"">An online portfolio with mobile app or web design samples</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""89ar0-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""89ar0-0-0""><span data-offset-key=""89ar0-0-0""><span data-text=""true"">Design experience in a consumer application, product, or software role</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""84vmk-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""84vmk-0-0""><span data-offset-key=""84vmk-0-0""><span data-text=""true"">A desire to strive for excellence in your work until all details are attended to</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""4jco2-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""4jco2-0-0""><span data-offset-key=""4jco2-0-0""><span data-text=""true"">The ability to explain your work, process, and decisions, and seek feedback to help you produce your best work</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""4g3d-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""4g3d-0-0""><span data-offset-key=""4g3d-0-0""><span data-text=""true"">Experience ideating, building, and prototyping with AI tools, like ChatGPT and Cursor</span></span></div>
-</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong><img style=""max-width: 100%;"" src=""https://careers.duolingo.com/d26c1c52534fdf7f9587.svg"" alt=""icon-star-16px"" width=""17"" data-is360=""0"">&nbsp; Exceptional candidates will have...</strong></h4>
-<ul>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""f7795-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""f7795-0-0""><span data-offset-key=""f7795-0-0""><span data-text=""true"">Experience with managing early-career designers and an interest in developing design talent</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""abadc-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""abadc-0-0""><span data-offset-key=""abadc-0-0""><span data-text=""true"">Have worked at a high-paced tech start-up</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""b3ou-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""b3ou-0-0""><span data-offset-key=""b3ou-0-0""><span data-text=""true"">Illustration and/or animation skill-set</span></span></div>
-</li>
-<li class=""public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"" data-block=""true"" data-editor=""431cp"" data-offset-key=""9v4mo-0-0"">
-<div class=""public-DraftStyleDefault-block public-DraftStyleDefault-ltr"" data-offset-key=""9v4mo-0-0""><span data-offset-key=""9v4mo-0-0""><span data-text=""true"">Experience participating in or leading user research sessions</span></span></div>
-</li>
-<li>Shipped AI-driven products</li>
-</ul>
-<p>&nbsp;</p><div class=""content-pay-transparency""><div class=""pay-input""><div class=""description""><p><em>The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!</em></p></div><div class=""title"">Salary Range: </div><div class=""pay-range""><span>$200,000</span><span class=""divider"">&mdash;</span><span>$300,000 USD</span></div></div></div><div class=""content-conclusion""><p class=""Z7ph2"">Take a peek at how we care for our employees' holistic well-being with our benefits<a class=""Z7ph2"" href=""https://careers.duolingo.com/#benefits"">&nbsp;here</a>.</p>
 <p class=""Z7ph2"">We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact&nbsp;<a class=""Z7ph2"" href=""mailto:accommodations@duolingo.com"" target=""_blank"" data-stringify-link=""mailto:accommodations@duolingo.com"" data-sk=""tooltip_parent"">accommodations@duolingo.com</a>.</p>
 <p class=""Z7ph2"">Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
 <p class=""Z7ph2"">By applying for this position your data will be processed as per the<a class=""Z7ph2"" href=""https://docs.google.com/document/d/e/2PACX-1vTX9GKeRMOMA9Vtm0vfGibrYPYz8ysl0Dg8KSXgj_PxeT5ChsdnNZZWtpxu4t7xillTPGnngnKCjIbV/pub"">&nbsp;Duolingo Applicant Privacy Notice</a>.</p>
