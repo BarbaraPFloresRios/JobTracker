@@ -7,6 +7,8 @@ import pandas as pd
 
 BASE_URL = "https://www.uber.com"
 SEARCH_URL = f"{BASE_URL}/api/loadSearchJobsResults"
+TARGET_COUNTRIES = {"USA", "CHL"}
+
 
 HEADERS = {
     "Accept": "application/json",
@@ -78,11 +80,16 @@ def scrape_uber():
 
     print(f"Uber: {len(current_jobs)} jobs")
 
+    
     for job in current_jobs:
         job_id = job.get("id")
         location = job.get("location") or {}
+        country_code = location.get("country")
 
         if not job_id:
+            continue
+
+        if country_code not in TARGET_COUNTRIES:
             continue
 
         jobs.append({
@@ -92,13 +99,12 @@ def scrape_uber():
             "posted_date": format_date(job.get("creationDate")),
             "job_id": job_id,
             "source": "uber",
-
+            "country_code": country_code,
             "department": job.get("department"),
             "level": job.get("level"),
             "city": location.get("city"),
             "region": location.get("region"),
             "country": location.get("countryName"),
-            "country_code": location.get("country"),
             "primary_location": format_location(location),
             "all_locations": format_all_locations(job.get("allLocations")),
             "employment_type": job.get("timeType"),
