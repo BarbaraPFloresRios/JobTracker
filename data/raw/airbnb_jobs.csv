@@ -1,4 +1,98 @@
 title,team,location,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description_short,description,workplace_type
+"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-09,0.4611,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+Marketplaces Data and AI is Airbnb's data and AI execution org, responsible for the machine learning, data engineering, and analytics systems that power how guests find the right place to stay and how hosts succeed on the platform. We build foundational data products used across Airbnb — by Trust, Customer Support, Search, and every team that needs a reliable, structured view of what is happening on our platform.
+The Core Entities program is the cornerstone of that foundation. It is the company's canonical semantic model for the objects that matter most to Airbnb — hosts, listings, users, and trips — and the events that happen across their lifecycles. This work feeds the intelligence layer that Airbnb's next generation of AI products depends on, and it is one of the top priorities for the company's engineering leadership.
+The Difference You Will Make:
+You will own two closely connected areas:
+Entity Data Foundation
+— The value of a shared entity platform depends entirely on producers shipping high-quality, well-modeled data that downstream teams can actually rely on. You will lead the engineering execution that makes this real: partnering with data-producing teams across the company to onboard their entities to the shared semantic model, driving the attribute serving platform that delivers over 1,700 quality and behavioral signals at production scale, and maintaining the health and governance contracts that give consumers confidence in the data they build on. This is platform work with direct product stakes — the teams consuming this data are building Airbnb's next generation of AI products, and what you ship is the foundation they stand on.
+Trip Intelligence
+— As Airbnb continues to expand beyond Stays, we have an opportunity to more proactively serve our guests and hosts. We are building a holistic, realtime data product (the Trip) to serve as a shared data product not just for analytics, but also to make trips better as they are happening. Trip Intelligence is one of the highest-priority open problems on the roadmap. You will define and build it: own the trip entity schema from first principles, surface and resolve the competing representations currently scattered across reservations, messaging, customer support, and trust systems, and drive the real-time trip intelligence layer that aggregates signals across the trip lifecycle into a structured, queryable, near-real-time view. This signal layer is a direct dependency for proactive trip support, customer support triage, and host-facing AI products.
+The combination is intentional. You are building foundational infrastructure that matters at company scale — and you have a concrete, high-visibility greenfield delivery to anchor your first year.
+A Typical Day:
+Drive entity onboarding with producer teams across the company — unblock teams stuck on data quality issues, resolve schema ambiguity, and close the gap between what the platform promises and what data owners actually experience.
+Lead technical design on the trip entity — data model, lifecycle event taxonomy, real-time streaming architecture, and privacy-safe handling of message and conversation data.
+Closely partner with compute and data infrastructure teams to drive the state-of-the-art for realtime data processing at Airbnb.
+Partner with proactive trip support, customer support triage, and host AI product teams to validate that the signal layer meets their actual use cases, not a spec written in isolation.
+Review designs spanning attribute serving, real-time event pipelines, and cross-system entity mapping.
+Work closely with the principal engineer and program manager on roadmap sequencing and escalation of infrastructure dependencies.
+Manage and develop a team of ~7 engineers — own their careers, not just their sprint output.
+Represent entity platform work in executive-level program reviews; this program is a direct priority for Airbnb's engineering leadership.
+Your Expertise:
+9+ years of industry experience, including 3-5+ years in engineering management
+Bachelor's, Master's, or PhD in Computer Science, Data Engineering, or a related field
+Background in data engineering, platform engineering, or data infrastructure — you understand entity modeling, schema evolution, data contracts, and what it takes to build systems that downstream teams can rely on.
+Hands-on fluency with distributed data systems: batch and streaming pipelines, online and offline serving, or event-driven architectures — sufficient to drive design reviews and challenge engineers on tradeoffs.
+Experience building in a cross-functional platform role — you have navigated the tension between what producers can deliver and what consumers need, and you know how to make progress without direct authority over every team in the chain.
+Comfort with greenfield work: you have built something from a blank schema or an early-stage spec, not just inherited a running system.
+Strong instinct for what belongs in shared infrastructure versus what stays in a product team.
+Clear communicator: able to represent technical decisions to senior leadership and keep producers and consumers aligned across a program with many moving parts.
+Commitment to engineering excellence, diversity, and belonging.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$212,000
+—
+$265,000 USD
+Offices: United States",Live and Work Anywhere
+Compensation Partner,Employee Experience,United States,,7993306,airbnb,2026-06-09,2026-06-09,0.3956,United States,https://careers.airbnb.com/positions/7993306/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Total Rewards Compensation team serves as a strategic advisor to business leaders, managers, and employees across Airbnb. We are compensation experts with a deep understanding of our stakeholders, problem solvers who use data and insights to drive value, and partners who build the tools, models, and frameworks that support sound compensation decision-making across the company. This role sits within the Compensation function and will work closely with the Technology organization and cross-functional partners including Recruiting, People Analytics, Finance, Legal and Talent.
+The Difference You Will Make:
+We are looking for a Technical Compensation Partner to serve as the dedicated compensation partner for the Technology organization, covering Engineering, Infrastructure, Machine Learning, and Data Science. This role will support VP and Director level tech leaders and their Talent Partners as the primary day-to-day compensation resource. The ideal candidate will be a strong business partner and a builder of compensation programs, tools, and data infrastructure, and must be comfortable operating with autonomy in a fast-moving environment.
+A Typical Day:
+Serve as the dedicated compensation partner for the Technology organization, supporting VP and Director level leaders, Talent Directors, and People Partners across Engineering, Infrastructure, ML/AI, and Data Science.
+Act as the primary point of contact for Talent Directors and senior tech leaders on new hire offers, internal equity reviews, leveling decisions, and out-of-cycle requests.
+Own compensation cycle execution for tech client groups end-to-end, including market benchmarking, budget modeling, manager enablement, and leadership rollups.
+Lead competitive intelligence for technical roles by conducting market research on compensation trends, pay practices, and talent movement across AI, ML, and frontier technology companies.
+Develop benchmarking methodologies that supplement traditional survey data with recruiting signals, offer data, and other real-time market sources.
+Partner with Recruiting and People Analytics to provide market insights and competitive positioning recommendations for technical hires at all levels.
+Design and build compensation models, tools, and frameworks tailored to technical roles, incorporating factors such as AI expertise, research impact, and specialized skills.
+Develop AI-powered compensation tools including benchmarking applications, offer-generation tools, and workflow automation to improve team efficiency and decision quality.
+Build self-service dashboards that give recruiting teams, hiring managers, and People Partners direct access to market data and offer guidance.
+Prepare analyses and presentations for senior tech leadership and cross-functional partners, translating market data into clear strategic recommendations.
+Develop enablement materials that help tech managers understand Airbnb's compensation philosophy and make informed decisions.
+Your Expertise:
+8+ years of compensation or analytics experience with depth in technical roles and familiarity with the AI/ML talent market.
+Advanced analytical skills including proficiency in Excel and working knowledge of SQL, Python, or R for data analysis and tool development.
+Proven track record as a compensation business partner for a technical or engineering organization, including ownership of cyclical programs end-to-end.
+Strong knowledge of third-party survey methodologies (Radford/Mercer/Comptryx) and ability to build and validate pay structures across geographies and functions.
+The ideal candidate will have experience leading cross-functional compensation initiatives and must be comfortable navigating ambiguous, fast-moving environments.
+Strong communication skills with a proven ability to present complex compensation data clearly to senior business and technical audiences.
+Preferred Experience/Skills:
+Experience building AI-powered tools or data products, including automated reporting systems or compensation technology prototypes.
+Background in both compensation business partner and programs or analytics roles.
+Experience at a high-growth technology company with exposure to AI, ML, or research-focused organizations.
+Advanced degree in a quantitative field such as Economics, Statistics, or Data Science.
+Experience with Workday Tableau, BI and data analytics and compensation platforms.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$168,000
+—
+$210,000 USD
+Offices: United States",Live and Work Anywhere
 "Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2306,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Creative Director, Social & Content will report to the Director, Social Creative and work PST hours. This leader will oversee multiple Airbnb social workstreams while shaping a cohesive, culturally relevant content ecosystem that blends brand storytelling with social-first execution.
@@ -98,53 +192,6 @@ Spain Annual Pay Range
 —
 €100.000 EUR
 Offices: Barcelona, Spain",Hybrid - Be close to an office
-"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-09,0.447,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-Marketplaces Data and AI is Airbnb's data and AI execution org, responsible for the machine learning, data engineering, and analytics systems that power how guests find the right place to stay and how hosts succeed on the platform. We build foundational data products used across Airbnb — by Trust, Customer Support, Search, and every team that needs a reliable, structured view of what is happening on our platform.
-The Core Entities program is the cornerstone of that foundation. It is the company's canonical semantic model for the objects that matter most to Airbnb — hosts, listings, users, and trips — and the events that happen across their lifecycles. This work feeds the intelligence layer that Airbnb's next generation of AI products depends on, and it is one of the top priorities for the company's engineering leadership.
-The Difference You Will Make:
-You will own two closely connected areas:
-Entity Data Foundation
-— The value of a shared entity platform depends entirely on producers shipping high-quality, well-modeled data that downstream teams can actually rely on. You will lead the engineering execution that makes this real: partnering with data-producing teams across the company to onboard their entities to the shared semantic model, driving the attribute serving platform that delivers over 1,700 quality and behavioral signals at production scale, and maintaining the health and governance contracts that give consumers confidence in the data they build on. This is platform work with direct product stakes — the teams consuming this data are building Airbnb's next generation of AI products, and what you ship is the foundation they stand on.
-Trip Intelligence
-— As Airbnb continues to expand beyond Stays, we have an opportunity to more proactively serve our guests and hosts. We are building a holistic, realtime data product (the Trip) to serve as a shared data product not just for analytics, but also to make trips better as they are happening. Trip Intelligence is one of the highest-priority open problems on the roadmap. You will define and build it: own the trip entity schema from first principles, surface and resolve the competing representations currently scattered across reservations, messaging, customer support, and trust systems, and drive the real-time trip intelligence layer that aggregates signals across the trip lifecycle into a structured, queryable, near-real-time view. This signal layer is a direct dependency for proactive trip support, customer support triage, and host-facing AI products.
-The combination is intentional. You are building foundational infrastructure that matters at company scale — and you have a concrete, high-visibility greenfield delivery to anchor your first year.
-A Typical Day:
-Drive entity onboarding with producer teams across the company — unblock teams stuck on data quality issues, resolve schema ambiguity, and close the gap between what the platform promises and what data owners actually experience.
-Lead technical design on the trip entity — data model, lifecycle event taxonomy, real-time streaming architecture, and privacy-safe handling of message and conversation data.
-Closely partner with compute and data infrastructure teams to drive the state-of-the-art for realtime data processing at Airbnb.
-Partner with proactive trip support, customer support triage, and host AI product teams to validate that the signal layer meets their actual use cases, not a spec written in isolation.
-Review designs spanning attribute serving, real-time event pipelines, and cross-system entity mapping.
-Work closely with the principal engineer and program manager on roadmap sequencing and escalation of infrastructure dependencies.
-Manage and develop a team of ~7 engineers — own their careers, not just their sprint output.
-Represent entity platform work in executive-level program reviews; this program is a direct priority for Airbnb's engineering leadership.
-Your Expertise:
-9+ years of industry experience, including 3-5+ years in engineering management
-Bachelor's, Master's, or PhD in Computer Science, Data Engineering, or a related field
-Background in data engineering, platform engineering, or data infrastructure — you understand entity modeling, schema evolution, data contracts, and what it takes to build systems that downstream teams can rely on.
-Hands-on fluency with distributed data systems: batch and streaming pipelines, online and offline serving, or event-driven architectures — sufficient to drive design reviews and challenge engineers on tradeoffs.
-Experience building in a cross-functional platform role — you have navigated the tension between what producers can deliver and what consumers need, and you know how to make progress without direct authority over every team in the chain.
-Comfort with greenfield work: you have built something from a blank schema or an early-stage spec, not just inherited a running system.
-Strong instinct for what belongs in shared infrastructure versus what stays in a product team.
-Clear communicator: able to represent technical decisions to senior leadership and keep producers and consumers aligned across a program with many moving parts.
-Commitment to engineering excellence, diversity, and belonging.
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$212,000
-—
-$265,000 USD
-Offices: United States",Live and Work Anywhere
 "AI Engineer, Community Support Engineering",Engineering,China - Remote,,7946288,airbnb,2026-06-09,2026-06-09,0.3144,"Beijing, China",https://careers.airbnb.com/positions/7946288/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Your Location:
 This position is China based - Remote
