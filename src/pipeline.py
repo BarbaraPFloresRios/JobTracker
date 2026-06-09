@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+
 from scrapers.mercadolibre import scrape_mercadolibre
 from src.scoring import add_semantic_scores
 from scrapers.apple import scrape_apple
@@ -15,6 +16,7 @@ from scrapers.openai import scrape_openai
 from scrapers.reddit import scrape_reddit
 from scrapers.discord import scrape_discord
 from scrapers.canva import scrape_canva
+
 
 RAW_DATA_DIR = "data/raw"
 
@@ -43,11 +45,25 @@ def normalize_key(series):
     )
 
 
+def print_section(title):
+    width = 80
+    print(f"\n{'═' * width}")
+    print(f"SCRAPING {title.upper()}")
+    print(f"{'═' * width}")
+
+
+def print_phase(title):
+    width = 80
+    print(f"\n{'#' * width}")
+    print(f"  {title.upper()}")
+    print(f"{'#' * width}")
+
+
 def save_jobs(current_jobs, output_path, company=""):
 
     width = 80
     print(f"\n{'═' * width}")
-    print(f"  {company.upper()}")
+    print(f"RESULTS {company.upper()}")
     print(f"{'═' * width}")
 
     today = pd.Timestamp.today().strftime("%Y-%m-%d")
@@ -56,7 +72,6 @@ def save_jobs(current_jobs, output_path, company=""):
 
     current_jobs = current_jobs.copy()
     current_jobs[dedupe_key] = normalize_key(current_jobs[dedupe_key])
-
     current_jobs["last_seen_date"] = today
 
     if os.path.exists(output_path):
@@ -88,7 +103,7 @@ def save_jobs(current_jobs, output_path, company=""):
 
         old_jobs = old_jobs.drop_duplicates(
             subset=[dedupe_key],
-            keep="last"
+            keep="last",
         )
 
         current_jobs["first_seen_date"] = current_jobs[dedupe_key].map(
@@ -102,12 +117,12 @@ def save_jobs(current_jobs, output_path, company=""):
 
         jobs = pd.concat(
             [old_jobs, current_jobs],
-            ignore_index=True
+            ignore_index=True,
         )
 
         jobs = jobs.drop_duplicates(
             subset=[dedupe_key],
-            keep="last"
+            keep="last",
         )
 
     else:
@@ -118,14 +133,14 @@ def save_jobs(current_jobs, output_path, company=""):
     if "posted_date" in jobs.columns:
         jobs["posted_date_sort"] = pd.to_datetime(
             jobs["posted_date"],
-            errors="coerce"
+            errors="coerce",
         )
 
         jobs = (
             jobs
             .sort_values(
                 by=["posted_date_sort", "last_seen_date"],
-                ascending=[False, False]
+                ascending=[False, False],
             )
             .drop(columns=["posted_date_sort"])
         )
@@ -139,50 +154,40 @@ def save_jobs(current_jobs, output_path, company=""):
         "city",
         "state",
         "posted_date",
-
         "job_id",
         "internal_job_id",
         "requisition_id",
         "position_id",
         "source",
-
         "first_seen_date",
         "last_seen_date",
         "semantic_similarity",
-
         "management_level",
         "job_profile",
         "job_category",
         "job_family",
-
         "worker_type",
         "worker_sub_type",
         "schedule_type",
         "time_type",
         "pay_rate_type",
         "scheduled_weekly_hours",
-
         "company_name",
         "education",
         "cost_center",
         "office",
-
         "country",
         "brand",
         "industry",
         "experience_level",
-
         "remote",
         "hybrid",
-
         "recruiting_start_date",
         "target_hire_date",
         "target_hire_end_date",
         "application_deadline",
         "updated_time",
-
         "url",
-
         "description_short",
         "basic_qualifications",
         "preferred_qualifications",
@@ -227,34 +232,31 @@ def run_pipeline():
 
     os.makedirs(RAW_DATA_DIR, exist_ok=True)
 
-    mercadolibre_jobs = scrape_mercadolibre()
-    apple_jobs = scrape_apple()
-    amazon_jobs = scrape_amazon()
-    amazon_science_jobs = scrape_amazon_science()
-    nvidia_jobs = scrape_nvidia()
-    microsoft_jobs = scrape_microsoft()
-    netflix_jobs = scrape_netflix()
-    meta_jobs = scrape_meta()
-    duolingo_jobs = scrape_duolingo()
-    spotify_jobs = scrape_spotify()
-    openai_jobs = scrape_openai()
-    reddit_jobs = scrape_reddit()
-    discord_jobs = scrape_discord()
-    canva_jobs = scrape_canva()
-    
-    save_jobs(mercadolibre_jobs, MERCADOLIBRE_OUTPUT_PATH, "MercadoLibre")
-    save_jobs(apple_jobs, APPLE_OUTPUT_PATH, "Apple")
-    save_jobs(amazon_jobs, AMAZON_OUTPUT_PATH, "Amazon")
-    save_jobs(amazon_science_jobs, AMAZON_SCIENCE_OUTPUT_PATH, "Amazon Science")
-    save_jobs(nvidia_jobs, NVIDIA_OUTPUT_PATH, "NVIDIA")
-    save_jobs(microsoft_jobs, MICROSOFT_OUTPUT_PATH, "Microsoft")
-    save_jobs(netflix_jobs, NETFLIX_OUTPUT_PATH, "Netflix")
-    save_jobs(meta_jobs, META_OUTPUT_PATH, "Meta")
-    save_jobs(duolingo_jobs, DUOLINGO_OUTPUT_PATH, "Duolingo")
-    save_jobs(spotify_jobs, SPOTIFY_OUTPUT_PATH, "Spotify")
-    save_jobs(openai_jobs, OPENAI_OUTPUT_PATH, "OpenAI")
-    save_jobs(reddit_jobs, REDDIT_OUTPUT_PATH, "Reddit")
-    save_jobs(discord_jobs, DISCORD_OUTPUT_PATH, "Discord")
-    save_jobs(canva_jobs, CANVA_OUTPUT_PATH, "Canva")
-    
+    scrapers = [
+        ("MercadoLibre", scrape_mercadolibre, MERCADOLIBRE_OUTPUT_PATH),
+        ("Apple", scrape_apple, APPLE_OUTPUT_PATH),
+        ("Amazon", scrape_amazon, AMAZON_OUTPUT_PATH),
+        ("Amazon Science", scrape_amazon_science, AMAZON_SCIENCE_OUTPUT_PATH),
+        ("NVIDIA", scrape_nvidia, NVIDIA_OUTPUT_PATH),
+        ("Microsoft", scrape_microsoft, MICROSOFT_OUTPUT_PATH),
+        ("Netflix", scrape_netflix, NETFLIX_OUTPUT_PATH),
+        ("Meta", scrape_meta, META_OUTPUT_PATH),
+        ("Duolingo", scrape_duolingo, DUOLINGO_OUTPUT_PATH),
+        ("Spotify", scrape_spotify, SPOTIFY_OUTPUT_PATH),
+        ("OpenAI", scrape_openai, OPENAI_OUTPUT_PATH),
+        ("Reddit", scrape_reddit, REDDIT_OUTPUT_PATH),
+        ("Discord", scrape_discord, DISCORD_OUTPUT_PATH),
+        ("Canva", scrape_canva, CANVA_OUTPUT_PATH),
+    ]
 
+    scraped_jobs = []
+
+    for company, scraper, output_path in scrapers:
+        print_section(company)
+        jobs = scraper()
+        scraped_jobs.append((company, jobs, output_path))
+
+    print_phase("Processing results")
+
+    for company, jobs, output_path in scraped_jobs:
+        save_jobs(jobs, output_path, company)
