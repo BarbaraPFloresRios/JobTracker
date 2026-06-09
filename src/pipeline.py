@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+from src.recent_jobs import build_recent_jobs
+from src.generate_readme import generate_readme
 from scrapers.mercadolibre import scrape_mercadolibre
 from src.scoring import add_semantic_scores
 from scrapers.apple import scrape_apple
@@ -270,3 +272,14 @@ def run_pipeline():
 
     for company, jobs, output_path in scraped_jobs:
         save_jobs(jobs, output_path, company)
+
+    print_phase("Exporting recent jobs")
+
+    recent_jobs = build_recent_jobs()
+    recent_jobs.to_csv("data/recent_jobs.csv", index=False)
+
+    print(f"Saved {len(recent_jobs)} recent jobs to data/recent_jobs.csv")
+    print_phase("Updating README")
+
+    generate_readme()
+    print("Updated README.md")
