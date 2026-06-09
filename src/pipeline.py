@@ -9,13 +9,15 @@ from scrapers.amazon_science import scrape_amazon_science
 from scrapers.nvidia import scrape_nvidia
 from scrapers.microsoft import scrape_microsoft
 from scrapers.netflix import scrape_netflix
+from scrapers.openai import scrape_openai
+from scrapers.anthropic import scrape_anthropic
 from scrapers.meta import scrape_meta
 from scrapers.duolingo import scrape_duolingo
 from scrapers.spotify import scrape_spotify
-from scrapers.openai import scrape_openai
 from scrapers.reddit import scrape_reddit
 from scrapers.discord import scrape_discord
 from scrapers.canva import scrape_canva
+
 
 
 RAW_DATA_DIR = "data/raw"
@@ -28,9 +30,10 @@ NVIDIA_OUTPUT_PATH = f"{RAW_DATA_DIR}/nvidia_jobs.csv"
 MICROSOFT_OUTPUT_PATH = f"{RAW_DATA_DIR}/microsoft_jobs.csv"
 NETFLIX_OUTPUT_PATH = f"{RAW_DATA_DIR}/netflix_jobs.csv"
 META_OUTPUT_PATH = f"{RAW_DATA_DIR}/meta_jobs.csv"
+OPENAI_OUTPUT_PATH = f"{RAW_DATA_DIR}/openai_jobs.csv"
+ANTHROPIC_OUTPUT_PATH = f"{RAW_DATA_DIR}/anthropic_jobs.csv"
 DUOLINGO_OUTPUT_PATH = f"{RAW_DATA_DIR}/duolingo_jobs.csv"
 SPOTIFY_OUTPUT_PATH = f"{RAW_DATA_DIR}/spotify_jobs.csv"
-OPENAI_OUTPUT_PATH = f"{RAW_DATA_DIR}/openai_jobs.csv"
 REDDIT_OUTPUT_PATH = f"{RAW_DATA_DIR}/reddit_jobs.csv"
 DISCORD_OUTPUT_PATH = f"{RAW_DATA_DIR}/discord_jobs.csv"
 CANVA_OUTPUT_PATH = f"{RAW_DATA_DIR}/canva_jobs.csv"
@@ -241,9 +244,10 @@ def run_pipeline():
         ("Microsoft", scrape_microsoft, MICROSOFT_OUTPUT_PATH),
         ("Netflix", scrape_netflix, NETFLIX_OUTPUT_PATH),
         ("Meta", scrape_meta, META_OUTPUT_PATH),
+        ("OpenAI", scrape_openai, OPENAI_OUTPUT_PATH),
+        ("Anthropic", scrape_anthropic, ANTHROPIC_OUTPUT_PATH),
         ("Duolingo", scrape_duolingo, DUOLINGO_OUTPUT_PATH),
         ("Spotify", scrape_spotify, SPOTIFY_OUTPUT_PATH),
-        ("OpenAI", scrape_openai, OPENAI_OUTPUT_PATH),
         ("Reddit", scrape_reddit, REDDIT_OUTPUT_PATH),
         ("Discord", scrape_discord, DISCORD_OUTPUT_PATH),
         ("Canva", scrape_canva, CANVA_OUTPUT_PATH),
