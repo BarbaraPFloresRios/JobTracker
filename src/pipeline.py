@@ -18,6 +18,7 @@ from scrapers.reddit import scrape_reddit
 from scrapers.discord import scrape_discord
 from scrapers.canva import scrape_canva
 from scrapers.uber import scrape_uber
+from scrapers.airbnb import scrape_airbnb
 
 
 
@@ -39,6 +40,7 @@ REDDIT_OUTPUT_PATH = f"{RAW_DATA_DIR}/reddit_jobs.csv"
 DISCORD_OUTPUT_PATH = f"{RAW_DATA_DIR}/discord_jobs.csv"
 CANVA_OUTPUT_PATH = f"{RAW_DATA_DIR}/canva_jobs.csv"
 UBER_OUTPUT_PATH = f"{RAW_DATA_DIR}/uber_jobs.csv"
+AIRBNB_OUTPUT_PATH = f"{RAW_DATA_DIR}/airbnb_jobs.csv"
 
 
 def normalize_key(series):
@@ -254,6 +256,7 @@ def run_pipeline():
         ("Discord", scrape_discord, DISCORD_OUTPUT_PATH),
         ("Canva", scrape_canva, CANVA_OUTPUT_PATH),
         ("Uber", scrape_uber, UBER_OUTPUT_PATH),
+        ("Airbnb", scrape_airbnb, AIRBNB_OUTPUT_PATH),
     ]
 
     scraped_jobs = []
