@@ -1,5 +1,5 @@
 title,team,location,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description_short,description,workplace_type
-"Associate Principal, SOX Analytics",Finance & Accounting,India,,7698274,airbnb,2026-06-09,2026-06-11,0.3913,India,https://careers.airbnb.com/positions/7698274/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Principal, SOX Analytics",Finance & Accounting,India,,7698274,airbnb,2026-06-09,2026-06-11,0.382,India,https://careers.airbnb.com/positions/7698274/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 We are seeking a highly skilled and experienced forward thinking Analytics Engineer professional to join the Financial Controls team. The ideal candidate will be responsible for leveraging data analytics, AI and tooling to build automations around the SOX program, including operational program management, SOX control testing, and reporting. You will play a crucial role in building the long term vision, enhancing our risk assessment capabilities and executing efficient testing under Section 404 of the Sarbanes-Oxley Act of 2002.
 The Difference You Will Make:
@@ -39,58 +39,40 @@ India Annual Pay Range
 —
 ₹4,200,000 INR
 Offices: India",Live and Work Anywhere
-Community Support Forecasting and Demand Planning Analyst,Community Support,United States,,7839229,airbnb,2026-06-09,2026-06-11,0.3227,United States,https://careers.airbnb.com/positions/7839229/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1685,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
-The Community Support org handles tens of millions of interactions yearly, engaging with Airbnb customers by phone, messaging, chat, or social media channels. The group handles hundreds of issues across categories including Cancellations, Account Issues, Refunds, Payments, Reservations, Extenuating Circumstances, Booking & Listing issues, Safety & Claims. The organization is globally distributed with offices in San Francisco, Dublin, Montreal, Seattle, Singapore, Manila, Gurgaon and an extensive partner network serving all regions.
-The Difference You Will Make:
-We are looking for a seasoned Forecasting and Demand Planning Analyst on our Community Support (CS) team. This individual is responsible for demand forecasting and long-term planning across multi-channel contact center operations for our Global Operations team. This role ensures the organization has the right resources, at the right time, with the right skills to meet service level objectives while optimizing cost and productivity.
-The role combines planning, advanced analytics and business partnership to drive scalable, data-driven workforce decisions in a complex, fast-changing environment.
-A Typical Day:
-Demand Forecasting & Statistical Modeling
-Own short-term, mid-term, and long-term demand forecasting across all Global Operations teams and channels (phone, messaging, email, back-office etc.).
-Design, develop, and maintain statistically robust demand forecasting models using time series and machine learning techniques (e.g., exponential smoothing, ARIMA, regression-based models etc.).
-Perform trend, seasonality, and variance decomposition; detect structural breaks, outliers, and demand anomalies.
-Quantify forecast uncertainty through confidence intervals, error distributions, and bias analysis.
-Perform scenario modeling for peak demand periods, product launches, growth initiatives, and unplanned demand events.
-Continuously assess model performance using statistical accuracy metrics (MAPE, RMSE, MAE, bias etc).
-Establish model governance standards, including documentation, validation, back-testing, and post-mortem analysis.
-Research, prototype, and implement new forecasting and optimization techniques as business needs evolve.
-Perform scenario planning and sensitivity analysis to quantify trade-offs between service levels, cost, and utilization.
-Advanced Analytics
-In partnership with the Analytics and Data Engineering team, design and build scalable planning data pipelines, dashboards, and automate forecasting and capacity models to improve scalability, repeatability, and timeliness.
-Use SQL and Python to extract, transform, and analyze large-scale operational datasets to monitor forecast accuracy, capacity gaps, utilization, and operational risk.
-Decision Support & Stakeholder Communication
-Present forecast assumptions, methodologies, risks, trade-offs, and recommendations in clear, executive-ready formats and act as a trusted advisor to senior leadership and participate in demand/capacity planning discussions in cross-functional forums.
-Align cross-functional stakeholders (Delivery, Product, Finance, HR, and others) to embed planning outputs into execution and operational decision-making.
-Identify and implement process improvements, automation, and best practices in the demand and capacity planning area to optimize cost while maintaining or improving customer experience and service-level outcomes.
-Your Expertise:
-10+ years of experience in demand forecasting, capacity planning, workforce analytics, or applied analytics.
-Bachelor’s degree in Mathematics, Statistics, Operations Research, Engineering, Economics, Data Science, or a related quantitative field.
-Strong foundation in probability, statistics, and optimization.
-Hands-on experience building and validating forecasting models (time series analysis, exponential smoothing, ARIMA, regression, hypothesis testing) and capacity models (Erlang, queueing theory, service-level and utilization modeling).
-Strong understanding of contact center metrics (AHT, ASA, service level, shrinkage, occupancy); experience supporting large-scale, multi-site, or global contact center environments preferred.
-Advanced analytical skills with strong proficiency in Excel, Google Sheets, SQL, Python and data visualization tools such as Tableau.
-Experience with WFM tools (e.g., NICE, Verint, Aspect) or planning platforms (e.g., Anaplan) preferred.
-Strong business acumen with the ability to balance cost efficiency and customer experience outcomes.
-Excellent communication, executive presentation, and stakeholder influence skills; ability to explain complex analytical concepts to non-technical audiences.
-Comfortable operating in fast-paced, ambiguous, and highly dynamic environments.
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+The Airbnb Hotels team, which includes HotelTonight, is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence, and guest-centered ethos that define Airbnb. This team’s mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping independent, boutique hotels easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.
+The Difference You Will Make
+As an Account Executive, you will be responsible for converting leads into net‑new supply to support new-market launches and at pace to hit quarterly goals. Working the full sales funnel, you will proactively turn cold leads into warm sales opportunities helping to build the Hotels category’s market presence in the process through collaboration with other teams. This includes partnering, strategizing, and running daily operations directly with independent, boutique hotels , and ensuring that Airbnb always has the best hotel inventory and deals available  to our guests.
+This role is based in Paris (hybrid, 2-3 days a week in the office).  It will start off as a 12-month FTC with the potential for conversion depending on individual performance.
+A Typical Day
+Meet and exceed KPIs by owning the performance and success of assigned region
+Prospect new potential hotels through external research, networking, and use of Airbnb tools
+Securing new hotels involves targeted sales strategies and negotiating and closing the deals
+Expertly position and communicate Airbnb’s value proposition to new partners via phone, email, and in-person
+Add net new hotels by qualifying and moving leads through the funnel as quickly as possible, achieving defined quarterly goals
+Find supply in and launch new markets: Own market launches including supporting lead generation and coordinating cross functionally
+Support hotel onboarding as needed from won sales opportunities
+Implement scalable strategies that drive maximum business impact across a wide range of hotel partners
+Effectively promote and build strong relationships with hotel and serviced apartment partners by demonstrating comprehensive knowledge of our platforms and confidently pitching their value
+Your Expertise
+6+ years of professional experience, preferably in a fast growing startup tech or hospitality company working in sales and/or account management
+Previous hospitality experience is a plus
+Strong language proficiency in both English and French
+The ability to get things done with constantly changing priorities, projects and deadlines
+Excellent communication, organizational, and analytical skills; detail-oriented but moves fast
+Ability to establish strong relationships with and influence partners
+Capacity to balance day-to-day responsibilities with longer-term strategic execution
+You’re a quick learner and you’re fearless about doing whatever it takes to get the job done, even if it means making mistakes along the way
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
 How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$168,000
+The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, benefits, and Employee Travel Credits.
+France Annual Pay Range
+€61.000
 —
-$210,000 USD
-Offices: United States",Live and Work Anywhere
+€72.000 EUR
+Offices: Paris, France",Hybrid - Be close to an office
 Business Operations and Growth Lead,Strategy & Planning,"Sydney, Australia",,7999656,airbnb,2026-06-11,2026-06-11,0.1211,"Sydney, Australia",https://careers.airbnb.com/positions/7999656/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Every day, Airbnb hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. Since our founding, more than 5 million hosts have welcomed over 1.5 billion guest arrivals in almost every country across the globe.
@@ -246,6 +228,53 @@ Germany Annual Pay Range
 —
 €84.000 EUR
 Offices: Berlin, Germany",Hybrid - Be close to an office
+Compensation Partner,Employee Experience,United States,,7993306,airbnb,2026-06-09,2026-06-11,0.3956,United States,https://careers.airbnb.com/positions/7993306/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Total Rewards Compensation team serves as a strategic advisor to business leaders, managers, and employees across Airbnb. We are compensation experts with a deep understanding of our stakeholders, problem solvers who use data and insights to drive value, and partners who build the tools, models, and frameworks that support sound compensation decision-making across the company. This role sits within the Compensation function and will work closely with the Technology organization and cross-functional partners including Recruiting, People Analytics, Finance, Legal and Talent.
+The Difference You Will Make:
+We are looking for a Technical Compensation Partner to serve as the dedicated compensation partner for the Technology organization, covering Engineering, Infrastructure, Machine Learning, and Data Science. This role will support VP and Director level tech leaders and their Talent Partners as the primary day-to-day compensation resource. The ideal candidate will be a strong business partner and a builder of compensation programs, tools, and data infrastructure, and must be comfortable operating with autonomy in a fast-moving environment.
+A Typical Day:
+Serve as the dedicated compensation partner for the Technology organization, supporting VP and Director level leaders, Talent Directors, and People Partners across Engineering, Infrastructure, ML/AI, and Data Science.
+Act as the primary point of contact for Talent Directors and senior tech leaders on new hire offers, internal equity reviews, leveling decisions, and out-of-cycle requests.
+Own compensation cycle execution for tech client groups end-to-end, including market benchmarking, budget modeling, manager enablement, and leadership rollups.
+Lead competitive intelligence for technical roles by conducting market research on compensation trends, pay practices, and talent movement across AI, ML, and frontier technology companies.
+Develop benchmarking methodologies that supplement traditional survey data with recruiting signals, offer data, and other real-time market sources.
+Partner with Recruiting and People Analytics to provide market insights and competitive positioning recommendations for technical hires at all levels.
+Design and build compensation models, tools, and frameworks tailored to technical roles, incorporating factors such as AI expertise, research impact, and specialized skills.
+Develop AI-powered compensation tools including benchmarking applications, offer-generation tools, and workflow automation to improve team efficiency and decision quality.
+Build self-service dashboards that give recruiting teams, hiring managers, and People Partners direct access to market data and offer guidance.
+Prepare analyses and presentations for senior tech leadership and cross-functional partners, translating market data into clear strategic recommendations.
+Develop enablement materials that help tech managers understand Airbnb's compensation philosophy and make informed decisions.
+Your Expertise:
+8+ years of compensation or analytics experience with depth in technical roles and familiarity with the AI/ML talent market.
+Advanced analytical skills including proficiency in Excel and working knowledge of SQL, Python, or R for data analysis and tool development.
+Proven track record as a compensation business partner for a technical or engineering organization, including ownership of cyclical programs end-to-end.
+Strong knowledge of third-party survey methodologies (Radford/Mercer/Comptryx) and ability to build and validate pay structures across geographies and functions.
+The ideal candidate will have experience leading cross-functional compensation initiatives and must be comfortable navigating ambiguous, fast-moving environments.
+Strong communication skills with a proven ability to present complex compensation data clearly to senior business and technical audiences.
+Preferred Experience/Skills:
+Experience building AI-powered tools or data products, including automated reporting systems or compensation technology prototypes.
+Background in both compensation business partner and programs or analytics roles.
+Experience at a high-growth technology company with exposure to AI, ML, or research-focused organizations.
+Advanced degree in a quantitative field such as Economics, Statistics, or Data Science.
+Experience with Workday Tableau, BI and data analytics and compensation platforms.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$168,000
+—
+$210,000 USD
+Offices: United States",Live and Work Anywhere
 "Community Engagement Lead, Spain and Portugal",Business Operations/Analysis,"Barcelona, Spain",,7982715,airbnb,2026-06-09,2026-06-11,0.126,"Barcelona, Spain",https://careers.airbnb.com/positions/7982715/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Every day, millions of Airbnb hosts around the world create comfortable, reliable and welcoming stays and Experiences for our guests. Hosting on Airbnb offers a unique way to meet our Hosts’ financial goals but the rewards for opening their home or sharing a passion go beyond their bank account. Hosting also offers the opportunity to impact their local community, share their culture and connect with people they wouldn’t have met otherwise.
@@ -572,6 +601,58 @@ $157,000
 —
 $172,000 USD
 Offices: United States",Live and Work Anywhere
+Community Support Forecasting and Demand Planning Analyst,Community Support,United States,,7839229,airbnb,2026-06-09,2026-06-11,0.3145,United States,https://careers.airbnb.com/positions/7839229/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Community Support org handles tens of millions of interactions yearly, engaging with Airbnb customers by phone, messaging, chat, or social media channels. The group handles hundreds of issues across categories including Cancellations, Account Issues, Refunds, Payments, Reservations, Extenuating Circumstances, Booking & Listing issues, Safety & Claims. The organization is globally distributed with offices in San Francisco, Dublin, Montreal, Seattle, Singapore, Manila, Gurgaon and an extensive partner network serving all regions.
+The Difference You Will Make:
+We are looking for a seasoned Forecasting and Demand Planning Analyst on our Community Support (CS) team. This individual is responsible for demand forecasting and long-term planning across multi-channel contact center operations for our Global Operations team. This role ensures the organization has the right resources, at the right time, with the right skills to meet service level objectives while optimizing cost and productivity.
+The role combines planning, advanced analytics and business partnership to drive scalable, data-driven workforce decisions in a complex, fast-changing environment.
+A Typical Day:
+Demand Forecasting & Statistical Modeling
+Own short-term, mid-term, and long-term demand forecasting across all Global Operations teams and channels (phone, messaging, email, back-office etc.).
+Design, develop, and maintain statistically robust demand forecasting models using time series and machine learning techniques (e.g., exponential smoothing, ARIMA, regression-based models etc.).
+Perform trend, seasonality, and variance decomposition; detect structural breaks, outliers, and demand anomalies.
+Quantify forecast uncertainty through confidence intervals, error distributions, and bias analysis.
+Perform scenario modeling for peak demand periods, product launches, growth initiatives, and unplanned demand events.
+Continuously assess model performance using statistical accuracy metrics (MAPE, RMSE, MAE, bias etc).
+Establish model governance standards, including documentation, validation, back-testing, and post-mortem analysis.
+Research, prototype, and implement new forecasting and optimization techniques as business needs evolve.
+Perform scenario planning and sensitivity analysis to quantify trade-offs between service levels, cost, and utilization.
+Advanced Analytics
+In partnership with the Analytics and Data Engineering team, design and build scalable planning data pipelines, dashboards, and automate forecasting and capacity models to improve scalability, repeatability, and timeliness.
+Use SQL and Python to extract, transform, and analyze large-scale operational datasets to monitor forecast accuracy, capacity gaps, utilization, and operational risk.
+Decision Support & Stakeholder Communication
+Present forecast assumptions, methodologies, risks, trade-offs, and recommendations in clear, executive-ready formats and act as a trusted advisor to senior leadership and participate in demand/capacity planning discussions in cross-functional forums.
+Align cross-functional stakeholders (Delivery, Product, Finance, HR, and others) to embed planning outputs into execution and operational decision-making.
+Identify and implement process improvements, automation, and best practices in the demand and capacity planning area to optimize cost while maintaining or improving customer experience and service-level outcomes.
+Your Expertise:
+10+ years of experience in demand forecasting, capacity planning, workforce analytics, or applied analytics.
+Bachelor’s degree in Mathematics, Statistics, Operations Research, Engineering, Economics, Data Science, or a related quantitative field.
+Strong foundation in probability, statistics, and optimization.
+Hands-on experience building and validating forecasting models (time series analysis, exponential smoothing, ARIMA, regression, hypothesis testing) and capacity models (Erlang, queueing theory, service-level and utilization modeling).
+Strong understanding of contact center metrics (AHT, ASA, service level, shrinkage, occupancy); experience supporting large-scale, multi-site, or global contact center environments preferred.
+Advanced analytical skills with strong proficiency in Excel, Google Sheets, SQL, Python and data visualization tools such as Tableau.
+Experience with WFM tools (e.g., NICE, Verint, Aspect) or planning platforms (e.g., Anaplan) preferred.
+Strong business acumen with the ability to balance cost efficiency and customer experience outcomes.
+Excellent communication, executive presentation, and stakeholder influence skills; ability to explain complex analytical concepts to non-technical audiences.
+Comfortable operating in fast-paced, ambiguous, and highly dynamic environments.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$168,000
+—
+$210,000 USD
+Offices: United States",Live and Work Anywhere
 "Associate Legal Counsel, Japan",Legal,"Tokyo, Japan",,7789554,airbnb,2026-06-09,2026-06-11,0.1934,"Tokyo, Japan",https://careers.airbnb.com/positions/7789554/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Airbnb’s Legal team embodies the company’s innovative, forward-thinking spirit. At the frontier of the sharing economy, Airbnb is breaking new ground in matters of policy, law, and government relations. Where some see obstacles, we see the opportunity to find creative, practical solutions, right at the cutting edge. Our adventurous, fast-moving legal team is committed to building a team of talented, collaborative and self-motivated legal professionals across the globe who believe in Airbnb’s mission and leading as a 21st century company.
@@ -699,40 +780,6 @@ $140
 —
 $150 USD
 Offices: United States",Live and Work Anywhere
-Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1409,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-The Airbnb Hotels team, which includes HotelTonight, is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence, and guest-centered ethos that define Airbnb. This team’s mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping independent, boutique hotels easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.
-The Difference You Will Make
-As an Account Executive, you will be responsible for converting leads into net‑new supply to support new-market launches and at pace to hit quarterly goals. Working the full sales funnel, you will proactively turn cold leads into warm sales opportunities helping to build the Hotels category’s market presence in the process through collaboration with other teams. This includes partnering, strategizing, and running daily operations directly with independent, boutique hotels , and ensuring that Airbnb always has the best hotel inventory and deals available  to our guests.
-This role is based in Paris (hybrid, 2-3 days a week in the office).  It will start off as a 12-month FTC with the potential for conversion depending on individual performance.
-A Typical Day
-Meet and exceed KPIs by owning the performance and success of assigned region
-Prospect new potential hotels through external research, networking, and use of Airbnb tools
-Securing new hotels involves targeted sales strategies and negotiating and closing the deals
-Expertly position and communicate Airbnb’s value proposition to new partners via phone, email, and in-person
-Add net new hotels by qualifying and moving leads through the funnel as quickly as possible, achieving defined quarterly goals
-Find supply in and launch new markets: Own market launches including supporting lead generation and coordinating cross functionally
-Support hotel onboarding as needed from won sales opportunities
-Implement scalable strategies that drive maximum business impact across a wide range of hotel partners
-Effectively promote and build strong relationships with hotel and serviced apartment partners by demonstrating comprehensive knowledge of our platforms and confidently pitching their value
-Your Expertise
-6+ years of professional experience, preferably in a fast growing startup tech or hospitality company working in sales and/or account management
-Previous hospitality experience is a plus
-Strong language proficiency in both English and French
-The ability to get things done with constantly changing priorities, projects and deadlines
-Excellent communication, organizational, and analytical skills; detail-oriented but moves fast
-Ability to establish strong relationships with and influence partners
-Capacity to balance day-to-day responsibilities with longer-term strategic execution
-You’re a quick learner and you’re fearless about doing whatever it takes to get the job done, even if it means making mistakes along the way
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-How We'll Take Care of You:
-The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, benefits, and Employee Travel Credits.
-France Annual Pay Range
-€61.000
-—
-€72.000 EUR
-Offices: Paris, France",Hybrid - Be close to an office
 Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-11,0.2046,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 Airbnb is seeking a Strategic Partnerships & Business Development Lead for Canada, reporting to the Country Manager, Canada.
@@ -883,54 +930,7 @@ $63,000
 —
 $63,000 CAD
 Offices: Canada",Live and Work Anywhere
-Compensation Partner,Employee Experience,United States,,7993306,airbnb,2026-06-09,2026-06-10,0.4232,United States,https://careers.airbnb.com/positions/7993306/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-The Total Rewards Compensation team serves as a strategic advisor to business leaders, managers, and employees across Airbnb. We are compensation experts with a deep understanding of our stakeholders, problem solvers who use data and insights to drive value, and partners who build the tools, models, and frameworks that support sound compensation decision-making across the company. This role sits within the Compensation function and will work closely with the Technology organization and cross-functional partners including Recruiting, People Analytics, Finance, Legal and Talent.
-The Difference You Will Make:
-We are looking for a Technical Compensation Partner to serve as the dedicated compensation partner for the Technology organization, covering Engineering, Infrastructure, Machine Learning, and Data Science. This role will support VP and Director level tech leaders and their Talent Partners as the primary day-to-day compensation resource. The ideal candidate will be a strong business partner and a builder of compensation programs, tools, and data infrastructure, and must be comfortable operating with autonomy in a fast-moving environment.
-A Typical Day:
-Serve as the dedicated compensation partner for the Technology organization, supporting VP and Director level leaders, Talent Directors, and People Partners across Engineering, Infrastructure, ML/AI, and Data Science.
-Act as the primary point of contact for Talent Directors and senior tech leaders on new hire offers, internal equity reviews, leveling decisions, and out-of-cycle requests.
-Own compensation cycle execution for tech client groups end-to-end, including market benchmarking, budget modeling, manager enablement, and leadership rollups.
-Lead competitive intelligence for technical roles by conducting market research on compensation trends, pay practices, and talent movement across AI, ML, and frontier technology companies.
-Develop benchmarking methodologies that supplement traditional survey data with recruiting signals, offer data, and other real-time market sources.
-Partner with Recruiting and People Analytics to provide market insights and competitive positioning recommendations for technical hires at all levels.
-Design and build compensation models, tools, and frameworks tailored to technical roles, incorporating factors such as AI expertise, research impact, and specialized skills.
-Develop AI-powered compensation tools including benchmarking applications, offer-generation tools, and workflow automation to improve team efficiency and decision quality.
-Build self-service dashboards that give recruiting teams, hiring managers, and People Partners direct access to market data and offer guidance.
-Prepare analyses and presentations for senior tech leadership and cross-functional partners, translating market data into clear strategic recommendations.
-Develop enablement materials that help tech managers understand Airbnb's compensation philosophy and make informed decisions.
-Your Expertise:
-8+ years of compensation or analytics experience with depth in technical roles and familiarity with the AI/ML talent market.
-Advanced analytical skills including proficiency in Excel and working knowledge of SQL, Python, or R for data analysis and tool development.
-Proven track record as a compensation business partner for a technical or engineering organization, including ownership of cyclical programs end-to-end.
-Strong knowledge of third-party survey methodologies (Radford/Mercer/Comptryx) and ability to build and validate pay structures across geographies and functions.
-The ideal candidate will have experience leading cross-functional compensation initiatives and must be comfortable navigating ambiguous, fast-moving environments.
-Strong communication skills with a proven ability to present complex compensation data clearly to senior business and technical audiences.
-Preferred Experience/Skills:
-Experience building AI-powered tools or data products, including automated reporting systems or compensation technology prototypes.
-Background in both compensation business partner and programs or analytics roles.
-Experience at a high-growth technology company with exposure to AI, ML, or research-focused organizations.
-Advanced degree in a quantitative field such as Economics, Statistics, or Data Science.
-Experience with Workday Tableau, BI and data analytics and compensation platforms.
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$168,000
-—
-$210,000 USD
-Offices: United States",Live and Work Anywhere
-"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-10,0.2648,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-10,0.2635,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Creative Director, Social & Content will report to the Director, Social Creative and work PST hours. This leader will oversee multiple Airbnb social workstreams while shaping a cohesive, culturally relevant content ecosystem that blends brand storytelling with social-first execution.
 Airbnb is seeking a visionary creative leader who operates at the intersection of content, culture, and brand. This role is part of our internal, multidisciplinary Creative Team—partnering across marketing, product, comms, and external creators to develop ideas that travel across platforms and live beyond campaigns.
@@ -977,7 +977,7 @@ $208,000
 —
 $260,000 USD
 Offices: United States",Live and Work Anywhere
-"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-06-10,0.3334,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-06-10,0.3331,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Community Support (CS) is a key driver in enabling Airbnb's core business. The Community Support Engineering (CSE) organization builds world-class tools for our team of Community Support ambassadors around the world as well as our operations teams, to ensure our guests and hosts have a great experience on Airbnb, 24/7, and 365 days a year.
 Within CSE, China Routing and Data Service(CRD) Team works together with our US partners to co-own the CS foundations systems for our community. We are building the routing systems to efficiently connect our guests and hosts requests to the best agent, leveraging skills-based routing, context, and urgency signals;  we are building CS data services providing the trusted data foundation that powers AI-driven solutions.
@@ -1020,7 +1020,7 @@ This position is working remotely within China Mainland. The role may include oc
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: China",Live and Work Anywhere
-"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-09,0.4605,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-09,0.4606,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Marketplaces Data and AI is Airbnb's data and AI execution org, responsible for the machine learning, data engineering, and analytics systems that power how guests find the right place to stay and how hosts succeed on the platform. We build foundational data products used across Airbnb — by Trust, Customer Support, Search, and every team that needs a reliable, structured view of what is happening on our platform.
 The Core Entities program is the cornerstone of that foundation. It is the company's canonical semantic model for the objects that matter most to Airbnb — hosts, listings, users, and trips — and the events that happen across their lifecycles. This work feeds the intelligence layer that Airbnb's next generation of AI products depends on, and it is one of the top priorities for the company's engineering leadership.
