@@ -120,6 +120,12 @@ def scrape_spotify():
     if df.empty:
         return df
 
+    df = df[
+        df["country"]
+        .fillna("")
+        .eq("US")
+    ].copy()
+
     df = df.drop_duplicates(
         subset=["job_id"],
         keep="first",
