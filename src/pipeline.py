@@ -67,7 +67,6 @@ def print_phase(title):
     print(f"  {title.upper()}")
     print(f"{'#' * width}")
 
-
 def save_jobs(current_jobs, output_path, company=""):
 
     width = 80
@@ -75,13 +74,22 @@ def save_jobs(current_jobs, output_path, company=""):
     print(f"RESULTS {company.upper()}")
     print(f"{'═' * width}")
 
-    today = pd.Timestamp.today().strftime("%Y-%m-%d")
+    if current_jobs.empty:
+        print(f"{company}: no jobs found; skipping.")
+        return pd.DataFrame()
 
     dedupe_key = "job_id" if "job_id" in current_jobs.columns else "url"
+
+    if dedupe_key not in current_jobs.columns:
+        print(f"{company}: no valid jobs found; skipping.")
+        return pd.DataFrame()
+
+    today = pd.Timestamp.today().strftime("%Y-%m-%d")
 
     current_jobs = current_jobs.copy()
     current_jobs[dedupe_key] = normalize_key(current_jobs[dedupe_key])
     current_jobs["last_seen_date"] = today
+
 
     if os.path.exists(output_path):
         old_jobs = pd.read_csv(output_path)

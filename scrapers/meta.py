@@ -7,7 +7,7 @@ from playwright.async_api import async_playwright
 
 
 BASE_URL = "https://www.metacareers.com"
-JOBS_URL = f"{BASE_URL}/jobs/"
+SEARCH_URL = f"{BASE_URL}/jobsearch/"
 
 MAX_PAGES = 5
 
@@ -15,102 +15,115 @@ MAX_PAGES = 5
 def clean_html_text(text):
     if not text:
         return None
+
     text = re.sub(r"<br\s*/?>", "\n", text)
     text = re.sub(r"<.*?>", "", text)
     text = unescape(text)
     text = re.sub(r"\n+", "\n", text)
     text = re.sub(r"[ \t]+", " ", text)
+
     return text.strip()
 
 
-def format_date(date_value):
-    if not date_value:
+def extract_meta_job_id(url):
+    match = re.search(r"/profile/job_details/(\d+)", url)
+    return match.group(1) if match else None
+
+
+def build_meta_url(href):
+    if not href:
         return None
-    date = pd.to_datetime(date_value, unit="s", errors="coerce")
-    if pd.isna(date):
-        date = pd.to_datetime(date_value, errors="coerce")
-    return date.strftime("%Y-%m-%d") if pd.notna(date) else None
+
+    if href.startswith("http"):
+        return href
+
+    return BASE_URL + href
 
 
 async def scrape_meta_async():
-    all_jobs = []
+    jobs = []
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
         page = await context.new_page()
 
-        async def handle_response(response):
-            if "graphql" not in response.url:
-                return
-            try:
-                friendly = response.request.headers.get("x-fb-friendly-name", "")
-                if "CareersJobSearchResultsDataQuery" not in friendly:
-                    return
-                body = await response.json()
-                page_jobs = (
-                    body.get("data", {})
-                    .get("job_search_with_featured_jobs", {})
-                    .get("all_jobs", [])
-                )
-                if page_jobs:
-                    all_jobs.extend(page_jobs)
-            except Exception:
-                pass
+        for page_number in range(1, MAX_PAGES + 1):
+            url = f"{SEARCH_URL}?page={page_number}"
 
-        page.on("response", handle_response)
+            await page.goto(
+                url,
+                wait_until="networkidle",
+                timeout=60000,
+            )
 
-        for i in range(MAX_PAGES):
-            if i == 0:
-                await page.goto(JOBS_URL, wait_until="networkidle", timeout=60000)
-                await page.wait_for_timeout(3000)
-                print(f"Meta page 1: {len(all_jobs)} jobs")
-            else:
-                try:
-                    btn = page.get_by_role("button", name="Load more jobs")
-                    await btn.wait_for(timeout=5000)
-                    await btn.click()
-                    await page.wait_for_timeout(3000)
-                    print(f"Meta page {i + 1}: {len(all_jobs)} jobs")
-                except Exception:
-                    break
+            await page.wait_for_timeout(3000)
+
+            job_links = page.locator(
+                "a[href*='/profile/job_details/']"
+            )
+
+            count = await job_links.count()
+
+            if count == 0:
+                break
+
+            print(f"Meta page {page_number}: {count} jobs")
+
+            for i in range(count):
+                link = job_links.nth(i)
+
+                href = await link.get_attribute("href")
+                text = await link.inner_text()
+
+                if not href or not text:
+                    continue
+
+                job_url = build_meta_url(href)
+                job_id = extract_meta_job_id(job_url)
+
+                parts = [
+                    part.strip()
+                    for part in text.splitlines()
+                    if part.strip()
+                ]
+
+                title = parts[0] if len(parts) > 0 else None
+                location = parts[1] if len(parts) > 1 else None
+
+                tags = [
+                    part
+                    for part in parts[2:]
+                    if part != "⋅"
+                    and not part.startswith("Multiple Locations")
+                ]
+
+                jobs.append({
+                    "title": title,
+                    "team": "; ".join(tags) if tags else None,
+                    "location": location,
+                    "posted_date": None,
+
+                    "job_id": job_id,
+                    "source": "meta",
+
+                    "url": job_url,
+
+                    "description_short": clean_html_text(text),
+                    "description": None,
+                })
 
         await browser.close()
-
-    jobs = []
-    seen = set()
-
-    for job in all_jobs:
-        job_id = str(job.get("id", ""))
-        if not job_id or job_id in seen:
-            continue
-        seen.add(job_id)
-
-        teams = job.get("teams", [])
-        sub_teams = job.get("sub_teams", [])
-        locations = job.get("locations", [])
-
-        jobs.append({
-            "title": job.get("title"),
-            "team": "; ".join(teams) if teams else None,
-            "location": "; ".join(locations) if locations else None,
-            "posted_date": format_date(
-                job.get("created_time") or job.get("updated_time")
-            ),
-            "job_id": job_id,
-            "source": "meta",
-            "sub_team": "; ".join(sub_teams) if sub_teams else None,
-            "url": f"{BASE_URL}/jobs/{job_id}/",
-            "description": clean_html_text(job.get("description")),
-        })
 
     df = pd.DataFrame(jobs)
 
     if df.empty:
         return df
 
-    df = df.drop_duplicates(subset=["job_id"], keep="first")
-    df = df.sort_values("posted_date", ascending=False, na_position="last")
+    df = df.drop_duplicates(
+        subset=["job_id"],
+        keep="first",
+    )
 
     return df
 
