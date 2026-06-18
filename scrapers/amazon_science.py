@@ -28,6 +28,7 @@ def extract_amazon_job_id(job_path):
     match = re.search(r"/jobs/(\d+)", job_path)
     return match.group(1) if match else None
 
+
 def extract_location(text):
     if not text:
         return None
@@ -118,6 +119,12 @@ def scrape_amazon_science():
 
     if df.empty:
         return df
+    
+    df = df[
+        df["location"]
+        .fillna("")
+        .str.startswith("US,")
+    ].copy()
 
     df = df.drop_duplicates(
         subset=["job_id"],
