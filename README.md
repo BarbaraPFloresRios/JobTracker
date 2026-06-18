@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Software Development Engineer, Data Platform , Fauna](https://www.amazon.jobs/en/jobs/10442471/software-development-engineer-data-platform-fauna) | amazon | US, NY, New York | 0.6584 | 2026-06-08 |
-| [Warehouse Procurement Manager, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10442433/warehouse-procurement-manager-aws-cloud-logistics) | amazon | US, TX, Austin | 0.6092 | 2026-06-08 |
-| [Zappos Data Scientist II, Zappos/Shopbop Catalog Engineering](https://www.amazon.jobs/en/jobs/10442413/zappos-data-scientist-ii-zappos-shopbop-catalog-engineering) | amazon | US, WI, Madison | 0.5987 | 2026-06-08 |
-| [Senior Applied Scientist, Applied AI Solutions GTM](https://www.amazon.jobs/en/jobs/10442312/senior-applied-scientist-applied-ai-solutions-gtm) | amazon | US, TX, Dallas | 0.5865 | 2026-06-08 |
-| [Data Center Manager, Data Center Operations](https://www.amazon.jobs/en/jobs/10442744/data-center-manager-data-center-operations) | amazon | US, GA, Hampton | 0.5826 | 2026-06-08 |
-| [Financial Analyst, Worldwide Real Estate](https://www.amazon.jobs/en/jobs/10443035/financial-analyst-worldwide-real-estate) | amazon | US, VA, Arlington | 0.5821 | 2026-06-09 |
-| [Senior GTM Programs & Initiatives Lead, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10442020/senior-gtm-programs-initiatives-lead-applied-ai-solutions) | amazon | US, WA, Seattle | 0.5643 | 2026-06-08 |
-| [Applied Scientist I, Sponsored Products and Brands Agent](https://www.amazon.jobs/en/jobs/10443015/applied-scientist-i-sponsored-products-and-brands-agent) | amazon | US, NY, New York | 0.5608 | 2026-06-08 |
-| [Sr. Applied Scientist, C360](https://www.amazon.jobs/jobs/10442940/sr-applied-scientist-c-?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5526 | 2026-06-09 |
-| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10443113/finance-manager-ww-ops-finance-cf-support) | amazon | US, TN, Nashville | 0.5507 | 2026-06-09 |
-| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10443115/finance-manager-ww-ops-finance-cf-support) | amazon | US, VA, Arlington | 0.5470 | 2026-06-09 |
-| [Senior Applied Scientist, C360](https://www.amazon.jobs/jobs/10442941/senior-applied-scientist-c?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5466 | 2026-06-09 |
-| [Technical Program Manager, Marketing Technology](https://job-boards.greenhouse.io/anthropic/jobs/5108854008) | anthropic | San Francisco, CA | 0.5446 | 2026-06-08 |
-| [Senior Business Manager, Data Center Safety, Security, and Environmental](https://www.amazon.jobs/en/jobs/10442925/senior-business-manager-data-center-safety-security-and-environmental) | amazon | US, VA, Herndon | 0.5430 | 2026-06-08 |
-| [Sr. Customer Solutions Manager](https://www.amazon.jobs/en/jobs/10443156/sr-customer-solutions-manager) | amazon | US, VA, Arlington | 0.5394 | 2026-06-09 |
-| [Applied Scientist, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10442503/applied-scientist-sponsored-products-and-brands) | amazon | US, NY, New York | 0.5381 | 2026-06-08 |
-| [Data Operations Manager, Human Data](https://job-boards.greenhouse.io/anthropic/jobs/5238460008) | anthropic | San Francisco, CA | 0.5379 | 2026-06-08 |
-| [Senior Hardware Applications Engineer, Data Center](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hardware-Applications-Engineer--Data-Center_JR2018499) | nvidia | US, CA, Santa Clara | 0.5375 | 2026-06-08 |
-| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10443117/finance-manager-ww-ops-finance-cf-support) | amazon | US, WA, Bellevue | 0.5358 | 2026-06-09 |
-| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10443114/finance-manager-ww-ops-finance-cf-support) | amazon | US, TX, Irving | 0.5338 | 2026-06-09 |
-| [Data Scientist, Marketing](https://job-boards.greenhouse.io/anthropic/jobs/5161402008) | anthropic | San Francisco, CA | 0.5273 | 2026-06-08 |
-| [Data Center Engineering Operations Technician , DCEO Engr 3](https://www.amazon.jobs/en/jobs/10443169/data-center-engineering-operations-technician-dceo-engr-3) | amazon | US, OH, Hilliard | 0.5254 | 2026-06-09 |
-| [Data Scientist, Platform Product](https://job-boards.greenhouse.io/anthropic/jobs/5116820008) | anthropic | San Francisco, CA | 0.5242 | 2026-06-08 |
-| [Performance Engineer](https://job-boards.greenhouse.io/anthropic/jobs/4020350008) | anthropic | New York City, NY; Remote-Friendly US (Travel Required); San Francisco, CA; Seattle, WA | 0.5235 | 2026-06-08 |
-| [Staff+ Software Engineer, Databases](https://job-boards.greenhouse.io/anthropic/jobs/5151069008) | anthropic | San Francisco, CA | 0.5178 | 2026-06-08 |
+| [Senior Data Engineer , Amazon Customer Service](https://www.amazon.jobs/en/jobs/10452121/senior-data-engineer-amazon-customer-service) | amazon | US, WA, Seattle | 0.6933 | 2026-06-17 |
+| [Applied Scientist III- Recruiting AI Agents, Recruiting Agents & Candidate Voice](https://www.amazon.jobs/en/jobs/10451701/applied-scientist-iii-recruiting-ai-agents-recruiting-agents-candidate-voice) | amazon | US, WA, Seattle | 0.6749 | 2026-06-17 |
+| [Senior Data & Applied Scientist](https://apply.careers.microsoft.com/careers/job/1970393556862597) | microsoft | United States, Multiple Locations, Multiple Locations | 0.6182 | 2026-06-16 |
+| [Applied Scientist, Amazon Customer Service](https://www.amazon.jobs/jobs/10450781/applied-scientist-amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5904 | 2026-06-17 |
+| [Senior Data Scientist, Rapid & Rural Logistics (R2L) Science & AI](https://www.amazon.jobs/jobs/10448772/senior-data-scientist-rapid--rural-logistics-rl-science--ai?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5895 | 2026-06-16 |
+| [Senior Applied Scientist, Industrial Robotics Group](https://www.amazon.jobs/en/jobs/10452124/senior-applied-scientist-industrial-robotics-group) | amazon | US, WA, Seattle | 0.5865 | 2026-06-17 |
+| [Senior Technical Program Manager (Supercomputing Operations)](https://apply.careers.microsoft.com/careers/job/1970393556855691) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5757 | 2026-06-17 |
+| [Enterprise Application Data Architect, GTM Systems](https://jobs.ashbyhq.com/openai/a057c19d-83db-4bb2-a86f-07caa422d770) | openai | San Francisco | 0.5680 | 2026-06-16 |
+| [Applied Scientist II](https://www.amazon.jobs/jobs/10448617/applied-scientist-ii?cmpid=bsp-amazon-science) | amazon_science | IN, KA, Bengaluru | 0.5661 | 2026-06-16 |
+| [Sr. Solutions Architect, WWPS EdTech](https://www.amazon.jobs/en/jobs/10449756/sr-solutions-architect-wwps-edtech) | amazon | US, CA, San Francisco | 0.5659 | 2026-06-16 |
+| [Principal PMT, Prime Video Personalization & Discovery](https://www.amazon.jobs/en/jobs/10451505/principal-pmt-prime-video-personalization-discovery) | amazon | US, WA, Seattle | 0.5630 | 2026-06-17 |
+| [Data Center Cluster Operations Leader, DCC Communities ](https://www.amazon.jobs/en/jobs/10451456/data-center-cluster-operations-leader-dcc-communities) | amazon | US, IN, Wheatfield | 0.5628 | 2026-06-17 |
+| [Applied Scientist I, Sponsored Products and Brands Agent](https://www.amazon.jobs/en/jobs/10451121/applied-scientist-i-sponsored-products-and-brands-agent) | amazon | US, NY, New York | 0.5606 | 2026-06-17 |
+| [Applied Scientist II, On Road Experience](https://www.amazon.jobs/jobs/10449918/applied-scientist-ii-on-road-experience?cmpid=bsp-amazon-science) | amazon_science | IN, KA, Bengaluru | 0.5539 | 2026-06-17 |
+| [Applied Scientist, TSI - Science](https://www.amazon.jobs/jobs/10450492/applied-scientist-tsi--science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5532 | 2026-06-17 |
+| [Professional Services III - AMZ10515301](https://www.amazon.jobs/en/jobs/10452156/professional-services-iii-amz10515301) | amazon | US, TX, Irving | 0.5490 | 2026-06-17 |
+| [Senior UX Researcher, Applied AI Solution](https://www.amazon.jobs/en/jobs/10452074/senior-ux-researcher-applied-ai-solution) | amazon | US, VA, Herndon | 0.5470 | 2026-06-17 |
+| [Architect, Data Center Engineering ](https://www.amazon.jobs/en/jobs/10450782/architect-data-center-engineering) | amazon | US, TX, Austin | 0.5437 | 2026-06-16 |
+| [Data Center Engineering Operations Technician , DCEO Engr 3, CMH 93](https://www.amazon.jobs/en/jobs/10450844/data-center-engineering-operations-technician-dceo-engr-3-cmh-93) | amazon | US, OH, Hilliard | 0.5431 | 2026-06-16 |
+| [Senior Worldwide Partner Specialist Solutions Architect, Applied AI Partner Solutions Architecture](https://www.amazon.jobs/en/jobs/10451625/senior-worldwide-partner-specialist-solutions-architect-applied-ai-partner-solutions-architecture) | amazon | US, WA, Seattle | 0.5430 | 2026-06-17 |
+| [Program Manager, Amazon Selling Partner API](https://www.amazon.jobs/en/jobs/10451579/program-manager-amazon-selling-partner-api) | amazon | US, TX, Irving | 0.5428 | 2026-06-17 |
+| [Senior Solutions Architect, CCOE-GSP Sales](https://www.amazon.jobs/en/jobs/10450619/senior-solutions-architect-ccoe-gsp-sales) | amazon | US, VA, Arlington | 0.5418 | 2026-06-16 |
+| [Data Center Engineering Operations Technician , DCEO Engr 4, CMH 93](https://www.amazon.jobs/en/jobs/10450846/data-center-engineering-operations-technician-dceo-engr-4-cmh-93) | amazon | US, OH, Hilliard | 0.5409 | 2026-06-16 |
+| [Staff Machine Learning Engineer - Applied AI](https://www.uber.com/global/en/careers/list/145860/) | uber | Sunnyvale, California, United States; San Francisco, California, United States; Seattle, Washington, United States | 0.5339 | 2026-06-17 |
+| [Global Events Scale Manager, APN, AWS Partner Core Enablement Shared Services-Foundations](https://www.amazon.jobs/en/jobs/10451589/global-events-scale-manager-apn-aws-partner-core-enablement-shared-services-foundations) | amazon | US, WA, Seattle | 0.5338 | 2026-06-17 |
 
 # JobTracker
 
