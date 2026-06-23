@@ -1,4 +1,105 @@
 title,team,location,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description_short,description,workplace_type
+"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-06-23,0.2932,United States,https://careers.airbnb.com/positions/7743899/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Threat Detection and Response team (TDR) at Airbnb is focused on automating security detection, responding to security incidents, and working with partner teams to build capabilities that support the incident lifecycle. This is the front-line team that detects, investigates, and responds to security threats and malicious activity.
+We are seeking an Engineering Manager to lead our Investigations & Incident Response team within a mature Threat Detection & Response organization. This is a key role that combines incident response leadership, strategic ownership, and engineering-informed scale.
+The Difference You Will Make:
+You will define and execute new approaches to detecting, containing, and mitigating security threats and incidents, while driving the next stage of maturity for our investigations and response capabilities.
+You will own incident response and investigation outcomes, leading end-to-end response across identification, containment, eradication, and recovery.
+You’ll shape how the team operates—evolving operating models, guiding execution during incidents, and scaling through thoughtful use of automation and engineering.
+You will define and drive the strategy for a modern incident response function, ensuring high-quality investigations and that every incident leads to meaningful improvements in our detection and response capabilities.
+You’ll assess current capabilities and chart the path forward across people, process, and technology, evolving the operating model to support effective global response.
+You will scale the function through automation, tooling, and improved workflows—solving repeatable problems with systems, not manual effort.
+You will serve as a key voice to senior leadership, communicating incident trends, risks, and strategic direction, and partner across the company to turn incident learnings into durable security improvements resulting in removal of entire classes of problems.
+A Typical Day:
+Lead and mentor a diverse team of ~5+ senior engineers
+Partner with Security Platform and Detection Engineering teams to enhance telemetry, context, and response capabilities, and collaborate closely with key teams in Infrastructure Security, Application Security, Infrastructure teams, Legal, Privacy, Global Safety and Security, and Engineering teams across the organization.
+Coach and develop team members, help them grow their careers, technical expertise, and collaboration skills.
+Act as a senior escalation point during high-severity or complex incidents
+Ensure consistent, high-quality investigations with strong root cause analysis
+Establish clear priorities that balance speed, depth, and risk reduction
+Improve escalation paths, ownership clarity, and cross-functional coordination
+Use incident data to influence security priorities and investment decisions
+Partner closely with partner teams within Information Security to ensure incident learnings are shared and added to roadmaps for security risk reduction
+Work with infrastructure, product, and engineering teams to drive effective remediation
+Define and track key metrics such as MTTD, MTTR, incident severity, and recurrence
+Ensure clear communication during incidents to senior and executive leadership including updates on insights from incident patterns, trends, and emerging risks
+Your Expertise:
+9+ years of industry experience in threat detection and incident response, with a minimum of 3-5 years in engineering management.
+Experience shaping or evolving incident response programs in complex environments
+Exceptional people management and mentorship skills, with a history of recruiting, developing and retaining top talent
+Strong understanding of attacker behavior and frameworks such as MITRE ATT&CK
+Experience and understanding of technologies such as EDR, SIEM, cloud environments, and investigation workflows
+Experience in cloud-native environments (AWS, GCP, Azure)
+Ability to analyze ambiguous situations and make sound, timely decisions
+Comfort partnering with engineering teams to build scalable solutions
+Ability to operate at both strategic and tactical levels, from executive communication to incident leadership
+Experience defining team strategy, priorities, and operating models
+Strong judgment in risk assessment, escalation, and trade-offs
+Excellent communication skills across technical and executive audiences
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$204,000
+—
+$255,000 USD
+Offices: United States",Live and Work Anywhere
+"Counsel, Event Partnerships",Legal,United States,,8023818,airbnb,2026-06-23,2026-06-23,0.2121,United States,https://careers.airbnb.com/positions/8023818/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Airbnb’s Legal Department is a global team that will require working with diverse international colleagues around the world. The successful candidate will be someone who is adaptable, collaborative and embodies Airbnb’s Core Values. Candidates will be required to approach complex legal issues with a balance for local and global perspectives, while being adaptable to cultural differences and nuances. A genuine and demonstrated interest in Airbnb and a commitment to ethics, integrity and fostering a workplace that emphasizes diversity and belonging is a must.
+The Community You Will Join:
+Airbnb’s Legal team embodies the company’s innovative, forward-thinking spirit. At the frontier of the sharing economy, Airbnb is breaking new ground in matters of policy, law, and government relations. Where some see obstacles, we see the opportunity to find creative, practical solutions, right at the cutting edge. Our adventurous, fast-moving legal team is committed to building a team of talented, collaborative and self-motivated legal professionals across the globe who believe in Airbnb’s mission and leading as a 21st century company.
+The Difference You Will Make:
+Airbnb is seeking a seasoned commercial lawyer to serve as Counsel, Event Partnerships. Reporting to the Lead Counsel, Event Partnerships, you will be a primary day-to-day legal partner to the teams that plan, produce, and execute Airbnb’s most visible event partnerships, from global sports and entertainment sponsorships to athlete and artist experiences, fan activations, and other in-person events.
+You will draft and negotiate the commercial agreements that bring these partnerships to life, advise on the diverse array of legal issues they raise, help protect Airbnb’s rights as a sponsor, and guide business teams through the practical trade-offs of moving quickly and in the public eye. Working closely with the Lead Counsel and partnering across business and legal teams, you will help create and execute impactful partnerships at speed and scale, often managing many high-profile matters at once and against tight deadlines.
+This role calls for someone who excels as a partner, building trusted relationships and earning the confidence of the teams and counterparts they work with, and as a lawyer, bringing substantive expertise across commercial transactions and the sports, entertainment, marketing, and intellectual property landscape. Success calls for sound judgment, an eagerness to take on increasing responsibility, and a creative, flexible, and client-focused approach, paired with a willingness to learn and an adaptable and curious personality.
+A Typical Day:
+Draft, review and negotiate a broad range of commercial agreements behind event partnerships and experiences, including sponsorship, talent, agency, venue, production and vendor agreements, licenses, NDAs, and term sheets, and advise teams on contractual terms.
+Serve as legal advisor for event sponsorship activations, while collaborating with the broader legal team.
+Monitor and report rights infringement and ambush marketing under the rights-protection programs of marquee partnerships.
+Own matters end-to-end, from intake and term sheet through negotiation, execution, and post-execution activations, maintaining trackers and reporting updates to leadership.
+Navigate cross-border, multi-entity, and localization complexity, working across time zones with international partners.
+Give business partners and cross-functional stakeholders practical, decisive guidance that balances business goals, legal risk, and company policy.
+Contribute to high-impact legal and cross-functional projects, including operational improvements, template and process automation, and cross-team education.
+Champion Airbnb's mission, ethics, and integrity, and its commitment to a diverse, inclusive workplace free of discrimination and harassment.
+Your Expertise:
+JD and 6+ years of relevant experience at a company or law firm, focused on commercial transactions, with a track record of independently negotiating complex agreements. In-house experience preferred.
+Direct experience working within or advising on sports or entertainment industries.
+Background in advertising and consumer marketing law, with a focus on providing guidance for co-marketing initiatives, promotional activities, communications, consumer protection regulations, and the management of partner intellectual property and assets.
+Knowledge of copyrights, trademarks, persona and publicity rights, privacy and data protection, cross-border and multi-entity contracting, dispute resolution, litigation, risk allocation, security, tax, insurance, and international legal issues.
+A creative thinker and practical problem-solver who can find workable paths forward, hold firm on non-negotiables, and structure solutions to achieve objectives.
+Proven ability to build and maintain strong partnerships across business teams, with legal colleagues, and external counterparts and partners, and to draw on those relationships to negotiate effectively, resolve issues, and reach aligned outcomes.
+Demonstrated success in managing multiple projects in a fast-paced environment, with the ability to exercise sound judgment, prioritize tasks effectively under strict deadlines while ensuring precision and attention to detail.
+Excellent organizational, verbal and written communication skills, with the ability to tailor communications to both legal and non-legal audiences.
+High level of integrity, professionalism, and curiosity, with a genuine desire to grow.
+Licensed in a U.S. state.
+A highly developed sense of humor, a willingness to Embrace the Adventure, and genuine excitement for the Airbnb mission.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$196,000
+—
+$230,000 USD
+Offices: United States",Live and Work Anywhere
 Business Operations and Growth Lead,Strategy & Planning,"Sydney, Australia",,7999656,airbnb,2026-06-11,2026-06-23,0.1211,"Sydney, Australia",https://careers.airbnb.com/positions/7999656/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Every day, Airbnb hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. Since our founding, more than 5 million hosts have welcomed over 1.5 billion guest arrivals in almost every country across the globe.
@@ -568,61 +669,6 @@ This position is working remotely within China Mainland. The role may include oc
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: China",Live and Work Anywhere
-"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-06-23,0.2891,United States,https://careers.airbnb.com/positions/7743899/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-The Threat Detection and Response team (TDR) at Airbnb is focused on automating security detection, responding to security incidents, and working with partner teams to build capabilities that support the incident lifecycle. This is the front-line team that detects, investigates, and responds to security threats and malicious activity.
-We are seeking an Engineering Manager to lead our Investigations & Incident Response team within a mature Threat Detection & Response organization. This is a key role that combines incident response leadership, strategic ownership, and engineering-informed scale.
-The Difference You Will Make:
-You will define and execute new approaches to detecting, containing, and mitigating security threats and incidents, while driving the next stage of maturity for our investigations and response capabilities.
-You will own incident response and investigation outcomes, leading end-to-end response across identification, containment, eradication, and recovery.
-You’ll shape how the team operates—evolving operating models, guiding execution during incidents, and scaling through thoughtful use of automation and engineering.
-You will define and drive the strategy for a modern incident response function, ensuring high-quality investigations and that every incident leads to meaningful improvements in our detection and response capabilities.
-You’ll assess current capabilities and chart the path forward across people, process, and technology, evolving the operating model to support effective global response.
-You will scale the function through automation, tooling, and improved workflows—solving repeatable problems with systems, not manual effort.
-You will serve as a key voice to senior leadership, communicating incident trends, risks, and strategic direction, and partner across the company to turn incident learnings into durable security improvements resulting in removal of entire classes of problems.
-A Typical Day:
-Lead and mentor a diverse team of ~5+ senior engineers
-Partner with Security Platform and Detection Engineering teams to enhance telemetry, context, and response capabilities, and collaborate closely with key teams in Infrastructure Security, Application Security, Infrastructure teams, Legal, Privacy, Global Safety and Security, and Engineering teams across the organization.
-Coach and develop team members, help them grow their careers, technical expertise, and collaboration skills.
-Act as a senior escalation point during high-severity or complex incidents
-Ensure consistent, high-quality investigations with strong root cause analysis
-Establish clear priorities that balance speed, depth, and risk reduction
-Improve escalation paths, ownership clarity, and cross-functional coordination
-Use incident data to influence security priorities and investment decisions
-Partner closely with partner teams within Information Security to ensure incident learnings are shared and added to roadmaps for security risk reduction
-Work with infrastructure, product, and engineering teams to drive effective remediation
-Define and track key metrics such as MTTD, MTTR, incident severity, and recurrence
-Ensure clear communication during incidents to senior and executive leadership including updates on insights from incident patterns, trends, and emerging risks
-Your Expertise:
-9+ years of industry experience in threat detection and incident response, with a minimum of 3-5 years in engineering management.
-Experience shaping or evolving incident response programs in complex environments
-Exceptional people management and mentorship skills, with a history of recruiting, developing and retaining top talent
-Strong understanding of attacker behavior and frameworks such as MITRE ATT&CK
-Experience and understanding of technologies such as EDR, SIEM, cloud environments, and investigation workflows
-Experience in cloud-native environments (AWS, GCP, Azure)
-Ability to analyze ambiguous situations and make sound, timely decisions
-Comfort partnering with engineering teams to build scalable solutions
-Ability to operate at both strategic and tactical levels, from executive communication to incident leadership
-Experience defining team strategy, priorities, and operating models
-Strong judgment in risk assessment, escalation, and trade-offs
-Excellent communication skills across technical and executive audiences
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$204,000
-—
-$255,000 USD
-Offices: United States",Live and Work Anywhere
 "(Contract) Senior Data Scientist, Platform Inference – MarTech DS Measurement",Data Science,United States,,7732569,airbnb,2026-06-09,2026-06-23,0.3302,United States,https://careers.airbnb.com/positions/7732569/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 MarTech Data Science Measurement empowers Airbnb to optimize marketing ROI by generating data-driven recommendations. We lead the way in defining and advancing best practices for measuring and optimizing marketing impact. We collaborate with Marketing, Finance, and Engineering to provide actionable recommendations and tools based on effective, timely, and granular measurements. Our team’s tenets are:
@@ -848,9 +894,9 @@ $63,000
 —
 $63,000 CAD
 Offices: Canada",Live and Work Anywhere
-"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.2518,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
-Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2825,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
-"Android Software Engineer, Quality Platform",Engineering,"Remote, Brazil",,7744247,airbnb,2026-06-09,2026-06-21,0.2548,Brazil,https://careers.airbnb.com/positions/7744247/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.2633,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
+Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2699,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
+"Android Software Engineer, Quality Platform",Engineering,"Remote, Brazil",,7744247,airbnb,2026-06-09,2026-06-21,0.2567,Brazil,https://careers.airbnb.com/positions/7744247/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Quality Platform team is at the heart of Airbnb’s mission to provide a seamless, high-quality experience for millions of hosts and guests. We don’t just find bugs - we build the infrastructure that prevents them. Our team sits at the intersection of Mobile Infrastructure, Developer Experience, and Applied AI. We empower thousands of engineers across Airbnb to ship with confidence by building high-scale platforms, AI-driven automation, and fault-tolerant systems. You will join a group of high-impact engineers who value craft, operational excellence, and the challenge of navigating one of the world’s most complex mobile codebases.
 The Difference You Will Make:
@@ -942,7 +988,7 @@ $157,000
 —
 $172,000 USD
 Offices: United States",Live and Work Anywhere
-"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.3151,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.318,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics, Business Finance Org role will be responsible for partnering with the business across all aspects of growth, analytics, and strategy within the Chief Business Officer Finance organization - and will work closely with members of the supply, quality, product, and finance leadership teams. This role will work directly with senior leadership to provide actionable insights and financial guidance for the business.
 The Difference You Will Make:
@@ -1034,7 +1080,7 @@ India Annual Pay Range
 —
 ₹4,200,000 INR
 Offices: India",Live and Work Anywhere
-Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2243,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2229,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 Airbnb is seeking a Strategic Partnerships & Business Development Lead for Canada, reporting to the Country Manager, Canada.
 In this role, you will lead the strategic business partnerships mandate in the territory and collaborate closely with the Business, Supply, Product Marketing, Finance and Legal functions across Canada, regional offices and Headquarters in San Francisco.
@@ -1116,7 +1162,7 @@ United Kingdom Annual Pay Range
 —
 £88,000 GBP
 Offices: London, United Kingdom",Hybrid - Be close to an office
-Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1511,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1678,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Airbnb Hotels team, which includes HotelTonight, is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence, and guest-centered ethos that define Airbnb. This team’s mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping independent, boutique hotels easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.
 The Difference You Will Make
@@ -1150,7 +1196,7 @@ France Annual Pay Range
 —
 €72.000 EUR
 Offices: Paris, France",Hybrid - Be close to an office
-"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2635,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2648,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Creative Director, Social & Content will report to the Director, Social Creative and work PST hours. This leader will oversee multiple Airbnb social workstreams while shaping a cohesive, culturally relevant content ecosystem that blends brand storytelling with social-first execution.
 Airbnb is seeking a visionary creative leader who operates at the intersection of content, culture, and brand. This role is part of our internal, multidisciplinary Creative Team—partnering across marketing, product, comms, and external creators to develop ideas that travel across platforms and live beyond campaigns.
