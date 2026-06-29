@@ -1,4 +1,232 @@
 title,team,location,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description_short,description,workplace_type
+"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-06-29,0.3422,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+Community Support (CS) is a key driver in enabling Airbnb's core business. The Community Support Engineering (CSE) organization builds world-class tools for our team of Community Support ambassadors around the world as well as our operations teams, to ensure our guests and hosts have a great experience on Airbnb, 24/7, and 365 days a year.
+Within CSE, China Routing and Data Service(CRD) Team works together with our US partners to co-own the CS foundations systems for our community. We are building the routing systems to efficiently connect our guests and hosts requests to the best agent, leveraging skills-based routing, context, and urgency signals;  we are building CS data services providing the trusted data foundation that powers AI-driven solutions.
+The Difference You Will Make:
+We are seeking an experienced Engineering Manager to lead the China Routing and Data Service team. In this role, you will:
+Ramp up on the team’s technology, product, and business goals, including hands-on work to develop a deep technical understanding.
+Lead, mentor, and grow a high-performing engineering team in a fast-paced environment.
+Foster a team culture that emphasizes product thinking, technical depth, and customer-centric problem solving.
+Drive and partner closely with teams across CSE to understand business cases and deliver intuitive, scalable routing and data solutions.
+Set clear priorities and strategic direction in collaboration with cross functional partners..
+Improve team processes to strengthen collaboration and ways of working, execution efficiency, and delivery quality.
+Lead complex, cross-functional projects that align with business goals and deliver measurable impact.
+A Typical Day:
+As an Engineering Manager on the China Routing and Data team, you will:
+Collaborate with other senior leaders and peers to define and drive long-term technical strategy and architecture that enables the company’s future vision.
+Collaborate with and influence cross-functional partners to design and deliver high-quality products.
+Lead team technical initiatives, and work cross-functionally to identify opportunities for business impact, refine, and prioritize requirements for engineering systems.
+Lead conversations that align technical efforts with business outcomes and product priorities.
+Nurture a culture of technical quality and engineering excellence from design, through code review, to production.
+Enable and empower ICs to grow their impact beyond individual contributions, creating opportunities for them to lead technical initiatives that span across platforms and organizations.
+Retain, grow and hire a team of high-performing engineers. Build a strong and diverse team capable of turning ambitious product visions into a polished reality.
+reality.
+Your Expertise :
+9+ years of relevant software development industry experience in a fast paced tech environment.
+Bachelor’s and/or Master’s degree, preferably in CS, or equivalent experience.
+Excellent communication and collaboration skills. Proven experience working with many engineering teams and cross functional partners.
+Strong expertise in building large-scale backend systems and experience in user facing features.
+Strong product and design instinct, previous proven experience building delightfully designed experiences.
+Flexible in leadership style, can adapt to a variety of ways of working depending on the situation.
+Experience leading and shipping large initiatives with high business impact.
+Creating a strong culture of operational excellence with focus on raising the bar for quality, reliability and availability.
+Good judgment in making tradeoffs to balance short-term business needs with long-term technical quality.
+Strong communication skill and ability to influence decisions from a wide variety of stakeholders.
+Experience fostering an inclusive and engaging team environment.
+Able to identify, retain, grow and acquire critical talent.
+Strong commitment to fostering diversity, equity, and inclusion within teams.
+Fluency in communication in English and Mandarin.
+Your Location:
+This position is working remotely within China Mainland. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+Offices: China",Live and Work Anywhere
+"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-06-29,0.2932,United States,https://careers.airbnb.com/positions/7743899/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Threat Detection and Response team (TDR) at Airbnb is focused on automating security detection, responding to security incidents, and working with partner teams to build capabilities that support the incident lifecycle. This is the front-line team that detects, investigates, and responds to security threats and malicious activity.
+We are seeking an Engineering Manager to lead our Investigations & Incident Response team within a mature Threat Detection & Response organization. This is a key role that combines incident response leadership, strategic ownership, and engineering-informed scale.
+The Difference You Will Make:
+You will define and execute new approaches to detecting, containing, and mitigating security threats and incidents, while driving the next stage of maturity for our investigations and response capabilities.
+You will own incident response and investigation outcomes, leading end-to-end response across identification, containment, eradication, and recovery.
+You’ll shape how the team operates—evolving operating models, guiding execution during incidents, and scaling through thoughtful use of automation and engineering.
+You will define and drive the strategy for a modern incident response function, ensuring high-quality investigations and that every incident leads to meaningful improvements in our detection and response capabilities.
+You’ll assess current capabilities and chart the path forward across people, process, and technology, evolving the operating model to support effective global response.
+You will scale the function through automation, tooling, and improved workflows—solving repeatable problems with systems, not manual effort.
+You will serve as a key voice to senior leadership, communicating incident trends, risks, and strategic direction, and partner across the company to turn incident learnings into durable security improvements resulting in removal of entire classes of problems.
+A Typical Day:
+Lead and mentor a diverse team of ~5+ senior engineers
+Partner with Security Platform and Detection Engineering teams to enhance telemetry, context, and response capabilities, and collaborate closely with key teams in Infrastructure Security, Application Security, Infrastructure teams, Legal, Privacy, Global Safety and Security, and Engineering teams across the organization.
+Coach and develop team members, help them grow their careers, technical expertise, and collaboration skills.
+Act as a senior escalation point during high-severity or complex incidents
+Ensure consistent, high-quality investigations with strong root cause analysis
+Establish clear priorities that balance speed, depth, and risk reduction
+Improve escalation paths, ownership clarity, and cross-functional coordination
+Use incident data to influence security priorities and investment decisions
+Partner closely with partner teams within Information Security to ensure incident learnings are shared and added to roadmaps for security risk reduction
+Work with infrastructure, product, and engineering teams to drive effective remediation
+Define and track key metrics such as MTTD, MTTR, incident severity, and recurrence
+Ensure clear communication during incidents to senior and executive leadership including updates on insights from incident patterns, trends, and emerging risks
+Your Expertise:
+9+ years of industry experience in threat detection and incident response, with a minimum of 3-5 years in engineering management.
+Experience shaping or evolving incident response programs in complex environments
+Exceptional people management and mentorship skills, with a history of recruiting, developing and retaining top talent
+Strong understanding of attacker behavior and frameworks such as MITRE ATT&CK
+Experience and understanding of technologies such as EDR, SIEM, cloud environments, and investigation workflows
+Experience in cloud-native environments (AWS, GCP, Azure)
+Ability to analyze ambiguous situations and make sound, timely decisions
+Comfort partnering with engineering teams to build scalable solutions
+Ability to operate at both strategic and tactical levels, from executive communication to incident leadership
+Experience defining team strategy, priorities, and operating models
+Strong judgment in risk assessment, escalation, and trade-offs
+Excellent communication skills across technical and executive audiences
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$204,000
+—
+$255,000 USD
+Offices: United States",Live and Work Anywhere
+"Engineering Manager, Guest & Host",Engineering,"London, United Kingdom",,7532824,airbnb,2026-06-22,2026-06-29,0.3519,"London, United Kingdom",https://careers.airbnb.com/positions/7532824/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+We are building tools and a global community to make it easier for people to host on Airbnb. Our team focuses on co-hosting and building intuitive, user-facing experiences that enable people to host together as a team, using machine learning where appropriate to address real user needs. The team works collaboratively with cross-functional partners in Design, Product Management, Business and other Engineering teams to quickly brainstorm, prototype, develop, and deliver high quality product experiences.
+The Difference You Will Make:
+As the Engineering Manager, within Guest & Host Services, you’ll lead a team of talented, diverse software developers to prototype, build and improve hosting services, balancing the shorter term business outcomes along with longer term technical stability, scalability and flexibility aligning with cross functional partners.
+A Typical Day:
+Explore, shape, and develop new product experiences alongside cross-functional partners (design and product); from ideation to implementation at scale
+Lead investments into new technical capabilities that push the envelope and unlock product innovation
+Collaborate with engineers to plan and sequence the delivery of new features and capabilities, making necessary trade-offs, while effectively communicating the delivery plans and celebrating successful launches
+Partner with peer engineering teams to integrate new features that impact different areas within the product
+Strengthen the team’s partnerships with key stakeholders in Engineering, Design, and Product to make ambitious product feature concepts a reality.
+Recruit and nurture exceptional engineering talent by investing meaningful one-on-one time to understand their motivations and team dynamics, while also creating a tailored career development plan.
+Foster an inclusive team culture and environment that encourages collaboration, technical excellence, and innovation via calculated risks and product mindset.
+Your Expertise:
+5+ years of engineering management experience, with 9+ years of relevant software development industry experience in a fast paced tech environment
+Deep expertise with backend systems and complex data modeling in large-scale consumer applications
+Excellent communication and presentation skills tuned for both technical or non-technical audiences
+End-to-end, product-oriented mentality that transcends team boundaries and helps find globally optimal solutions
+Good judgment in making tradeoffs to balance short-term business needs with long-term technical quality
+Strong collaboration skills, able to work effectively and find common ground with a wide range of teams who may have conflicting goals and priorities
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+United Kingdom Annual Pay Range
+£120,000
+—
+£150,000 GBP
+Offices: London, United Kingdom",Hybrid - Be close to an office
+"Data Scientist – Inference, Community Support",Data Science,Remote - USA,,8031907,airbnb,2026-06-29,2026-06-29,0.4717,United States,https://careers.airbnb.com/positions/8031907/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+Airbnb is a mission-driven company dedicated to creating a world where anyone can belong anywhere. Our Community Support (CS) team is at the heart of that mission—delivering seamless, 10-star customer service experiences complemented by world-class, personalized human support that empowers hosts and guests at every step of their journey.
+As a Data Scientist working on Causal Inference in CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to enable personalized, fair and exceptional experience for guests & hosts using advanced causal inference analysis for Community Support.
+The Difference You Will Make:
+We're looking for a motivated and talented Data Scientist with strong causal inference expertise to join the Community Support Data Science team. You'll partner closely with the area's tech lead on high-impact projects spanning AI-powered products, differentiated service, and operations optimization.
+The ideal candidate brings sharp applied inference intuition, a bias toward impact, and the ability to cut through ambiguity to drive clarity in complex problem spaces. You’ll work on high-impact projects like:
+Design rigorous experiments & quasi-experiments to measure the causal impact of CS product launches and drive data-informed launch decisions.
+Build causal ML models to optimize Make Goods budget allocation and maximize business impact.
+Conduct causal inference analyses to quantify the long-term effects of product changes and uncover heterogeneous treatment effects.
+Deliver strategic insights on quality-cost tradeoffs, empowering leadership to deliver the best possible support experience to our community.
+A Typical Day:
+Inference & Measurement:
+Design and implement causal inference frameworks and statistical models to measure the impact of interventions, evaluate system performance and uncover opportunities for improvement.
+Modeling:
+Build, evaluate and iterate on causal ML models that power high-stakes decisions, applying best practices across the full model lifecycle from feature engineering to production deployment
+Optimization:
+Develop frameworks to analyze tradeoffs between competing objectives (accuracy, coverage, user experience and operational cost), and propose strategies to improve overall effectiveness.
+Collaborate Cross-Functionally:
+Build strong relationships with cross-functional partners across Product, Design, Engineering, Operations, and Analytics to drive collaboration and innovation.
+Influence Decisions:
+Communicate learnings to leaders and stakeholders in a clear, compelling manner that drives informed, data-driven decision-making.
+Empowerment:
+Think strategically about how to scale and evolve data science capabilities within your domain, contributing to the long-term vision for how science drives platform outcomes.
+Your Expertise:
+2+ years of industry experience in a quantitative analysis role with a Master's degree in a quantitative field (statistics, economics, computer science, etc.), or PhD in relevant fields.
+Strong knowledge of causal inference and experimental design.
+Strong knowledge of Bayesian modeling and statistical inference.
+Hands-on experience building and deploying statistical or ML models in production environments.
+Skilled in statistical programming (Python/R) and database usage (SQL).
+Proven ability to communicate clearly and effectively to audiences of varying technical levels.
+Ability to translate complex findings into compelling narratives that drive impact.
+Excellent project management, communication and collaboration skills.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$151,000
+—
+$175,000 USD
+Offices: United States",Live and Work Anywhere
+"Data Scientist – Algorithms, Community Support",Data Science,Remote - USA,,8031901,airbnb,2026-06-29,2026-06-29,0.5321,United States,https://careers.airbnb.com/positions/8031901/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+Airbnb is a mission-driven company dedicated to creating a world where anyone can belong anywhere. Our Community Support (CS) team is at the heart of that mission—delivering seamless, 10-star customer service experiences complemented by world-class, personalized human support that empowers hosts and guests at every step of their journey.
+As a Data Scientist working on Algorithms in CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to enable personalized, fair and exceptional experience for guests & hosts using advanced LLM/ML modeling for Community Support.
+The Difference You Will Make:
+We're looking for a talented Data Scientist with LLM/ML expertise to join the Community Support Data Science team. In this role, you'll partner closely with the tech lead to tackle significant components of high-impact projects with a direct opportunity to shape and influence our AI-powered products, differentiated service experiences, and operational optimization strategies.
+The ideal candidate combines deep technical fluency in LLM/ML with a bias toward action and impact, comfort with ambiguity, and a passion for building scalable, scientific solutions. You’ll work on high-impact projects like:
+Implement advanced techniques to automate the LLM evaluation process with high efficiency and quality.
+Scale the high-quality synthetic datasets curation across various CS domains for training and evaluating LLM.
+Build LLM/ML models to understand customer issues based on diverse datasets and identify failure modes and opportunities for improvement.
+Build personalization models to offer differentiated experiences and maximize business impact.
+A Typical Day:
+Discover Opportunities:
+Identify high-impact business opportunities through data exploration and model prototyping, and translate business problems into scientific formulations.
+Uncover Insights:
+Analyze structured and unstructured data to uncover meaningful insights and craft actionable proposals that help shape strategy.
+Build and Ship:
+Build and deploy production LLM/ML models that directly contribute to the launch of data-driven products, leveraging AI tools to enhance efficiency and impact.
+Collaborate Cross-Functionally:
+Build strong relationships with cross-functional partners across Product, Design, Engineering, Operations, and Analytics to drive collaboration and innovation.
+Influence Decisions:
+Communicate learnings to leaders and stakeholders in a clear, compelling manner that drives informed, data-driven decision-making.
+Empowerment:
+Think strategically about how to scale and evolve data science capabilities within your domain, contributing to the long-term vision for how science drives platform outcomes.
+Your Expertise:
+2+ years of relevant industry experience (e.g. data/ML scientist, tech lead, junior faculty) and a Master’s degree or PhD in relevant fields.
+State-of-the-art knowledge of AI/ML models.
+Strong fluency in Python/R and SQL,  observation causal inference skill is a plus.
+Proven ability to communicate clearly and effectively to audiences of varying technical levels.
+Ability to translate complex findings and results into compelling narratives that drive impact.
+Excellent project management, communication, and collaboration skills.
+A product-oriented mindset, with the ability to apply conceptual and innovative thinking to develop and implement solutions that consider the user experience.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list.
+If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$151,000
+—
+$175,000 USD
+Offices: United States",Live and Work Anywhere
 "Counsel, IP",Legal,United States,,8029148,airbnb,2026-06-26,2026-06-29,0.1936,United States,https://careers.airbnb.com/positions/8029148/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Airbnb’s Legal Department is a global team that will require working with diverse international colleagues around the world. The successful candidate will be someone who is adaptable, collaborative and embodies Airbnb’s Core Values. Candidates will be required to approach complex legal issues with a balance for local and global perspectives, while being adaptable to cultural differences and nuances. A genuine and demonstrated interest in Airbnb and a commitment to ethics, integrity and fostering a workplace that emphasizes diversity and belonging is a must.
 The Community You Will Join:
@@ -343,6 +571,66 @@ Spain Annual Pay Range
 —
 €100.000 EUR
 Offices: Barcelona, Spain",Hybrid - Be close to an office
+Employee Relations Lead -India,Employee Experience,"Gurugram, India",,7975814,airbnb,2026-06-29,2026-06-29,0.2671,"Gurugram, India",https://careers.airbnb.com/positions/7975814/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The Employee Relations team operates as a Center of Excellence within Airbnb’s People team. ER professionals are not simply case handlers — they are strategic partners who build the frameworks, guidelines, and operating principles that uphold Airbnb’s culture at scale. This role shapes how the organization navigates complex workplace matters with consistency, fairness, and integrity. You will partner across Talent (HR), Legal, and business leadership to drive sound decision-making rooted in trust, mutual respect, and accountability. Success is not measured by cases closed. It is measured by the quality of outcomes, the strength of the practices we embed across the organization, and whether our work reinforces the culture and values that make Airbnb, Airbnb.
+The Difference You Will Make:
+We’re looking for an individual with strong Employee Relations (ER) expertise to join the ER team at Airbnb. This individual will be an instrumental part of the ER team, which includes implementing and improving frameworks, guidelines, approaches, practices and operating principles. Building and reinforcing Airbnb’s culture is a key requirement for this position.
+The successful candidate will establish relationships across the organization and provide ER subject matter expertise in order to support the mission, culture and values of Airbnb, with a focus on India and APAC region. The incumbent manages intake and prioritization of ER cases; collaborates with Legal and Talent partners and serves on statutory committees such as the POSH Committee, as applicable under Indian law.
+A Typical Day:
+Case Management
+Conduct end-to-end investigations, including intake, evidence gathering, credibility determinations, written investigation reports, and recommendations on appropriate courses of action, with minimal guidance.
+Conduct interviews with exceptional thoughtfulness, clarity, and procedural responsibility,  ensuring psychological safety, neutrality, and cultural sensitivity throughout.
+Work closely with Legal to ensure awareness of laws applicable to investigations across APAC geographies and adapt interview and investigation approaches accordingly.
+Ensure cases are handled fairly, consistently, transparently, in a timely fashion, and in line with Airbnb culture, policies, and appropriate local laws.
+Advise on and lead employee relations investigations across functions and regions working in partnership with Talent (HR), Legal, and compliance related teams.
+Counsel Talent (HR) and business leaders on ER issues, trends and risks to foster sound business decisions.
+Advise Talent (HR) and management on how to handle performance issues and complex disciplinary matters using specialized knowledge of performance management concepts, principles and practices.
+Deliver training offerings depending on company needs and external regulations.
+ER Consulting
+Contribute to the development, socialization and rollout of ER processes, strategy, approaches, guidelines, practices and operating procedures.
+Serve as a trusted advisor to stakeholders at varying levels of seniority, including senior stakeholders, by modeling trustworthiness, discretion, confidentiality, empathy and sound judgment.
+Actively collaborate across global Employee Relations, Talent (HR), Legal, and Compliance teams, bringing openness to diverse approaches and sharing APAC-specific context that informs global strategy.
+Drive ER efforts that support Talent (HR) and business initiatives.
+Conduct training for leaders, managers, employees, Talent Partners and other stakeholders.
+Proactively identify trends through data analysis and use insights to inform and develop resources, process improvements and training.
+Collect, analyze, interpret and make recommendations on ER related data; maintain organized case management systems.
+Adapt ER programs and approaches to the needs of the business, function, and/or region.
+Build and maintain strong working relationships with the Airbnb’s leadership team at its Global Capability Center based in India, acting as the on-the-ground Employee Relations partner for a high-growth, multi-functional workplace.
+Strategic Planning & Operations
+Support the Employee Relations (ER) framework for their client groups, contributing to strategies and proposals to continuously drive improvements in ER practices within the organization based on trust, mutual respect, strong performance management, and accountability.
+Contribute to communications efforts that promote ER best practices throughout the organization.
+Assess employment risk in coordination with Talent (HR) leadership and Legal based on current regulatory landscape and anticipated changes, drawing on specialized knowledge of employment policies and regulations.
+Design, document, and implement ER workflows and processes where gaps exist or legacy approaches are insufficient, driving efficiency without sacrificing rigour or fairness.
+Should have the knowledge / experience to implement, use and adapt to case management platforms and technological tools to manage and improve investigation documentation, trend identification, deriving insights on workflows, and ER reporting efficiency.
+Monitor/interpret developments in India's evolving Labour Code framework (e.g. Industrial Relations, Social Security Codes) and work closely with Legal and Talent (HR) to proactively update internal practices and documentation standards.
+Your Expertise:
+10+ years of Employee Relations/Human Resources experience, including managing investigations
+Strong written and oral communication skills
+Strong ability to analyse large, complex sets of data and multi-faceted factual scenarios, synthesising competing evidence into clear, well-reasoned, and robust findings.
+Demonstrated experience working within or supporting a Global Capability Centre (GCC), shared-services, or multi-national matrixed environment.
+Ability to maintain composure, remain positive, collaborative and objective while under pressure and dealing with senior leaders and complex issues
+Proven track record of positively influencing stakeholders at varying levels of seniority
+Ability to coach, mentor, advise and partner with stakeholders at varying levels of seniority
+Specialized knowledge of ER, labor relations, training, conflict resolution and direct experience leading investigations with minimal guidance.
+Strong understanding of employment-related state and federal laws & regulations
+Strong preference for direct experience supporting international ER matters
+Comfortable leveraging generative AI tools (e.g.,Claude, Gemini, etc.) to accelerate daily tasks
+Demonstrated ability to assess and mitigate employment risks with sound business acumen
+Sound judgment and strong decision-making skills; experienced in handling sensitive and confidential matters
+Ability to be discreet and maintain confidentiality is required
+Self-motivated with strong ability to prioritize and plan in a fast-paced, high-growth environment
+Comfortable working across APAC and US time zones as a standard part of the role; must be open to working outside core hours when reasonably required to support global stakeholders, time-sensitive investigations, or cross-regional ER matters.
+Some travel may be required
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is inclusive of allowances and is subject to change and may be modified in the future. This role may also be eligible for bonus or incentives, one or more equity programs, benefits, and Employee Travel Credits.
+India Annual Pay Range
+₹4,270,000
+—
+₹6,100,000 INR
+Offices: Gurugram, India",Hybrid - Be close to an office
 "AI Engineer, Community Support Engineering",Engineering,China - Remote,,7946288,airbnb,2026-06-09,2026-06-29,0.3144,"Beijing, China",https://careers.airbnb.com/positions/7946288/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Your Location:
 This position is China based - Remote
@@ -539,49 +827,6 @@ Occasional international travel (typically once a year for a few days) may be re
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: Tokyo, Japan",Hybrid - Be close to an office
-"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-06-29,0.375,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-Community Support (CS) is a key driver in enabling Airbnb's core business. The Community Support Engineering (CSE) organization builds world-class tools for our team of Community Support ambassadors around the world as well as our operations teams, to ensure our guests and hosts have a great experience on Airbnb, 24/7, and 365 days a year.
-Within CSE, China Routing and Data Service(CRD) Team works together with our US partners to co-own the CS foundations systems for our community. We are building the routing systems to efficiently connect our guests and hosts requests to the best agent, leveraging skills-based routing, context, and urgency signals;  we are building CS data services providing the trusted data foundation that powers AI-driven solutions.
-The Difference You Will Make:
-We are seeking an experienced Engineering Manager to lead the China Routing and Data Service team. In this role, you will:
-Ramp up on the team’s technology, product, and business goals, including hands-on work to develop a deep technical understanding.
-Lead, mentor, and grow a high-performing engineering team in a fast-paced environment.
-Foster a team culture that emphasizes product thinking, technical depth, and customer-centric problem solving.
-Drive and partner closely with teams across CSE to understand business cases and deliver intuitive, scalable routing and data solutions.
-Set clear priorities and strategic direction in collaboration with cross functional partners..
-Improve team processes to strengthen collaboration and ways of working, execution efficiency, and delivery quality.
-Lead complex, cross-functional projects that align with business goals and deliver measurable impact.
-A Typical Day:
-As an Engineering Manager on the China Routing and Data team, you will:
-Collaborate with other senior leaders and peers to define and drive long-term technical strategy and architecture that enables the company’s future vision.
-Collaborate with and influence cross-functional partners to design and deliver high-quality products.
-Lead team technical initiatives, and work cross-functionally to identify opportunities for business impact, refine, and prioritize requirements for engineering systems.
-Lead conversations that align technical efforts with business outcomes and product priorities.
-Nurture a culture of technical quality and engineering excellence from design, through code review, to production.
-Enable and empower ICs to grow their impact beyond individual contributions, creating opportunities for them to lead technical initiatives that span across platforms and organizations.
-Retain, grow and hire a team of high-performing engineers. Build a strong and diverse team capable of turning ambitious product visions into a polished reality.
-reality.
-Your Expertise :
-9+ years of relevant software development industry experience in a fast paced tech environment.
-Bachelor’s and/or Master’s degree, preferably in CS, or equivalent experience.
-Excellent communication and collaboration skills. Proven experience working with many engineering teams and cross functional partners.
-Strong expertise in building large-scale backend systems and experience in user facing features.
-Strong product and design instinct, previous proven experience building delightfully designed experiences.
-Flexible in leadership style, can adapt to a variety of ways of working depending on the situation.
-Experience leading and shipping large initiatives with high business impact.
-Creating a strong culture of operational excellence with focus on raising the bar for quality, reliability and availability.
-Good judgment in making tradeoffs to balance short-term business needs with long-term technical quality.
-Strong communication skill and ability to influence decisions from a wide variety of stakeholders.
-Experience fostering an inclusive and engaging team environment.
-Able to identify, retain, grow and acquire critical talent.
-Strong commitment to fostering diversity, equity, and inclusion within teams.
-Fluency in communication in English and Mandarin.
-Your Location:
-This position is working remotely within China Mainland. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-Offices: China",Live and Work Anywhere
 "Android Software Engineer, Quality Platform",Engineering,"Remote, Brazil",,7744247,airbnb,2026-06-09,2026-06-29,0.2406,Brazil,https://careers.airbnb.com/positions/7744247/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Quality Platform team is at the heart of Airbnb’s mission to provide a seamless, high-quality experience for millions of hosts and guests. We don’t just find bugs - we build the infrastructure that prevents them. Our team sits at the intersection of Mobile Infrastructure, Developer Experience, and Applied AI. We empower thousands of engineers across Airbnb to ship with confidence by building high-scale platforms, AI-driven automation, and fault-tolerant systems. You will join a group of high-impact engineers who value craft, operational excellence, and the challenge of navigating one of the world’s most complex mobile codebases.
@@ -631,61 +876,6 @@ reasonableaccommodations@airbnb.com
 . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
 We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
 Offices: Brazil",Live and Work Anywhere
-"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-06-29,0.2891,United States,https://careers.airbnb.com/positions/7743899/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-The Threat Detection and Response team (TDR) at Airbnb is focused on automating security detection, responding to security incidents, and working with partner teams to build capabilities that support the incident lifecycle. This is the front-line team that detects, investigates, and responds to security threats and malicious activity.
-We are seeking an Engineering Manager to lead our Investigations & Incident Response team within a mature Threat Detection & Response organization. This is a key role that combines incident response leadership, strategic ownership, and engineering-informed scale.
-The Difference You Will Make:
-You will define and execute new approaches to detecting, containing, and mitigating security threats and incidents, while driving the next stage of maturity for our investigations and response capabilities.
-You will own incident response and investigation outcomes, leading end-to-end response across identification, containment, eradication, and recovery.
-You’ll shape how the team operates—evolving operating models, guiding execution during incidents, and scaling through thoughtful use of automation and engineering.
-You will define and drive the strategy for a modern incident response function, ensuring high-quality investigations and that every incident leads to meaningful improvements in our detection and response capabilities.
-You’ll assess current capabilities and chart the path forward across people, process, and technology, evolving the operating model to support effective global response.
-You will scale the function through automation, tooling, and improved workflows—solving repeatable problems with systems, not manual effort.
-You will serve as a key voice to senior leadership, communicating incident trends, risks, and strategic direction, and partner across the company to turn incident learnings into durable security improvements resulting in removal of entire classes of problems.
-A Typical Day:
-Lead and mentor a diverse team of ~5+ senior engineers
-Partner with Security Platform and Detection Engineering teams to enhance telemetry, context, and response capabilities, and collaborate closely with key teams in Infrastructure Security, Application Security, Infrastructure teams, Legal, Privacy, Global Safety and Security, and Engineering teams across the organization.
-Coach and develop team members, help them grow their careers, technical expertise, and collaboration skills.
-Act as a senior escalation point during high-severity or complex incidents
-Ensure consistent, high-quality investigations with strong root cause analysis
-Establish clear priorities that balance speed, depth, and risk reduction
-Improve escalation paths, ownership clarity, and cross-functional coordination
-Use incident data to influence security priorities and investment decisions
-Partner closely with partner teams within Information Security to ensure incident learnings are shared and added to roadmaps for security risk reduction
-Work with infrastructure, product, and engineering teams to drive effective remediation
-Define and track key metrics such as MTTD, MTTR, incident severity, and recurrence
-Ensure clear communication during incidents to senior and executive leadership including updates on insights from incident patterns, trends, and emerging risks
-Your Expertise:
-9+ years of industry experience in threat detection and incident response, with a minimum of 3-5 years in engineering management.
-Experience shaping or evolving incident response programs in complex environments
-Exceptional people management and mentorship skills, with a history of recruiting, developing and retaining top talent
-Strong understanding of attacker behavior and frameworks such as MITRE ATT&CK
-Experience and understanding of technologies such as EDR, SIEM, cloud environments, and investigation workflows
-Experience in cloud-native environments (AWS, GCP, Azure)
-Ability to analyze ambiguous situations and make sound, timely decisions
-Comfort partnering with engineering teams to build scalable solutions
-Ability to operate at both strategic and tactical levels, from executive communication to incident leadership
-Experience defining team strategy, priorities, and operating models
-Strong judgment in risk assessment, escalation, and trade-offs
-Excellent communication skills across technical and executive audiences
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$204,000
-—
-$255,000 USD
-Offices: United States",Live and Work Anywhere
 "(Contract) Senior Data Scientist, Platform Inference – MarTech DS Measurement",Data Science,United States,,7732569,airbnb,2026-06-09,2026-06-29,0.3302,United States,https://careers.airbnb.com/positions/7732569/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 MarTech Data Science Measurement empowers Airbnb to optimize marketing ROI by generating data-driven recommendations. We lead the way in defining and advancing best practices for measuring and optimizing marketing impact. We collaborate with Marketing, Finance, and Engineering to provide actionable recommendations and tools based on effective, timely, and granular measurements. Our team’s tenets are:
@@ -737,37 +927,6 @@ $140
 —
 $150 USD
 Offices: United States",Live and Work Anywhere
-"Engineering Manager, Guest & Host",Engineering,"London, United Kingdom",,7532824,airbnb,2026-06-22,2026-06-29,0.3132,"London, United Kingdom",https://careers.airbnb.com/positions/7532824/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-We are building tools and a global community to make it easier for people to host on Airbnb. Our team focuses on co-hosting and building intuitive, user-facing experiences that enable people to host together as a team, using machine learning where appropriate to address real user needs. The team works collaboratively with cross-functional partners in Design, Product Management, Business and other Engineering teams to quickly brainstorm, prototype, develop, and deliver high quality product experiences.
-The Difference You Will Make:
-As the Engineering Manager, within Guest & Host Services, you’ll lead a team of talented, diverse software developers to prototype, build and improve hosting services, balancing the shorter term business outcomes along with longer term technical stability, scalability and flexibility aligning with cross functional partners.
-A Typical Day:
-Explore, shape, and develop new product experiences alongside cross-functional partners (design and product); from ideation to implementation at scale
-Lead investments into new technical capabilities that push the envelope and unlock product innovation
-Collaborate with engineers to plan and sequence the delivery of new features and capabilities, making necessary trade-offs, while effectively communicating the delivery plans and celebrating successful launches
-Partner with peer engineering teams to integrate new features that impact different areas within the product
-Strengthen the team’s partnerships with key stakeholders in Engineering, Design, and Product to make ambitious product feature concepts a reality.
-Recruit and nurture exceptional engineering talent by investing meaningful one-on-one time to understand their motivations and team dynamics, while also creating a tailored career development plan.
-Foster an inclusive team culture and environment that encourages collaboration, technical excellence, and innovation via calculated risks and product mindset.
-Your Expertise:
-5+ years of engineering management experience, with 9+ years of relevant software development industry experience in a fast paced tech environment
-Deep expertise with backend systems and complex data modeling in large-scale consumer applications
-Excellent communication and presentation skills tuned for both technical or non-technical audiences
-End-to-end, product-oriented mentality that transcends team boundaries and helps find globally optimal solutions
-Good judgment in making tradeoffs to balance short-term business needs with long-term technical quality
-Strong collaboration skills, able to work effectively and find common ground with a wide range of teams who may have conflicting goals and priorities
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-United Kingdom Annual Pay Range
-£120,000
-—
-£150,000 GBP
-Offices: London, United Kingdom",Hybrid - Be close to an office
 "Chef de l’Approvisionnement en Logements, Canada",Account Management,Canada,,7326052,airbnb,2026-06-09,2026-06-29,0.1093,Canada,https://careers.airbnb.com/positions/7326052/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Airbnb a pris le jour en 2007 lorsque deux Hôtes ont accueilli trois invités dans leur maison de San Francisco, et compte depuis lors plus de 4 millions d'Hôtes qui ont accueilli plus d'un milliard d'invités dans presque tous les pays du monde. Chaque jour, les Hôtes proposent des séjours et des expériences uniques qui permettent aux invités de se connecter de manière plus authentique aux communautés.
 La communauté qui vous attend :
@@ -869,7 +1028,7 @@ $63,000
 —
 $63,000 CAD
 Offices: Canada",Live and Work Anywhere
-Business Operations and Growth Lead,Business Operations/Analysis,"Tokyo, Japan",,7916146,airbnb,2026-06-09,2026-06-25,0.1842,"Tokyo, Japan",https://careers.airbnb.com/positions/7916146/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Operations and Growth Lead,Business Operations/Analysis,"Tokyo, Japan",,7916146,airbnb,2026-06-09,2026-06-25,0.1915,"Tokyo, Japan",https://careers.airbnb.com/positions/7916146/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Our Japan team is growing, and we want you to be part of it! Japan is a key market for Airbnb’s future growth and is currently receiving significant attention and resources to further accelerate its development as both a destination and origin market. The functional teams in Japan work closely together, alongside regional and central teams, to develop and execute a unified market strategy.
 The Difference You Will Make:
@@ -898,7 +1057,7 @@ Strong verbal and written communication skills in English.  Being bilingual in 
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: Tokyo, Japan",Hybrid - Be close to an office
-"Engineering Manager, Marketing Technology – Segmentation Platform & Insights Platform",Engineering,United States,,7927488,airbnb,2026-06-25,2026-06-25,0.3106,United States,https://careers.airbnb.com/positions/7927488/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Marketing Technology – Segmentation Platform & Insights Platform",Engineering,United States,,7927488,airbnb,2026-06-25,2026-06-25,0.3108,United States,https://careers.airbnb.com/positions/7927488/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Marketing Technology team’s vision is to drive long term sustainable growth for the Airbnb community. Our mission is to build a best-in-class agentic system, and capabilities to support the growth of all Airbnb products, current and future. We achieve this by delivering highly personalized and relevant content and product experiences to the Airbnb community, both on and off of the Airbnb platform. The north star is full autonomy - where AI identifies opportunities, creates campaigns, personalizes experiences, and optimizes outcomes with minimal human-on-the-loop intervention. We are progressing along a deliberate maturity curve:
 AI
@@ -985,8 +1144,8 @@ $212,000
 —
 $265,000 USD
 Offices: United States",Live and Work Anywhere
-"Engineering Manager, Experimentation Infrastructure",Engineering,United States,,7707946,airbnb,2026-06-22,2026-06-24,0.3879,,https://careers.airbnb.com/positions/7707946/,,,Live and Work Anywhere
-"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-23,0.4606,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Experimentation Infrastructure",Engineering,United States,,7707946,airbnb,2026-06-22,2026-06-24,0.3877,,https://careers.airbnb.com/positions/7707946/,,,Live and Work Anywhere
+"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-23,0.4604,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Marketplaces Data and AI is Airbnb's data and AI execution org, responsible for the machine learning, data engineering, and analytics systems that power how guests find the right place to stay and how hosts succeed on the platform. We build foundational data products used across Airbnb — by Trust, Customer Support, Search, and every team that needs a reliable, structured view of what is happening on our platform.
 The Core Entities program is the cornerstone of that foundation. It is the company's canonical semantic model for the objects that matter most to Airbnb — hosts, listings, users, and trips — and the events that happen across their lifecycles. This work feeds the intelligence layer that Airbnb's next generation of AI products depends on, and it is one of the top priorities for the company's engineering leadership.
@@ -1033,8 +1192,8 @@ $212,000
 —
 $265,000 USD
 Offices: United States",Live and Work Anywhere
-"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.252,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
-Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2788,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
+"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.2578,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
+Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2617,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
 "Associate Principal, SF&A – Host Products",Finance,United States,,7881559,airbnb,2026-06-09,2026-06-19,0.3475,United States,https://careers.airbnb.com/positions/7881559/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics, Host Product role will be responsible for partnering closely with Product, Supply, and Analytics leaders across Airbnb’s host ecosystem. This role will directly support some of Airbnb’s most critical product surfaces powering host acquisition, onboarding, and host engagement, and plays a key role in connecting product strategy to business outcomes.
@@ -1078,7 +1237,7 @@ $157,000
 —
 $172,000 USD
 Offices: United States",Live and Work Anywhere
-"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.315,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.3151,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics, Business Finance Org role will be responsible for partnering with the business across all aspects of growth, analytics, and strategy within the Chief Business Officer Finance organization - and will work closely with members of the supply, quality, product, and finance leadership teams. This role will work directly with senior leadership to provide actionable insights and financial guidance for the business.
 The Difference You Will Make:
@@ -1170,7 +1329,7 @@ India Annual Pay Range
 —
 ₹4,200,000 INR
 Offices: India",Live and Work Anywhere
-Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2243,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2229,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 Airbnb is seeking a Strategic Partnerships & Business Development Lead for Canada, reporting to the Country Manager, Canada.
 In this role, you will lead the strategic business partnerships mandate in the territory and collaborate closely with the Business, Supply, Product Marketing, Finance and Legal functions across Canada, regional offices and Headquarters in San Francisco.
@@ -1252,7 +1411,7 @@ United Kingdom Annual Pay Range
 —
 £88,000 GBP
 Offices: London, United Kingdom",Hybrid - Be close to an office
-Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.167,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1587,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Airbnb Hotels team, which includes HotelTonight, is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence, and guest-centered ethos that define Airbnb. This team’s mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping independent, boutique hotels easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.
 The Difference You Will Make
@@ -1286,7 +1445,7 @@ France Annual Pay Range
 —
 €72.000 EUR
 Offices: Paris, France",Hybrid - Be close to an office
-"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2635,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2648,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Creative Director, Social & Content will report to the Director, Social Creative and work PST hours. This leader will oversee multiple Airbnb social workstreams while shaping a cohesive, culturally relevant content ecosystem that blends brand storytelling with social-first execution.
 Airbnb is seeking a visionary creative leader who operates at the intersection of content, culture, and brand. This role is part of our internal, multidisciplinary Creative Team—partnering across marketing, product, comms, and external creators to develop ideas that travel across platforms and live beyond campaigns.
