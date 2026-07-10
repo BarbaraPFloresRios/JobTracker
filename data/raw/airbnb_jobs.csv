@@ -1,100 +1,5 @@
 title,team,location,posted_date,job_id,source,first_seen_date,last_seen_date,semantic_similarity,office,url,description_short,description,workplace_type
-"Engineering Manager, Storage SRE",Engineering,United States,,7927371,airbnb,2026-06-25,2026-07-09,0.3341,United States,https://careers.airbnb.com/positions/7927371/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-Airbnb’s Storage SRE team owns the “how do you reliably run and operate databases at scale” problem. The team is at the heart of Airbnb’s online data systems, building tooling, workflows, and automation to ensure mission-critical data services are reliable, secure, and performant. You will be joining a team that operates at genuine internet scale and has direct influence on the infrastructure decisions that power a global marketplace.
-The team has deep operational ownership of Airbnb’s primary relational database fleet, covering the full lifecycle from provisioning and capacity planning to schema management, backup and recovery, disaster recovery, and client integration best practices. The team also improves the developer experience for engineers working with transactional data stores at scale, enabling engineers across Airbnb to work with high-traffic storage systems reliably and efficiently. Looking ahead, the team is actively expanding its tooling and operational model to support a new class of distributed database technology, partnering closely with storage infrastructure and platform teams to enable resilient adoption across Airbnb.
-The Difference You Will Make:
-Own the Storage SRE technical roadmap across a 12+ month horizon, setting the direction for how the team deepens its operational model as it takes on new database technologies alongside its existing systems
-Lead and grow a team of engineers by providing mentorship, timely feedback, and career development support to build a high-performing, inclusive team
-Drive the generalization of cluster lifecycle, schema management, and observability tooling as the team broadens its database technology support
-Partner with engineering teams across Airbnb as the primary expert on reliable database adoption, helping them work with mission-critical storage systems safely and efficiently at scale
-Establish and uphold operational excellence standards covering on-call strategy, incident response, backup and disaster recovery, and systemic reliability improvements
-Collaborate with storage infrastructure and platform teams to ensure Storage SRE’s tooling and observability stay current as the broader storage platform evolves
-Improve the developer experience for engineers working with high-traffic transactional storage systems
-Drive performance, security, scalability, and availability initiatives across Airbnb’s database systems
-Communicate technical strategy and trade-offs clearly to engineers and senior leadership
-Your Expertise:
-9+ years of relevant industry experience in database infrastructure, storage systems, or site reliability engineering
-3+ years of engineering management experience leading SRE, infrastructure, or platform teams
-Demonstrated track record of building high-performing teams by hiring strong engineers, developing talent, and maintaining team health through periods of change
-Strong technical foundation with the ability to partner with technical leads on architectural decisions, roadmap tradeoffs, and delivery quality
-Proven ability to lead a team through a technology transition while maintaining operational rigor on existing systems
-Solid understanding of distributed systems, cloud infrastructure, and production database operations
-Strong communicator able to cut through ambiguity and represent the team credibly to senior leadership
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$212,000
-—
-$265,000 USD
-Offices: United States",Live and Work Anywhere
-"Engineering Manager, UI Tooling",Engineering,United States,,7778757,airbnb,2026-07-08,2026-07-09,0.3318,United States,https://careers.airbnb.com/positions/7778757/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-The Community You Will Join:
-The UI Foundation team has a deep history at Airbnb, responsible for the design system, accessibility, motion, and the tooling that connects how Airbnb designs and builds products. Within UI Foundation, the UI Tooling team is the connective tissue between Airbnb's Design Language System and the day-to-day workflows of hundreds of designers and engineers across the company.
-UI Tooling owns the platforms, integrations, and tooling that power how designers and engineers work — spanning design tooling, UI engineering workflow tooling, collaboration platforms, and increasingly, AI-powered workflows across all three. As AI enablement for designers and engineers accelerates, this team sits at the center of some of Airbnb's most strategic infrastructure investments.
-The Difference You Will Make:
-As the Engineering Manager of UI Tooling, you will provide the dedicated leadership this team needs to execute with consistency, clarity, and long-term strategic direction. You'll manage and develop a team of engineers, own the multi-year roadmap across UI Tooling's core areas, and serve as a cross-functional partner to Design, Product, and AI teams driving the next generation of designer and engineer enablement at Airbnb.
-This role directly unblocks UI Foundation's broader ambitions. With you in this role, the team gains the focus and stability it needs to move fast on initiatives that have a blast radius across every team at Airbnb that builds products.
-You will own strategy and execution across five key areas:
-AI Usage of the Design System:
-Figma Code Connections and Integrations, UI Development Skills and Agents, Prototyping Skills and Agents, Design Skills and Agents
-Core UI Development Workflow & Tooling
-: Component development and documentation tooling, design-to-code platforms, migration tooling
-Core Design Workflow & Tooling
-: Internal design platforms, Figma enablement, design tooling and Figma plugins
-Collaboration Workflow & Tooling:
-Motion spec tooling and core motion frameworks, prototyping platform contributions and tools
-Education and Adoption:
-Enabling designers, engineers to be properly educated in the tools we’re providing and ensuring adoption of those tools
-A Typical Day:
-Strategic Leadership:
-Define multi-year technical roadmaps for UI Tooling with clear, measurable outcomes tied to UI Foundation goals
-Drive adoption of AI-powered design-to-code workflows across Design and Engineering, establishing Airbnb as a leader in this space
-Build cross-functional alignment with Figma, product teams, and AI/ML partners to advance Airbnb's designer and engineer enablement capabilities
-Represent UI Tooling in org-level planning and investment conversations, shaping prioritization and surfacing dependencies across UI Foundation
-Day-to-Day Execution:
-Lead, develop, and grow a team of engineers working across design tooling, developer experience, and AI-powered workflows
-Partner with design and engineering leaders to identify workflow pain points and prioritize the highest-leverage tooling investments
-Guide technical decisions across the team — from platform architecture to AI integration patterns — bringing a senior engineering point of view to system design
-Manage staffing, prioritization, and execution consistency, driving clarity and unblocking work across long-horizon platform investments
-Mentor and develop engineers on the team, supporting career growth and raising the technical bar
-Foster an inclusive team culture grounded in psychological safety and high performance
-Your Expertise:
-10+ years of software engineering experience, with 5+ years in an engineering management role leading platform, tooling, or design systems teams
-Strong technical foundation in frontend or cross-platform development, with the depth to engage credibly on architecture decisions
-Track record of driving long-horizon platform investments from strategy through execution, with strong cross-organizational influence and stakeholder management
-Experience building or leading developer experience, design tooling, or design system infrastructure at scale
-Familiarity with Figma's ecosystem — plugins, Dev Mode, Code Connections, or similar design-to-code workflows
-Commitment to inclusive leadership and creating environments where engineers can do their best work
-[Bonus] Experience working with AI-powered developer or designer tooling, or integrating LLM capabilities into product workflows
-Your Location:
-This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
-Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
-. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
-Our Commitment To Inclusion & Belonging:
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
-reasonableaccommodations@airbnb.com
-. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
-How We'll Take Care of You:
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
-Pay Range
-$212,000
-—
-$265,000 USD
-Offices: United States",Live and Work Anywhere
-Customer Support Specialist,Community Support,"Gurugram, India",,8050665,airbnb,2026-07-09,2026-07-09,0.2403,"Gurugram, India",https://careers.airbnb.com/positions/8050665/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Customer Support Specialist,Community Support,"Gurugram, India",,8050665,airbnb,2026-07-09,2026-07-10,0.2403,"Gurugram, India",https://careers.airbnb.com/positions/8050665/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 About Airbnb
 Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
@@ -150,7 +55,7 @@ India Annual Pay Range
 —
 ₹590,000 INR
 Offices: Gurugram, India",Onsite
-Customer Support Specialist,Community Support,"Gurugram, India",,8050663,airbnb,2026-07-09,2026-07-09,0.2403,"Gurugram, India",https://careers.airbnb.com/positions/8050663/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Customer Support Specialist,Community Support,"Gurugram, India",,8050663,airbnb,2026-07-09,2026-07-10,0.2403,"Gurugram, India",https://careers.airbnb.com/positions/8050663/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 About Airbnb
 Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
@@ -206,7 +111,7 @@ India Annual Pay Range
 —
 ₹590,000 INR
 Offices: Gurugram, India",Onsite
-"Engineering Manager, Payments",Engineering,USA - Remote,,8044558,airbnb,2026-07-08,2026-07-09,0.2641,United States,https://careers.airbnb.com/positions/8044558/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Payments",Engineering,USA - Remote,,8044558,airbnb,2026-07-08,2026-07-10,0.2641,United States,https://careers.airbnb.com/positions/8044558/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Airbnb’s mission is to create a world where anyone can belong anywhere. Airbnb Payments team supports this mission by economically empowering Airbnb businesses and our global community of guests and hosts.
 Payments is a core part of Airbnb’s business and guest/Host experience, operating across global markets, currencies, payment methods, regulatory environments, and partner integrations. We build and operate Airbnb’s in-house payments platform to support global scale, reliability, compliance, and product flexibility. The team works closely with Product, Design, Data Science, Finance, Legal, Compliance, Operations, and external payment partners to deliver trusted payment experiences for our community.
@@ -256,7 +161,7 @@ $212,000
 —
 $265,000 USD
 Offices: United States",Live and Work Anywhere
-"Associate Principal, Strategic Finance & Analytics",Finance,United States,,8043588,airbnb,2026-07-02,2026-07-09,0.2797,United States,https://careers.airbnb.com/positions/8043588/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Principal, Strategic Finance & Analytics",Finance,United States,,8043588,airbnb,2026-07-02,2026-07-10,0.2797,United States,https://careers.airbnb.com/positions/8043588/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics - Homes Supply role will be responsible for partnering with the business to drive growth of Airbnb’s homes supply. This role will work directly with senior leaders to measure the impact of business initiatives, influence investment in new areas, and ensure that we can link every business action to a financial outcome.
 The Difference You Will Make:
@@ -302,7 +207,7 @@ $157,000
 —
 $172,000 USD
 Offices: United States",Live and Work Anywhere
-Business Operations and Growth Lead,Business Operations/Analysis,"California, United States",,8035783,airbnb,2026-06-30,2026-07-09,0.1709,"California, United States",https://careers.airbnb.com/positions/8035783/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Operations and Growth Lead,Business Operations/Analysis,"California, United States",,8035783,airbnb,2026-06-30,2026-07-10,0.1709,"California, United States",https://careers.airbnb.com/positions/8035783/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Chief Business Officer organization plays a pivotal role in driving the company’s growth and expansion efforts worldwide. Our teammates work on commercializing Airbnb’s new and existing businesses, helping Airbnb expand beyond its core offering as a place to stay. This includes recruiting and developing Airbnb’s global supply of high-quality stays, Experiences, and Services, and executing Airbnb’s global strategy in market. With a focus on business strategy, quality supply and international expansion, the team is leading the way for Airbnb’s continued growth and success in its next chapter.
 The Global Markets Team, which sits within CBO, ensures that Airbnb is locally relevant and serves the needs of our global hosts and guests, helping regions more efficiently plan and execute growth strategies across supply, demand, and other surfaces in a way that will resonate with our communities.
@@ -344,7 +249,7 @@ $168,000
 —
 $203,000 USD
 Offices: California, United States",Live and Work Anywhere
-Business Operations and Growth Lead,Strategy & Planning,"Sydney, Australia",,7999656,airbnb,2026-06-11,2026-07-09,0.1211,"Sydney, Australia",https://careers.airbnb.com/positions/7999656/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Operations and Growth Lead,Strategy & Planning,"Sydney, Australia",,7999656,airbnb,2026-06-11,2026-07-10,0.1211,"Sydney, Australia",https://careers.airbnb.com/positions/7999656/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Every day, Airbnb hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. Since our founding, more than 5 million hosts have welcomed over 1.5 billion guest arrivals in almost every country across the globe.
 The Chief Business Officer organization plays a pivotal role in driving the company’s growth and expansion efforts worldwide. Our teammates work on commercializing Airbnb’s new and existing businesses, helping Airbnb expand beyond its core offering as a place to stay. This includes recruiting and developing Airbnb’s global supply of high-quality stays, and executing Airbnb’s global strategy in the market. With a focus on business strategy, quality supply and international expansion, the team is leading the way for Airbnb’s continued growth and success in its next chapter.
@@ -376,7 +281,7 @@ Comfort with manipulating large datasets in excel is a must. SQL proficiency str
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: Sydney, Australia",Hybrid - Be close to an office
-Acquisition Manager,Account Management,"Milan, Italy",,7996480,airbnb,2026-06-10,2026-07-09,0.2084,"Milan, Italy",https://careers.airbnb.com/positions/7996480/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Acquisition Manager,Account Management,"Milan, Italy",,7996480,airbnb,2026-06-10,2026-07-10,0.2084,"Milan, Italy",https://careers.airbnb.com/positions/7996480/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Homes team plays a key role in shaping the Airbnb stays experience . As a multidisciplinary team, we partner with Hosts to conceptualize and develop high-quality, repeatable, and commercially viable offerings that align with our brand values.
 Airbnb is seeking a Market Manager, with a primary focus on Italy, to support and grow our network of Hosts and Partners. This role will be part of the Homes EMEA team and report to the Field Operations Manager.
@@ -417,7 +322,7 @@ Italy Annual Pay Range
 —
 €58.000 EUR
 Offices: Milan, Italy",Hybrid - Be close to an office
-Acquisition Manager,Account Management,"Paris, France",,7995199,airbnb,2026-06-10,2026-07-09,0.2087,"Paris, France",https://careers.airbnb.com/positions/7995199/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Acquisition Manager,Account Management,"Paris, France",,7995199,airbnb,2026-06-10,2026-07-10,0.2087,"Paris, France",https://careers.airbnb.com/positions/7995199/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Homes team plays a key role in shaping the Airbnb stays experience. As a multidisciplinary team, we partner with Hosts to conceptualize and develop high-quality, repeatable, and commercially viable offerings that align with our brand values.
 Airbnb is seeking a Market Manager, with a primary focus on France, to support and grow our network of Hosts and Partners. This role will be part of the Homes EMEA team and report to the Field Operations Manager.
@@ -458,7 +363,7 @@ France Annual Pay Range
 —
 €72.000 EUR
 Offices: Paris, France",Hybrid - Be close to an office
-Acquisition Manager,Account Management,"Berlin, Germany",,7995153,airbnb,2026-06-10,2026-07-09,0.2159,"Berlin, Germany",https://careers.airbnb.com/positions/7995153/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Acquisition Manager,Account Management,"Berlin, Germany",,7995153,airbnb,2026-06-10,2026-07-10,0.2159,"Berlin, Germany",https://careers.airbnb.com/positions/7995153/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Homes team plays a key role in shaping the Airbnb stays experience . As a multidisciplinary team, we partner with Hosts to conceptualize and develop high-quality, repeatable, and commercially viable offerings that align with our brand values.
 Airbnb is seeking an Acquisition Manager, with a primary focus on the DACH countries, particularly Germany, to actively grow our network of Hosts and Partners. You will be at the forefront of expanding Airbnb's professional supply base in one of Europe's most important travel markets. This role will be part of the Homes EMEA team and report to the Field Operations Manager.
@@ -499,7 +404,7 @@ Germany Annual Pay Range
 —
 €84.000 EUR
 Offices: Berlin, Germany",Hybrid - Be close to an office
-Compensation Partner,Employee Experience,United States,,7993306,airbnb,2026-06-09,2026-07-09,0.3956,United States,https://careers.airbnb.com/positions/7993306/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Compensation Partner,Employee Experience,United States,,7993306,airbnb,2026-06-09,2026-07-10,0.3956,United States,https://careers.airbnb.com/positions/7993306/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Total Rewards Compensation team serves as a strategic advisor to business leaders, managers, and employees across Airbnb. We are compensation experts with a deep understanding of our stakeholders, problem solvers who use data and insights to drive value, and partners who build the tools, models, and frameworks that support sound compensation decision-making across the company. This role sits within the Compensation function and will work closely with the Technology organization and cross-functional partners including Recruiting, People Analytics, Finance, Legal and Talent.
 The Difference You Will Make:
@@ -546,7 +451,7 @@ $168,000
 —
 $210,000 USD
 Offices: United States",Live and Work Anywhere
-"Community Engagement Lead, Spain and Portugal",Business Operations/Analysis,"Barcelona, Spain",,7982715,airbnb,2026-06-09,2026-07-09,0.126,"Barcelona, Spain",https://careers.airbnb.com/positions/7982715/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Community Engagement Lead, Spain and Portugal",Business Operations/Analysis,"Barcelona, Spain",,7982715,airbnb,2026-06-09,2026-07-10,0.126,"Barcelona, Spain",https://careers.airbnb.com/positions/7982715/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Every day, millions of Airbnb hosts around the world create comfortable, reliable and welcoming stays and Experiences for our guests. Hosting on Airbnb offers a unique way to meet our Hosts’ financial goals but the rewards for opening their home or sharing a passion go beyond their bank account. Hosting also offers the opportunity to impact their local community, share their culture and connect with people they wouldn’t have met otherwise.
 We know that our global community of hosts is one of Airbnb’s most precious assets and we are very intentional on how we nurture the common identity of being an Airbnb Host. The Airbnb Community team is looking for an experienced Community Engagement Lead to work in the territory and deliver upon our Community Growth, Engagement and business goals.
@@ -598,7 +503,7 @@ Spain Annual Pay Range
 —
 €100.000 EUR
 Offices: Barcelona, Spain",Hybrid - Be close to an office
-"AI Engineer, Community Support Engineering",Engineering,China - Remote,,7946288,airbnb,2026-06-09,2026-07-09,0.3144,"Beijing, China",https://careers.airbnb.com/positions/7946288/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"AI Engineer, Community Support Engineering",Engineering,China - Remote,,7946288,airbnb,2026-06-09,2026-07-10,0.3144,"Beijing, China",https://careers.airbnb.com/positions/7946288/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Your Location:
 This position is China based - Remote
 . The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.
@@ -631,7 +536,7 @@ reasonableaccommodations@airbnb.com
 . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
 We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
 Offices: Beijing, China",Live and Work Anywhere
-"Engineering Manager, Marketing Technology – Segmentation Platform & Insights Platform",Engineering,United States,,7927488,airbnb,2026-06-25,2026-07-09,0.2693,United States,https://careers.airbnb.com/positions/7927488/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Marketing Technology – Segmentation Platform & Insights Platform",Engineering,United States,,7927488,airbnb,2026-06-25,2026-07-10,0.2693,United States,https://careers.airbnb.com/positions/7927488/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Marketing Technology team’s vision is to drive long term sustainable growth for the Airbnb community. Our mission is to build a best-in-class agentic system, and capabilities to support the growth of all Airbnb products, current and future. We achieve this by delivering highly personalized and relevant content and product experiences to the Airbnb community, both on and off of the Airbnb platform. The north star is full autonomy - where AI identifies opportunities, creates campaigns, personalizes experiences, and optimizes outcomes with minimal human-on-the-loop intervention. We are progressing along a deliberate maturity curve:
 AI
@@ -679,7 +584,7 @@ $212,000
 —
 $265,000 USD
 Offices: United States",Live and Work Anywhere
-Audiovisual Infrastructure Engineer,Information Technology,"San Francisco, CA",,7917632,airbnb,2026-06-09,2026-07-09,0.2765,United States,https://careers.airbnb.com/positions/7917632/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Audiovisual Infrastructure Engineer,Information Technology,"San Francisco, CA",,7917632,airbnb,2026-06-09,2026-07-10,0.2765,United States,https://careers.airbnb.com/positions/7917632/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Our team builds, operates and maintains Airbnb’s global video production and large-scale audiovisual infrastructure in our event spaces, collaboration hubs and large specialty conference rooms at offices around the world. We work closely with the Infrastructure builds team, the live production crew and the office of the CEO to deliver highly functional and reliable AV infrastructure.
 The Difference You Will Make:
@@ -721,7 +626,7 @@ $136,000
 —
 $160,000 USD
 Offices: United States",Live and Work Anywhere
-Community Support Forecasting and Demand Planning Analyst,Community Support,United States,,7839229,airbnb,2026-06-09,2026-07-09,0.3145,United States,https://careers.airbnb.com/positions/7839229/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Community Support Forecasting and Demand Planning Analyst,Community Support,United States,,7839229,airbnb,2026-06-09,2026-07-10,0.3145,United States,https://careers.airbnb.com/positions/7839229/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Community Support org handles tens of millions of interactions yearly, engaging with Airbnb customers by phone, messaging, chat, or social media channels. The group handles hundreds of issues across categories including Cancellations, Account Issues, Refunds, Payments, Reservations, Extenuating Circumstances, Booking & Listing issues, Safety & Claims. The organization is globally distributed with offices in San Francisco, Dublin, Montreal, Seattle, Singapore, Manila, Gurgaon and an extensive partner network serving all regions.
 The Difference You Will Make:
@@ -773,7 +678,7 @@ $168,000
 —
 $210,000 USD
 Offices: United States",Live and Work Anywhere
-"Associate Legal Counsel, Japan",Legal,"Tokyo, Japan",,7789554,airbnb,2026-06-09,2026-07-09,0.1934,"Tokyo, Japan",https://careers.airbnb.com/positions/7789554/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Legal Counsel, Japan",Legal,"Tokyo, Japan",,7789554,airbnb,2026-06-09,2026-07-10,0.1934,"Tokyo, Japan",https://careers.airbnb.com/positions/7789554/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Airbnb’s Legal team embodies the company’s innovative, forward-thinking spirit. At the frontier of the sharing economy, Airbnb is breaking new ground in matters of policy, law, and government relations. Where some see obstacles, we see the opportunity to find creative, practical solutions, right at the cutting edge. Our adventurous, fast-moving legal team is committed to building a team of talented, collaborative and self-motivated legal professionals across the globe who believe in Airbnb’s mission and leading as a 21st century company.
 Airbnb’s Legal Department is a global team that will require working with diverse international colleagues around the world. The successful candidate will be someone who is adaptable, collaborative and embodies Airbnb’s Core Values. Candidates will be required to approach complex legal issues with a balance for local and global perspectives, while being adaptable to cultural differences and nuances. A genuine and demonstrated interest in Airbnb and a commitment to ethics, integrity and fostering a workplace that emphasizes diversity and belonging is a must.
@@ -800,7 +705,7 @@ Occasional international travel (typically once a year for a few days) may be re
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: Tokyo, Japan",Hybrid - Be close to an office
-"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-07-09,0.375,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Community Support Engineering (Routing and Data Services)",Engineering,China,,7760914,airbnb,2026-06-09,2026-07-10,0.375,China,https://careers.airbnb.com/positions/7760914/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Community Support (CS) is a key driver in enabling Airbnb's core business. The Community Support Engineering (CSE) organization builds world-class tools for our team of Community Support ambassadors around the world as well as our operations teams, to ensure our guests and hosts have a great experience on Airbnb, 24/7, and 365 days a year.
 Within CSE, China Routing and Data Service(CRD) Team works together with our US partners to co-own the CS foundations systems for our community. We are building the routing systems to efficiently connect our guests and hosts requests to the best agent, leveraging skills-based routing, context, and urgency signals;  we are building CS data services providing the trusted data foundation that powers AI-driven solutions.
@@ -843,7 +748,7 @@ This position is working remotely within China Mainland. The role may include oc
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: China",Live and Work Anywhere
-"Android Software Engineer, Quality Platform",Engineering,"Remote, Brazil",,7744247,airbnb,2026-06-09,2026-07-09,0.2406,Brazil,https://careers.airbnb.com/positions/7744247/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Android Software Engineer, Quality Platform",Engineering,"Remote, Brazil",,7744247,airbnb,2026-06-09,2026-07-10,0.2406,Brazil,https://careers.airbnb.com/positions/7744247/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Quality Platform team is at the heart of Airbnb’s mission to provide a seamless, high-quality experience for millions of hosts and guests. We don’t just find bugs - we build the infrastructure that prevents them. Our team sits at the intersection of Mobile Infrastructure, Developer Experience, and Applied AI. We empower thousands of engineers across Airbnb to ship with confidence by building high-scale platforms, AI-driven automation, and fault-tolerant systems. You will join a group of high-impact engineers who value craft, operational excellence, and the challenge of navigating one of the world’s most complex mobile codebases.
 The Difference You Will Make:
@@ -892,7 +797,7 @@ reasonableaccommodations@airbnb.com
 . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
 We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
 Offices: Brazil",Live and Work Anywhere
-"(Contract) Senior Data Scientist, Platform Inference – MarTech DS Measurement",Data Science,United States,,7732569,airbnb,2026-06-09,2026-07-09,0.3302,United States,https://careers.airbnb.com/positions/7732569/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"(Contract) Senior Data Scientist, Platform Inference – MarTech DS Measurement",Data Science,United States,,7732569,airbnb,2026-06-09,2026-07-10,0.3302,United States,https://careers.airbnb.com/positions/7732569/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 MarTech Data Science Measurement empowers Airbnb to optimize marketing ROI by generating data-driven recommendations. We lead the way in defining and advancing best practices for measuring and optimizing marketing impact. We collaborate with Marketing, Finance, and Engineering to provide actionable recommendations and tools based on effective, timely, and granular measurements. Our team’s tenets are:
 Actionable: Deliver insights that drive confident business decisions.
@@ -943,7 +848,7 @@ $140
 —
 $150 USD
 Offices: United States",Live and Work Anywhere
-"Engineering Manager, Guest & Host",Engineering,"London, United Kingdom",,7532824,airbnb,2026-06-22,2026-07-09,0.3132,"London, United Kingdom",https://careers.airbnb.com/positions/7532824/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Guest & Host",Engineering,"London, United Kingdom",,7532824,airbnb,2026-06-22,2026-07-10,0.3132,"London, United Kingdom",https://careers.airbnb.com/positions/7532824/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 We are building tools and a global community to make it easier for people to host on Airbnb. Our team focuses on co-hosting and building intuitive, user-facing experiences that enable people to host together as a team, using machine learning where appropriate to address real user needs. The team works collaboratively with cross-functional partners in Design, Product Management, Business and other Engineering teams to quickly brainstorm, prototype, develop, and deliver high quality product experiences.
 The Difference You Will Make:
@@ -974,9 +879,104 @@ United Kingdom Annual Pay Range
 —
 £150,000 GBP
 Offices: London, United Kingdom",Hybrid - Be close to an office
-"Counsel, IP",Legal,United States,,8029148,airbnb,2026-06-26,2026-07-07,0.2651,,https://careers.airbnb.com/positions/8029148/,,,Live and Work Anywhere
-"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-07-07,0.37,,https://careers.airbnb.com/positions/7743899/,,,Live and Work Anywhere
-Employee Relations Lead -India,Employee Experience,"Gurugram, India",,7975814,airbnb,2026-06-29,2026-07-05,0.3027,"Gurugram, India",https://careers.airbnb.com/positions/7975814/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Storage SRE",Engineering,United States,,7927371,airbnb,2026-06-25,2026-07-09,0.3333,United States,https://careers.airbnb.com/positions/7927371/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+Airbnb’s Storage SRE team owns the “how do you reliably run and operate databases at scale” problem. The team is at the heart of Airbnb’s online data systems, building tooling, workflows, and automation to ensure mission-critical data services are reliable, secure, and performant. You will be joining a team that operates at genuine internet scale and has direct influence on the infrastructure decisions that power a global marketplace.
+The team has deep operational ownership of Airbnb’s primary relational database fleet, covering the full lifecycle from provisioning and capacity planning to schema management, backup and recovery, disaster recovery, and client integration best practices. The team also improves the developer experience for engineers working with transactional data stores at scale, enabling engineers across Airbnb to work with high-traffic storage systems reliably and efficiently. Looking ahead, the team is actively expanding its tooling and operational model to support a new class of distributed database technology, partnering closely with storage infrastructure and platform teams to enable resilient adoption across Airbnb.
+The Difference You Will Make:
+Own the Storage SRE technical roadmap across a 12+ month horizon, setting the direction for how the team deepens its operational model as it takes on new database technologies alongside its existing systems
+Lead and grow a team of engineers by providing mentorship, timely feedback, and career development support to build a high-performing, inclusive team
+Drive the generalization of cluster lifecycle, schema management, and observability tooling as the team broadens its database technology support
+Partner with engineering teams across Airbnb as the primary expert on reliable database adoption, helping them work with mission-critical storage systems safely and efficiently at scale
+Establish and uphold operational excellence standards covering on-call strategy, incident response, backup and disaster recovery, and systemic reliability improvements
+Collaborate with storage infrastructure and platform teams to ensure Storage SRE’s tooling and observability stay current as the broader storage platform evolves
+Improve the developer experience for engineers working with high-traffic transactional storage systems
+Drive performance, security, scalability, and availability initiatives across Airbnb’s database systems
+Communicate technical strategy and trade-offs clearly to engineers and senior leadership
+Your Expertise:
+9+ years of relevant industry experience in database infrastructure, storage systems, or site reliability engineering
+3+ years of engineering management experience leading SRE, infrastructure, or platform teams
+Demonstrated track record of building high-performing teams by hiring strong engineers, developing talent, and maintaining team health through periods of change
+Strong technical foundation with the ability to partner with technical leads on architectural decisions, roadmap tradeoffs, and delivery quality
+Proven ability to lead a team through a technology transition while maintaining operational rigor on existing systems
+Solid understanding of distributed systems, cloud infrastructure, and production database operations
+Strong communicator able to cut through ambiguity and represent the team credibly to senior leadership
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$212,000
+—
+$265,000 USD
+Offices: United States",Live and Work Anywhere
+"Engineering Manager, UI Tooling",Engineering,United States,,7778757,airbnb,2026-07-08,2026-07-09,0.3364,United States,https://careers.airbnb.com/positions/7778757/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:
+The UI Foundation team has a deep history at Airbnb, responsible for the design system, accessibility, motion, and the tooling that connects how Airbnb designs and builds products. Within UI Foundation, the UI Tooling team is the connective tissue between Airbnb's Design Language System and the day-to-day workflows of hundreds of designers and engineers across the company.
+UI Tooling owns the platforms, integrations, and tooling that power how designers and engineers work — spanning design tooling, UI engineering workflow tooling, collaboration platforms, and increasingly, AI-powered workflows across all three. As AI enablement for designers and engineers accelerates, this team sits at the center of some of Airbnb's most strategic infrastructure investments.
+The Difference You Will Make:
+As the Engineering Manager of UI Tooling, you will provide the dedicated leadership this team needs to execute with consistency, clarity, and long-term strategic direction. You'll manage and develop a team of engineers, own the multi-year roadmap across UI Tooling's core areas, and serve as a cross-functional partner to Design, Product, and AI teams driving the next generation of designer and engineer enablement at Airbnb.
+This role directly unblocks UI Foundation's broader ambitions. With you in this role, the team gains the focus and stability it needs to move fast on initiatives that have a blast radius across every team at Airbnb that builds products.
+You will own strategy and execution across five key areas:
+AI Usage of the Design System:
+Figma Code Connections and Integrations, UI Development Skills and Agents, Prototyping Skills and Agents, Design Skills and Agents
+Core UI Development Workflow & Tooling
+: Component development and documentation tooling, design-to-code platforms, migration tooling
+Core Design Workflow & Tooling
+: Internal design platforms, Figma enablement, design tooling and Figma plugins
+Collaboration Workflow & Tooling:
+Motion spec tooling and core motion frameworks, prototyping platform contributions and tools
+Education and Adoption:
+Enabling designers, engineers to be properly educated in the tools we’re providing and ensuring adoption of those tools
+A Typical Day:
+Strategic Leadership:
+Define multi-year technical roadmaps for UI Tooling with clear, measurable outcomes tied to UI Foundation goals
+Drive adoption of AI-powered design-to-code workflows across Design and Engineering, establishing Airbnb as a leader in this space
+Build cross-functional alignment with Figma, product teams, and AI/ML partners to advance Airbnb's designer and engineer enablement capabilities
+Represent UI Tooling in org-level planning and investment conversations, shaping prioritization and surfacing dependencies across UI Foundation
+Day-to-Day Execution:
+Lead, develop, and grow a team of engineers working across design tooling, developer experience, and AI-powered workflows
+Partner with design and engineering leaders to identify workflow pain points and prioritize the highest-leverage tooling investments
+Guide technical decisions across the team — from platform architecture to AI integration patterns — bringing a senior engineering point of view to system design
+Manage staffing, prioritization, and execution consistency, driving clarity and unblocking work across long-horizon platform investments
+Mentor and develop engineers on the team, supporting career growth and raising the technical bar
+Foster an inclusive team culture grounded in psychological safety and high performance
+Your Expertise:
+10+ years of software engineering experience, with 5+ years in an engineering management role leading platform, tooling, or design systems teams
+Strong technical foundation in frontend or cross-platform development, with the depth to engage credibly on architecture decisions
+Track record of driving long-horizon platform investments from strategy through execution, with strong cross-organizational influence and stakeholder management
+Experience building or leading developer experience, design tooling, or design system infrastructure at scale
+Familiarity with Figma's ecosystem — plugins, Dev Mode, Code Connections, or similar design-to-code workflows
+Commitment to inclusive leadership and creating environments where engineers can do their best work
+[Bonus] Experience working with AI-powered developer or designer tooling, or integrating LLM capabilities into product workflows
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity.
+Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list
+. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion & Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at:
+reasonableaccommodations@airbnb.com
+. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+How We'll Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Pay Range
+$212,000
+—
+$265,000 USD
+Offices: United States",Live and Work Anywhere
+"Counsel, IP",Legal,United States,,8029148,airbnb,2026-06-26,2026-07-07,0.2678,,https://careers.airbnb.com/positions/8029148/,,,Live and Work Anywhere
+"Engineering Manager, Investigations and Incident Response",Engineering,USA - Remote,,7743899,airbnb,2026-06-22,2026-07-07,0.3555,,https://careers.airbnb.com/positions/7743899/,,,Live and Work Anywhere
+Employee Relations Lead -India,Employee Experience,"Gurugram, India",,7975814,airbnb,2026-06-29,2026-07-05,0.3004,"Gurugram, India",https://careers.airbnb.com/positions/7975814/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Employee Relations team operates as a Center of Excellence within Airbnb’s People team. ER professionals are not simply case handlers — they are strategic partners who build the frameworks, guidelines, and operating principles that uphold Airbnb’s culture at scale. This role shapes how the organization navigates complex workplace matters with consistency, fairness, and integrity. You will partner across Talent (HR), Legal, and business leadership to drive sound decision-making rooted in trust, mutual respect, and accountability. Success is not measured by cases closed. It is measured by the quality of outcomes, the strength of the practices we embed across the organization, and whether our work reinforces the culture and values that make Airbnb, Airbnb.
 The Difference You Will Make:
@@ -1036,7 +1036,7 @@ India Annual Pay Range
 —
 ₹6,100,000 INR
 Offices: Gurugram, India",Hybrid - Be close to an office
-"Communications Manager, India",Public Policy/Communications,"Gurugram, India",,8031638,airbnb,2026-06-30,2026-07-01,0.2799,"Gurugram, India",https://careers.airbnb.com/positions/8031638/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Communications Manager, India",Public Policy/Communications,"Gurugram, India",,8031638,airbnb,2026-06-30,2026-07-01,0.2806,"Gurugram, India",https://careers.airbnb.com/positions/8031638/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community you will join:
 The Airbnb Communications team delivers campaigns that keep Airbnb front of mind, helping to stimulate word-of-mouth and supporting direct traffic to the site. We’re seeking a creative, organized, passionate and versatile team contributor to support a global Communications team that is developing compelling year-round campaigns to insert Airbnb into a wide range of conversations while protecting the brand’s reputation.
 The difference you will make:
@@ -1072,7 +1072,7 @@ India Annual Pay Range
 —
 ₹2,500,000 INR
 Offices: Gurugram, India",Hybrid - Be close to an office
-"Communications Intern, LATAM",Early Career Program: Intern,"São Paulo, Brazil",,7900153,airbnb,2026-06-09,2026-07-01,0.3149,,https://careers.airbnb.com/positions/7900153/,,,Hybrid - Be close to an office
+"Communications Intern, LATAM",Early Career Program: Intern,"São Paulo, Brazil",,7900153,airbnb,2026-06-09,2026-07-01,0.3226,,https://careers.airbnb.com/positions/7900153/,,,Hybrid - Be close to an office
 "Counsel, Commercial & Partnerships",Legal,United States,,8023818,airbnb,2026-06-23,2026-07-01,0.2321,United States,https://careers.airbnb.com/positions/8023818/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Airbnb’s Legal Department is a global team that will require working with diverse international colleagues around the world. The successful candidate will be someone who is adaptable, collaborative and embodies Airbnb’s Core Values. Candidates will be required to approach complex legal issues with a balance for local and global perspectives, while being adaptable to cultural differences and nuances. A genuine and demonstrated interest in Airbnb and a commitment to ethics, integrity and fostering a workplace that emphasizes diversity and belonging is a must.
 The Community You Will Join:
@@ -1119,7 +1119,7 @@ $196,000
 —
 $230,000 USD
 Offices: United States",Live and Work Anywhere
-"Chef de l’Approvisionnement en Logements, Canada",Account Management,Canada,,7326052,airbnb,2026-06-09,2026-07-01,0.1471,Canada,https://careers.airbnb.com/positions/7326052/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Chef de l’Approvisionnement en Logements, Canada",Account Management,Canada,,7326052,airbnb,2026-06-09,2026-07-01,0.1476,Canada,https://careers.airbnb.com/positions/7326052/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 Airbnb a pris le jour en 2007 lorsque deux Hôtes ont accueilli trois invités dans leur maison de San Francisco, et compte depuis lors plus de 4 millions d'Hôtes qui ont accueilli plus d'un milliard d'invités dans presque tous les pays du monde. Chaque jour, les Hôtes proposent des séjours et des expériences uniques qui permettent aux invités de se connecter de manière plus authentique aux communautés.
 La communauté qui vous attend :
 L'équipe de l'offre de logements est chargée de s'assurer qu'Airbnb maintient un portefeuille diversifié et de haute qualité d'annonces de logements qui répondent aux attentes des voyageurs en matière de valeur, de variété et d'expérience. L'équipe soutient aussi les hôtes du monde entier en permettant une planification et une exécution efficaces des stratégies de croissance qui s'alignent sur la mission d'Airbnb et qui résonnent auprès des communautés locales.
@@ -1165,10 +1165,10 @@ $168,000
 —
 $210,000 CAD
 Offices: Canada",Live and Work Anywhere
-Claims Experience Specialist,Community Support,Canada,,7288960,airbnb,2026-06-09,2026-06-30,0.3704,,https://careers.airbnb.com/positions/7288960/,,,Live and Work Anywhere
-"Data Scientist – Inference, Community Support",Data Science,Remote - USA,,8031907,airbnb,2026-06-29,2026-06-29,0.4794,,https://careers.airbnb.com/positions/8031907/,,,Live and Work Anywhere
-"Data Scientist – Algorithms, Community Support",Data Science,Remote - USA,,8031901,airbnb,2026-06-29,2026-06-29,0.4907,,https://careers.airbnb.com/positions/8031901/,,,Live and Work Anywhere
-Business Operations and Growth Lead,Business Operations/Analysis,"Tokyo, Japan",,7916146,airbnb,2026-06-09,2026-06-25,0.1949,"Tokyo, Japan",https://careers.airbnb.com/positions/7916146/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Claims Experience Specialist,Community Support,Canada,,7288960,airbnb,2026-06-09,2026-06-30,0.3743,,https://careers.airbnb.com/positions/7288960/,,,Live and Work Anywhere
+"Data Scientist – Inference, Community Support",Data Science,Remote - USA,,8031907,airbnb,2026-06-29,2026-06-29,0.4752,,https://careers.airbnb.com/positions/8031907/,,,Live and Work Anywhere
+"Data Scientist – Algorithms, Community Support",Data Science,Remote - USA,,8031901,airbnb,2026-06-29,2026-06-29,0.4932,,https://careers.airbnb.com/positions/8031901/,,,Live and Work Anywhere
+Business Operations and Growth Lead,Business Operations/Analysis,"Tokyo, Japan",,7916146,airbnb,2026-06-09,2026-06-25,0.1776,"Tokyo, Japan",https://careers.airbnb.com/positions/7916146/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Our Japan team is growing, and we want you to be part of it! Japan is a key market for Airbnb’s future growth and is currently receiving significant attention and resources to further accelerate its development as both a destination and origin market. The functional teams in Japan work closely together, alongside regional and central teams, to develop and execute a unified market strategy.
 The Difference You Will Make:
@@ -1197,8 +1197,8 @@ Strong verbal and written communication skills in English.  Being bilingual in 
 Our Commitment To Inclusion & Belonging:
 Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
 Offices: Tokyo, Japan",Hybrid - Be close to an office
-"Engineering Manager, Experimentation Infrastructure",Engineering,United States,,7707946,airbnb,2026-06-22,2026-06-24,0.3767,,https://careers.airbnb.com/positions/7707946/,,,Live and Work Anywhere
-"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-23,0.4606,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Engineering Manager, Experimentation Infrastructure",Engineering,United States,,7707946,airbnb,2026-06-22,2026-06-24,0.3827,,https://careers.airbnb.com/positions/7707946/,,,Live and Work Anywhere
+"Engineering Manager, Core Entities & Trip Intelligence",Engineering,Remote - USA,,7968210,airbnb,2026-06-09,2026-06-23,0.4604,United States,https://careers.airbnb.com/positions/7968210/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 Marketplaces Data and AI is Airbnb's data and AI execution org, responsible for the machine learning, data engineering, and analytics systems that power how guests find the right place to stay and how hosts succeed on the platform. We build foundational data products used across Airbnb — by Trust, Customer Support, Search, and every team that needs a reliable, structured view of what is happening on our platform.
 The Core Entities program is the cornerstone of that foundation. It is the company's canonical semantic model for the objects that matter most to Airbnb — hosts, listings, users, and trips — and the events that happen across their lifecycles. This work feeds the intelligence layer that Airbnb's next generation of AI products depends on, and it is one of the top priorities for the company's engineering leadership.
@@ -1245,8 +1245,8 @@ $212,000
 —
 $265,000 USD
 Offices: United States",Live and Work Anywhere
-"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.2617,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
-Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2788,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
+"Creative Producer, Experiential",Public Policy/Communications,United States,,8008818,airbnb,2026-06-17,2026-06-22,0.2554,,https://careers.airbnb.com/positions/8008818/,,,Live and Work Anywhere
+Creative Production Lead,Marketing & Creative,United States,,7919275,airbnb,2026-06-16,2026-06-22,0.2617,,https://careers.airbnb.com/positions/7919275/,,,Live and Work Anywhere
 "Associate Principal, SF&A – Host Products",Finance,United States,,7881559,airbnb,2026-06-09,2026-06-19,0.3475,United States,https://careers.airbnb.com/positions/7881559/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics, Host Product role will be responsible for partnering closely with Product, Supply, and Analytics leaders across Airbnb’s host ecosystem. This role will directly support some of Airbnb’s most critical product surfaces powering host acquisition, onboarding, and host engagement, and plays a key role in connecting product strategy to business outcomes.
@@ -1290,7 +1290,7 @@ $157,000
 —
 $172,000 USD
 Offices: United States",Live and Work Anywhere
-"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.315,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Associate Principal, Strategic Finance – CBO",Finance,United States,,7871746,airbnb,2026-06-09,2026-06-19,0.3151,United States,https://careers.airbnb.com/positions/7871746/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Associate Principal, Strategic Finance & Analytics, Business Finance Org role will be responsible for partnering with the business across all aspects of growth, analytics, and strategy within the Chief Business Officer Finance organization - and will work closely with members of the supply, quality, product, and finance leadership teams. This role will work directly with senior leadership to provide actionable insights and financial guidance for the business.
 The Difference You Will Make:
@@ -1382,7 +1382,7 @@ India Annual Pay Range
 —
 ₹4,200,000 INR
 Offices: India",Live and Work Anywhere
-Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2229,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Business Development Lead,Business Development,Canada,,7535339,airbnb,2026-06-09,2026-06-16,0.2243,Canada,https://careers.airbnb.com/positions/7535339/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 Airbnb is seeking a Strategic Partnerships & Business Development Lead for Canada, reporting to the Country Manager, Canada.
 In this role, you will lead the strategic business partnerships mandate in the territory and collaborate closely with the Business, Supply, Product Marketing, Finance and Legal functions across Canada, regional offices and Headquarters in San Francisco.
@@ -1464,7 +1464,7 @@ United Kingdom Annual Pay Range
 —
 £88,000 GBP
 Offices: London, United Kingdom",Hybrid - Be close to an office
-Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.167,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Account Executive (12 Month FTC),Account Management,"Paris, France",,7649441,airbnb,2026-06-09,2026-06-11,0.1587,"Paris, France",https://careers.airbnb.com/positions/7649441/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join:
 The Airbnb Hotels team, which includes HotelTonight, is a fun, fast-growing group leading Airbnb’s expansion into the hotel sector. Operating with an entrepreneurial spirit, this team combines the simplicity, product excellence, and guest-centered ethos that define Airbnb. This team’s mission is to deliver the smoothest, most intuitive hotel booking experience for guests, while helping independent, boutique hotels easily drive incremental bookings so they can focus on delivering the best hospitality. The ultimate aim is to help more people discover high-quality hotels, creating value for guests and our hotel partners.
 The Difference You Will Make
@@ -1498,7 +1498,7 @@ France Annual Pay Range
 —
 €72.000 EUR
 Offices: Paris, France",Hybrid - Be close to an office
-"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2648,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+"Creative Director, Social & Content",Design,"San Francisco, CA",,7987859,airbnb,2026-06-09,2026-06-09,0.2635,United States,https://careers.airbnb.com/positions/7987859/,,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 The Community You Will Join
 The Creative Director, Social & Content will report to the Director, Social Creative and work PST hours. This leader will oversee multiple Airbnb social workstreams while shaping a cohesive, culturally relevant content ecosystem that blends brand storytelling with social-first execution.
 Airbnb is seeking a visionary creative leader who operates at the intersection of content, culture, and brand. This role is part of our internal, multidisciplinary Creative Team—partnering across marketing, product, comms, and external creators to develop ideas that travel across platforms and live beyond campaigns.
