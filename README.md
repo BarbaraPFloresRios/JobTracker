@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal AI Scientist, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10473304/principal-ai-scientist-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.5954 | 2026-07-14 |
+| [Principal AI Scientist, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10473304/principal-ai-scientist-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.6196 | 2026-07-14 |
 | [Applied Scientist II, Machine Learning Accelerator - Annapurna Labs](https://www.amazon.jobs/en/jobs/10473260/applied-scientist-ii-machine-learning-accelerator-annapurna-labs) | amazon | US, TX, Austin | 0.5861 | 2026-07-14 |
 | [Customer Success Manager, Consumables - Grocery](https://www.amazon.jobs/en/jobs/10473091/customer-success-manager-consumables-grocery) | amazon | US, WA, Seattle | 0.5527 | 2026-07-13 |
 | [Data Center Technician - Night Shift, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10473209/data-center-technician-night-shift-adc-infraops-dco) | amazon | US, MD, Severn | 0.5467 | 2026-07-13 |
-| [Program Execution Manager, Public Sector, National Security Programs ](https://www.amazon.jobs/en/jobs/10473041/program-execution-manager-public-sector-national-security-programs) | amazon | US, MD, Jessup | 0.5419 | 2026-07-13 |
+| [Program Execution Manager, Public Sector, National Security Programs ](https://www.amazon.jobs/en/jobs/10473041/program-execution-manager-public-sector-national-security-programs) | amazon | US, MD, Jessup | 0.5428 | 2026-07-13 |
 | [Principal Product Manager - Technical, AI/ML & Accelerated Computing ](https://www.amazon.jobs/en/jobs/10473081/principal-product-manager-technical-ai-ml-accelerated-computing) | amazon | US, WA, Seattle | 0.5417 | 2026-07-13 |
 | [Sr DC Capex Procurement Manager - Energy infrastructure, Data Center Sourcing and Procurement](https://www.amazon.jobs/en/jobs/10472905/sr-dc-capex-procurement-manager-energy-infrastructure-data-center-sourcing-and-procurement) | amazon | US, WA, Seattle | 0.5416 | 2026-07-13 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10473348/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5393 | 2026-07-14 |
 | [Engineering Operations Technician - Night Shift, DCC Communities](https://www.amazon.jobs/en/jobs/10473315/engineering-operations-technician-night-shift-dcc-communities) | amazon | US, IN, New Carlisle | 0.5322 | 2026-07-14 |
-| [Senior Product Manger - Tech, Infrastructure Reliability](https://www.amazon.jobs/en/jobs/10472508/senior-product-manger-tech-infrastructure-reliability) | amazon | US, TX, Austin | 0.5203 | 2026-07-13 |
+| [Senior Product Manger - Tech, Infrastructure Reliability](https://www.amazon.jobs/en/jobs/10472508/senior-product-manger-tech-infrastructure-reliability) | amazon | US, TX, Austin | 0.5177 | 2026-07-13 |
 | [Water Systems Product Manager, Mechanical Products & Services](https://www.amazon.jobs/en/jobs/10473138/water-systems-product-manager-mechanical-products-services) | amazon | US, WA, Seattle | 0.5133 | 2026-07-13 |
 | [Sr. Technical Program Manager, Power Generation Solutions, Global Energy, Power Generation Solutions](https://www.amazon.jobs/en/jobs/10473318/sr-technical-program-manager-power-generation-solutions-global-energy-power-generation-solutions) | amazon | US, VA, Herndon | 0.5125 | 2026-07-14 |
-| [Systems Integration Engineer, Fleet Remediation Engineering](https://www.amazon.jobs/en/jobs/10471935/systems-integration-engineer-fleet-remediation-engineering) | amazon | US, WA, Seattle | 0.5106 | 2026-07-13 |
 | [UAT Automation Analyst, Amazon Web Services](https://www.amazon.jobs/en/jobs/10473339/uat-automation-analyst-amazon-web-services) | amazon | US, TX, Dallas | 0.5046 | 2026-07-14 |
+| [Systems Integration Engineer, Fleet Remediation Engineering](https://www.amazon.jobs/en/jobs/10471935/systems-integration-engineer-fleet-remediation-engineering) | amazon | US, WA, Seattle | 0.4935 | 2026-07-13 |
 | [Senior Financial Analyst, AWS Identity and Cloud Governance Finance](https://www.amazon.jobs/en/jobs/10473292/senior-financial-analyst-aws-identity-and-cloud-governance-finance) | amazon | US, WA, Seattle | 0.4920 | 2026-07-14 |
+| [System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4899 | 2026-07-14 |
 | [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10472949/infra-delivery-install-technician) | amazon | US, TX, Clifton | 0.4866 | 2026-07-13 |
 | [Senior Data Scientist, Voice of the Customer - GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Voice-of-the-Customer---GeForce-NOW_JR2021250) | nvidia | US, CA, Santa Clara | 0.4839 | 2026-07-13 |
-| [Sr. Global Supply Manager, Amazon Cloud Logistics](https://www.amazon.jobs/en/jobs/10471975/sr-global-supply-manager-amazon-cloud-logistics) | amazon | US, WA, Bellevue | 0.4816 | 2026-07-13 |
-| [Sr. Global Supply Manager, Amazon Cloud Logistics](https://www.amazon.jobs/en/jobs/10471974/sr-global-supply-manager-amazon-cloud-logistics) | amazon | US, WA, Bellevue | 0.4816 | 2026-07-13 |
+| [Sr. Global Supply Manager, Amazon Cloud Logistics](https://www.amazon.jobs/en/jobs/10471974/sr-global-supply-manager-amazon-cloud-logistics) | amazon | US, WA, Bellevue | 0.4817 | 2026-07-13 |
+| [Sr. Global Supply Manager, Amazon Cloud Logistics](https://www.amazon.jobs/en/jobs/10471975/sr-global-supply-manager-amazon-cloud-logistics) | amazon | US, WA, Bellevue | 0.4817 | 2026-07-13 |
 | [Head of Streaming Movies Strategy, Original Content Strategy](https://www.amazon.jobs/en/jobs/10473025/head-of-streaming-movies-strategy-original-content-strategy) | amazon | US, CA, Culver City | 0.4731 | 2026-07-13 |
 | [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10472274/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.4729 | 2026-07-13 |
-| [Security Engineer Manager, SBS Specialized Detections](https://www.amazon.jobs/en/jobs/10471879/security-engineer-manager-sbs-specialized-detections) | amazon | US, NY, New York | 0.4656 | 2026-07-13 |
+| [Security Engineer Manager, SBS Specialized Detections](https://www.amazon.jobs/en/jobs/10471879/security-engineer-manager-sbs-specialized-detections) | amazon | US, NY, New York | 0.4669 | 2026-07-13 |
 | [Senior Product Manager, Physical AI Robotics Data](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Physical-AI-Robotics-Data_JR2020922) | nvidia | US, CA, Santa Clara | 0.4598 | 2026-07-13 |
 | [System Development Engineer, AWS Mainstream Compute](https://www.amazon.jobs/en/jobs/10472568/system-development-engineer-aws-mainstream-compute) | amazon | US, CA, Cupertino | 0.4571 | 2026-07-13 |
-| [Sr. Sales Rep, AWS, Retail ](https://www.amazon.jobs/en/jobs/10472904/sr-sales-rep-aws-retail) | amazon | US, GA, Atlanta | 0.4557 | 2026-07-13 |
-| [Logistics Specialist, ATL Logistics](https://www.amazon.jobs/en/jobs/10473075/logistics-specialist-atl-logistics) | amazon | US, GA, Covington | 0.4528 | 2026-07-13 |
 
 # JobTracker
 
