@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal AI Scientist, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10473304/principal-ai-scientist-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.6193 | 2026-07-14 |
+| [Principal Worldwide Specialist Solutions Architect, Amazon Bedrock, Data & AI GTM ](https://www.amazon.jobs/en/jobs/10475229/principal-worldwide-specialist-solutions-architect-amazon-bedrock-data-ai-gtm) | amazon | US, WA, Seattle | 0.6217 | 2026-07-15 |
+| [Principal AI Scientist, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10473304/principal-ai-scientist-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.6186 | 2026-07-14 |
+| [Senior Data Engineer, AWS GameTech Cortex](https://www.amazon.jobs/en/jobs/10474555/senior-data-engineer-aws-gametech-cortex) | amazon | US, CA, San Diego | 0.6161 | 2026-07-14 |
 | [Applied Scientist II, Machine Learning Accelerator - Annapurna Labs](https://www.amazon.jobs/en/jobs/10473260/applied-scientist-ii-machine-learning-accelerator-annapurna-labs) | amazon | US, TX, Austin | 0.6092 | 2026-07-14 |
 | [Manager III, Corporate Infrastructure and Edge Systems, Shopbop and Zappos ](https://www.amazon.jobs/en/jobs/10474609/manager-iii-corporate-infrastructure-and-edge-systems-shopbop-and-zappos) | amazon | US, WI, Madison | 0.6044 | 2026-07-15 |
-| [Senior Data Engineer, AWS GameTech Cortex](https://www.amazon.jobs/en/jobs/10474555/senior-data-engineer-aws-gametech-cortex) | amazon | US, CA, San Diego | 0.5993 | 2026-07-14 |
 | [Customer Experience Specialist](https://www.amazon.jobs/en/jobs/10474691/customer-experience-specialist) | amazon | US, CA, San Francisco | 0.5818 | 2026-07-15 |
-| [Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT)](https://www.amazon.jobs/en/jobs/10473725/associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt) | amazon | US, VA, Arlington | 0.5780 | 2026-07-14 |
-| [Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT)](https://www.amazon.jobs/en/jobs/10473722/associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt) | amazon | US, VA, Arlington | 0.5656 | 2026-07-14 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10473348/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5654 | 2026-07-14 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474318/data-center-technician) | amazon | US, AZ, Avondale | 0.5535 | 2026-07-14 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474332/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474320/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474317/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
+| [Data Engineer III - AMZ10212104](https://www.amazon.jobs/en/jobs/10474537/data-engineer-iii-amz10212104) | amazon | US, WA, Seattle | 0.5775 | 2026-07-15 |
+| [Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT)](https://www.amazon.jobs/en/jobs/10473725/associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt) | amazon | US, VA, Arlington | 0.5771 | 2026-07-14 |
+| [Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT)](https://www.amazon.jobs/en/jobs/10473722/associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt) | amazon | US, VA, Arlington | 0.5693 | 2026-07-14 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10473348/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5659 | 2026-07-14 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474318/data-center-technician) | amazon | US, AZ, Avondale | 0.5534 | 2026-07-14 |
 | [Data Center Technician](https://www.amazon.jobs/en/jobs/10474331/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474320/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
 | [Data Center Technician](https://www.amazon.jobs/en/jobs/10474351/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474317/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10474332/data-center-technician) | amazon | US, AZ, Mesa | 0.5531 | 2026-07-14 |
 | [ Materials Manager, Power & Cooling (PAC)](https://www.amazon.jobs/en/jobs/10474144/materials-manager-power-cooling-pac) | amazon | US, WA, Seattle | 0.5517 | 2026-07-14 |
-| [Sr. Delivery Practice Manager, HCLS, AWS Professional Services, Healthcare & Life Sciences](https://www.amazon.jobs/en/jobs/10473672/sr-delivery-practice-manager-hcls-aws-professional-services-healthcare-life-sciences) | amazon | US, VA, Arlington | 0.5481 | 2026-07-14 |
-| [Sr. Delivery Practice Manager, HCLS, AWS Professional Services, Healthcare & Life Sciences](https://www.amazon.jobs/en/jobs/10473673/sr-delivery-practice-manager-hcls-aws-professional-services-healthcare-life-sciences) | amazon | US, VA, Arlington | 0.5481 | 2026-07-14 |
+| [Sr. Delivery Practice Manager, HCLS, AWS Professional Services, Healthcare & Life Sciences](https://www.amazon.jobs/en/jobs/10473672/sr-delivery-practice-manager-hcls-aws-professional-services-healthcare-life-sciences) | amazon | US, VA, Arlington | 0.5482 | 2026-07-14 |
+| [Sr. Delivery Practice Manager, HCLS, AWS Professional Services, Healthcare & Life Sciences](https://www.amazon.jobs/en/jobs/10473673/sr-delivery-practice-manager-hcls-aws-professional-services-healthcare-life-sciences) | amazon | US, VA, Arlington | 0.5482 | 2026-07-14 |
 | [Data Center Technician, CLT DCO](https://www.amazon.jobs/en/jobs/10475095/data-center-technician-clt-dco) | amazon | US, NC, Hamlet | 0.5407 | 2026-07-15 |
-| [Engineering Operations Technician - Night Shift, DCC Communities](https://www.amazon.jobs/en/jobs/10473315/engineering-operations-technician-night-shift-dcc-communities) | amazon | US, IN, New Carlisle | 0.5378 | 2026-07-14 |
+| [Infra Delivery Install Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10475215/infra-delivery-install-technician-dcc-communities) | amazon | US, NC, Hamlet | 0.5382 | 2026-07-15 |
 | [Data Center Technician](https://www.amazon.jobs/en/jobs/10474329/data-center-technician) | amazon | US, AZ, Glendale | 0.5373 | 2026-07-14 |
-| [Data Center Facilities Manager](https://www.amazon.jobs/en/jobs/10474356/data-center-facilities-manager) | amazon | US, NV, Sparks | 0.5372 | 2026-07-14 |
-| [Data Center Facilities Manager](https://www.amazon.jobs/en/jobs/10474357/data-center-facilities-manager) | amazon | US, NV, Sparks | 0.5372 | 2026-07-14 |
-| [Data Center Facilities Manager](https://www.amazon.jobs/en/jobs/10474361/data-center-facilities-manager) | amazon | US, NV, Sparks | 0.5372 | 2026-07-14 |
 | [Data Center Facilities Manager](https://www.amazon.jobs/en/jobs/10474373/data-center-facilities-manager) | amazon | US, NV, Sparks | 0.5372 | 2026-07-14 |
-| [Economist, People Experience and Technology Central Science](https://www.amazon.jobs/jobs/10472998/economist-people-experience-and-technology-central-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5351 | 2026-07-14 |
+| [Engineering Operations Technician - Night Shift, DCC Communities](https://www.amazon.jobs/en/jobs/10473315/engineering-operations-technician-night-shift-dcc-communities) | amazon | US, IN, New Carlisle | 0.5372 | 2026-07-14 |
+| [Data Center Facilities Manager](https://www.amazon.jobs/en/jobs/10474357/data-center-facilities-manager) | amazon | US, NV, Sparks | 0.5372 | 2026-07-14 |
 
 # JobTracker
 
