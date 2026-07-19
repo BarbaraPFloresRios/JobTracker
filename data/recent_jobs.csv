@@ -1,6 +1,6 @@
 title,company,location,semantic_similarity,first_seen_date,url
-Principal Account-Aligned FDE AI Designer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5209,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939577
-Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.5033,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556866539
+Principal Account-Aligned FDE AI Designer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5197,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939577
+Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.5061,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556866539
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478246/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478240/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478245/engineering-operation-technician
@@ -17,60 +17,61 @@ Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,ht
 Senior Systems Software Engineer - NVLink,nvidia,"US, CA, Santa Clara; US, Remote",0.4821,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---NVLink_JR2007807
 Engineering Operation Technician,amazon,"US, PA, Berwick",0.4754,2026-07-19,https://www.amazon.jobs/en/jobs/10478242/engineering-operation-technician
 Engineering Operation Technician,amazon,"US, PA, Berwick",0.4754,2026-07-19,https://www.amazon.jobs/en/jobs/10478243/engineering-operation-technician
-JR41525 Technology Experience Specialist (12 months FTC),netflix,"Amsterdam,Netherlands",0.4376,2026-07-19,https://explore.jobs.netflix.net/careers/job/790317166063
-Principal Account-Aligned FDE Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4157,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939578
+JR41525 Technology Experience Specialist (12 months FTC),netflix,"Amsterdam,Netherlands",0.4403,2026-07-19,https://explore.jobs.netflix.net/careers/job/790317166063
+"Machine Learning Engineering Manager, Evaluation, Agentic Search Capabilities, Proactive",apple,,0.4121,2026-07-19,https://jobs.apple.com/en-us/details/200672920-3760/machine-learning-engineering-manager-evaluation-agentic-search-capabilities-proactive?team=MLAI
+Principal Account-Aligned FDE Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4118,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939578
 "Software Engineer, Web Platform",anthropic,"San Francisco, CA",0.355,2026-07-19,https://job-boards.greenhouse.io/anthropic/jobs/5305402008
 Senior Software Engineer - Networking,nvidia,"US, CA, Santa Clara",0.2841,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---Networking_JR2006779
 "Director, Head of Global Card Payments",uber,"New York, New York, United States; Chicago, Cook, United States; Seattle, King, United States; San Francisco, San Francisco, United States",0.125,2026-07-19,https://www.uber.com/global/en/careers/list/301245/
 "Economist, People Experience and Technology Central Science",amazon_science,"US, VA, Arlington",0.5247,2026-07-18,https://www.amazon.jobs/jobs/10478045/economist-people-experience-and-technology-central-science?cmpid=bsp-amazon-science
 "Field Sales Ops Lead, FinServ , NAMER Sales Operations",amazon,"US, NY, New York",0.512,2026-07-18,https://www.amazon.jobs/en/jobs/10477987/field-sales-ops-lead-finserv-namer-sales-operations
-"Psychometrician, AWS Training & Certification",amazon_science,"US, VA, Arlington",0.5098,2026-07-18,https://www.amazon.jobs/jobs/10477964/psychometrician-aws-training--certification?cmpid=bsp-amazon-science
+"Psychometrician, AWS Training & Certification",amazon_science,"US, VA, Arlington",0.5096,2026-07-18,https://www.amazon.jobs/jobs/10477964/psychometrician-aws-training--certification?cmpid=bsp-amazon-science
 "Sr. Enterprise Account Manager, Automotive & Manufacturing",amazon,"US, CA, San Francisco",0.4984,2026-07-18,https://www.amazon.jobs/en/jobs/10478020/sr-enterprise-account-manager-automotive-manufacturing
 "Manager - Site Deployment , OneMHS",amazon,"US, OH, Cincinnati",0.4808,2026-07-18,https://www.amazon.jobs/en/jobs/10477988/manager-site-deployment-onemhs
 Senior Backend Platform Engineer,nvidia,"US, CA, Santa Clara",0.4801,2026-07-18,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Backend-Platform-Engineer_JR2021162
-Senior Technical Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4744,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556850761
-Software Engineering IC4,microsoft,"United States, Multiple Locations, Multiple Locations",0.4637,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556926994
-Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4608,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556926865
+Senior Technical Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4695,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556850761
+Software Engineering IC4,microsoft,"United States, Multiple Locations, Multiple Locations",0.463,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556926994
 "Manager III, Applied Science, PXT Central Science",amazon_science,"US, VA, Arlington",0.4459,2026-07-18,https://www.amazon.jobs/jobs/10478042/manager-iii-applied-science-pxt-central-science?cmpid=bsp-amazon-science
+Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.443,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556926865
+"Director, Go-To-Market Management for Security Programs",microsoft,"United States, Multiple Locations, Multiple Locations",0.4409,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556938889
 "Financial Analyst, International Stores FP&A",amazon,"US, WA, Seattle",0.4395,2026-07-18,https://www.amazon.jobs/en/jobs/10478081/financial-analyst-international-stores-fp-a
-"Director, Go-To-Market Management for Security Programs",microsoft,"United States, Multiple Locations, Multiple Locations",0.4376,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556938889
-"Applied Scientist, Sponsored Products Off-Search Auction",amazon_science,"US, WA, Seattle",0.4232,2026-07-18,https://www.amazon.jobs/jobs/10477372/applied-scientist-sponsored-products-offsearch-auction?cmpid=bsp-amazon-science
+"Applied Scientist, Sponsored Products Off-Search Auction",amazon_science,"US, WA, Seattle",0.4231,2026-07-18,https://www.amazon.jobs/jobs/10477372/applied-scientist-sponsored-products-offsearch-auction?cmpid=bsp-amazon-science
 "Principal Conn. Systems Engr., Connectivity Systems",amazon,"US, CA, Sunnyvale",0.4181,2026-07-18,https://www.amazon.jobs/en/jobs/10478028/principal-conn-systems-engr-connectivity-systems
-"Principal Account Manager, Enterprise, CPG",amazon,"US, TX, Houston",0.4067,2026-07-18,https://www.amazon.jobs/en/jobs/10478021/principal-account-manager-enterprise-cpg
 "Senior Manager, Security Incident Response",amazon,"US, CA, San Francisco",0.4065,2026-07-18,https://www.amazon.jobs/en/jobs/10477982/senior-manager-security-incident-response
+"Principal Account Manager, Enterprise, CPG",amazon,"US, TX, Houston",0.4049,2026-07-18,https://www.amazon.jobs/en/jobs/10478021/principal-account-manager-enterprise-cpg
 IS&T Early Career Engineering Program Manager Opportunities,apple,,0.4039,2026-07-18,https://jobs.apple.com/en-us/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR
-Senior Planning and Landing Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4034,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556934082
+Senior Planning and Landing Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4025,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556934082
 Senior System Software Engineer - AV Platform,nvidia,"US, CA, Santa Clara",0.3929,2026-07-18,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021284
+"Director, Partner Success",microsoft,"United States, Multiple Locations, Multiple Locations",0.3853,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556927642
 "Machine Learning Engineer, Wallet Intelligence and Machine Learning",apple,,0.3749,2026-07-18,https://jobs.apple.com/en-us/details/200672668-0157/machine-learning-engineer-wallet-intelligence-and-machine-learning?team=MLAI
 QA/DevOps Engineer,discord,San Francisco Bay Area,0.3684,2026-07-18,https://job-boards.greenhouse.io/discord/jobs/8637648002
-"Director, Partner Success",microsoft,"United States, Multiple Locations, Multiple Locations",0.3683,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556927642
 "Engineering Manager, Growth",anthropic,"New York City, NY; San Francisco, CA; Seattle, WA",0.3626,2026-07-18,https://job-boards.greenhouse.io/anthropic/jobs/5361472008
-Services Account Management,microsoft,"United States, Multiple Locations, Multiple Locations",0.3573,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556937883
-"Manager, Artificial Intelligence Policy",netflix,"London,United Kingdom; Brussels,Belgium",0.3542,2026-07-18,https://explore.jobs.netflix.net/careers/job/790316010348
+Services Account Management,microsoft,"United States, Multiple Locations, Multiple Locations",0.3564,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556937883
+"Manager, Artificial Intelligence Policy",netflix,"London,United Kingdom; Brussels,Belgium",0.355,2026-07-18,https://explore.jobs.netflix.net/careers/job/790316010348
 "Sr.  Account Executive, Greenfield, HealthCare and Life Sciences",amazon,"US, FL, Tampa",0.3514,2026-07-18,https://www.amazon.jobs/en/jobs/10478019/sr-account-executive-greenfield-healthcare-and-life-sciences
 "System Software Engineer, Calibration - Autonomous Vehicles",nvidia,"US, CA, Santa Clara",0.3466,2026-07-18,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856
 Staff System Engineer - AV Labs,uber,"Sunnyvale, Santa Clara, United States",0.3362,2026-07-18,https://www.uber.com/global/en/careers/list/302149/
 "Finance & Strategy, GTM - Post Sales ",anthropic,"San Francisco, CA",0.3353,2026-07-18,https://job-boards.greenhouse.io/anthropic/jobs/5163060008
 "Software Engineer - Distributed Systems, Compute Platform",apple,,0.3338,2026-07-18,https://jobs.apple.com/en-us/details/200672977-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR
-Regional Estimator,microsoft,"United States, Multiple Locations, Multiple Locations",0.3272,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556874964
 "Car Experience Software Engineer - UI, Wireless Technologies & Ecosystems",apple,,0.3192,2026-07-18,https://jobs.apple.com/en-us/details/200672818-0836/car-experience-software-engineer-ui-wireless-technologies-ecosystems?team=SFTWR
 Senior Salesforce Technical Lead,discord,San Francisco Bay Area ,0.3182,2026-07-18,https://job-boards.greenhouse.io/discord/jobs/8637188002
-"Program Manager, Workplace",netflix,"Amsterdam,Netherlands",0.3164,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317180368
-"Director, Cloud Gaming Infrastructure",netflix,USA - Remote,0.3058,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317187765
+"Program Manager, Workplace",netflix,"Amsterdam,Netherlands",0.3182,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317180368
 "Photography Digital Operator, DigiTech",nvidia,"US, CA, Santa Clara",0.3056,2026-07-18,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Photography-Digital-Operator--DigiTech_JR2010433
-Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.2977,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556668421
+"Director, Cloud Gaming Infrastructure",netflix,USA - Remote,0.3053,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317187765
+Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.2975,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556668421
 System Engineer II - AV Labs,uber,"Sunnyvale, Santa Clara, United States",0.2959,2026-07-18,https://www.uber.com/global/en/careers/list/160405/
 "Business Planning, Expansion and Experience Strategist",apple,,0.2955,2026-07-18,https://jobs.apple.com/en-us/details/200672981-0836/business-planning-expansion-and-experience-strategist?team=CORSV
+Regional Estimator,microsoft,"United States, Multiple Locations, Multiple Locations",0.2942,2026-07-18,https://apply.careers.microsoft.com/careers/job/1970393556874964
 "Administrative Assistant, Nonfiction Marketing (Live)",netflix,"Los Angeles,California,United States of America",0.2842,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317207899
-Technical Merchandising Manager - APAC,netflix,"Singapore,Singapore",0.2775,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317128951
-"Admin Assistant, Nonfiction, DACH",netflix,"Berlin,Germany",0.2729,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317139283
+Technical Merchandising Manager - APAC,netflix,"Singapore,Singapore",0.2768,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317128951
+"Admin Assistant, Nonfiction, DACH",netflix,"Berlin,Germany",0.2705,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317139283
+"Data Scientist, Analytics",discord,San Francisco Bay Area,0.2673,2026-07-18,https://job-boards.greenhouse.io/discord/jobs/8485797002
 Technical Program Manager - Mac,apple,,0.2672,2026-07-18,https://jobs.apple.com/en-us/details/200672662-0836/technical-program-manager-mac?team=OPMFG
-"Strategy Lead, Evidence - CUE XD",netflix,USA - Remote,0.2662,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317145887
-"Data Scientist, Analytics",discord,San Francisco Bay Area,0.2657,2026-07-18,https://job-boards.greenhouse.io/discord/jobs/8485797002
 "Technical Program Manager, iPhone",apple,,0.2629,2026-07-18,https://jobs.apple.com/en-us/details/200670727-3956/technical-program-manager-iphone?team=OPMFG
-"Manager, UK, CPS&O",netflix,"London,United Kingdom",0.2572,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317145655
+"Strategy Lead, Evidence - CUE XD",netflix,USA - Remote,0.2627,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317145887
+"Manager, UK, CPS&O",netflix,"London,United Kingdom",0.2569,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317145655
 "Software Quality Engineer, Wallet Payments & Commerce",apple,,0.256,2026-07-18,https://jobs.apple.com/en-us/details/200672175-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR
-"Manager, Security & Intelligence, EMEA",netflix,"London,United Kingdom",0.2481,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317206157
+"Manager, Security & Intelligence, EMEA",netflix,"London,United Kingdom",0.2475,2026-07-18,https://explore.jobs.netflix.net/careers/job/790317206157
 US-Senior Manager,apple,,0.2051,2026-07-18,https://jobs.apple.com/en-us/details/200672460-2541/us-senior-manager?team=APPST
 "Audience Marketing Manager, NA Agency",meta,"New York, NY",0.2005,2026-07-18,https://www.metacareers.com/profile/job_details/1612636073758895
 Character Animator - Generative AI Experiences SW,apple,,0.1908,2026-07-18,https://jobs.apple.com/en-us/details/200655784-0836/character-animator-generative-ai-experiences-sw?team=MLAI
