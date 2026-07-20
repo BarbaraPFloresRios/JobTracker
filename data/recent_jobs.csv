@@ -1,10 +1,16 @@
 title,company,location,semantic_similarity,first_seen_date,url
+Senior Technical Product Marketing Manager - AI Infrastructure,nvidia,"US, CA, Santa Clara; US, TX, Remote; US, OR, Remote; US, CA, Remote; US, MA, Remote",0.4781,2026-07-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Marketing-Manager---AI-Infrastructure_JR2021528
+Senior Product Marketing Manager,nvidia,"US, CA, Santa Clara; US, AZ, Remote; US, WA, Remote",0.4418,2026-07-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager_JR2020940
+"Hardware Technical Program Manager, Infrastructure Partner Operations",openai,San Francisco,0.4413,2026-07-20,https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3
+Embedded Software Engineer - RISCV,nvidia,"US, CA, Santa Clara",0.43,2026-07-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2021486
 "Principal Conn. Systems Engr., Connectivity Systems",amazon,"US, CA, Sunnyvale",0.4178,2026-07-20,https://www.amazon.jobs/en/jobs/10478304/principal-conn-systems-engr-connectivity-systems
 Group Product Manager - Backend Experience (Core Infrastructure),spotify,"New York, NY",0.4166,2026-07-20,https://jobs.lever.co/spotify/e99f0469-bee8-464f-96b7-70909a4ac073
+Senior Technical Program Manager - Azure Storage Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.4003,2026-07-20,https://apply.careers.microsoft.com/careers/job/1970393556926904
+"Senior Systems Software Engineer, Compute Stack Acceleration",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, TX, Remote; US, CA, Remote",0.3705,2026-07-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549
 "Engineering Program Manager, Health Sensing Architecture & Algorithms",apple,,0.2491,2026-07-20,https://jobs.apple.com/en-us/details/200672997-0836/engineering-program-manager-health-sensing-architecture-algorithms?team=HRDWR
 "SME - Mechanical, Manufacturing Design Engineer",meta,"Shanghai, China +2 locations",0.2354,2026-07-20,https://www.metacareers.com/profile/job_details/1383219950350958
-Principal Account-Aligned FDE AI Designer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5188,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939577
-Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.5048,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556866539
+Principal Account-Aligned FDE AI Designer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5206,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939577
+Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.505,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556866539
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478241/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478240/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478245/engineering-operation-technician
@@ -18,17 +24,17 @@ Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,ht
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478254/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478251/engineering-operation-technician
 Engineering Operation Technician ,amazon,"US, PA, Berwick",0.4869,2026-07-19,https://www.amazon.jobs/en/jobs/10478248/engineering-operation-technician
-Senior Systems Software Engineer - NVLink,nvidia,"US, CA, Santa Clara; US, Remote",0.4815,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---NVLink_JR2007807
+Senior Systems Software Engineer - NVLink,nvidia,"US, CA, Santa Clara; US, Remote",0.4821,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---NVLink_JR2007807
 Engineering Operation Technician,amazon,"US, PA, Berwick",0.4754,2026-07-19,https://www.amazon.jobs/en/jobs/10478242/engineering-operation-technician
 Engineering Operation Technician,amazon,"US, PA, Berwick",0.4754,2026-07-19,https://www.amazon.jobs/en/jobs/10478243/engineering-operation-technician
-JR41525 Technology Experience Specialist (12 months FTC),netflix,"Amsterdam,Netherlands",0.44,2026-07-19,https://explore.jobs.netflix.net/careers/job/790317166063
+JR41525 Technology Experience Specialist (12 months FTC),netflix,"Amsterdam,Netherlands",0.4434,2026-07-19,https://explore.jobs.netflix.net/careers/job/790317166063
 "Machine Learning Engineering Manager, Evaluation, Agentic Search Capabilities, Proactive",apple,,0.4121,2026-07-19,https://jobs.apple.com/en-us/details/200672920-3760/machine-learning-engineering-manager-evaluation-agentic-search-capabilities-proactive?team=MLAI
 Principal Account-Aligned FDE Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4118,2026-07-19,https://apply.careers.microsoft.com/careers/job/1970393556939578
 "Process Assistant, RSR",amazon,"US, TN, Jackson",0.3714,2026-07-19,https://www.amazon.jobs/en/jobs/10478281/process-assistant-rsr
 "Software Engineer, Web Platform",anthropic,"San Francisco, CA",0.355,2026-07-19,https://job-boards.greenhouse.io/anthropic/jobs/5305402008
 "Delivery Trainer, RSR",amazon,"US, IA, Dubuque",0.3014,2026-07-19,https://www.amazon.jobs/en/jobs/10478278/delivery-trainer-rsr
+Senior Software Engineer - Networking,nvidia,"US, CA, Santa Clara",0.2841,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---Networking_JR2006779
 "Delivery Trainer, RSR",amazon,"US, IN, Evansville",0.2836,2026-07-19,https://www.amazon.jobs/en/jobs/10478280/delivery-trainer-rsr
-Senior Software Engineer - Networking,nvidia,"US, CA, Santa Clara",0.2832,2026-07-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---Networking_JR2006779
 "Software Engineer, iOS",meta,"Menlo Park, CA +2 locations",0.2231,2026-07-19,https://www.metacareers.com/profile/job_details/1203016587809246
 Data Center Location Strategy Manager,meta,"Austin, TX +6 locations",0.2002,2026-07-19,https://www.metacareers.com/profile/job_details/4233846783426031
 "Brand Marketing Manager, Facebook",meta,"Menlo Park, CA",0.1252,2026-07-19,https://www.metacareers.com/profile/job_details/987862997394257
