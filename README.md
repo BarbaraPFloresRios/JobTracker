@@ -9,28 +9,28 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Applied Science II, Edge Technology](https://www.amazon.jobs/en/jobs/10480876/applied-science-ii-edge-technology) | amazon | US, CA, Sunnyvale | 0.6740 | 2026-07-22 |
 | [Applied Scientist II, Data Intelligence and Governance](https://www.amazon.jobs/en/jobs/10480925/applied-scientist-ii-data-intelligence-and-governance) | amazon | US, CA, Sunnyvale | 0.6389 | 2026-07-22 |
 | [Applied Scientist, GenAI Catalog Intelligence, PRISM](https://www.amazon.jobs/en/jobs/10480445/applied-scientist-genai-catalog-intelligence-prism) | amazon | US, CA, Sunnyvale | 0.6261 | 2026-07-21 |
+| [Applied Science II, Edge Technology](https://www.amazon.jobs/jobs/10480876/applied-science-ii-edge-technology?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.6228 | 2026-07-22 |
 | [Sr.  Applied Scientist, Amazon Customer Service](https://www.amazon.jobs/en/jobs/10480530/sr-applied-scientist-amazon-customer-service) | amazon | US, WA, Seattle | 0.6140 | 2026-07-21 |
-| [Principal Account-Aligned FDE Data Science](https://apply.careers.microsoft.com/careers/job/1970393556940405) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5970 | 2026-07-21 |
-| [Software Development Engineer, AWS Marketplace & Partner Services](https://www.amazon.jobs/en/jobs/10479999/software-development-engineer-aws-marketplace-partner-services) | amazon | US, WA, Seattle | 0.5742 | 2026-07-21 |
-| [Senior Technical Program Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Technical-Program-Manager_JR2021406) | nvidia | US, CA, Remote; US, GA, Remote; US, NC, Remote; US, TX, Remote; US, NY, Remote; US, FL, Remote | 0.5722 | 2026-07-22 |
-| [Senior Software Engineer, Networking Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking-Software_JR1998106) | nvidia | US, CA, Santa Clara; US, TX, Remote; US, WA, Remote; US, CA, Remote | 0.5646 | 2026-07-21 |
+| [Principal Account-Aligned FDE Data Science](https://apply.careers.microsoft.com/careers/job/1970393556940405) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5992 | 2026-07-21 |
+| [Applied Scientist , Amazon Customer Service](https://www.amazon.jobs/jobs/10480526/applied-scientist--amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5867 | 2026-07-22 |
+| [Data Scientist II, AMZL, Central Learning Solutions Science](https://www.amazon.jobs/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5749 | 2026-07-21 |
+| [Senior Technical Program Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Technical-Program-Manager_JR2021406) | nvidia | US, CA, Remote; US, GA, Remote; US, NC, Remote; US, TX, Remote; US, NY, Remote; US, FL, Remote | 0.5719 | 2026-07-22 |
+| [Software Development Engineer, AWS Marketplace & Partner Services](https://www.amazon.jobs/en/jobs/10479999/software-development-engineer-aws-marketplace-partner-services) | amazon | US, WA, Seattle | 0.5713 | 2026-07-21 |
+| [Senior Software Engineer, Networking Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking-Software_JR1998106) | nvidia | US, CA, Santa Clara; US, TX, Remote; US, WA, Remote; US, CA, Remote | 0.5645 | 2026-07-21 |
 | [Business Intelligence Engineer, Amazon Freight](https://www.amazon.jobs/en/jobs/10480786/business-intelligence-engineer-amazon-freight) | amazon | US, WA, Bellevue | 0.5629 | 2026-07-21 |
-| [Data Center Operations Manager (Nights), Data Center Operations](https://www.amazon.jobs/en/jobs/10480707/data-center-operations-manager-nights-data-center-operations) | amazon | US, OH, Dublin | 0.5571 | 2026-07-21 |
-| [Principal Partner Enablement Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556939423) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5557 | 2026-07-21 |
-| [Principal Execution Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556933153) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Illinois, Chicago; United States, Indiana, Indianapolis | 0.5520 | 2026-07-21 |
-| [ID Storm Tech, ID Storm](https://www.amazon.jobs/en/jobs/10479639/id-storm-tech-id-storm) | amazon | US, VA, Herndon | 0.5514 | 2026-07-21 |
+| [Principal Partner Enablement Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556939423) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5545 | 2026-07-21 |
+| [Data Center Operations Manager (Nights), Data Center Operations](https://www.amazon.jobs/en/jobs/10480707/data-center-operations-manager-nights-data-center-operations) | amazon | US, OH, Dublin | 0.5538 | 2026-07-21 |
+| [ID Storm Tech, ID Storm](https://www.amazon.jobs/en/jobs/10479639/id-storm-tech-id-storm) | amazon | US, VA, Herndon | 0.5513 | 2026-07-21 |
+| [Principal Execution Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556933153) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Illinois, Chicago; United States, Indiana, Indianapolis | 0.5511 | 2026-07-21 |
 | [Principal Games Industry Business Development Specialist, North America, Media & Entertainment, Games, Advertising and Sports Business Unit](https://www.amazon.jobs/en/jobs/10480640/principal-games-industry-business-development-specialist-north-america-media-entertainment-games-advertising-and-sports-business-unit) | amazon | US, CA, Santa Monica | 0.5456 | 2026-07-21 |
-| [SAP MM & Logistics Architect, AWS SAP Team](https://www.amazon.jobs/en/jobs/10480042/sap-mm-logistics-architect-aws-sap-team) | amazon | US, WA, Seattle | 0.5358 | 2026-07-21 |
-| [Construction Manager , AMER SE](https://www.amazon.jobs/en/jobs/10479460/construction-manager-amer-se) | amazon | US, VA, Chantilly | 0.5354 | 2026-07-21 |
+| [Construction Manager , AMER SE](https://www.amazon.jobs/en/jobs/10479460/construction-manager-amer-se) | amazon | US, VA, Chantilly | 0.5344 | 2026-07-21 |
 | [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10480979/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5339 | 2026-07-22 |
 | [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10479548/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5336 | 2026-07-21 |
-| [Marketing Technology Program Manager, Global Channel Partner Sales](https://apply.careers.microsoft.com/careers/job/1970393556923404) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5320 | 2026-07-21 |
-| [Data Scientist II, AMZL, Central Learning Solutions Science](https://www.amazon.jobs/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5282 | 2026-07-21 |
-| [Account Manager-RRT, Startups](https://www.amazon.jobs/en/jobs/10479992/account-manager-rrt-startups) | amazon | US, NY, New York | 0.5276 | 2026-07-21 |
-| [Sr. Account Manager-RRT, Startups](https://www.amazon.jobs/en/jobs/10479991/sr-account-manager-rrt-startups) | amazon | US, NY, New York | 0.5249 | 2026-07-21 |
-| [Sr. Account Manager-RRT, Startups](https://www.amazon.jobs/en/jobs/10479993/sr-account-manager-rrt-startups) | amazon | US, CA, San Francisco | 0.5235 | 2026-07-21 |
-| [Sr. Delivery Practice Manager - Application Modernization, AWS Professional Services](https://www.amazon.jobs/en/jobs/10480660/sr-delivery-practice-manager-application-modernization-aws-professional-services) | amazon | US, MN, Minneapolis | 0.5175 | 2026-07-21 |
-| [Applied Scientist , Amazon Customer Service](https://www.amazon.jobs/en/jobs/10480526/applied-scientist-amazon-customer-service) | amazon | US, WA, Seattle | 0.5167 | 2026-07-21 |
+| [Marketing Technology Program Manager, Global Channel Partner Sales](https://apply.careers.microsoft.com/careers/job/1970393556923404) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5330 | 2026-07-21 |
+| [Data Scientist II - AMZ27596.1](https://www.amazon.jobs/jobs/10474326/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, TX, Irving | 0.5307 | 2026-07-22 |
+| [Account Manager-RRT, Startups](https://www.amazon.jobs/en/jobs/10479992/account-manager-rrt-startups) | amazon | US, NY, New York | 0.5281 | 2026-07-21 |
+| [SAP MM & Logistics Architect, AWS SAP Team](https://www.amazon.jobs/en/jobs/10480042/sap-mm-logistics-architect-aws-sap-team) | amazon | US, WA, Seattle | 0.5281 | 2026-07-21 |
+| [Sr. Account Manager-RRT, Startups](https://www.amazon.jobs/en/jobs/10479991/sr-account-manager-rrt-startups) | amazon | US, NY, New York | 0.5257 | 2026-07-21 |
 
 # JobTracker
 
