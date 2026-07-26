@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556941429) | microsoft | United States, Multiple Locations, Multiple Locations | 0.6335 | 2026-07-25 |
-| [Sr. Product Designer, AWS Events Tech Team & Marketer Experience](https://www.amazon.jobs/en/jobs/10483678/sr-product-designer-aws-events-tech-team-marketer-experience) | amazon | US, NY, New York | 0.5998 | 2026-07-24 |
-| [Sr. PMT Hiring Our Heroes , Alexa Devices](https://www.amazon.jobs/en/jobs/10483202/sr-pmt-hiring-our-heroes-alexa-devices) | amazon | US, WA, Seattle | 0.5927 | 2026-07-24 |
-| [Principal Software Engineer - Architect](https://apply.careers.microsoft.com/careers/job/1970393556941614) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.5814 | 2026-07-25 |
-| [Customer Solutions Manager, US FED CIV, FedCiv](https://www.amazon.jobs/en/jobs/10483487/customer-solutions-manager-us-fed-civ-fedciv) | amazon | US, VA, Arlington | 0.5689 | 2026-07-24 |
-| [Sr. Product Manager, Recruiting Operations Center](https://www.amazon.jobs/en/jobs/10483863/sr-product-manager-recruiting-operations-center) | amazon | US, WA, Seattle | 0.5651 | 2026-07-24 |
-| [PR Manager, Datacenter Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Manager--Datacenter-Architecture_JR2021259) | nvidia | US, CA, Santa Clara | 0.5510 | 2026-07-24 |
-| [Strategic Silicon & Tech Sourcing Principal, Networking Silicon](https://www.amazon.jobs/en/jobs/10483002/strategic-silicon-tech-sourcing-principal-networking-silicon) | amazon | US, CA, Cupertino | 0.5490 | 2026-07-24 |
-| [Sr. Product Manager - Tech, AWS Billing Product](https://www.amazon.jobs/en/jobs/10483233/sr-product-manager-tech-aws-billing-product) | amazon | US, WA, Seattle | 0.5428 | 2026-07-24 |
-| [Cloud Solution Architect - Cloud & AI Platforms (CAIP) Factory](https://apply.careers.microsoft.com/careers/job/1970393556861682) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5426 | 2026-07-25 |
-| [Business Analyst III - AMZ9898510](https://www.amazon.jobs/en/jobs/10482980/business-analyst-iii-amz9898510) | amazon | US, NV, Las Vegas | 0.5418 | 2026-07-24 |
-| [Member of Technical Staff, Artificial General Intelligence](https://www.amazon.jobs/jobs/10482802/member-of-technical-staff-artificial-general-intelligence-?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5383 | 2026-07-24 |
-| [Director of Partner Marketing Manager](https://apply.careers.microsoft.com/careers/job/1970393556939394) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5283 | 2026-07-24 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10483402/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5275 | 2026-07-24 |
+| [Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556941429) | microsoft | United States, Multiple Locations, Multiple Locations | 0.6201 | 2026-07-25 |
+| [Principal Software Engineer - Architect](https://apply.careers.microsoft.com/careers/job/1970393556941614) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.5822 | 2026-07-25 |
+| [Cloud Solution Architect - Cloud & AI Platforms (CAIP) Factory](https://apply.careers.microsoft.com/careers/job/1970393556861682) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5419 | 2026-07-25 |
 | [Applied Scientist, AWS Automated Reasoning](https://www.amazon.jobs/jobs/10484024/-applied-scientist-aws-automated-reasoning?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5271 | 2026-07-25 |
-| [Sr. Applied Scientist, AWS Automated Reasoning](https://www.amazon.jobs/jobs/10483065/sr-applied-scientist-aws-automated-reasoning?cmpid=bsp-amazon-science) | amazon_science | US, MA, Boston | 0.5258 | 2026-07-24 |
-| [Software Development Engineer II, Software, AI, and Technology (Digital Native)](https://www.amazon.jobs/en/jobs/10483891/software-development-engineer-ii-software-ai-and-technology-digital-native) | amazon | US, CA, San Francisco | 0.5253 | 2026-07-24 |
-| [Economist, Amazon Customer Service](https://www.amazon.jobs/jobs/10482879/economist-amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5211 | 2026-07-24 |
-| [AI Business Process Digital Solution Area Specialist](https://apply.careers.microsoft.com/careers/job/1970393556941642) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, North Dakota, Fargo; United States, Illinois, Chicago; United States, Texas, Houston; United States, Texas, Austin; United States, Colorado, Denver; United States, Arizona, Phoenix; United States, California, San Diego; United States, California, Los Angeles; United States, Washington, Seattle | 0.5187 | 2026-07-25 |
-| [Sales Strategy & Execution - Tech Analyst, WWPS Shared Services Org](https://www.amazon.jobs/en/jobs/10483835/sales-strategy-execution-tech-analyst-wwps-shared-services-org) | amazon | US, VA, Arlington | 0.5180 | 2026-07-24 |
 | [Software Development Engineer - Silicon Development Infrastructure](https://www.amazon.jobs/en/jobs/10483953/software-development-engineer-silicon-development-infrastructure) | amazon | US, TX, Austin | 0.5178 | 2026-07-25 |
 | [Sr Manager, Data Science & AI, R2L](https://www.amazon.jobs/jobs/10483501/sr-manager-data-science--ai-rl?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5159 | 2026-07-25 |
-| [Network Deployment Technician, DCC Communities](https://www.amazon.jobs/en/jobs/10483629/network-deployment-technician-dcc-communities) | amazon | US, IN, New Carlisle | 0.5125 | 2026-07-24 |
-| [Principal ProServe Account Executive, AWS WWPS Professional Services](https://www.amazon.jobs/en/jobs/10483587/principal-proserve-account-executive-aws-wwps-professional-services) | amazon | US, VA, Arlington | 0.5082 | 2026-07-24 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10483409/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5075 | 2026-07-24 |
+| [AI Business Process Digital Solution Area Specialist](https://apply.careers.microsoft.com/careers/job/1970393556941642) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, North Dakota, Fargo; United States, Illinois, Chicago; United States, Texas, Houston; United States, Texas, Austin; United States, Colorado, Denver; United States, Arizona, Phoenix; United States, California, San Diego; United States, California, Los Angeles; United States, Washington, Seattle | 0.5124 | 2026-07-25 |
+| [Principal Tech Business Development Manager, Devices Business Development, Tech Licensing Business Development ](https://www.amazon.jobs/en/jobs/10484087/principal-tech-business-development-manager-devices-business-development-tech-licensing-business-development) | amazon | US, WA, Seattle | 0.5098 | 2026-07-26 |
+| [Senior Solution Area Specialist - Cloud & AI Platform](https://apply.careers.microsoft.com/careers/job/1970393556938805) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4963 | 2026-07-25 |
+| [Senior Applied Scientist, PXT](https://www.amazon.jobs/jobs/10483516/senior-applied-scientist-pxt-?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.4948 | 2026-07-25 |
+| [Applied Scientist, AWS Identity](https://www.amazon.jobs/jobs/10484023/applied-scientist-aws-identity?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.4735 | 2026-07-25 |
+| [Senior Skilling Strategy Manager, Delivery & Program Operations](https://apply.careers.microsoft.com/careers/job/1970393556944434) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4718 | 2026-07-25 |
+| [Principal Software Engineer - Full stack](https://apply.careers.microsoft.com/careers/job/1970393556941466) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4704 | 2026-07-25 |
+| [Windows Specialist Manager](https://apply.careers.microsoft.com/careers/job/1970393556943225) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Multiple Locations, Multiple Locations | 0.4688 | 2026-07-25 |
+| [Head of Media, Amazon Gaming - Luna](https://www.amazon.jobs/en/jobs/10483948/head-of-media-amazon-gaming-luna) | amazon | US, CA, Culver City | 0.4586 | 2026-07-25 |
+| [Applied Scientist, AWS Identity](https://www.amazon.jobs/en/jobs/10484023/applied-scientist-aws-identity) | amazon | US, VA, Arlington | 0.4480 | 2026-07-25 |
+| [ Applied Scientist, AWS Automated Reasoning](https://www.amazon.jobs/en/jobs/10484024/applied-scientist-aws-automated-reasoning) | amazon | US, VA, Arlington | 0.4410 | 2026-07-25 |
+| [Machine Learning Engineer, AI Safety](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--AI-Safety_JR2021784-1) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4387 | 2026-07-25 |
+| [Senior Deep Learning Scientist, Multimodal Agentic RL](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--Multimodal-Agentic-RL_JR2022039) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4362 | 2026-07-25 |
+| [Early Access Deployment Engineer](https://jobs.ashbyhq.com/openai/ee6b7ece-ffcb-4546-8b4c-ef755ec21c14) | openai | San Francisco | 0.4334 | 2026-07-25 |
+| [Senior AI Strategist – Intelligence Community](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Senior-AI-Strategist---Intelligence-Community_JR2021911-1) | nvidia | US, OR, Remote | 0.4331 | 2026-07-25 |
+| [Manufacturing Assembly Technician II (1st shift), Amazon Leo](https://www.amazon.jobs/en/jobs/10484061/manufacturing-assembly-technician-ii-1st-shift-amazon-leo) | amazon | US, WA, Kirkland | 0.4330 | 2026-07-25 |
+| [Manufacturing Assembly Technician III, Amazon Leo](https://www.amazon.jobs/en/jobs/10484062/manufacturing-assembly-technician-iii-amazon-leo) | amazon | US, WA, Kirkland | 0.4267 | 2026-07-25 |
+| [Applied AI Engineer, GTM Growth Engineering](https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472) | openai | San Francisco | 0.4161 | 2026-07-25 |
+| [Staff Software Engineer, Environments Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5367436008) | anthropic | San Francisco, CA | 0.4129 | 2026-07-25 |
 
 # JobTracker
 
