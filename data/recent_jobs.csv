@@ -1,28 +1,39 @@
 title,company,location,semantic_similarity,first_seen_date,url
 "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",amazon,"US, WA, Seattle",0.5054,2026-07-27,https://www.amazon.jobs/en/jobs/10484211/software-developer-engineer-amazon-workspaces-core-managed-instances
 "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",amazon,"US, WA, Seattle",0.5054,2026-07-27,https://www.amazon.jobs/en/jobs/10484212/software-developer-engineer-amazon-workspaces-core-managed-instances
+"Senior Program Manager, Logistics and Fulfillment Technology Enablement",nvidia,"US, CA, Santa Clara",0.398,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Program-Manager--Logistics-and-Fulfillment-Technology-Enablement_JR2021872
+"Senior Manager, AI Safety and Security Engineering",nvidia,"US, CA, Santa Clara; US, TX, Remote; US, TN, Remote; US, CO, Remote; US, FL, Remote; US, CA, Remote",0.3705,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--AI-Safety-and-Security-Engineering_JR2021882
+"Distinguished Engineer, AI Safety and Security Engineering",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, NY, Remote; US, TN, Remote; US, FL, Remote; US, CA, Remote",0.3549,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer--AI-Safety-and-Security-Engineering_JR2021883
+"Senior Architect, SOC Modeling",nvidia,"US, CA, Santa Clara",0.3529,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--SOC-Modeling_JR2022003
+"Senior Inference Engineer, GPU Kernel Optimization",nvidia,"US, CA, Santa Clara; US, TX, Austin; US, NY, New York; US, WA, Seattle",0.3509,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--GPU-Kernel-Optimization_JR2021962
+"Harness and Platform Engineer, AI Safety and Security Engineering",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, NY, Remote; US, TN, Remote; US, FL, Remote; US, CA, Remote",0.3235,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886
+"Evaluation and ML Systems Engineer, AI Safety and Security Engineering",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, NY, Remote; US, TN, Remote; US, FL, Remote; US, CA, Remote",0.2995,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Evaluation-and-ML-Systems-Engineer--AI-Safety-and-Security-Engineering_JR2021888
+"Senior Systems Software Engineer, Developer Productivity and Cloud Automation - GeForce NOW",nvidia,"US, CA, Santa Clara",0.279,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021956
+"Security Research Engineer, AI Safety and Security Engineering",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, NY, Remote; US, TN, Remote; US, FL, Remote; US, CA, Remote",0.2597,2026-07-27,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887
+"ASIC Engineer, Power Management Design Verification",meta,"Sunnyvale, CA +1 locations",0.2485,2026-07-27,https://www.metacareers.com/profile/job_details/1601109725064718
+"Strategic Sourcing Manager – Camera, Depth & Optics (Smartglasses/AR)",meta,"Shanghai, China",0.2047,2026-07-27,https://www.metacareers.com/profile/job_details/1536784391082064
 "Sr. Engineer, Silicon Validation , Annapurna Labs",amazon,"US, CA, Cupertino",0.5118,2026-07-26,https://www.amazon.jobs/en/jobs/10484162/sr-engineer-silicon-validation-annapurna-labs
 "Principal Tech Business Development Manager, Devices Business Development, Tech Licensing Business Development ",amazon,"US, WA, Seattle",0.5098,2026-07-26,https://www.amazon.jobs/en/jobs/10484087/principal-tech-business-development-manager-devices-business-development-tech-licensing-business-development
 Software Engineer II (Customer & Product Engineering),microsoft,"United States, Multiple Locations, Multiple Locations",0.4967,2026-07-26,https://apply.careers.microsoft.com/careers/job/1970393556938231
-"Qualitative Researcher, Employee Listening",netflix,USA - Remote,0.4933,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331866
-Technology Experience Specialist - Studio (12 months FTC),netflix,"Amsterdam,Netherlands",0.4781,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317314729
+"Qualitative Researcher, Employee Listening",netflix,USA - Remote,0.4947,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331866
+Technology Experience Specialist - Studio (12 months FTC),netflix,"Amsterdam,Netherlands",0.478,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317314729
 "Clearable Engineering Operations Technician , AWS Cleared Jobs",amazon,"US, VA, Stafford",0.4595,2026-07-26,https://www.amazon.jobs/en/jobs/10484164/clearable-engineering-operations-technician-aws-cleared-jobs
-Data Visualization Engineer 5 - Member Insights Engineering,netflix,USA - Remote,0.4476,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317397849
+Data Visualization Engineer 5 - Member Insights Engineering,netflix,USA - Remote,0.4474,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317397849
 "Clearable Engineering Operations Tech, AWS Cleared Jobs",amazon,"US, VA, Fredericksburg",0.446,2026-07-26,https://www.amazon.jobs/en/jobs/10484163/clearable-engineering-operations-tech-aws-cleared-jobs
-AGC Lease Cost Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.435,2026-07-26,https://apply.careers.microsoft.com/careers/job/1970393556939490
-Engineering Manager - Consumer Authorization Systems,netflix,USA - Remote,0.4218,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331988
+AGC Lease Cost Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4423,2026-07-26,https://apply.careers.microsoft.com/careers/job/1970393556939490
+Engineering Manager - Consumer Authorization Systems,netflix,USA - Remote,0.4216,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331988
 Applied Data Solutions Program (Internships),apple,,0.414,2026-07-26,https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships?team=CORSV
-Senior Category Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4,2026-07-26,https://apply.careers.microsoft.com/careers/job/1970393556941368
-"Security Software Engineer (L5), Client Security & Protocols Engineering",netflix,USA - Remote,0.3686,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317122473
-Capacity Planner (L6) - Studio Infrastructure,netflix,USA - Remote,0.2973,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331094
+Senior Category Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3994,2026-07-26,https://apply.careers.microsoft.com/careers/job/1970393556941368
+"Security Software Engineer (L5), Client Security & Protocols Engineering",netflix,USA - Remote,0.3608,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317122473
 "Technical Program Manager, Ads Ranking",meta,"Sunnyvale, CA +3 locations",0.2947,2026-07-26,https://www.metacareers.com/profile/job_details/1326061983016624
-Head of Characters,netflix,"Vancouver,Canada",0.2912,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317384604
-Head of Characters,netflix,"Sydney,Australia",0.2858,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317375382
+Capacity Planner (L6) - Studio Infrastructure,netflix,USA - Remote,0.2945,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317331094
+Head of Characters,netflix,"Sydney,Australia",0.2873,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317375382
+Head of Characters,netflix,"Vancouver,Canada",0.2866,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317384604
+Head of Character Effects (CFX),netflix,"Sydney,Australia",0.2723,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317396721
 "Hardware Engineer, AI Accelerator Module Validation",meta,"Menlo Park, CA",0.2708,2026-07-26,https://www.metacareers.com/profile/job_details/1405758674776749
 "Hardware Engineer, Accelerator Design",meta,"Menlo Park, CA",0.2694,2026-07-26,https://www.metacareers.com/profile/job_details/1716153689434820
-Head of Character Effects (CFX),netflix,"Sydney,Australia",0.2663,2026-07-26,https://explore.jobs.netflix.net/careers/job/790317396721
 "Mechanical Design Engineer: Robotics Hardware Engineering, Robot Design",meta,"Redmond, WA",0.2575,2026-07-26,https://www.metacareers.com/profile/job_details/3638157606325591
-Technical Program Manager - Child Safety (Legal),meta,"Los Angeles, CA +6 locations",0.2479,2026-07-26,https://www.metacareers.com/profile/job_details/1707422943805344
+Technical Program Manager - Child Safety (Legal),meta,"Los Angeles, CA +6 locations",0.2495,2026-07-26,https://www.metacareers.com/profile/job_details/1707422943805344
 Sr Global Operations and Analytics Manager,uber,"New York, New York, United States; Miami, Miami-Dade, United States; Chicago, Cook, United States; Seattle, King, United States; San Francisco, San Francisco, United States",0.2316,2026-07-26,https://www.uber.com/global/en/careers/list/158718/
 Legal Technical Program Manager - Child Safety,meta,"Los Angeles, CA +6 locations",0.2118,2026-07-26,https://www.metacareers.com/profile/job_details/1671451744154549
 Capacity Strategy & Planning Manager,meta,"Menlo Park, CA +3 locations",0.1843,2026-07-26,https://www.metacareers.com/profile/job_details/1506391554840264
