@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Applied Scientist,  Pricing Science](https://www.amazon.jobs/en/jobs/10487538/sr-applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.6645 | 2026-07-29 |
-| [Senior Applied Scientist, PXT ](https://www.amazon.jobs/en/jobs/10487510/senior-applied-scientist-pxt) | amazon | US, WA, Seattle | 0.6512 | 2026-07-29 |
-| [Senior Applied Scientist, ASCS AI Lab Team](https://www.amazon.jobs/en/jobs/10487778/senior-applied-scientist-ascs-ai-lab-team) | amazon | US, WA, Seattle | 0.6431 | 2026-07-30 |
-| [Data Scientist, Prime Video](https://www.amazon.jobs/en/jobs/10486917/data-scientist-prime-video) | amazon | US, WA, Seattle | 0.6421 | 2026-07-29 |
-| [Data Engineer, Data Platform Management, World Wide Grocery Tech](https://www.amazon.jobs/en/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech) | amazon | US, TX, Austin | 0.6311 | 2026-07-29 |
-| [Applied Scientist II, ASCS AI Lab Team](https://www.amazon.jobs/en/jobs/10487564/applied-scientist-ii-ascs-ai-lab-team) | amazon | US, CA, Sunnyvale | 0.6245 | 2026-07-29 |
-| [Business Intelligence Engineer, Accounting](https://www.amazon.jobs/en/jobs/10487832/business-intelligence-engineer-accounting) | amazon | US, WA, Seattle | 0.6015 | 2026-07-30 |
+| [Senior Applied Scientist, ASCS AI Lab Team](https://www.amazon.jobs/en/jobs/10487778/senior-applied-scientist-ascs-ai-lab-team) | amazon | US, WA, Seattle | 0.6443 | 2026-07-30 |
+| [Data Scientist III - AMZ9976173](https://www.amazon.jobs/en/jobs/10488541/data-scientist-iii-amz9976173) | amazon | US, CA, Santa Clara | 0.6158 | 2026-07-31 |
 | [Data Scientist III - AMZ10087624](https://www.amazon.jobs/jobs/10485376/data-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.6014 | 2026-07-30 |
-| [Data Center Facility Manager, ADC InfraOps AG](https://www.amazon.jobs/en/jobs/10487734/data-center-facility-manager-adc-infraops-ag) | amazon | US, VA, Warrenton | 0.5993 | 2026-07-29 |
+| [Business Intelligence Engineer, Accounting](https://www.amazon.jobs/en/jobs/10487832/business-intelligence-engineer-accounting) | amazon | US, WA, Seattle | 0.6012 | 2026-07-30 |
 | [App Dev Engineer, Selling Partner Experience](https://www.amazon.jobs/en/jobs/10488722/app-dev-engineer-selling-partner-experience) | amazon | US, WA, Seattle | 0.5878 | 2026-07-30 |
-| [Data Center Facility Manager, ADC InfraOps AG](https://www.amazon.jobs/en/jobs/10487739/data-center-facility-manager-adc-infraops-ag) | amazon | US, VA, Fairfax | 0.5875 | 2026-07-29 |
-| [Customer Success Specialist, AWS Specialist and Partner Organization](https://www.amazon.jobs/en/jobs/10487646/customer-success-specialist-aws-specialist-and-partner-organization) | amazon | US, WA, Seattle | 0.5810 | 2026-07-29 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487088/data-center-technician) | amazon | US, PA, Berwick | 0.5674 | 2026-07-29 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487567/data-center-technician) | amazon | US, PA, Berwick | 0.5672 | 2026-07-29 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487735/data-center-technician) | amazon | US, PA, Berwick | 0.5671 | 2026-07-29 |
-| [Manager, Data and AI Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Data-and-AI-Engineering_JR2016861) | nvidia | US, CA, Santa Clara | 0.5669 | 2026-07-29 |
-| [Customer Solutions Manager, USAF](https://www.amazon.jobs/en/jobs/10486897/customer-solutions-manager-usaf) | amazon | US, VA, Arlington | 0.5645 | 2026-07-29 |
-| [Senior Product Marketing Manager - Data Processing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---Data-Processing_JR2022150-1) | nvidia | US, CA, Santa Clara | 0.5639 | 2026-07-29 |
+| [Data Engineer II - AMZ9956938](https://www.amazon.jobs/en/jobs/10488510/data-engineer-ii-amz9956938) | amazon | US, NY, New York | 0.5755 | 2026-07-31 |
 | [Delivery Consultant - Connect and Lex, Amazon Connect Center of  Delivery Excellence](https://www.amazon.jobs/en/jobs/10488517/delivery-consultant-connect-and-lex-amazon-connect-center-of-delivery-excellence) | amazon | US, TX, Dallas | 0.5618 | 2026-07-30 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487155/data-center-technician) | amazon | US, PA, Berwick | 0.5616 | 2026-07-29 |
 | [Data Center Infrastructure Delivery Manager, ID-Install ](https://www.amazon.jobs/en/jobs/10488628/data-center-infrastructure-delivery-manager-id-install) | amazon | US, VA, Mineral | 0.5609 | 2026-07-30 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487125/data-center-technician) | amazon | US, PA, Berwick | 0.5605 | 2026-07-29 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487476/data-center-technician) | amazon | US, PA, Berwick | 0.5598 | 2026-07-29 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10487583/data-center-technician) | amazon | US, PA, Berwick | 0.5597 | 2026-07-29 |
 | [Principal Data Scientist - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556944486) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5577 | 2026-07-30 |
+| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556943774) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5513 | 2026-07-31 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10488393/data-center-technician) | amazon | US, VA, Herndon | 0.5489 | 2026-07-30 |
+| [Technical Program Manager, Electrical Engineering, Engineering & Design](https://www.amazon.jobs/en/jobs/10488572/technical-program-manager-electrical-engineering-engineering-design) | amazon | US, WA, Bellevue | 0.5355 | 2026-07-30 |
+| [WW Partner Specialist BD, Applied AI Solutions Healthcare and Life Sciences](https://www.amazon.jobs/en/jobs/10488406/ww-partner-specialist-bd-applied-ai-solutions-healthcare-and-life-sciences) | amazon | US, WA, Seattle | 0.5346 | 2026-07-30 |
+| [Sr. Program Manager, Fleet Accountability, DSP Compliance & Experience](https://www.amazon.jobs/en/jobs/10488384/sr-program-manager-fleet-accountability-dsp-compliance-experience) | amazon | US, NY, New York | 0.5334 | 2026-07-30 |
+| [Sr. Partner Dev Mgr, DevOps and Observability, AMER, Observability](https://www.amazon.jobs/en/jobs/10488405/sr-partner-dev-mgr-devops-and-observability-amer-observability) | amazon | US, CA, San Francisco | 0.5328 | 2026-07-30 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10488391/data-center-technician) | amazon | US, VA, Sterling | 0.5320 | 2026-07-30 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10488388/data-center-technician) | amazon | US, VA, Sterling | 0.5320 | 2026-07-30 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10488389/data-center-technician) | amazon | US, VA, Sterling | 0.5320 | 2026-07-30 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10488392/data-center-technician) | amazon | US, VA, Sterling | 0.5320 | 2026-07-30 |
+| [Sr. Software Engineer, Amazon MSK](https://www.amazon.jobs/en/jobs/10487786/sr-software-engineer-amazon-msk) | amazon | US, WA, Seattle | 0.5314 | 2026-07-30 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10488119/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5249 | 2026-07-30 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10488125/data-center-technician-dcc-communities) | amazon | US, GA, Covington | 0.5249 | 2026-07-30 |
+| [Engineering Operations Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10488177/engineering-operations-technician-dcc-communities) | amazon | US, VA, Haymarket | 0.5241 | 2026-07-30 |
+| [Principal Cloud Solution Architect, AI Data, Partner Solutions](https://apply.careers.microsoft.com/careers/job/1970393556942546) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5232 | 2026-07-30 |
+| [Lifecycle Engineering Project Manager, Engineering (GES)](https://www.amazon.jobs/en/jobs/10488515/lifecycle-engineering-project-manager-engineering-ges) | amazon | US, TX, Austin | 0.5230 | 2026-07-30 |
 
 # JobTracker
 
