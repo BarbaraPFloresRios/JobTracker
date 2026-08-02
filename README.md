@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Engineer II, NAST CX Tech](https://www.amazon.jobs/en/jobs/10489805/data-engineer-ii-nast-cx-tech) | amazon | US, WA, Bellevue | 0.6097 | 2026-07-31 |
-| [Data Scientist III - AMZ9976173](https://www.amazon.jobs/en/jobs/10488541/data-scientist-iii-amz9976173) | amazon | US, CA, Santa Clara | 0.5976 | 2026-07-31 |
-| [Sr. GenAI/ML Specialist Solutions Architect, AGS Specialist Solutions Architects](https://www.amazon.jobs/en/jobs/10489300/sr-genai-ml-specialist-solutions-architect-ags-specialist-solutions-architects) | amazon | US, CA, San Francisco | 0.5957 | 2026-07-31 |
-| [Data Scientist III - AMZ9976173](https://www.amazon.jobs/jobs/10488541/data-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Santa Clara | 0.5863 | 2026-07-31 |
-| [Sr. Applied Scientist, PXT Central Science](https://www.amazon.jobs/jobs/10488615/sr-applied-scientist-pxt-central-science?cmpid=bsp-amazon-science) | amazon_science | US, CA, San Francisco | 0.5842 | 2026-07-31 |
-| [Sr Customer Solutions Manager, Strategic Accounts](https://www.amazon.jobs/en/jobs/10489479/sr-customer-solutions-manager-strategic-accounts) | amazon | US, CA, Cupertino | 0.5764 | 2026-07-31 |
-| [Data Engineer II - AMZ9956938](https://www.amazon.jobs/en/jobs/10488510/data-engineer-ii-amz9956938) | amazon | US, NY, New York | 0.5757 | 2026-07-31 |
-| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10489297/senior-go-to-market-lead-namer-go-to-market) | amazon | US, NY, New York | 0.5649 | 2026-07-31 |
-| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10489779/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, WA, Seattle | 0.5570 | 2026-07-31 |
-| [Sr. Partner Sales Manager, Enterprise](https://www.amazon.jobs/en/jobs/10489294/sr-partner-sales-manager-enterprise) | amazon | US, CO, Denver | 0.5467 | 2026-07-31 |
-| [Program Manager II (ADBL197)](https://www.amazon.jobs/en/jobs/10489798/program-manager-ii-adbl197) | amazon | US, NJ, Newark | 0.5460 | 2026-07-31 |
-| [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556938687) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5444 | 2026-08-01 |
-| [Sr. Mechanical Design Engineer, Data Center Design Engineering](https://www.amazon.jobs/en/jobs/10489644/sr-mechanical-design-engineer-data-center-design-engineering) | amazon | US, VA, Herndon | 0.5410 | 2026-07-31 |
-| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556943774) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5405 | 2026-07-31 |
-| [Senior Technical Program Manager (ADBL176)](https://www.amazon.jobs/en/jobs/10489626/senior-technical-program-manager-adbl176) | amazon | US, NJ, Newark | 0.5404 | 2026-07-31 |
-| [Software Development Engineer III (ADBL189)](https://www.amazon.jobs/en/jobs/10489773/software-development-engineer-iii-adbl189) | amazon | US, NJ, Newark | 0.5403 | 2026-07-31 |
-| [Software Development Engineer III (ADBL187)](https://www.amazon.jobs/en/jobs/10489752/software-development-engineer-iii-adbl187) | amazon | US, NJ, Newark | 0.5376 | 2026-07-31 |
-| [Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams](https://www.amazon.jobs/en/jobs/10489700/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams) | amazon | US, CA, Cupertino | 0.5332 | 2026-07-31 |
-| [Solutions Architect - AWS WWPS DOD, Joint DoD SA](https://www.amazon.jobs/en/jobs/10489793/solutions-architect-aws-wwps-dod-joint-dod-sa) | amazon | US, VA, Arlington | 0.5313 | 2026-07-31 |
-| [Transportation Specialist Lead ](https://www.amazon.jobs/en/jobs/10489195/transportation-specialist-lead) | amazon | US, AZ, Tempe | 0.5224 | 2026-07-31 |
+| [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556938687) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5462 | 2026-08-01 |
 | [Applied Scientist, Alexa Connected Devices](https://www.amazon.jobs/jobs/10489844/applied-scientist-alexa-connected-devices?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5223 | 2026-08-01 |
-| [Bid Intelligence & Automation Lead, Amazon Business - CPS](https://www.amazon.jobs/en/jobs/10489774/bid-intelligence-automation-lead-amazon-business-cps) | amazon | US, VA, Arlington | 0.5222 | 2026-07-31 |
-| [Business Architect for Modernization & Sovereignty](https://apply.careers.microsoft.com/careers/job/1970393556950817) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5218 | 2026-07-31 |
-| [Economist, Amazon Customer Service](https://www.amazon.jobs/jobs/10488853/economist-amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5207 | 2026-07-31 |
-| [Project Engineer, Project Engineer](https://www.amazon.jobs/en/jobs/10489784/project-engineer-project-engineer) | amazon | US, LA, Shreveport | 0.5134 | 2026-07-31 |
+| [Industrial Compute](https://jobs.ashbyhq.com/openai/6d7ece77-bf25-4f5e-9a84-c5ce26e18c37) | openai | Remote - US | 0.4927 | 2026-08-01 |
+| [Software Engineer 5 - Platform Data Products](https://explore.jobs.netflix.net/careers/job/790317589519) | netflix | USA - Remote | 0.4911 | 2026-08-01 |
+| [Applied Scientist, Amazon Connect Talent](https://www.amazon.jobs/jobs/10489858/applied-scientist-amazon-connect-talent?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4878 | 2026-08-01 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556938609) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4876 | 2026-08-01 |
+| [Sr. PMT, DTD Capacity Planning, Amazon Leo](https://www.amazon.jobs/en/jobs/10489807/sr-pmt-dtd-capacity-planning-amazon-leo) | amazon | US, WA, Redmond | 0.4868 | 2026-08-01 |
+| [Software Development Engineer II - Amazon MSK, Managed Streaming Kafka (MSK)](https://www.amazon.jobs/en/jobs/10489822/software-development-engineer-ii-amazon-msk-managed-streaming-kafka-msk) | amazon | US, WA, Seattle | 0.4777 | 2026-08-01 |
+| [Senior Software Engineer, AIOps and Observability](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104) | nvidia | US, CA, Santa Clara | 0.4741 | 2026-08-01 |
+| [Analytics Engineer 5 - New Content Experiences DSE](https://explore.jobs.netflix.net/careers/job/790317597274) | netflix | USA - Remote | 0.4678 | 2026-08-01 |
+| [Sr. Manager, Solutions Architecture, US Advertising and Marketing ](https://www.amazon.jobs/en/jobs/10489157/sr-manager-solutions-architecture-us-advertising-and-marketing) | amazon | US, NY, New York | 0.4676 | 2026-08-01 |
+| [Sr. Software Engineer - CTJ - Secret](https://apply.careers.microsoft.com/careers/job/1970393556942025) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4560 | 2026-08-02 |
+| [Senior Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556943150) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4534 | 2026-08-01 |
+| [Construction Manager, Industrial Compute](https://jobs.ashbyhq.com/openai/60b4b0f0-c5f1-48af-ad9b-716f2b5ce040) | openai | San Francisco; Seattle; Remote - US | 0.4451 | 2026-08-01 |
+| [Bus Hardware Engineering Manager, Amazon Leo](https://www.amazon.jobs/en/jobs/10489853/bus-hardware-engineering-manager-amazon-leo) | amazon | US, WA, Redmond | 0.4381 | 2026-08-01 |
+| [Contract Manager, Alexa](https://www.amazon.jobs/en/jobs/10489827/contract-manager-alexa) | amazon | US, CA, Sunnyvale | 0.4344 | 2026-08-01 |
+| [Avionics Manager, Spacecraft Mechanical](https://www.amazon.jobs/en/jobs/10489840/avionics-manager-spacecraft-mechanical) | amazon | US, WA, Redmond | 0.4341 | 2026-08-01 |
+| [Global Supply Chain & Procurement Manager, AWS Infrastructure and Supply Chain - Energy Storage, AWS Infrastructure Supply Chain & Procurement](https://www.amazon.jobs/en/jobs/10489812/global-supply-chain-procurement-manager-aws-infrastructure-and-supply-chain-energy-storage-aws-infrastructure-supply-chain-procurement) | amazon | US, WA, Seattle | 0.4332 | 2026-08-01 |
+| [AI Networking](https://apply.careers.microsoft.com/careers/job/1970393556629398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4315 | 2026-08-01 |
+| [Commercial Executive](https://apply.careers.microsoft.com/careers/job/1970393556947594) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4220 | 2026-08-01 |
+| [Director of Business Programs](https://apply.careers.microsoft.com/careers/job/1970393556949557) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4172 | 2026-08-01 |
+| [Senior Director, Operating Unit Partner Sales, Americas](https://apply.careers.microsoft.com/careers/job/1970393556953643) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4158 | 2026-08-01 |
+| [Senior Manager, Bus Mechanical Engineering, Amazon Leo](https://www.amazon.jobs/en/jobs/10489854/senior-manager-bus-mechanical-engineering-amazon-leo) | amazon | US, WA, Redmond | 0.4062 | 2026-08-01 |
+| [Principal Data Architect and Manager - Service Special Projects](https://jobs.apple.com/en-us/details/200675150-0836/principal-data-architect-and-manager-service-special-projects?team=SFTWR) | apple | nan | 0.4046 | 2026-08-01 |
+| [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1524373675727629) | meta | Singapore | 0.3898 | 2026-08-01 |
 
 # JobTracker
 
