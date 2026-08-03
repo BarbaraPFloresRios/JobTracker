@@ -1,45 +1,87 @@
 title,company,location,semantic_similarity,first_seen_date,url
+"Data Center Supply Chain Manager, Data Center Supply Solutions",amazon,"US, VA, Herndon",0.5563,2026-08-03,https://www.amazon.jobs/en/jobs/10490499/data-center-supply-chain-manager-data-center-supply-solutions
+"Software Development Engineer, Conversational Ads Experience",amazon,"US, NY, New York",0.5393,2026-08-03,https://www.amazon.jobs/en/jobs/10490604/software-development-engineer-conversational-ads-experience
+"Senior Storage AI Specialist Solution Architect , AGS Specialist Solutions Architecture Team",amazon,"US, VA, Herndon",0.5363,2026-08-03,https://www.amazon.jobs/en/jobs/10490504/senior-storage-ai-specialist-solution-architect-ags-specialist-solutions-architecture-team
+"Software Development Engineer, AWS OpenSearch Service",amazon,"US, TX, Austin",0.5361,2026-08-03,https://www.amazon.jobs/en/jobs/10490514/software-development-engineer-aws-opensearch-service
+"Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)",amazon,"US, VA, Culpeper",0.5252,2026-08-03,https://www.amazon.jobs/en/jobs/10490620/network-deployment-engineer-amazon-dedicated-cloud-nidd
+"Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)",amazon,"US, VA, Culpeper",0.5252,2026-08-03,https://www.amazon.jobs/en/jobs/10490600/network-deployment-engineer-amazon-dedicated-cloud-nidd
+"Data Center Technician - Night Shift, DCC Communities ",amazon,"US, IN, New Carlisle",0.5067,2026-08-03,https://www.amazon.jobs/en/jobs/10490612/data-center-technician-night-shift-dcc-communities
+"Data Center Technician - Night Shift, DCC Communities ",amazon,"US, IN, New Carlisle",0.5067,2026-08-03,https://www.amazon.jobs/en/jobs/10490626/data-center-technician-night-shift-dcc-communities
+"PR Specialist, AI Optimism and Industries",nvidia,"US, CA, Santa Clara",0.5031,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Specialist--AI-Optimism-and-Industries_JR2022339
 Director of Operations-AI Skilling,microsoft,"United States, Multiple Locations, Multiple Locations; United States, California, Mountain View; United States, California, San Francisco; United States, Washington, Redmond",0.4777,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556941502
+"Data Scientist, Sales AI",amazon_science,"US, NY, New York",0.4729,2026-08-03,https://www.amazon.jobs/jobs/10489913/data-scientist-sales-ai?cmpid=bsp-amazon-science
+Software Engineer II and/or Senior Software Engineer - AI Compilers,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, California, Mountain View",0.4634,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556942068
 Senior DFT Methodology - Data Analytics and Applied AI Engineer,nvidia,"US, CA, Santa Clara",0.4528,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850
 "Account Director, Large Enterprise",openai,"Delhi, India; India - Remote",0.4483,2026-08-03,https://jobs.ashbyhq.com/openai/fd8c0f71-da99-4d1a-97f7-ff6b72420689
+Senior Machine Learning Engineer,nvidia,"US, CA, Santa Clara; US, NY, Remote; US, WA, Remote; US, Remote; US, NY, New York; US, WA, Seattle",0.4403,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer_JR2022719
+"Logistics Specialist 3, Logistics - Data Center Materials",amazon,"US, OR, Hermiston",0.4382,2026-08-03,https://www.amazon.jobs/en/jobs/10490625/logistics-specialist-3-logistics-data-center-materials
 Senior ASIC Verification Engineer,nvidia,"US, NC, Durham",0.4324,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1
-Enterprise Product Manager - Unified Service Offerings,microsoft,"United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations",0.4264,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556939646
+Enterprise Product Manager - Unified Service Offerings,microsoft,"United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations",0.4232,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556939646
 "Sr. Supply Chain Manager, Inbound Strategy, AMXL Inbound and Profitability Strategy",amazon,"US, WA, Bellevue",0.4216,2026-08-03,https://www.amazon.jobs/en/jobs/10490426/sr-supply-chain-manager-inbound-strategy-amxl-inbound-and-profitability-strategy
+"Program Manager - Change Management, WWGS BizOps",amazon,"US, TX, Austin",0.4202,2026-08-03,https://www.amazon.jobs/en/jobs/10490550/program-manager-change-management-wwgs-bizops
 "Principal Software Architect, Networking AI",nvidia,"US, CA, Santa Clara",0.4176,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2017640
 "Principal Software Architect, Networking AI",nvidia,"US, CA, Santa Clara",0.4176,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2022411
-Software Engineer II and/or Senior Software Engineer - AI Compilers,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, California, Mountain View",0.4131,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556942068
+Engineering Operation Technician ,amazon,"US, VA, Ashburn",0.4093,2026-08-03,https://www.amazon.jobs/en/jobs/10490544/engineering-operation-technician
 Senior State and Local Government Business Development Manager,nvidia,"US, CA, Remote",0.4072,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-State-and-Local-Government-Business-Development-Manager_JR2022357
+Marketing Campaign Manager – Open Models,nvidia,"US, CA, Santa Clara",0.3984,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Marketing-Campaign-Manager---Open-Models_JR2022507
+"Senior PR Manager, AI Software",nvidia,"US, CA, Santa Clara",0.3971,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-PR-Manager--AI-Software_JR2021294
 "Senior Architect, NVLink",nvidia,"US, MA, Westford",0.3967,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626
 Liquid-Cooling Specialist - Datacenter,nvidia,"US, CA, Santa Clara",0.3944,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Liquid-Cooling-Specialist---Datacenter_JR2021987
+Senior Site Reliability Engineer - Cloud,nvidia,"US, CA, Santa Clara",0.3863,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Cloud_JR2022489
 Partner Solution Sales Professional,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, California, Mountain View; United States, California, Los Angeles; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, New York, New York; United States, Washington, Redmond",0.3848,2026-08-03,https://apply.careers.microsoft.com/careers/job/1970393556949819
+"Strategic Operations, Industrial Compute",openai,San Francisco,0.3838,2026-08-03,https://jobs.ashbyhq.com/openai/87454eaf-5f37-44b8-94f4-c3bb0edb5638
+Senior Math Libraries Engineer - Dense Linear Algebra,nvidia,"US, CA, Santa Clara; US, CA, Remote",0.3833,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Dense-Linear-Algebra_JR1993990
 "Manager, Financial Systems",nvidia,"US, CA, Santa Clara",0.3808,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Financial-Systems_JR2021762
+"Product Manager, Apple Intelligence Experiences",apple,,0.3738,2026-08-03,https://jobs.apple.com/en-us/details/200618440-0836/product-manager-apple-intelligence-experiences?team=MKTG
 "Senior Software Engineer, Agentic AI",nvidia,"US, WA, Redmond; US, CA, Santa Clara",0.3687,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556
 "Senior Software Engineer, Embedded Platform Middleware — Automotive and Robotics",nvidia,"US, CA, Santa Clara",0.3652,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103
 "Prime Air Ground Handler, Amazon - Prime Air",amazon,"US, TX, Richmond",0.3595,2026-08-03,https://www.amazon.jobs/en/jobs/10489928/prime-air-ground-handler-amazon-prime-air
 "Prime Air Ground Handler, Amazon - Prime Air",amazon,"US, TX, Richmond",0.3595,2026-08-03,https://www.amazon.jobs/en/jobs/10489930/prime-air-ground-handler-amazon-prime-air
 AI Deployment Engineer,openai,"Delhi, India",0.3553,2026-08-03,https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a
-"Prime Air Ground Handler, Amazon - Prime Air",amazon,"US, TN, Memphis",0.3506,2026-08-03,https://www.amazon.jobs/en/jobs/10489931/prime-air-ground-handler-amazon-prime-air
 "Prime Air Ground Handler, Amazon - Prime Air",amazon,"US, TN, Memphis",0.3506,2026-08-03,https://www.amazon.jobs/en/jobs/10489929/prime-air-ground-handler-amazon-prime-air
+"Prime Air Ground Handler, Amazon - Prime Air",amazon,"US, TN, Memphis",0.3506,2026-08-03,https://www.amazon.jobs/en/jobs/10489931/prime-air-ground-handler-amazon-prime-air
+"Senior Engineering Manager, Agentic AI & Intelligent Reasoning",apple,,0.3499,2026-08-03,https://jobs.apple.com/en-us/details/200675477-3760/senior-engineering-manager-agentic-ai-intelligent-reasoning?team=SFTWR
 "Site Reliability Engineer, Apple Data Platform - AI/ML Platform",apple,,0.3497,2026-08-03,https://jobs.apple.com/en-us/details/200674351-0157/site-reliability-engineer-apple-data-platform-ai-ml-platform?team=SFTWR
 Senior ASIC Design Engineer – Clocks IP,nvidia,"US, CA, Santa Clara; US, TX, Austin",0.3453,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Clocks-IP_JR2022532
-"Sr. Account Executive - RMG, US LCS, Real Money Gaming",amazon,"US, MA, Boston",0.3438,2026-08-03,https://www.amazon.jobs/en/jobs/10489925/sr-account-executive-rmg-us-lcs-real-money-gaming
+"Sr. Account Executive - RMG, US LCS, Real Money Gaming",amazon,"US, MA, Boston",0.3413,2026-08-03,https://www.amazon.jobs/en/jobs/10489925/sr-account-executive-rmg-us-lcs-real-money-gaming
+Environmental Health & Safety Lead - Datacenter,openai,Remote - US; Seattle; San Francisco,0.3375,2026-08-03,https://jobs.ashbyhq.com/openai/f128d1b7-d7cb-45d8-b27a-8883317a0754
+AIML Data Operations Team Lead,apple,,0.3352,2026-08-03,https://jobs.apple.com/en-us/details/200675470-0157/aiml-data-operations-team-lead?team=MLAI
+"Senior Manager, Software Engineering - JAX",nvidia,"US, CA, Santa Clara",0.3251,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---JAX_JR2015536
+NeoCloud & Colo Due Diligence Lead,openai,Remote - US; Seattle; San Francisco,0.3247,2026-08-03,https://jobs.ashbyhq.com/openai/c13877eb-1685-4744-acbf-94c6a0f28961
 NPS Commerce Manager,mercadolibre,"Buenos Aires,Argentina",0.3228,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43579769
+Wallet Technical Fraud Analyst Manager - Strategic Data Solutions,apple,,0.311,2026-08-03,https://jobs.apple.com/en-us/details/200669462-0157/wallet-technical-fraud-analyst-manager-strategic-data-solutions?team=OPMFG
 "Senior Software Engineer, Agentic Robotics Infrastructure",nvidia,"US, CA, Santa Clara",0.3077,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Robotics-Infrastructure_JR2022617
 Senior Memory System Architect,nvidia,"US, CA, Santa Clara; US, TX, Austin; US, NC, Durham",0.3072,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-System-Architect_JR2022582
+Senior RMA Customer Experience Manager,nvidia,"US, CA, Santa Clara",0.2917,2026-08-03,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-RMA-Customer-Experience-Manager_JR2019970-1
+Sr. SW Dev Eng,apple,,0.2847,2026-08-03,https://jobs.apple.com/en-us/details/200674680-3760/sr-sw-dev-eng?team=MLAI
+Software Development Engineer - Cellular (Instrument Engineering),apple,,0.2803,2026-08-03,https://jobs.apple.com/en-us/details/200675258-0836/software-development-engineer-cellular-instrument-engineering?team=HRDWR
+User Safety & Risk Operations Analyst - Global Response (Weekend Shift),openai,San Francisco,0.2599,2026-08-03,https://jobs.ashbyhq.com/openai/d990222d-ecf1-417f-a248-6e962b5a18e0
+Distributed Systems Engineer 6 - Ads Policies,netflix,"Los Gatos,California,United States of America; Seattle,Washington,United States of America; New York,New York,United States of America; Los Angeles,California,United States of America",0.2595,2026-08-03,https://explore.jobs.netflix.net/careers/job/790315962589
 "Manager, Network Operations and Support",meta,"Denver, CO",0.2547,2026-08-03,https://www.metacareers.com/profile/job_details/2449524898891982
+Analista Senior de Data Analytics - Prevención de Fraude,mercadolibre,"Buenos Aires,Argentina",0.2378,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43625996
+Business Assurance & Compliance,apple,,0.2303,2026-08-03,https://jobs.apple.com/en-us/details/200674090-0836/business-assurance-compliance?team=CORSV
+Ejecución de Fuerza de Venta Directa - Fintech,mercadolibre,"Región de Antofagasta,Chile",0.2114,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/40703699
+"Program Manager, Strategic Initiatives",meta,"Los Angeles, CA +6 locations",0.2023,2026-08-03,https://www.metacareers.com/profile/job_details/1502629821882657
 "Enterprise Growth Account Executive, Uber for Business US&C",uber,"New York, New York, United States; Chicago, Cook, United States",0.1994,2026-08-03,https://www.uber.com/global/en/careers/list/159860/
+US-Manager,apple,,0.1921,2026-08-03,https://jobs.apple.com/en-us/details/200674798-7011/us-manager?team=APPST
+Analista Senior Mejora Continua - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.1881,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43609967
 Especialista de Procurement Line Haul,mercadolibre,"Sudeste,Brazil",0.1861,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43644394
-Senior Data Scientist - LATAM Content,netflix,"Mexico City,Mexico",0.492,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317556026
+US-Lead,apple,,0.1471,2026-08-03,https://jobs.apple.com/en-us/details/200674553-3267/us-lead?team=APPST
+Analista de Capacidad para Transporte - Mercado Envíos,mercadolibre,"Bogotá,Colombia",0.1093,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43595848
+Analista de transporte - Lobos - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.0947,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43589808
+Coordenador de Prevenção de Perdas - Mercado Envios,mercadolibre,"Sudeste,Brazil; Cajamar, SP, BR; Jundiaí - SP, Brasil",0.0795,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43622421
+Asistente de transporte -  Valentín Alsina - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.0721,2026-08-03,https://mercadolibre.eightfold.ai/careers/job/43576071
+Senior Data Scientist - LATAM Content,netflix,"Mexico City,Mexico",0.494,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317556026
 Data Center Engineering Operations Technician ,amazon,"US, VA, Sterling",0.4418,2026-08-02,https://www.amazon.jobs/en/jobs/10489912/data-center-engineering-operations-technician
-"Senior Engineering Manager - Agent Platform, AI Platform",netflix,USA - Remote,0.4396,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317607391
-Sr. Software Engineer - CTJ - Secret,microsoft,"United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations",0.4329,2026-08-02,https://apply.careers.microsoft.com/careers/job/1970393556942025
-"Technology Experience Specialist, Studio",netflix,"Manila,Philippines",0.416,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317599768
-Solutions Engineer - Finance Technology,netflix,"Los Angeles,California,United States of America",0.3986,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317188076
-"Staff Software Engineer (L6) - Developer Productivity — Platform Systems, AIMS Engineering",netflix,USA - Remote,0.3833,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317608818
+"Senior Engineering Manager - Agent Platform, AI Platform",netflix,USA - Remote,0.4378,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317607391
+Sr. Software Engineer - CTJ - Secret,microsoft,"United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations",0.4316,2026-08-02,https://apply.careers.microsoft.com/careers/job/1970393556942025
+"Technology Experience Specialist, Studio",netflix,"Manila,Philippines",0.4162,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317599768
+Solutions Engineer - Finance Technology,netflix,"Los Angeles,California,United States of America",0.3979,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317188076
+"Staff Software Engineer (L6) - Developer Productivity — Platform Systems, AIMS Engineering",netflix,USA - Remote,0.3831,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317608818
 Transportation Associate ,amazon,"US, CA, Santa Clarita",0.323,2026-08-02,https://www.amazon.jobs/en/jobs/10489899/transportation-associate
-"Engineering Manager, AI for Member Systems — Page Construction | Ranking Models",netflix,USA - Remote,0.3223,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317582272
-Sr. Account Manager,netflix,"Tokyo,Japan",0.2855,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317538448
-"Accounts Payable Manager, APAC",netflix,"Singapore,Singapore",0.2597,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317599354
-"Communications Specialist, DACH - FTC",netflix,"Berlin,Germany",0.2414,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317551295
+"Engineering Manager, AI for Member Systems — Page Construction | Ranking Models",netflix,USA - Remote,0.316,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317582272
+Sr. Account Manager,netflix,"Tokyo,Japan",0.2902,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317538448
+"Accounts Payable Manager, APAC",netflix,"Singapore,Singapore",0.2593,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317599354
+"Communications Specialist, DACH - FTC",netflix,"Berlin,Germany",0.2412,2026-08-02,https://explore.jobs.netflix.net/careers/job/790317551295
 Manufacturing Systems Program Manager,apple,,0.2361,2026-08-02,https://jobs.apple.com/en-us/details/200674893-0836/manufacturing-systems-program-manager?team=OPMFG
 "Senior Product Manager, Environmental Systems",apple,,0.2172,2026-08-02,https://jobs.apple.com/en-us/details/200673599-0836/senior-product-manager-environmental-systems?team=OPMFG
