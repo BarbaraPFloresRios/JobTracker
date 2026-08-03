@@ -6,28 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Data Scientist - LATAM Content](https://explore.jobs.netflix.net/careers/job/790317556026) | netflix | Mexico City,Mexico | 0.4924 | 2026-08-02 |
+| [Senior Data Scientist - LATAM Content](https://explore.jobs.netflix.net/careers/job/790317556026) | netflix | Mexico City,Mexico | 0.4926 | 2026-08-02 |
 | [Director of Operations-AI Skilling](https://apply.careers.microsoft.com/careers/job/1970393556941502) | microsoft | United States, Multiple Locations, Multiple Locations; United States, California, Mountain View; United States, California, San Francisco; United States, Washington, Redmond | 0.4705 | 2026-08-03 |
+| [Senior DFT Methodology - Data Analytics and Applied AI Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850) | nvidia | US, CA, Santa Clara | 0.4528 | 2026-08-03 |
+| [Account Director, Large Enterprise](https://jobs.ashbyhq.com/openai/fd8c0f71-da99-4d1a-97f7-ff6b72420689) | openai | Delhi, India; India - Remote | 0.4483 | 2026-08-03 |
 | [Data Center Engineering Operations Technician ](https://www.amazon.jobs/en/jobs/10489912/data-center-engineering-operations-technician) | amazon | US, VA, Sterling | 0.4418 | 2026-08-02 |
-| [Senior Engineering Manager - Agent Platform, AI Platform](https://explore.jobs.netflix.net/careers/job/790317607391) | netflix | USA - Remote | 0.4405 | 2026-08-02 |
-| [Enterprise Product Manager - Unified Service Offerings](https://apply.careers.microsoft.com/careers/job/1970393556939646) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4396 | 2026-08-03 |
-| [Sr. Software Engineer - CTJ - Secret](https://apply.careers.microsoft.com/careers/job/1970393556942025) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4322 | 2026-08-02 |
-| [Technology Experience Specialist, Studio](https://explore.jobs.netflix.net/careers/job/790317599768) | netflix | Manila,Philippines | 0.4133 | 2026-08-02 |
-| [Solutions Engineer - Finance Technology](https://explore.jobs.netflix.net/careers/job/790317188076) | netflix | Los Angeles,California,United States of America | 0.3996 | 2026-08-02 |
-| [Staff Software Engineer (L6) - Developer Productivity — Platform Systems, AIMS Engineering](https://explore.jobs.netflix.net/careers/job/790317608818) | netflix | USA - Remote | 0.3836 | 2026-08-02 |
-| [Prime Air Ground Handler, Amazon - Prime Air](https://www.amazon.jobs/en/jobs/10489928/prime-air-ground-handler-amazon-prime-air) | amazon | US, TX, Richmond | 0.3595 | 2026-08-03 |
+| [Senior Engineering Manager - Agent Platform, AI Platform](https://explore.jobs.netflix.net/careers/job/790317607391) | netflix | USA - Remote | 0.4414 | 2026-08-02 |
+| [Enterprise Product Manager - Unified Service Offerings](https://apply.careers.microsoft.com/careers/job/1970393556939646) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4401 | 2026-08-03 |
+| [Senior ASIC Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1) | nvidia | US, NC, Durham | 0.4324 | 2026-08-03 |
+| [Sr. Software Engineer - CTJ - Secret](https://apply.careers.microsoft.com/careers/job/1970393556942025) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4307 | 2026-08-02 |
+| [Principal Software Architect, Networking AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2017640) | nvidia | US, CA, Santa Clara | 0.4176 | 2026-08-03 |
+| [Principal Software Architect, Networking AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2022411) | nvidia | US, CA, Santa Clara | 0.4176 | 2026-08-03 |
+| [Technology Experience Specialist, Studio](https://explore.jobs.netflix.net/careers/job/790317599768) | netflix | Manila,Philippines | 0.4166 | 2026-08-02 |
+| [Senior State and Local Government Business Development Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-State-and-Local-Government-Business-Development-Manager_JR2022357) | nvidia | US, CA, Remote | 0.4072 | 2026-08-03 |
+| [Solutions Engineer - Finance Technology](https://explore.jobs.netflix.net/careers/job/790317188076) | netflix | Los Angeles,California,United States of America | 0.3979 | 2026-08-02 |
+| [Senior Architect, NVLink](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626) | nvidia | US, MA, Westford | 0.3967 | 2026-08-03 |
+| [Liquid-Cooling Specialist - Datacenter](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Liquid-Cooling-Specialist---Datacenter_JR2021987) | nvidia | US, CA, Santa Clara | 0.3944 | 2026-08-03 |
+| [Partner Solution Sales Professional](https://apply.careers.microsoft.com/careers/job/1970393556949819) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, California, Mountain View; United States, California, Los Angeles; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, New York, New York; United States, Washington, Redmond | 0.3848 | 2026-08-03 |
+| [Staff Software Engineer (L6) - Developer Productivity — Platform Systems, AIMS Engineering](https://explore.jobs.netflix.net/careers/job/790317608818) | netflix | USA - Remote | 0.3825 | 2026-08-02 |
+| [Manager, Financial Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Financial-Systems_JR2021762) | nvidia | US, CA, Santa Clara | 0.3808 | 2026-08-03 |
+| [Senior Software Engineer, Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556) | nvidia | US, WA, Redmond; US, CA, Santa Clara | 0.3687 | 2026-08-03 |
+| [Senior Software Engineer, Embedded Platform Middleware — Automotive and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103) | nvidia | US, CA, Santa Clara | 0.3652 | 2026-08-03 |
 | [Prime Air Ground Handler, Amazon - Prime Air](https://www.amazon.jobs/en/jobs/10489930/prime-air-ground-handler-amazon-prime-air) | amazon | US, TX, Richmond | 0.3595 | 2026-08-03 |
-| [Prime Air Ground Handler, Amazon - Prime Air](https://www.amazon.jobs/en/jobs/10489929/prime-air-ground-handler-amazon-prime-air) | amazon | US, TN, Memphis | 0.3506 | 2026-08-03 |
+| [Prime Air Ground Handler, Amazon - Prime Air](https://www.amazon.jobs/en/jobs/10489928/prime-air-ground-handler-amazon-prime-air) | amazon | US, TX, Richmond | 0.3595 | 2026-08-03 |
+| [AI Deployment Engineer](https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a) | openai | Delhi, India | 0.3553 | 2026-08-03 |
 | [Prime Air Ground Handler, Amazon - Prime Air](https://www.amazon.jobs/en/jobs/10489931/prime-air-ground-handler-amazon-prime-air) | amazon | US, TN, Memphis | 0.3506 | 2026-08-03 |
-| [Sr. Account Executive - RMG, US LCS, Real Money Gaming](https://www.amazon.jobs/en/jobs/10489925/sr-account-executive-rmg-us-lcs-real-money-gaming) | amazon | US, MA, Boston | 0.3288 | 2026-08-03 |
-| [Transportation Associate ](https://www.amazon.jobs/en/jobs/10489899/transportation-associate) | amazon | US, CA, Santa Clarita | 0.3230 | 2026-08-02 |
-| [Engineering Manager, AI for Member Systems — Page Construction \| Ranking Models](https://explore.jobs.netflix.net/careers/job/790317582272) | netflix | USA - Remote | 0.3159 | 2026-08-02 |
-| [Sr. Account Manager](https://explore.jobs.netflix.net/careers/job/790317538448) | netflix | Tokyo,Japan | 0.2904 | 2026-08-02 |
-| [Accounts Payable Manager, APAC](https://explore.jobs.netflix.net/careers/job/790317599354) | netflix | Singapore,Singapore | 0.2615 | 2026-08-02 |
-| [Manager, Network Operations and Support](https://www.metacareers.com/profile/job_details/2449524898891982) | meta | Denver, CO | 0.2547 | 2026-08-03 |
-| [Communications Specialist, DACH - FTC](https://explore.jobs.netflix.net/careers/job/790317551295) | netflix | Berlin,Germany | 0.2416 | 2026-08-02 |
-| [Manufacturing Systems Program Manager](https://jobs.apple.com/en-us/details/200674893-0836/manufacturing-systems-program-manager?team=OPMFG) | apple | nan | 0.2361 | 2026-08-02 |
-| [Senior Product Manager, Environmental Systems](https://jobs.apple.com/en-us/details/200673599-0836/senior-product-manager-environmental-systems?team=OPMFG) | apple | nan | 0.2172 | 2026-08-02 |
 
 # JobTracker
 
