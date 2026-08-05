@@ -1,45 +1,77 @@
 title,company,location,semantic_similarity,first_seen_date,url
-"Head of Developer Enablement, Kiro",amazon,"US, NY, New York",0.5952,2026-08-05,https://www.amazon.jobs/en/jobs/10492319/head-of-developer-enablement-kiro
-"Construction Manager , ADC East ",amazon,"US, MD, Jessup",0.5346,2026-08-05,https://www.amazon.jobs/en/jobs/10492818/construction-manager-adc-east
+"Senior Applied Scientist, Special Projects",amazon,"US, WA, Seattle",0.6404,2026-08-05,https://www.amazon.jobs/en/jobs/10492852/senior-applied-scientist-special-projects
+"Head of Developer Enablement, Kiro",amazon,"US, NY, New York",0.5921,2026-08-05,https://www.amazon.jobs/en/jobs/10492319/head-of-developer-enablement-kiro
+"Infra Delivery Install Technician, DCC Communities ",amazon,"US, VA, Sterling",0.5634,2026-08-05,https://www.amazon.jobs/en/jobs/10492979/infra-delivery-install-technician-dcc-communities
+"Construction Manager , ADC East ",amazon,"US, MD, Jessup",0.5497,2026-08-05,https://www.amazon.jobs/en/jobs/10492818/construction-manager-adc-east
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5406,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556952567
+Data Center Infrastructure Delivery Manager,amazon,"US, VA, Fredericksburg",0.5386,2026-08-05,https://www.amazon.jobs/en/jobs/10492901/data-center-infrastructure-delivery-manager
+"Senior Learning Architect, Employee Skilling, Skilling & Social Impact (SSI)",amazon,"US, VA, Arlington",0.5379,2026-08-05,https://www.amazon.jobs/en/jobs/10493023/senior-learning-architect-employee-skilling-skilling-social-impact-ssi
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5363,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556952469
+"Sr. SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration",amazon,"US, TX, Austin",0.5329,2026-08-05,https://www.amazon.jobs/en/jobs/10493068/sr-sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration
+"Principal ProServe Cloud Architect, US - HCLS",amazon,"US, GA, Atlanta",0.5326,2026-08-05,https://www.amazon.jobs/en/jobs/10493003/principal-proserve-cloud-architect-us-hcls
 "Data Scientist, Prime Video Science",amazon_science,"US, WA, Seattle",0.5301,2026-08-05,https://www.amazon.jobs/jobs/10492077/data-scientist-prime-video-science?cmpid=bsp-amazon-science
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5286,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556952567
 "Applied Scientist, Prime Video - Generative AI",amazon,"US, NY, New York",0.5279,2026-08-05,https://www.amazon.jobs/en/jobs/10492458/applied-scientist-prime-video-generative-ai
-"Technical Program Manager, Availability Serviceability Team",amazon,"US, VA, Herndon",0.5217,2026-08-05,https://www.amazon.jobs/en/jobs/10492780/technical-program-manager-availability-serviceability-team
-"Construction Manager , IAH100",amazon,"US, TX, Wharton",0.5203,2026-08-05,https://www.amazon.jobs/en/jobs/10492821/construction-manager-iah100
-"Principal Cloud Solution Architect, AI Data, Partner Solutions",microsoft,"United States, Multiple Locations, Multiple Locations",0.5169,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556956125
-Senior Technical Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond",0.5005,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556945476
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4995,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556952469
+"Principal Cloud Solution Architect, AI Data, Partner Solutions",microsoft,"United States, Multiple Locations, Multiple Locations",0.5223,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556956125
+"Construction Manager , IAH100",amazon,"US, TX, Wharton",0.5167,2026-08-05,https://www.amazon.jobs/en/jobs/10492821/construction-manager-iah100
+"Technical Program Manager, Availability Serviceability Team",amazon,"US, VA, Herndon",0.5138,2026-08-05,https://www.amazon.jobs/en/jobs/10492780/technical-program-manager-availability-serviceability-team
+"Applied Scientist - Computational Modeling, OMHS SCS",amazon_science,"US, MA, N.reading",0.5137,2026-08-05,https://www.amazon.jobs/jobs/10491961/applied-scientist--computational-modeling-omhs-scs?cmpid=bsp-amazon-science
+Senior Technical Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond",0.5051,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556945476
 "Applied Scientist - Computational Modeling, OMHS SCS",amazon_science,"US, MA, N.reading",0.4916,2026-08-05,https://www.amazon.jobs/jobs/10491962/applied-scientist--computational-modeling-omhs-scs?cmpid=bsp-amazon-science
-"Applied Scientist - Computational Modeling, OMHS SCS",amazon_science,"US, MA, N.reading",0.4913,2026-08-05,https://www.amazon.jobs/jobs/10491961/applied-scientist--computational-modeling-omhs-scs?cmpid=bsp-amazon-science
+"Water Infrastructure Engineer, AWS Water Team (ADC)",amazon,"US, VA, Arlington",0.4774,2026-08-05,https://www.amazon.jobs/en/jobs/10492887/water-infrastructure-engineer-aws-water-team-adc
 "Principal Talent Management, Amazon Talent & Compensation",amazon,"US, VA, Arlington",0.4749,2026-08-05,https://www.amazon.jobs/en/jobs/10492395/principal-talent-management-amazon-talent-compensation
 "Data Center Controls Engineer, Data Center Capacity Delivery - Controls ",amazon,"US, OH, Trenton",0.4723,2026-08-05,https://www.amazon.jobs/en/jobs/10492473/data-center-controls-engineer-data-center-capacity-delivery-controls
 "NW Deployment Build Lead I, GND - DCC Communities",amazon,"US, GA, Lithia Springs",0.4646,2026-08-05,https://www.amazon.jobs/en/jobs/10492788/nw-deployment-build-lead-i-gnd-dcc-communities
 Electrical Commissioning Lead,openai,San Francisco,0.4604,2026-08-05,https://jobs.ashbyhq.com/openai/d8d2365b-b33b-4ace-a21a-4bb62a43cb69
 Enterprise Customer Success Manager,canva,"Austin, , United States",0.4591,2026-08-05,https://jobs.smartrecruiters.com/Canva/6000000001286336-enterprise-customer-success-manager
+Sales Operations II - AMZ26030.4,amazon,"US, CA, Mountain View",0.4584,2026-08-05,https://www.amazon.jobs/en/jobs/10491974/sales-operations-ii-amz26030-4
 Head of Data - Finance ,canva,"San Francisco, CA, United States",0.4548,2026-08-05,https://jobs.smartrecruiters.com/Canva/6000000001288212-head-of-data-finance-
 "Controls Technician, Data Center Capacity Delivery",amazon,"US, OH, Trenton",0.4511,2026-08-05,https://www.amazon.jobs/en/jobs/10492472/controls-technician-data-center-capacity-delivery
 Sr. Hardware Process Engineer,amazon,"US, WA, Redmond",0.4478,2026-08-05,https://www.amazon.jobs/en/jobs/10492385/sr-hardware-process-engineer
+"S&OP Planner, Infrastructure Planning, AWS Infrastructure S&OP",amazon,"US, WA, Seattle",0.4468,2026-08-05,https://www.amazon.jobs/en/jobs/10492376/s-op-planner-infrastructure-planning-aws-infrastructure-s-op
 Machine Learning Engineer II - AV Labs,uber,"Sunnyvale, Santa Clara, United States",0.4454,2026-08-05,https://www.uber.com/global/en/careers/list/303619/
-Sales Operations II - AMZ26030.4,amazon,"US, CA, Mountain View",0.4436,2026-08-05,https://www.amazon.jobs/en/jobs/10491974/sales-operations-ii-amz26030-4
-"S&OP Planner, Infrastructure Planning, AWS Infrastructure S&OP",amazon,"US, WA, Seattle",0.4384,2026-08-05,https://www.amazon.jobs/en/jobs/10492376/s-op-planner-infrastructure-planning-aws-infrastructure-s-op
+Field Marketing Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4376,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556949072
 Staff Software Engineer - ML AV Labs,uber,"Sunnyvale, Santa Clara, United States",0.435,2026-08-05,https://www.uber.com/global/en/careers/list/302891/
 "Senior Data Scientist, Amazon Leo",amazon_science,"US, WA, Bellevue",0.4344,2026-08-05,https://www.amazon.jobs/jobs/10492423/senior-data-scientist-amazon-leo?cmpid=bsp-amazon-science
 "Software Engineer 4 - DevOps, CI/CD",netflix,"Los Gatos,California,United States of America",0.431,2026-08-05,https://explore.jobs.netflix.net/careers/job/790317653612
 Senior Machine Learning Engineer - AV Labs,uber,"San Francisco, San Francisco, United States; Sunnyvale, Santa Clara, United States",0.4292,2026-08-05,https://www.uber.com/global/en/careers/list/158935/
+"NW Deployment Planner II, GND - Planning, Implementation, Coordination (PIC) Team ",amazon,"US, WA, Seattle",0.4262,2026-08-05,https://www.amazon.jobs/en/jobs/10492784/nw-deployment-planner-ii-gnd-planning-implementation-coordination-pic-team
 "NW Deployment Build Lead , Infra - GND",amazon,"US, CA, Santa Clara",0.4252,2026-08-05,https://www.amazon.jobs/en/jobs/10492779/nw-deployment-build-lead-infra-gnd
+Commercial Executive,microsoft,"United States, Multiple Locations, Multiple Locations",0.425,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556947579
+"Director, Digital Solutions Sales, Microsoft Elevate",microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, California, Mountain View; United States, Texas, Las Colinas; United States, Georgia, Atlanta; United States, New York, New York; United States, District of Columbia, Washington D.C.",0.423,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556945565
 Principal Product Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4191,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556950617
-Commercial Executive,microsoft,"United States, Multiple Locations, Multiple Locations",0.4187,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556947579
+Senior Deep Learning Algorithm Engineer,nvidia,"US, CA, Santa Clara; US, CA, Remote",0.4182,2026-08-05,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Algorithm-Engineer_JR2022541
 "Research Engineer / Research Scientist / AI Systems Engineer, RSI",openai,San Francisco,0.4169,2026-08-05,https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632
-Field Marketing Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4157,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556949072
 "Data Scientist, Finance Forecasting",anthropic,"San Francisco, CA",0.4142,2026-08-05,https://job-boards.greenhouse.io/anthropic/jobs/5358094008
 Systems Software Engineer - Infrastructure,nvidia,"US, CA, Santa Clara",0.4113,2026-08-05,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492892/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492890/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492885/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492870/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492894/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492893/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492891/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492895/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492896/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492898/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492902/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492897/installation-technician
+Installation Technician,amazon,"US, VA, Mineral",0.4102,2026-08-05,https://www.amazon.jobs/en/jobs/10492899/installation-technician
 "Commercial Counsel, GTM",canva,"Austin, TX, United States",0.4072,2026-08-05,https://jobs.smartrecruiters.com/Canva/6000000001288556-commercial-counsel-gtm
-"Director, Digital Solutions Sales, Microsoft Elevate",microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, California, Mountain View; United States, Texas, Las Colinas; United States, Georgia, Atlanta; United States, New York, New York; United States, District of Columbia, Washington D.C.",0.3948,2026-08-05,https://apply.careers.microsoft.com/careers/job/1970393556945565
-"NW Deployment Planner II, GND - Planning, Implementation, Coordination (PIC) Team ",amazon,"US, WA, Seattle",0.3934,2026-08-05,https://www.amazon.jobs/en/jobs/10492784/nw-deployment-planner-ii-gnd-planning-implementation-coordination-pic-team
+Senior Data Engineer- Search,mercadolibre,"Buenos Aires,Argentina",0.4033,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43222065
 "Principal Product Manager, NVIDIA Trust Services – DGX Cloud",nvidia,"US, CA, Santa Clara",0.3911,2026-08-05,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager--NVIDIA-Trust-Services---DGX-Cloud_JR2021455
 Data Scientist - Insights and Analytics,apple,,0.3885,2026-08-05,https://jobs.apple.com/en-us/details/200675897-0157/data-scientist-insights-and-analytics?team=HRDWR
 Process Assistant,amazon,"US, MA, Stoughton",0.3883,2026-08-05,https://www.amazon.jobs/en/jobs/10492777/process-assistant
 Senior Product Manager - Enterprise Reference Architecture,nvidia,"US, CA, Santa Clara; US, TX, Austin",0.3881,2026-08-05,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Enterprise-Reference-Architecture_JR2022708
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492875/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492884/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492879/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492878/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492882/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492877/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492907/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492906/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492904/installation-technician
+Installation Technician,amazon,"US, VA, Fredericksburg",0.3873,2026-08-05,https://www.amazon.jobs/en/jobs/10492908/installation-technician
 "Commercial Counsel, GTM",canva,"San Francisco, CA, United States",0.3865,2026-08-05,https://jobs.smartrecruiters.com/Canva/6000000001288531-commercial-counsel-gtm
 Silicon Engineer,anthropic,"San Francisco, CA",0.3858,2026-08-05,https://job-boards.greenhouse.io/anthropic/jobs/5286348008
 Employer Brand Manager,openai,San Francisco; New York City; Remote - US,0.3815,2026-08-05,https://jobs.ashbyhq.com/openai/c827056e-308c-4cd1-9bd3-bb7c4c3a4dae
@@ -49,17 +81,25 @@ Workforce Strategy & Insights Planner,meta,"Austin, TX +4 locations",0.374,2026-
 "Applied Scientist - Reinforcement learning, OMHS SCS",amazon_science,"US, MA, N.reading",0.3666,2026-08-05,https://www.amazon.jobs/jobs/10492036/applied-scientist--reinforcement-learning-omhs-scs?cmpid=bsp-amazon-science
 "Researcher, Cybersecurity Products",anthropic,"San Francisco, CA",0.3621,2026-08-05,https://job-boards.greenhouse.io/anthropic/jobs/5380359008
 Hardware Systems Architect,anthropic,"San Francisco, CA",0.3615,2026-08-05,https://job-boards.greenhouse.io/anthropic/jobs/5286362008
+Sr Software Engineer - Compute,uber,"Seattle, King, United States",0.3611,2026-08-05,https://www.uber.com/global/en/careers/list/303625/
+"AI Systems Security Engineer (Agent Systems), SEAR",apple,,0.3586,2026-08-05,https://jobs.apple.com/en-us/details/200676078-0836/ai-systems-security-engineer-agent-systems-sear?team=SFTWR
 "Sr. Applied Scientist, Foundation Model Build, WW Sustainability",amazon_science,"US, WA, Seattle",0.3583,2026-08-05,https://www.amazon.jobs/jobs/10492031/sr-applied-scientist-foundation-model-build-ww-sustainability?cmpid=bsp-amazon-science
 "Ship Clerk, CMH5",amazon,"US, OH, West Jefferson",0.3564,2026-08-05,https://www.amazon.jobs/en/jobs/10492751/ship-clerk-cmh5
 ML Engineer - Robotics,apple,,0.3564,2026-08-05,https://jobs.apple.com/en-us/details/200675240-0836/ml-engineer-robotics?team=MLAI
-"Creative Assistant, Amazon MGM Studios Genre Series",amazon,"US, CA, Culver City",0.351,2026-08-05,https://www.amazon.jobs/en/jobs/10492637/creative-assistant-amazon-mgm-studios-genre-series
+"Creative Assistant, Amazon MGM Studios Genre Series",amazon,"US, CA, Culver City",0.3558,2026-08-05,https://www.amazon.jobs/en/jobs/10492637/creative-assistant-amazon-mgm-studios-genre-series
+"Processing Technician - 2nd Shift, Amazon Leo",amazon,"US, FL, Merritt Island",0.3521,2026-08-05,https://www.amazon.jobs/en/jobs/10492963/processing-technician-2nd-shift-amazon-leo
+"Processing Technician - 2nd Shift, Amazon Leo",amazon,"US, FL, Merritt Island",0.3467,2026-08-05,https://www.amazon.jobs/en/jobs/10492960/processing-technician-2nd-shift-amazon-leo
+"Processing Technician - 2nd Shift, Amazon Leo",amazon,"US, FL, Merritt Island",0.3467,2026-08-05,https://www.amazon.jobs/en/jobs/10492959/processing-technician-2nd-shift-amazon-leo
 Data Scientist - Law Enforcement Analytics & Program,meta,"Menlo Park, CA +2 locations",0.3327,2026-08-05,https://www.metacareers.com/profile/job_details/1063638336227808
-"Senior Manager, Content & Business Products and Delivery F&S - GenAI Enterprise & Workforce Productivity",netflix,"Los Gatos,California,United States of America",0.3285,2026-08-05,https://explore.jobs.netflix.net/careers/job/790317653702
 "Applied Scientist, Prime Video - Generative AI",amazon_science,"US, NY, New York",0.3283,2026-08-05,https://www.amazon.jobs/jobs/10492458/applied-scientist-prime-video--generative-ai?cmpid=bsp-amazon-science
+"Senior Manager, Content & Business Products and Delivery F&S - GenAI Enterprise & Workforce Productivity",netflix,"Los Gatos,California,United States of America",0.327,2026-08-05,https://explore.jobs.netflix.net/careers/job/790317653702
 "iOS Developer Tools Engineer – Car Experience, Wireless Technologies & Ecosystems",apple,,0.327,2026-08-05,https://jobs.apple.com/en-us/details/200675591-0836/ios-developer-tools-engineer-car-experience-wireless-technologies-ecosystems?team=SFTWR
 "Retail Finance Analyst - Process, Analytics, Reporting and Technology (PART)",apple,,0.323,2026-08-05,https://jobs.apple.com/en-us/details/200674945-0836/retail-finance-analyst-process-analytics-reporting-and-technology-part?team=CORSV
+Software Engineer Backend  - CX IT,mercadolibre,"Buenos Aires,Argentina",0.3144,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/41576247
 "Software Engineer, Wireless Technologies & Ecosystems",apple,,0.3008,2026-08-05,https://jobs.apple.com/en-us/details/200675791-3956/software-engineer-wireless-technologies-ecosystems?team=SFTWR
+"Senior Manager, Environment and Supply Chain Innovation (ESCI) — Metrics and Analytics",apple,,0.2991,2026-08-05,https://jobs.apple.com/en-us/details/200675770-3956/senior-manager-environment-and-supply-chain-innovation-esci-metrics-and-analytics?team=OPMFG
 Mechanical Design Engineer: Robotics Simulation and Modeling,meta,"Redmond, WA",0.2886,2026-08-05,https://www.metacareers.com/profile/job_details/2814085478955681
+"Community Specialist, Channel Retail",apple,,0.2853,2026-08-05,https://jobs.apple.com/en-us/details/200676084-3606/community-specialist-channel-retail?team=SLDEV
 "Community Specialist, Channel Retail",apple,,0.2842,2026-08-05,https://jobs.apple.com/en-us/details/200675898-3645/community-specialist-channel-retail?team=SLDEV
 "Community Specialist, Channel Retail",apple,,0.2842,2026-08-05,https://jobs.apple.com/en-us/details/200675896-3749/community-specialist-channel-retail?team=SLDEV
 AV Production Specialist,anthropic,"San Francisco, CA",0.2812,2026-08-05,https://job-boards.greenhouse.io/anthropic/jobs/5379593008
@@ -69,8 +109,11 @@ Especialista de Engagement Marketing - Fintech,mercadolibre,"Distrito Federal,Me
 Content Strategy & Programming Manager,apple,,0.2645,2026-08-05,https://jobs.apple.com/en-us/details/200653525-0670/content-strategy-programming-manager?team=MKTG
 "Materials Engineer, Failure Analysis Labs",apple,,0.2559,2026-08-05,https://jobs.apple.com/en-us/details/200675307-0836/materials-engineer-failure-analysis-labs?team=HRDWR
 Líder de Proyectos en Ingeniería de Seguridad Cloud,mercadolibre,"Buenos Aires,Argentina",0.2548,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43669785
+Product Manager - Global Sourcing Solutions (Demand/Supply Planning),apple,,0.2366,2026-08-05,https://jobs.apple.com/en-us/details/200675785-0836/product-manager-global-sourcing-solutions-demand-supply-planning?team=OPMFG
 System Engineering Program Manager (EPM) - Apple Vision Pro,apple,,0.2347,2026-08-05,https://jobs.apple.com/en-us/details/200675903-3543/system-engineering-program-manager-epm-apple-vision-pro?team=HRDWR
 SOC Thermal Engineer,apple,Various Locations within Austin Metro Area,0.2267,2026-08-05,https://jobs.apple.com/en-us/details/200675941-0240/soc-thermal-engineer?team=HRDWR
+Corporate Security Manager,openai,San Francisco,0.2254,2026-08-05,https://jobs.ashbyhq.com/openai/39c7261f-d21e-42e8-b14e-2c71842cd35e
+"Account Representative, SMB Grocery & Retail",uber,"New York, New York, United States; Chicago, Cook, United States; San Francisco, San Francisco, United States",0.2218,2026-08-05,https://www.uber.com/global/en/careers/list/302425/
 Planning Lead,meta,"Menlo Park, CA",0.2208,2026-08-05,https://www.metacareers.com/profile/job_details/1102092589016427
 "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",apple,,0.2195,2026-08-05,https://jobs.apple.com/en-us/details/200675597-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR
 US-Operations Specialist,apple,,0.2136,2026-08-05,https://jobs.apple.com/en-us/details/200675819-2818/us-operations-specialist?team=APPST
@@ -78,7 +121,9 @@ Lead Physical Security Engineer,reddit,"Amsterdam, Netherlands",0.2123,2026-08-0
 Analista Pleno de Logística - Mercado Envios,mercadolibre,"Sul,Brazil",0.2049,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43570368
 Touch and Force Sensing Engineering Program Manager,apple,,0.2031,2026-08-05,https://jobs.apple.com/en-us/details/200675842-0836/touch-and-force-sensing-engineering-program-manager?team=HRDWR
 Camera Image Processing Engineer,apple,,0.2024,2026-08-05,https://jobs.apple.com/en-us/details/200675852-0836/camera-image-processing-engineer?team=SFTWR
+Analista Senior de Revenue Operations - Mercado Ads,mercadolibre,"Buenos Aires,Argentina",0.2021,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43546145
 Power Integrity Engineer - iPhone,apple,,0.1992,2026-08-05,https://jobs.apple.com/en-us/details/200675584-0836/power-integrity-engineer-iphone?team=HRDWR
+"Lead, Product Operations - Mobility Marketplace",uber,"New York, New York, United States; San Francisco, San Francisco, United States",0.196,2026-08-05,https://www.uber.com/global/en/careers/list/303607/
 US-Expert,apple,,0.1869,2026-08-05,https://jobs.apple.com/en-us/details/200675882-2975/us-expert?team=APPST
 Circuit Design Engineer - Library/Process Monitor,apple,,0.1842,2026-08-05,https://jobs.apple.com/en-us/details/200675904-0505/circuit-design-engineer-library-process-monitor?team=HRDWR
 Líder de Equipe Logística - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1764,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43646538
@@ -90,147 +135,149 @@ Líder de Equipe Sênior - São Bernardo do Campo/SP,mercadolibre,"Sudeste,Brazi
 Analista de Transportes - Pessoas Com Deficiência - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1432,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43622722
 Security Engineer,meta,"Bellevue, WA +3 locations",0.1409,2026-08-05,https://www.metacareers.com/profile/job_details/1543033930899022
 Analista de Transportes - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1401,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43622803
+Analista de Transporte - Mercado Envios,mercadolibre,"Región Metropolitana de Santiago,Chile",0.1307,2026-08-05,https://mercadolibre.eightfold.ai/careers/job/43569605
 "Business Operations, Infrastructure",meta,"Menlo Park, CA +2 locations",0.1176,2026-08-05,https://www.metacareers.com/profile/job_details/1386211313470753
-"Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",amazon,"US, CA, Sunnyvale",0.6113,2026-08-04,https://www.amazon.jobs/en/jobs/10491282/sr-applied-scientist-prime-video-personalization-and-discovery-science
-Principal Product Marketing Manager,amazon,"US, WA, Bellevue",0.6045,2026-08-04,https://www.amazon.jobs/en/jobs/10491024/principal-product-marketing-manager
-"Applied Scientist, Fauna",amazon,"US, NY, New York",0.6044,2026-08-04,https://www.amazon.jobs/en/jobs/10491116/applied-scientist-fauna
+"Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",amazon,"US, CA, Sunnyvale",0.617,2026-08-04,https://www.amazon.jobs/en/jobs/10491282/sr-applied-scientist-prime-video-personalization-and-discovery-science
+Principal Product Marketing Manager,amazon,"US, WA, Bellevue",0.6039,2026-08-04,https://www.amazon.jobs/en/jobs/10491024/principal-product-marketing-manager
+"Applied Scientist, Fauna",amazon,"US, NY, New York",0.6034,2026-08-04,https://www.amazon.jobs/en/jobs/10491116/applied-scientist-fauna
 "Data Center Project Engineer, Data Center Construction",amazon,"US, VA, Culpeper",0.5795,2026-08-04,https://www.amazon.jobs/en/jobs/10492312/data-center-project-engineer-data-center-construction
-"Data Center Technician, DCC Communities ",amazon,"US, VA, Sterling",0.5749,2026-08-04,https://www.amazon.jobs/en/jobs/10490636/data-center-technician-dcc-communities
+"Data Center Technician, DCC Communities ",amazon,"US, VA, Sterling",0.576,2026-08-04,https://www.amazon.jobs/en/jobs/10490636/data-center-technician-dcc-communities
 "Pr. Worldwide Partner Specialist - Global System Integrators, Data & AI GTM ",amazon,"US, WA, Seattle",0.5704,2026-08-04,https://www.amazon.jobs/en/jobs/10492186/pr-worldwide-partner-specialist-global-system-integrators-data-ai-gtm
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5701,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556949793
-Datacenter Engineering Telecom Engineer - AMER,microsoft,"United States, Multiple Locations, Multiple Locations",0.5554,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950887
-"Principal S&OP Planner, Infrastructure Capacity & S&OP Planning",amazon,"US, WA, Seattle",0.5549,2026-08-04,https://www.amazon.jobs/en/jobs/10492008/principal-s-op-planner-infrastructure-capacity-s-op-planning
-"Data Center Operations Manager  , ATL DCO",amazon,"US, GA, Hampton",0.554,2026-08-04,https://www.amazon.jobs/en/jobs/10491480/data-center-operations-manager-atl-dco
-"Engineering Operations Technician, DCC Communities",amazon,"US, VA, Sterling",0.5448,2026-08-04,https://www.amazon.jobs/en/jobs/10490683/engineering-operations-technician-dcc-communities
-"DCO Tech, ADC InfraOps DCO",amazon,"US, CO, Aurora",0.5399,2026-08-04,https://www.amazon.jobs/en/jobs/10491717/dco-tech-adc-infraops-dco
-"Senior Solutions Architect, AGS Software and Technology (SWAT) ",amazon,"US, NY, New York",0.5393,2026-08-04,https://www.amazon.jobs/en/jobs/10491379/senior-solutions-architect-ags-software-and-technology-swat
-"Data Center Technician, DCC Communities ",amazon,"US, GA, Lithia Springs",0.5318,2026-08-04,https://www.amazon.jobs/en/jobs/10491112/data-center-technician-dcc-communities
-"Data Center Technician, DCC Communities ",amazon,"US, GA, Covington",0.525,2026-08-04,https://www.amazon.jobs/en/jobs/10491713/data-center-technician-dcc-communities
-"Senior Delivery Consultant - Cloud Infrastructure Architect AWS Professional Services, WWPS US Education and State & Local Government",amazon,"US, TX, Dallas",0.5191,2026-08-04,https://www.amazon.jobs/en/jobs/10491520/senior-delivery-consultant-cloud-infrastructure-architect-aws-professional-services-wwps-us-education-and-state-local-government
-Engineering Operations Technician,amazon,"US, VA, Herndon",0.5182,2026-08-04,https://www.amazon.jobs/en/jobs/10491602/engineering-operations-technician
-Engineering Operations Technician,amazon,"US, VA, Herndon",0.5182,2026-08-04,https://www.amazon.jobs/en/jobs/10491606/engineering-operations-technician
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5684,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556949793
+"Principal S&OP Planner, Infrastructure Capacity & S&OP Planning",amazon,"US, WA, Seattle",0.5545,2026-08-04,https://www.amazon.jobs/en/jobs/10492008/principal-s-op-planner-infrastructure-capacity-s-op-planning
+Datacenter Engineering Telecom Engineer - AMER,microsoft,"United States, Multiple Locations, Multiple Locations",0.5538,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950887
+"DCO Tech, ADC InfraOps DCO",amazon,"US, CO, Aurora",0.5524,2026-08-04,https://www.amazon.jobs/en/jobs/10491717/dco-tech-adc-infraops-dco
+"Senior Delivery Consultant - Cloud Infrastructure Architect AWS Professional Services, WWPS US Education and State & Local Government",amazon,"US, TX, Dallas",0.5486,2026-08-04,https://www.amazon.jobs/en/jobs/10491520/senior-delivery-consultant-cloud-infrastructure-architect-aws-professional-services-wwps-us-education-and-state-local-government
+"Data Center Operations Manager  , ATL DCO",amazon,"US, GA, Hampton",0.5461,2026-08-04,https://www.amazon.jobs/en/jobs/10491480/data-center-operations-manager-atl-dco
+"Senior Solutions Architect, AGS Software and Technology (SWAT) ",amazon,"US, NY, New York",0.5458,2026-08-04,https://www.amazon.jobs/en/jobs/10491379/senior-solutions-architect-ags-software-and-technology-swat
+Engineering Operations Technician,amazon,"US, VA, Herndon",0.5456,2026-08-04,https://www.amazon.jobs/en/jobs/10491602/engineering-operations-technician
+Engineering Operations Technician,amazon,"US, VA, Herndon",0.5456,2026-08-04,https://www.amazon.jobs/en/jobs/10491606/engineering-operations-technician
+Cloud Sales Representative,amazon,"US, WA, Seattle",0.5447,2026-08-04,https://www.amazon.jobs/en/jobs/10491716/cloud-sales-representative
+"Engineering Operations Technician, DCC Communities",amazon,"US, VA, Sterling",0.5444,2026-08-04,https://www.amazon.jobs/en/jobs/10490683/engineering-operations-technician-dcc-communities
+"Data Center Technician, DCC Communities ",amazon,"US, GA, Covington",0.5385,2026-08-04,https://www.amazon.jobs/en/jobs/10491713/data-center-technician-dcc-communities
+"Data Center Technician, DCC Communities ",amazon,"US, GA, Lithia Springs",0.5347,2026-08-04,https://www.amazon.jobs/en/jobs/10491112/data-center-technician-dcc-communities
+Senior Financial Analyst - Finance Operations & Process Improvement – Grocery,amazon,"US, TX, Austin",0.5225,2026-08-04,https://www.amazon.jobs/en/jobs/10492017/senior-financial-analyst-finance-operations-process-improvement-grocery
+Senior Financial Analyst - Retail Finance & Strategy – Grocery Stores,amazon,"US, TX, Austin",0.52,2026-08-04,https://www.amazon.jobs/en/jobs/10492019/senior-financial-analyst-retail-finance-strategy-grocery-stores
 "System Development Engineer, AFT BI Content",amazon,"US, WA, Bellevue",0.5131,2026-08-04,https://www.amazon.jobs/en/jobs/10492131/system-development-engineer-aft-bi-content
-Cloud Sales Representative,amazon,"US, WA, Seattle",0.5085,2026-08-04,https://www.amazon.jobs/en/jobs/10491716/cloud-sales-representative
-Data Center Technician,amazon,"US, PA, Berwick",0.5019,2026-08-04,https://www.amazon.jobs/en/jobs/10491451/data-center-technician
-"Manager, Finance Operations, AWS",amazon,"US, VA, Arlington",0.5006,2026-08-04,https://www.amazon.jobs/en/jobs/10491053/manager-finance-operations-aws
+Senior Financial Analyst - Strategic Finance & Business Partnership – Grocery,amazon,"US, TX, Austin",0.5118,2026-08-04,https://www.amazon.jobs/en/jobs/10492018/senior-financial-analyst-strategic-finance-business-partnership-grocery
+Data Center Technician,amazon,"US, PA, Berwick",0.501,2026-08-04,https://www.amazon.jobs/en/jobs/10491451/data-center-technician
+"Manager, Finance Operations, AWS",amazon,"US, VA, Arlington",0.4992,2026-08-04,https://www.amazon.jobs/en/jobs/10491053/manager-finance-operations-aws
 Senior Account Manager - CSP,nvidia,"US, CA, Santa Clara; US, WA, Seattle",0.4968,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---CSP_JR2021680
-"Software Development Engineer, AWS Config",amazon,"US, WA, Seattle",0.4962,2026-08-04,https://www.amazon.jobs/en/jobs/10491139/software-development-engineer-aws-config
-Senior Financial Analyst - Retail Finance & Strategy – Grocery Stores,amazon,"US, TX, Austin",0.4952,2026-08-04,https://www.amazon.jobs/en/jobs/10492019/senior-financial-analyst-retail-finance-strategy-grocery-stores
-Solution Engineer- Manager AI & Workforce,microsoft,"United States, Multiple Locations, Multiple Locations",0.4952,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556939561
-Senior Financial Analyst - Finance Operations & Process Improvement – Grocery,amazon,"US, TX, Austin",0.4931,2026-08-04,https://www.amazon.jobs/en/jobs/10492017/senior-financial-analyst-finance-operations-process-improvement-grocery
+"Software Development Engineer, AWS Config",amazon,"US, WA, Seattle",0.4959,2026-08-04,https://www.amazon.jobs/en/jobs/10491139/software-development-engineer-aws-config
+Solution Engineer- Manager AI & Workforce,microsoft,"United States, Multiple Locations, Multiple Locations",0.4932,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556939561
 Systems Software Engineer - New College Grad 2026,nvidia,"US, OR, Hillsboro",0.492,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083
-Senior Financial Analyst - Strategic Finance & Business Partnership – Grocery,amazon,"US, TX, Austin",0.4883,2026-08-04,https://www.amazon.jobs/en/jobs/10492018/senior-financial-analyst-strategic-finance-business-partnership-grocery
-Night Data Center Technician ,amazon,"US, PA, Berwick",0.4882,2026-08-04,https://www.amazon.jobs/en/jobs/10491471/night-data-center-technician
-Night Data Center Technician ,amazon,"US, PA, Berwick",0.4882,2026-08-04,https://www.amazon.jobs/en/jobs/10491461/night-data-center-technician
-Night Data Center Technician ,amazon,"US, PA, Berwick",0.4879,2026-08-04,https://www.amazon.jobs/en/jobs/10491474/night-data-center-technician
-"Software Development Engineer, AWS Config",amazon,"US, WA, Seattle",0.4875,2026-08-04,https://www.amazon.jobs/en/jobs/10491136/software-development-engineer-aws-config
-"Software Development Manager, Managed Streaming for Apache Kafka",amazon,"US, CA, Santa Monica",0.4864,2026-08-04,https://www.amazon.jobs/en/jobs/10491872/software-development-manager-managed-streaming-for-apache-kafka
-"Senior and/or Principal Software Engineer - AI Frameworks Networking, Systems and Tools",microsoft,"United States, Multiple Locations, Multiple Locations",0.4832,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950907
-"Senior Financial Analyst, SCOT- Inbound Systems",amazon,"US, WA, Bellevue",0.483,2026-08-04,https://www.amazon.jobs/en/jobs/10491057/senior-financial-analyst-scot-inbound-systems
+"Senior Applied Scientist, AWS Science of Security",amazon_science,"US, OR, Portland",0.4895,2026-08-04,https://www.amazon.jobs/jobs/10490494/senior-applied-scientist-aws-science-of-security-?cmpid=bsp-amazon-science
+"Software Development Engineer, AWS Config",amazon,"US, WA, Seattle",0.4878,2026-08-04,https://www.amazon.jobs/en/jobs/10491136/software-development-engineer-aws-config
+Night Data Center Technician ,amazon,"US, PA, Berwick",0.4877,2026-08-04,https://www.amazon.jobs/en/jobs/10491474/night-data-center-technician
+"Software Development Manager, Managed Streaming for Apache Kafka",amazon,"US, CA, Santa Monica",0.4859,2026-08-04,https://www.amazon.jobs/en/jobs/10491872/software-development-manager-managed-streaming-for-apache-kafka
+Night Data Center Technician ,amazon,"US, PA, Berwick",0.4845,2026-08-04,https://www.amazon.jobs/en/jobs/10491471/night-data-center-technician
+Night Data Center Technician ,amazon,"US, PA, Berwick",0.4845,2026-08-04,https://www.amazon.jobs/en/jobs/10491461/night-data-center-technician
+"Senior Financial Analyst, SCOT- Inbound Systems",amazon,"US, WA, Bellevue",0.4816,2026-08-04,https://www.amazon.jobs/en/jobs/10491057/senior-financial-analyst-scot-inbound-systems
 "Senior Software Engineer, Core Infrastructure Services - DGX Cloud",nvidia,"US, Remote; US, TX, Remote; US, CO, Remote; US, CA, Remote; US, MA, Remote",0.4757,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Senior-Software-Engineer--Core-Infrastructure-Services---DGX-Cloud_JR2022552
-Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4713,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556629445
-"Senior Applied Scientist, AWS Science of Security",amazon_science,"US, OR, Portland",0.4695,2026-08-04,https://www.amazon.jobs/jobs/10490494/senior-applied-scientist-aws-science-of-security-?cmpid=bsp-amazon-science
-"Principal Finance Manager, Operations, North America Fulfillment Centers",amazon,"US, TX, Irving",0.4675,2026-08-04,https://www.amazon.jobs/en/jobs/10492207/principal-finance-manager-operations-north-america-fulfillment-centers
-"Clearable Engineering Operations Technician, AWS Cleared Jobs",amazon,"US, VA, Fredericksburg",0.4654,2026-08-04,https://www.amazon.jobs/en/jobs/10492004/clearable-engineering-operations-technician-aws-cleared-jobs
+"Senior and/or Principal Software Engineer - AI Frameworks Networking, Systems and Tools",microsoft,"United States, Multiple Locations, Multiple Locations",0.4757,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950907
+"Data Center Engineering Operations Technician, DCC Communities ",amazon,"US, NC, Hamlet",0.4716,2026-08-04,https://www.amazon.jobs/en/jobs/10491910/data-center-engineering-operations-technician-dcc-communities
+Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4706,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556629445
+"Clearable Engineering Operations Technician, AWS Cleared Jobs",amazon,"US, VA, Fredericksburg",0.4649,2026-08-04,https://www.amazon.jobs/en/jobs/10492004/clearable-engineering-operations-technician-aws-cleared-jobs
 Site Leader,amazon,"US, VA, Chesapeake",0.4641,2026-08-04,https://www.amazon.jobs/en/jobs/10492181/site-leader
-"Workplace Health and Safety Specialist, Early Career – (2027) – East ",amazon,"US, IL, Rockford",0.46,2026-08-04,https://www.amazon.jobs/en/jobs/10491475/workplace-health-and-safety-specialist-early-career-2027-east
 "Senior Account Manager, CSP - Networking Business",nvidia,"US, CA, Santa Clara; US, WA, Redmond; US, WA, Seattle",0.4588,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--CSP---Networking-Business_JR2021682
-"Data Center Engineering Operations Technician, DCC Communities ",amazon,"US, NC, Hamlet",0.458,2026-08-04,https://www.amazon.jobs/en/jobs/10491905/data-center-engineering-operations-technician-dcc-communities
 "Software Engineer, Monetization Data Systems",openai,Mountain View,0.4548,2026-08-04,https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c
 "Sr. RF Test Systems Development Engineer, Avionics Verification and Test, Amazon Leo ",amazon,"US, WA, Redmond",0.4544,2026-08-04,https://www.amazon.jobs/en/jobs/10492252/sr-rf-test-systems-development-engineer-avionics-verification-and-test-amazon-leo
+"Principal Finance Manager, Operations, North America Fulfillment Centers",amazon,"US, TX, Irving",0.4534,2026-08-04,https://www.amazon.jobs/en/jobs/10492207/principal-finance-manager-operations-north-america-fulfillment-centers
+"Data Center Engineering Operations Technician, DCC Communities ",amazon,"US, NC, Hamlet",0.4529,2026-08-04,https://www.amazon.jobs/en/jobs/10491905/data-center-engineering-operations-technician-dcc-communities
 "Principal Applied Scientist, Real-Time Conversational AI , AGI",amazon_science,"US, CA, Sunnyvale",0.449,2026-08-04,https://www.amazon.jobs/jobs/10490879/principal-applied-scientist-realtime-conversational-ai--agi?cmpid=bsp-amazon-science
+"Workplace Health and Safety Specialist, Early Career – (2027) – East ",amazon,"US, IL, Rockford",0.4484,2026-08-04,https://www.amazon.jobs/en/jobs/10491475/workplace-health-and-safety-specialist-early-career-2027-east
 "Applied Scientist II, Amazon Fulfillment Technology , Amazon Fulfillment Technologies (AFT)",amazon_science,"US, WA, Bellevue",0.4466,2026-08-04,https://www.amazon.jobs/jobs/10490716/applied-scientist-ii-amazon-fulfillment-technology--amazon-fulfillment-technologies-aft?cmpid=bsp-amazon-science
-"Applied Scientist, Alexa for Shopping (Rufus) Experience Science",amazon_science,"US, CA, Palo Alto",0.446,2026-08-04,https://www.amazon.jobs/jobs/10490903/applied-scientist-alexa-for-shopping-rufus-experience-science-?cmpid=bsp-amazon-science
 Machine Learning Engineer II - AV Labs,uber,"Sunnyvale, Santa Clara, United States",0.4459,2026-08-04,https://www.uber.com/global/en/careers/list/303015/
-"ID- Install Technician, Infrastructure Delivery",amazon,"US, VA, Sterling",0.4456,2026-08-04,https://www.amazon.jobs/en/jobs/10490637/id-install-technician-infrastructure-delivery
+"ID- Install Technician, Infrastructure Delivery",amazon,"US, VA, Sterling",0.4455,2026-08-04,https://www.amazon.jobs/en/jobs/10490637/id-install-technician-infrastructure-delivery
 "Developer Relations Manager, Higher Education and Research - AI for Science",nvidia,"US, CA, Santa Clara; US, Remote",0.4452,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager--Higher-Education-and-Research---AI-for-Science_JR2022782
+Data Center Engineering Operations Technician ,amazon,"US, VA, Sterling",0.4429,2026-08-04,https://www.amazon.jobs/en/jobs/10491571/data-center-engineering-operations-technician
 Senior CPU Tooling and Design Automation Engineer,nvidia,"US, CA, Santa Clara; US, TX, Austin",0.4426,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CPU-Tooling-and-Design-Automation-Engineer_JR2022619
-Data Center Engineering Operations Technician ,amazon,"US, VA, Sterling",0.4419,2026-08-04,https://www.amazon.jobs/en/jobs/10491571/data-center-engineering-operations-technician
+"Applied Scientist, Alexa for Shopping (Rufus) Experience Science",amazon_science,"US, CA, Palo Alto",0.4418,2026-08-04,https://www.amazon.jobs/jobs/10490903/applied-scientist-alexa-for-shopping-rufus-experience-science-?cmpid=bsp-amazon-science
 "Applied Scientist, Fauna",amazon_science,"US, NY, New York",0.4416,2026-08-04,https://www.amazon.jobs/jobs/10491116/applied-scientist-fauna?cmpid=bsp-amazon-science
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4412,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556947940
-"Data Center Engineering Operations Technician, DCC Communities ",amazon,"US, NC, Hamlet",0.4386,2026-08-04,https://www.amazon.jobs/en/jobs/10491910/data-center-engineering-operations-technician-dcc-communities
-Americas Delivery Assurance Leader,microsoft,"United States, Multiple Locations, Multiple Locations",0.4382,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556942279
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4378,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556947940
+Americas Delivery Assurance Leader,microsoft,"United States, Multiple Locations, Multiple Locations",0.4377,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556942279
 Strategic Implementation Manager,canva,"Austin, , United States",0.4361,2026-08-04,https://jobs.smartrecruiters.com/Canva/6000000001284282-strategic-implementation-manager
 "Flight Director, Amazon LEO - Mission Operations",amazon,"US, WA, Redmond",0.4341,2026-08-04,https://www.amazon.jobs/en/jobs/10492298/flight-director-amazon-leo-mission-operations
 "Solutions Architect, AI Factory Infrastructure",nvidia,"US, CA, Santa Clara; US, NC, Remote; US, WA, Remote; US, CA, Remote",0.4329,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--AI-Factory-Infrastructure_JR2016645
 "Full-Stack Engineer, ChatGPT Education  & Learning",openai,San Francisco,0.4311,2026-08-04,https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c
 Software Engineer - Strategic Data Solutions,apple,,0.4291,2026-08-04,https://jobs.apple.com/en-us/details/200640140-0157/software-engineer-strategic-data-solutions?team=SFTWR
-Environmental Permitting Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4262,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950813
+Environmental Permitting Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4276,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950813
+"Sr. Systems Development Engineer - Ground Infrastructure, Amazon Leo",amazon,"US, WA, Bellevue",0.4266,2026-08-04,https://www.amazon.jobs/en/jobs/10491118/sr-systems-development-engineer-ground-infrastructure-amazon-leo
 "Global Account Manager, Developer Relations - Meta",nvidia,"US, CA, Santa Clara; US, Remote",0.4247,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Account-Manager--Developer-Relations---Meta_JR2022590
-"Sr. Systems Development Engineer - Ground Infrastructure, Amazon Leo",amazon,"US, WA, Bellevue",0.4245,2026-08-04,https://www.amazon.jobs/en/jobs/10491118/sr-systems-development-engineer-ground-infrastructure-amazon-leo
-"Acct Rep, PanAmericas, Canada",amazon,"US, WA, Seattle",0.4219,2026-08-04,https://www.amazon.jobs/en/jobs/10492068/acct-rep-panamericas-canada
 "Senior Technical Program Manager, DGX Cloud Software - Product and Services",nvidia,"US, CA, Santa Clara; US, WA, Seattle",0.4192,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software---Product-and-Services_JR2017908
+"Acct Rep, PanAmericas, Canada",amazon,"US, WA, Seattle",0.418,2026-08-04,https://www.amazon.jobs/en/jobs/10492068/acct-rep-panamericas-canada
 2027 MBA Pathways Operations Manager Intern (Nationwide Opportunities),amazon,"US, WA, Seattle",0.416,2026-08-04,https://www.amazon.jobs/en/jobs/10491075/2027-mba-pathways-operations-manager-intern-nationwide-opportunities
 "Software Engineer, ML Networking",anthropic,"San Francisco, CA",0.4126,2026-08-04,https://job-boards.greenhouse.io/anthropic/jobs/4926242008
 "AI Deployment Engineer, Startups ",openai,"Tokyo, Japan",0.4124,2026-08-04,https://jobs.ashbyhq.com/openai/eacbd123-83fb-42c6-a5d5-e914b8e135b8
-"Director, Software Engineering - Agent Data & Optimization",meta,"London, UK",0.4113,2026-08-04,https://www.metacareers.com/profile/job_details/4007909736009883
-Environmental Compliance Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4057,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950811
+Environmental Compliance Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4068,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950811
+Easements Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4048,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950797
+"Director, Software Engineering - Agent Data & Optimization",meta,"London, UK",0.4034,2026-08-04,https://www.metacareers.com/profile/job_details/4007909736009883
 "Global Account Manager, Developer Relations - Google",nvidia,"US, Remote",0.4008,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Global-Account-Manager--Developer-Relations---Google_JR2022589
-"DSP Modem Embedded Engineer, Amazon Leo",amazon,"US, CA, San Diego",0.3995,2026-08-04,https://www.amazon.jobs/en/jobs/10491033/dsp-modem-embedded-engineer-amazon-leo
+"DSP Modem Embedded Engineer, Amazon Leo",amazon,"US, CA, San Diego",0.3966,2026-08-04,https://www.amazon.jobs/en/jobs/10491033/dsp-modem-embedded-engineer-amazon-leo
 "Senior AI Tools Engineer, SRE Operations - GeForce NOW",nvidia,"US, CA, Remote; US, CA, Santa Clara",0.3956,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-AI-Tools-Engineer--SRE-Operations---GeForce-NOW_JR2018080
 "Segment Sales Leader, Enterprise Platforms",nvidia,"US, CA, Santa Clara",0.3946,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Segment-Sales-Leader--Enterprise-Platforms_JR2021104
 Senior ML Engineer - Client Experimentation,apple,,0.3934,2026-08-04,https://jobs.apple.com/en-us/details/200674106-0836/senior-ml-engineer-client-experimentation?team=MLAI
-Senior Water and Wastewater Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3922,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950783
+Senior Water and Wastewater Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3925,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950783
 Strategic Implementation Manager,canva,"San Francisco, CA, United States",0.391,2026-08-04,https://jobs.smartrecruiters.com/Canva/6000000001284310-strategic-implementation-manager
 "Senior System Software Engineer, SoC Power and Performance - O-RAN Infrastructure",nvidia,"US, CA, Santa Clara; US, CA, Remote; US, CO, Remote",0.3908,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--SoC-Power-and-Performance---O-RAN-Infrastructure_JR2022490
 Field Engineer,openai,San Francisco,0.3884,2026-08-04,https://jobs.ashbyhq.com/openai/d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f
 Software Engineer - Early Career (Front-end),apple,,0.3884,2026-08-04,https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR
-"Data Analyst, Global Operations",meta,"Austin, TX",0.3857,2026-08-04,https://www.metacareers.com/profile/job_details/1059967853098700
+"Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",amazon,"US, WA, Seattle",0.3858,2026-08-04,https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws
 Social Media Specialist,nvidia,"US, CA, Santa Clara",0.3854,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Social-Media-Specialist_JR2022545
+"Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",amazon,"US, WA, Seattle",0.3842,2026-08-04,https://www.amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws
 Automotive Business Development Manager - Sales,nvidia,"US, CA, Santa Clara",0.3834,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Business-Development-Manager---Sales_JR2021029-1
-"Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",amazon,"US, WA, Seattle",0.3827,2026-08-04,https://www.amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws
-Sales Compensation Insights Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3827,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556953094
+Sales Compensation Insights Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3829,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556953094
+Lead Associate,amazon,"US, TX, Dallas",0.3819,2026-08-04,https://www.amazon.jobs/en/jobs/10491515/lead-associate
 Senior Physical Design Engineer,nvidia,"US, CA, Santa Clara",0.3814,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR2017826
-Easements Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3776,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556950797
+Senior Packaging Technical Engineer - Hardware,nvidia,"US, CA, Remote",0.3786,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Packaging-Technical-Engineer---Hardware_JR2014629
 "Area Manager, Amazon Air",amazon,"US, MD, Baltimore",0.3765,2026-08-04,https://www.amazon.jobs/en/jobs/10491065/area-manager-amazon-air
-Senior Packaging Technical Engineer - Hardware,nvidia,"US, CA, Remote",0.3725,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Packaging-Technical-Engineer---Hardware_JR2014629
-Area Manager,amazon,"US, MA, Littleton",0.3717,2026-08-04,https://www.amazon.jobs/en/jobs/10491027/area-manager
 Compensation Partner,airbnb,"San Francisco, United States",0.3714,2026-08-04,https://careers.airbnb.com/positions/8104102/
 "Research Manager, AI Product Insights",apple,,0.3711,2026-08-04,https://jobs.apple.com/en-us/details/200675087-0836/research-manager-ai-product-insights?team=MKTG
 "Global Account Manager, Developer Relations - Amazon",nvidia,"US, CA, Santa Clara; US, Remote; US, WA, Seattle",0.3709,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Account-Manager--Developer-Relations---Amazon_JR2022585
-"Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",amazon,"US, WA, Seattle",0.3705,2026-08-04,https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws
-Lead Associate,amazon,"US, TX, Dallas",0.3692,2026-08-04,https://www.amazon.jobs/en/jobs/10491515/lead-associate
-Area Manager,amazon,"US, MA, Littleton",0.368,2026-08-04,https://www.amazon.jobs/en/jobs/10491023/area-manager
-Lead Associate,amazon,"US, GA, Scottdale",0.3662,2026-08-04,https://www.amazon.jobs/en/jobs/10491485/lead-associate
+Lead Associate,amazon,"US, GA, Scottdale",0.3709,2026-08-04,https://www.amazon.jobs/en/jobs/10491485/lead-associate
+Area Manager,amazon,"US, MA, Littleton",0.368,2026-08-04,https://www.amazon.jobs/en/jobs/10491027/area-manager
+Area Manager,amazon,"US, MA, Littleton",0.3678,2026-08-04,https://www.amazon.jobs/en/jobs/10491023/area-manager
 "Senior Technical Program Manager, DGX Cloud - Trust Services",nvidia,"US, CA, Santa Clara; US, WA, Seattle",0.3659,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud---Trust-Services_JR2017458
+"Processing Technician - Launch Operations, Amazon Leo",amazon,"US, FL, Merritt Island",0.3649,2026-08-04,https://www.amazon.jobs/en/jobs/10491735/processing-technician-launch-operations-amazon-leo
 "Research Scientist, AI for Clinical Translatability",nvidia,"US, NY, Remote; US, CA, Santa Clara; US, MA, Remote",0.3645,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Research-Scientist--AI-for-Clinical-Translatability_JR2022399
-Area Manager,amazon,"US, TX, Irving",0.3633,2026-08-04,https://www.amazon.jobs/en/jobs/10491066/area-manager
+Area Manager,amazon,"US, TX, Irving",0.3645,2026-08-04,https://www.amazon.jobs/en/jobs/10491066/area-manager
+Software Engineer - Apple Cloud UI,apple,,0.3594,2026-08-04,https://jobs.apple.com/en-us/details/200675500-0157/software-engineer-apple-cloud-ui?team=SFTWR
 Agentic Experience Strategist,apple,,0.3593,2026-08-04,https://jobs.apple.com/en-us/details/200675557-0836/agentic-experience-strategist?team=CORSV
-"Processing Technician - Launch Operations, Amazon Leo",amazon,"US, FL, Merritt Island",0.357,2026-08-04,https://www.amazon.jobs/en/jobs/10491735/processing-technician-launch-operations-amazon-leo
-Research Engineer - Perception and Machine Learning,meta,"Bellevue, WA +1 locations",0.3565,2026-08-04,https://www.metacareers.com/profile/job_details/1072645295328260
+Area Manager,amazon,"US, MA, Salem",0.359,2026-08-04,https://www.amazon.jobs/en/jobs/10491878/area-manager
+Area Manager,amazon,"US, MA, Salem",0.359,2026-08-04,https://www.amazon.jobs/en/jobs/10491891/area-manager
+Research Engineer - Perception and Machine Learning,meta,"Bellevue, WA +1 locations",0.3578,2026-08-04,https://www.metacareers.com/profile/job_details/1072645295328260
+Area Manager,amazon,"US, MA, Norwood",0.3571,2026-08-04,https://www.amazon.jobs/en/jobs/10491983/area-manager
+Lead Associate,amazon,"US, CA, Los Angeles",0.354,2026-08-04,https://www.amazon.jobs/en/jobs/10491899/lead-associate
+"Lead Associate, Quick Commerce F F Center-VAR (L3)",amazon,"US, NY, Kenmore",0.3526,2026-08-04,https://www.amazon.jobs/en/jobs/10491484/lead-associate-quick-commerce-f-f-center-var-l3
 Area Manager,amazon,"US, OH, Cleveland",0.3518,2026-08-04,https://www.amazon.jobs/en/jobs/10492232/area-manager
-Lead Associate,amazon,"US, CA, Los Angeles",0.3502,2026-08-04,https://www.amazon.jobs/en/jobs/10491899/lead-associate
 Machine Learning System Software Engineer,apple,,0.349,2026-08-04,https://jobs.apple.com/en-us/details/200675490-3956/machine-learning-system-software-engineer?team=HRDWR
 Hardware Lab Manager,anthropic,"San Francisco, CA",0.3484,2026-08-04,https://job-boards.greenhouse.io/anthropic/jobs/5378092008
-"Lead Associate, Quick Commerce F F Center-VAR (L3)",amazon,"US, NY, Kenmore",0.3483,2026-08-04,https://www.amazon.jobs/en/jobs/10491484/lead-associate-quick-commerce-f-f-center-var-l3
+Lead Associate,amazon,"US, PA, Pittsburgh",0.3481,2026-08-04,https://www.amazon.jobs/en/jobs/10491516/lead-associate
 "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",amazon_science,"US, CA, Sunnyvale",0.348,2026-08-04,https://www.amazon.jobs/jobs/10491282/sr-applied-scientist-prime-video--personalization-and-discovery-science?cmpid=bsp-amazon-science
-2027 MBA Leadership Development Program (MLDP) Full-Time,amazon,"US, WA, Seattle",0.3459,2026-08-04,https://www.amazon.jobs/en/jobs/10491679/2027-mba-leadership-development-program-mldp-full-time
-Lead Associate,amazon,"US, CA, Oakland",0.3454,2026-08-04,https://www.amazon.jobs/en/jobs/10491897/lead-associate
+Lead Associate,amazon,"US, CA, Oakland",0.3476,2026-08-04,https://www.amazon.jobs/en/jobs/10491897/lead-associate
+2027 MBA Leadership Development Program (MLDP) Full-Time,amazon,"US, WA, Seattle",0.3444,2026-08-04,https://www.amazon.jobs/en/jobs/10491679/2027-mba-leadership-development-program-mldp-full-time
 Global Mobility Coordinator,anthropic,"San Francisco, CA",0.3441,2026-08-04,https://job-boards.greenhouse.io/anthropic/jobs/5368476008
-Strategic Account Executive,microsoft,"United States, Multiple Locations, Multiple Locations",0.3436,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556946900
-Lead Associate,amazon,"US, PA, Pittsburgh",0.342,2026-08-04,https://www.amazon.jobs/en/jobs/10491516/lead-associate
-Area Manager,amazon,"US, MA, Salem",0.3415,2026-08-04,https://www.amazon.jobs/en/jobs/10491878/area-manager
-Area Manager,amazon,"US, MA, Salem",0.3415,2026-08-04,https://www.amazon.jobs/en/jobs/10491891/area-manager
-"Applied Scientist II, Core Shopping Data Science",amazon_science,"US, WA, Seattle",0.3386,2026-08-04,https://www.amazon.jobs/jobs/10490800/applied-scientist-ii-core-shopping-data-science?cmpid=bsp-amazon-science
-Area Manager,amazon,"US, MA, Norwood",0.336,2026-08-04,https://www.amazon.jobs/en/jobs/10491983/area-manager
-Enterprise Technical Sales Manager,meta,Hong Kong,0.3355,2026-08-04,https://www.metacareers.com/profile/job_details/938733315911187
+Strategic Account Executive,microsoft,"United States, Multiple Locations, Multiple Locations",0.3437,2026-08-04,https://apply.careers.microsoft.com/careers/job/1970393556946900
+"Applied Scientist II, Core Shopping Data Science",amazon_science,"US, WA, Seattle",0.3383,2026-08-04,https://www.amazon.jobs/jobs/10490800/applied-scientist-ii-core-shopping-data-science?cmpid=bsp-amazon-science
 GeForce Marketing Manager - Esports and Competitive Gaming,nvidia,"US, CA, Santa Clara",0.3354,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GeForce-Marketing-Manager---Esports-and-Competitive-Gaming_JR2022575
 Staff Software Engineer,uber,"Seattle, King, United States",0.3353,2026-08-04,https://www.uber.com/global/en/careers/list/301643/
-2027 MBA Leadership Development Program (MLDP) Intern,amazon,"US, WA, Seattle",0.3321,2026-08-04,https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern
-"Antenna & RF Engineer, Amazon Leo",amazon,"US, WA, Redmond",0.3316,2026-08-04,https://www.amazon.jobs/en/jobs/10491110/antenna-rf-engineer-amazon-leo
-"Mission Operations Support Engineer, Amazon LEO - Mission Operations",amazon,"US, WA, Redmond",0.3314,2026-08-04,https://www.amazon.jobs/en/jobs/10491149/mission-operations-support-engineer-amazon-leo-mission-operations
+Enterprise Technical Sales Manager,meta,Hong Kong,0.3332,2026-08-04,https://www.metacareers.com/profile/job_details/938733315911187
+"Local Product Experiences Lead, APAC",meta,Singapore,0.3321,2026-08-04,https://www.metacareers.com/profile/job_details/910809874834224
+"Mission Operations Support Engineer, Amazon LEO - Mission Operations",amazon,"US, WA, Redmond",0.332,2026-08-04,https://www.amazon.jobs/en/jobs/10491149/mission-operations-support-engineer-amazon-leo-mission-operations
+"Antenna & RF Engineer, Amazon Leo",amazon,"US, WA, Redmond",0.3318,2026-08-04,https://www.amazon.jobs/en/jobs/10491110/antenna-rf-engineer-amazon-leo
+2027 MBA Leadership Development Program (MLDP) Intern,amazon,"US, WA, Seattle",0.3313,2026-08-04,https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern
 "Senior Financial Analyst, Intercompany Accounting,  Global Entity Expansion and Restructure",amazon,"US, VA, Arlington",0.3283,2026-08-04,https://www.amazon.jobs/en/jobs/10492152/senior-financial-analyst-intercompany-accounting-global-entity-expansion-and-restructure
-"Local Product Experiences Lead, APAC",meta,Singapore,0.3268,2026-08-04,https://www.metacareers.com/profile/job_details/910809874834224
 "Manager, Safety Analytics",discord,San Francisco Bay Area ,0.326,2026-08-04,https://job-boards.greenhouse.io/discord/jobs/8675215002
-Enterprise Sales Specialist,meta,Hong Kong,0.3257,2026-08-04,https://www.metacareers.com/profile/job_details/1788722722122798
 Custom SOC IP Verification Engineer,nvidia,"US, CA, Santa Clara; US, TX, Austin",0.3234,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2022813
+Enterprise Sales Specialist,meta,Hong Kong,0.3225,2026-08-04,https://www.metacareers.com/profile/job_details/1788722722122798
 Tech Lead Ethernet Networking Verification Engineer,nvidia,"US, TX, Austin",0.3189,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Tech-Lead-Ethernet-Networking-Verification-Engineer_JR2022745
-Software Engineer - Apple Cloud UI,apple,,0.3187,2026-08-04,https://jobs.apple.com/en-us/details/200675500-0157/software-engineer-apple-cloud-ui?team=SFTWR
-Transportation Area Manager,amazon,"US, MA, North Andover",0.3173,2026-08-04,https://www.amazon.jobs/en/jobs/10491251/transportation-area-manager
+Transportation Area Manager,amazon,"US, MA, North Andover",0.317,2026-08-04,https://www.amazon.jobs/en/jobs/10491251/transportation-area-manager
 "Senior Solutions Architect, Media and Broadcasting",nvidia,"US, CA, Santa Clara; US, CA, Remote",0.316,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Media-and-Broadcasting_JR2022644
 "GTM Strategy & Operations, Overlay",openai,San Francisco,0.3152,2026-08-04,https://jobs.ashbyhq.com/openai/5c5cfcff-91c8-4181-b30d-2ab9b0091539
+"Data Analyst, Global Operations",meta,"Austin, TX +4 locations",0.3147,2026-08-04,https://www.metacareers.com/profile/job_details/1059967853098700
 Creative Director - Social,spotify,"New York, NY; Los Angeles, CA",0.3099,2026-08-04,https://jobs.lever.co/spotify/66d3d827-e4c3-452d-a49c-b162b4bf86ea
 Senior Product Manager - Apple Cloud Infrastructure,apple,,0.3056,2026-08-04,https://jobs.apple.com/en-us/details/200675508-0836/senior-product-manager-apple-cloud-infrastructure?team=SFTWR
+US-Technical Specialist,apple,,0.3054,2026-08-04,https://jobs.apple.com/en-us/details/200670996-2497/us-technical-specialist?team=APPST
 ASE Compute - Senior SRE Software Engineer,apple,,0.3052,2026-08-04,https://jobs.apple.com/en-us/details/200675538-3577/ase-compute-senior-sre-software-engineer?team=SFTWR
 "Program Manager, Critical Harm Operations",openai,San Francisco,0.3043,2026-08-04,https://jobs.ashbyhq.com/openai/6ab33f9d-f25f-4ae4-903f-ebc35a8dc29d
 "Senior Software Engineer, Growth ",discord,San Francisco Bay Area,0.3035,2026-08-04,https://job-boards.greenhouse.io/discord/jobs/8642087002
@@ -241,7 +288,6 @@ Market Research Analyst,apple,,0.2981,2026-08-04,https://jobs.apple.com/en-us/de
 Senior Product Manager,duolingo,"Beijing, China",0.297,2026-08-04,https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002
 "Software Engineer - Capture, Vision Products Software",apple,Various Locations within San Francisco Bay Area,0.2969,2026-08-04,https://jobs.apple.com/en-us/details/200663107-3401/software-engineer-capture-vision-products-software?team=SFTWR
 AI and ML Power Methodology Engineer,nvidia,"US, CA, Santa Clara",0.2946,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Power-Methodology-Engineer_JR2022456
-"Senior Antenna & RF Engineer, Amazon Leo",amazon,"US, WA, Redmond",0.293,2026-08-04,https://www.amazon.jobs/en/jobs/10491111/senior-antenna-rf-engineer-amazon-leo
 SW ML Optimization Engineer,apple,,0.293,2026-08-04,https://jobs.apple.com/en-us/details/200675147-0836/sw-ml-optimization-engineer?team=HRDWR
 Senior Distributed Systems Engineer - Services Special Projects,apple,,0.2923,2026-08-04,https://jobs.apple.com/en-us/details/200674918-0836/senior-distributed-systems-engineer-services-special-projects?team=SFTWR
 "Software Engineering Manager, Developer Publications",apple,,0.2889,2026-08-04,https://jobs.apple.com/en-us/details/200645161-0836/software-engineering-manager-developer-publications?team=SFTWR
@@ -249,32 +295,36 @@ Backend Software Engineer Senior - SRE & IM Mobile - IT,mercadolibre,"Buenos Air
 Client Software Engineer - Private Cloud Compute,apple,,0.2851,2026-08-04,https://jobs.apple.com/en-us/details/200673602-3337/client-software-engineer-private-cloud-compute?team=SFTWR
 "Community Specialist, Channel Retail",apple,,0.2842,2026-08-04,https://jobs.apple.com/en-us/details/200675813-6824/community-specialist-channel-retail?team=SLDEV
 Senior Fleet Technician,uber,"Sunnyvale, Santa Clara, United States",0.2814,2026-08-04,https://www.uber.com/global/en/careers/list/302883/
+US-Manager,apple,,0.281,2026-08-04,https://jobs.apple.com/en-us/details/200674648-2371/us-manager?team=APPST
 International Strategy & Operations Lead,openai,San Francisco; New York City,0.275,2026-08-04,https://jobs.ashbyhq.com/openai/e4b92c0d-67c1-4147-a408-be4fe806be99
+"Solutions Architect, AppleCare Diagnostics and Repair",apple,,0.2747,2026-08-04,https://jobs.apple.com/en-us/details/200673832-3956/solutions-architect-applecare-diagnostics-and-repair?team=HRDWR
+Channel Operations Account Manager,meta,"Sunnyvale, CA",0.2743,2026-08-04,https://www.metacareers.com/profile/job_details/2128409344556980
 "Staff Software Engineer, Enterprise Platform",discord,San Francisco Bay Area ,0.2726,2026-08-04,https://job-boards.greenhouse.io/discord/jobs/8675185002
-Channel Operations Account Manager,meta,"Sunnyvale, CA",0.2721,2026-08-04,https://www.metacareers.com/profile/job_details/2128409344556980
 "Finance Analyst, Hardware Engineering",apple,,0.2719,2026-08-04,https://jobs.apple.com/en-us/details/200674405-0836/finance-analyst-hardware-engineering?team=CORSV
+"Senior Antenna & RF Engineer, Amazon Leo",amazon,"US, WA, Redmond",0.2715,2026-08-04,https://www.amazon.jobs/en/jobs/10491111/senior-antenna-rf-engineer-amazon-leo
 "Senior Engineering Program Manager, Lead - Service Special Projects",apple,,0.2715,2026-08-04,https://jobs.apple.com/en-us/details/200675802-0836/senior-engineering-program-manager-lead-service-special-projects?team=SFTWR
-ASIC Design and Integration Engineer – Silicon Security,apple,,0.2693,2026-08-04,https://jobs.apple.com/en-us/details/200652710-0836/asic-design-and-integration-engineer-silicon-security?team=HRDWR
 ASIC Design and Integration Engineer – Silicon Security,apple,,0.2693,2026-08-04,https://jobs.apple.com/en-us/details/200652708-0836/asic-design-and-integration-engineer-silicon-security?team=HRDWR
-Hardware Security Engineering Program Manager,apple,,0.2672,2026-08-04,https://jobs.apple.com/en-us/details/200646255-0505/hardware-security-engineering-program-manager?team=HRDWR
+ASIC Design and Integration Engineer – Silicon Security,apple,,0.2693,2026-08-04,https://jobs.apple.com/en-us/details/200652710-0836/asic-design-and-integration-engineer-silicon-security?team=HRDWR
+Hardware Security Engineering Program Manager,apple,,0.2649,2026-08-04,https://jobs.apple.com/en-us/details/200646255-0505/hardware-security-engineering-program-manager?team=HRDWR
 Lead Distributed Systems Engineer - Services Special Projects,apple,,0.261,2026-08-04,https://jobs.apple.com/en-us/details/200675709-0836/lead-distributed-systems-engineer-services-special-projects?team=SFTWR
-"Principal Data Scientist, Core Shopping Data Science",amazon_science,"US, WA, Seattle",0.2594,2026-08-04,https://www.amazon.jobs/jobs/10490540/principal-data-scientist-core-shopping-data-science?cmpid=bsp-amazon-science
+"Principal Data Scientist, Core Shopping Data Science",amazon_science,"US, WA, Seattle",0.2585,2026-08-04,https://www.amazon.jobs/jobs/10490540/principal-data-scientist-core-shopping-data-science?cmpid=bsp-amazon-science
 Senior Systems Software Engineer - Infrastructure,nvidia,"US, CA, Santa Clara",0.2577,2026-08-04,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Infrastructure_JR2022763
 Tactile Simulation Research Engineer - Special Projects (Robotics),apple,,0.2572,2026-08-04,https://jobs.apple.com/en-us/details/200675548-3760/tactile-simulation-research-engineer-special-projects-robotics?team=MLAI
 "Manager I, Account Management, Eats SMB (Sales Plan)",uber,"Boston, Suffolk, United States; New York, New York, United States",0.2558,2026-08-04,https://www.uber.com/global/en/careers/list/301549/
-"Executive Business Operations Manager, Infra Foundation",meta,"Menlo Park, CA",0.252,2026-08-04,https://www.metacareers.com/profile/job_details/2112519709648877
+RF Test Engineering Program Manager,apple,,0.2558,2026-08-04,https://jobs.apple.com/en-us/details/200625481-0836/rf-test-engineering-program-manager?team=HRDWR
+"Executive Business Operations Manager, Infra Foundation",meta,"Menlo Park, CA",0.2525,2026-08-04,https://www.metacareers.com/profile/job_details/2112519709648877
 POM Analyst - Marketing,mercadolibre,"Sudeste,Brazil",0.2509,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43620828
+US-Operations Lead,apple,Various Locations within Los Angeles Metro Area,0.2499,2026-08-04,https://jobs.apple.com/en-us/details/200675023-1756/us-operations-lead?team=APPST
 Tactile AI Research Engineer - Special Projects (Robotics),apple,,0.2498,2026-08-04,https://jobs.apple.com/en-us/details/200675551-3760/tactile-ai-research-engineer-special-projects-robotics?team=MLAI
-RF Test Engineering Program Manager,apple,,0.2496,2026-08-04,https://jobs.apple.com/en-us/details/200625481-0836/rf-test-engineering-program-manager?team=HRDWR
+Production Network Engineer,meta,"Menlo Park, CA",0.2495,2026-08-04,https://www.metacareers.com/profile/job_details/37417169021261359
 "Sr. Communications Manager, Engineering Communications & Editorial",uber,"San Francisco, San Francisco, United States",0.2495,2026-08-04,https://www.uber.com/global/en/careers/list/302879/
 "Senior Software Engineer, Enterprise Platform",discord,San Francisco Bay Area ,0.249,2026-08-04,https://job-boards.greenhouse.io/discord/jobs/8675277002
 Senior Software Engineer - Messaging,reddit,Remote - United States,0.2483,2026-08-04,https://job-boards.greenhouse.io/reddit/jobs/8106246
-Production Network Engineer,meta,"Menlo Park, CA",0.2478,2026-08-04,https://www.metacareers.com/profile/job_details/37417169021261359
+Líder de Equipe Sênior - Mercado Envios,mercadolibre,"Sul,Brazil",0.242,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43219832
 Head of Strategy and Programs: Field Ops,uber,"New York, New York, United States; Chicago, Cook, United States",0.2418,2026-08-04,https://www.uber.com/global/en/careers/list/302893/
 "Security Engineer, Investigator - GenAI",meta,"Menlo Park, CA +2 locations",0.2397,2026-08-04,https://www.metacareers.com/profile/job_details/1739564853742168
+"Program Manager, Domains and Off-Platform Enforcement",meta,"Austin, TX +7 locations",0.2329,2026-08-04,https://www.metacareers.com/profile/job_details/1543685420088763
 Sr Product Manager - Merchant Sign Up & Onboarding,uber,"Sunnyvale, Santa Clara, United States",0.2319,2026-08-04,https://www.uber.com/global/en/careers/list/301881/
-"Program Manager, Domains and Off-Platform Enforcement",meta,"Austin, TX +7 locations",0.2317,2026-08-04,https://www.metacareers.com/profile/job_details/1543685420088763
-US-Technical Specialist,apple,,0.2298,2026-08-04,https://jobs.apple.com/en-us/details/200670996-2497/us-technical-specialist?team=APPST
 "Senior Strategic Operations Associate, U4B Self Serve - APAC",uber,"New York, New York, United States",0.2284,2026-08-04,https://www.uber.com/global/en/careers/list/156522/
 Data Center Production Operations Engineer (Second Shift),meta,"New Albany, OH",0.2275,2026-08-04,https://www.metacareers.com/profile/job_details/1372453348186016
 ASIC Design Engineer,apple,,0.2271,2026-08-04,https://jobs.apple.com/en-us/details/200675824-0836/asic-design-engineer?team=HRDWR
@@ -285,28 +335,24 @@ Content SEO Program Manager,apple,,0.2263,2026-08-04,https://jobs.apple.com/en-u
 Manufacturing Design Engineer (MDE) - Brittles,apple,,0.2217,2026-08-04,https://jobs.apple.com/en-us/details/200674166-0836/manufacturing-design-engineer-mde-brittles?team=OPMFG
 Group Product Operations Manager - Mobility Marketplace,uber,"San Francisco, San Francisco, United States",0.2214,2026-08-04,https://www.uber.com/global/en/careers/list/301061/
 Network Implementation Engineer - Fiber Delivery,meta,"Menlo Park, CA",0.2137,2026-08-04,https://www.metacareers.com/profile/job_details/1719614929319376
+Analista pleno de Manutenção - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.2047,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/41728018
 US-Technical Expert,apple,,0.203,2026-08-04,https://jobs.apple.com/en-us/details/200675693-2827/us-technical-expert?team=APPST
-Analista pleno de Manutenção - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.2013,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/41728018
 Account Executive - Exclusives & Strategic Accounts (LA-Based),uber,"Los Angeles, Los Angeles, United States",0.1981,2026-08-04,https://www.uber.com/global/en/careers/list/157557/
-"Solutions Architect, AppleCare Diagnostics and Repair",apple,,0.1977,2026-08-04,https://jobs.apple.com/en-us/details/200673832-3956/solutions-architect-applecare-diagnostics-and-repair?team=HRDWR
 Pricing Specialist - 1P,mercadolibre,"Sudeste,Brazil",0.195,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43668212
 Wireless Systems Engineer,apple,,0.1949,2026-08-04,https://jobs.apple.com/en-us/details/200650502-0157/wireless-systems-engineer?team=HRDWR
 "Global Security Specialist, Executive Protection",apple,,0.1927,2026-08-04,https://jobs.apple.com/en-us/details/200675872-0836/global-security-specialist-executive-protection?team=CORSV
 Network Implementation Engineer,meta,"Menlo Park, CA",0.1923,2026-08-04,https://www.metacareers.com/profile/job_details/1538483417962712
-US-Manager,apple,,0.1921,2026-08-04,https://jobs.apple.com/en-us/details/200674648-2371/us-manager?team=APPST
 Senior Legal Counsel - IP Litigation,apple,,0.1914,2026-08-04,https://jobs.apple.com/en-us/details/200674939-0836/senior-legal-counsel-ip-litigation?team=CORSV
 US-Manager,apple,,0.1912,2026-08-04,https://jobs.apple.com/en-us/details/200675084-2545/us-manager?team=APPST
 "Trust & Safety Program Manager, Financial Fraud",apple,,0.1895,2026-08-04,https://jobs.apple.com/en-us/details/200658572-0157/trust-safety-program-manager-financial-fraud?team=SFTWR
 Supervisor de Operações - Mercado Envios,mercadolibre,"Distrito Federal,Brazil",0.1877,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43669118
 Color Resin Engineer - Materials PD,apple,,0.1828,2026-08-04,https://jobs.apple.com/en-us/details/200674669-0836/color-resin-engineer-materials-pd?team=HRDWR
 Camera Technologies Engineering Program Manager,apple,,0.179,2026-08-04,https://jobs.apple.com/en-us/details/200654857-0836/camera-technologies-engineering-program-manager?team=HRDWR
-US-Operations Lead,apple,Various Locations within Los Angeles Metro Area,0.1747,2026-08-04,https://jobs.apple.com/en-us/details/200675023-1756/us-operations-lead?team=APPST
 US-Operations Lead,apple,,0.1723,2026-08-04,https://jobs.apple.com/en-us/details/200674881-2752/us-operations-lead?team=APPST
 Especialista de Projetos Logísticos - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1707,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43133524
 Supervisor de Manutenção - Mercado Envios.,mercadolibre,"Norte,Brazil",0.1662,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43664903
 US-Genius,apple,,0.1636,2026-08-04,https://jobs.apple.com/en-us/details/200675692-2827/us-genius?team=APPST
 Hardware Validation Engineer - Apple Watch,apple,,0.163,2026-08-04,https://jobs.apple.com/en-us/details/200675554-0836/hardware-validation-engineer-apple-watch?team=HRDWR
-Líder de Equipe Sênior - Mercado Envios,mercadolibre,"Sul,Brazil",0.1588,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/43219832
 RF Compliance and Performance Test Engineering Program Specialist,apple,,0.1587,2026-08-04,https://jobs.apple.com/en-us/details/200675569-0836/rf-compliance-and-performance-test-engineering-program-specialist?team=HRDWR
 Senior Product Designer,duolingo,"Beijing, China",0.1527,2026-08-04,https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002
 Analista Pleno de Manutenção - Mercado envios,mercadolibre,"Norte,Brazil",0.15,2026-08-04,https://mercadolibre.eightfold.ai/careers/job/42071795
