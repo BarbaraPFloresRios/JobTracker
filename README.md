@@ -6,31 +6,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT)](https://www.amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat) | amazon | US, NY, New York | 0.6671 | 2026-08-06 |
-| [Senior Applied Scientist, Special Projects](https://www.amazon.jobs/en/jobs/10492852/senior-applied-scientist-special-projects) | amazon | US, WA, Seattle | 0.6360 | 2026-08-05 |
-| [Head of Developer Enablement, Kiro](https://www.amazon.jobs/en/jobs/10492319/head-of-developer-enablement-kiro) | amazon | US, NY, New York | 0.5949 | 2026-08-05 |
-| [Infra Delivery Install Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10492979/infra-delivery-install-technician-dcc-communities) | amazon | US, VA, Sterling | 0.5634 | 2026-08-05 |
-| [Senior Learning Architect, Employee Skilling, Skilling & Social Impact (SSI)](https://www.amazon.jobs/en/jobs/10493023/senior-learning-architect-employee-skilling-skilling-social-impact-ssi) | amazon | US, VA, Arlington | 0.5596 | 2026-08-05 |
-| [Software Development Engineer III, Annapurna Labs](https://www.amazon.jobs/en/jobs/10493477/software-development-engineer-iii-annapurna-labs) | amazon | US, NY, New York | 0.5586 | 2026-08-05 |
-| [Software Development Engineer II, Analytics ADC](https://www.amazon.jobs/en/jobs/10493531/software-development-engineer-ii-analytics-adc) | amazon | US, VA, Arlington | 0.5581 | 2026-08-05 |
-| [Applied Scientist, Prime Video - Generative AI](https://www.amazon.jobs/en/jobs/10492458/applied-scientist-prime-video-generative-ai) | amazon | US, NY, New York | 0.5571 | 2026-08-05 |
-| [Marketing Manager, Energy, Industry Marketing ](https://www.amazon.jobs/en/jobs/10493532/marketing-manager-energy-industry-marketing) | amazon | US, NY, New York | 0.5519 | 2026-08-05 |
-| [Construction Manager , ADC East ](https://www.amazon.jobs/en/jobs/10492818/construction-manager-adc-east) | amazon | US, MD, Jessup | 0.5485 | 2026-08-05 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556952567) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5414 | 2026-08-05 |
-| [Data Center Infrastructure Delivery Manager](https://www.amazon.jobs/en/jobs/10492901/data-center-infrastructure-delivery-manager) | amazon | US, VA, Fredericksburg | 0.5386 | 2026-08-05 |
-| [Senior Applied Scientist, Real-Time Conversational AI , AGI](https://www.amazon.jobs/en/jobs/10493122/senior-applied-scientist-real-time-conversational-ai-agi) | amazon | US, CA, Sunnyvale | 0.5381 | 2026-08-05 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556952469) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5354 | 2026-08-05 |
-| [Sr. SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration](https://www.amazon.jobs/en/jobs/10493068/sr-sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration) | amazon | US, TX, Austin | 0.5329 | 2026-08-05 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10493571/data-center-technician-dcc-communities) | amazon | US, VA, Sterling | 0.5329 | 2026-08-05 |
-| [Principal ProServe Cloud Architect, US - HCLS](https://www.amazon.jobs/en/jobs/10493003/principal-proserve-cloud-architect-us-hcls) | amazon | US, GA, Atlanta | 0.5326 | 2026-08-05 |
-| [Data Scientist, Prime Video Science](https://www.amazon.jobs/jobs/10492077/data-scientist-prime-video-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5301 | 2026-08-05 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10493367/data-center-manager-dco) | amazon | US, NC, Hamlet | 0.5253 | 2026-08-05 |
-| [Principal Cloud Solution Architect, AI Data, Partner Solutions](https://apply.careers.microsoft.com/careers/job/1970393556956125) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5236 | 2026-08-05 |
-| [Data Center Controls Engineer, Data Center Capacity Delivery - Controls ](https://www.amazon.jobs/en/jobs/10493203/data-center-controls-engineer-data-center-capacity-delivery-controls) | amazon | US, VA, Ashburn | 0.5218 | 2026-08-05 |
-| [Construction Manager , IAH100](https://www.amazon.jobs/en/jobs/10492821/construction-manager-iah100) | amazon | US, TX, Wharton | 0.5170 | 2026-08-05 |
-| [Finance Manager, Fleet Finance](https://www.amazon.jobs/en/jobs/10493356/finance-manager-fleet-finance) | amazon | US, WA, Bellevue | 0.5136 | 2026-08-05 |
-| [Technical Program Manager, Availability Serviceability Team](https://www.amazon.jobs/en/jobs/10492780/technical-program-manager-availability-serviceability-team) | amazon | US, VA, Herndon | 0.5129 | 2026-08-05 |
-| [Principal Product Manager - Agentic Content Creation](https://apply.careers.microsoft.com/careers/job/1970393556956089) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5089 | 2026-08-06 |
+| [Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT)](https://www.amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat) | amazon | US, NY, New York | 0.6454 | 2026-08-06 |
+| [Senior Applied Scientist, Perimeter Protection Applied Science](https://www.amazon.jobs/en/jobs/10495411/senior-applied-scientist-perimeter-protection-applied-science) | amazon | US, WA, Seattle | 0.5978 | 2026-08-07 |
+| [Campaign Manager, AWS Cloud Sales Center (CSC) , US Customer Acquisition](https://www.amazon.jobs/en/jobs/10494955/campaign-manager-aws-cloud-sales-center-csc-us-customer-acquisition) | amazon | US, TX, Austin | 0.5759 | 2026-08-07 |
+| [Senior PMT-ES, AWS FinOps Agent, AWS Insights and Optimizations](https://www.amazon.jobs/en/jobs/10495384/senior-pmt-es-aws-finops-agent-aws-insights-and-optimizations) | amazon | US, NY, New York | 0.5485 | 2026-08-07 |
+| [Sr. Program Manager, Fuse Billing Operations](https://www.amazon.jobs/en/jobs/10494820/sr-program-manager-fuse-billing-operations) | amazon | US, WA, Seattle | 0.5388 | 2026-08-07 |
+| [Sr. Product Manager, Community](https://www.amazon.jobs/en/jobs/10495345/sr-product-manager-community) | amazon | US, CA, Culver City | 0.5295 | 2026-08-07 |
+| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10494655/senior-go-to-market-lead-namer-go-to-market) | amazon | US, NY, New York | 0.5267 | 2026-08-07 |
+| [Principal Product Manager - Agentic Content Creation](https://apply.careers.microsoft.com/careers/job/1970393556956089) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5134 | 2026-08-06 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10495016/engineering-operations-technician) | amazon | US, VA, Fredericksburg | 0.5018 | 2026-08-07 |
+| [Senior Infrastructure Software Engineer, TensorRT Edge-LLM](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Software-Engineer--TensorRT-Edge-LLM_JR2022855) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4869 | 2026-08-07 |
+| [Analytics Engineer, GTM](https://jobs.ashbyhq.com/openai/baa1b143-ff74-47f7-9f12-1f62a9361bd4) | openai | San Francisco; New York City | 0.4864 | 2026-08-07 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10495048/engineering-operations-technician) | amazon | US, VA, Stafford | 0.4855 | 2026-08-07 |
+| [Engineering Operations Technician, (Nights)](https://www.amazon.jobs/en/jobs/10493974/engineering-operations-technician-nights) | amazon | US, VA, Sterling | 0.4822 | 2026-08-06 |
+| [Sr. Partner Marketing Manager](https://apply.careers.microsoft.com/careers/job/1970393556955705) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4801 | 2026-08-06 |
+| [Principal Security Content Manager](https://apply.careers.microsoft.com/careers/job/1970393556956143) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4795 | 2026-08-06 |
+| [Senior MLOps Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer_JR2022618-1) | nvidia | US, CA, Santa Clara | 0.4738 | 2026-08-07 |
+| [Senior Data Analyst - Automotive](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Analyst---Automotive_JR2022638) | nvidia | US, CA, Santa Clara | 0.4717 | 2026-08-07 |
+| [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | canva | San Francisco, CA, United States | 0.4708 | 2026-08-06 |
+| [Logistics Specialist, ADC InfraOps Logistics](https://www.amazon.jobs/en/jobs/10494874/logistics-specialist-adc-infraops-logistics) | amazon | US, VA, Manassas | 0.4704 | 2026-08-07 |
+| [Technical Product Marketing Engineer, Metropolis - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1) | nvidia | US, CA, Santa Clara | 0.4704 | 2026-08-07 |
+| [Solutions Architect, Financial Services Banking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-VA-Remote/Solutions-Architect--Financial-Services-Banking_JR2022845) | nvidia | US, VA, Remote | 0.4669 | 2026-08-06 |
+| [Principal Technical Recruiter, PhD Software Engineering & Science](https://www.uber.com/global/en/careers/list/303465/) | uber | San Francisco, San Francisco, United States | 0.4611 | 2026-08-06 |
+| [Principal Technical Program Manager - Prime Video, PV Personalization and Discovery](https://www.amazon.jobs/en/jobs/10495341/principal-technical-program-manager-prime-video-pv-personalization-and-discovery) | amazon | US, WA, Seattle | 0.4588 | 2026-08-07 |
+| [Electrical Design Engineer, HV/MV Engineering](https://www.amazon.jobs/en/jobs/10494667/electrical-design-engineer-hv-mv-engineering) | amazon | US, VA, Herndon | 0.4585 | 2026-08-07 |
+| [Senior Staff Network Automation Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Network-Automation-Engineer_JR2022928) | nvidia | US, CA, Santa Clara | 0.4555 | 2026-08-06 |
 
 # JobTracker
 
