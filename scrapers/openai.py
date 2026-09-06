@@ -61,18 +61,11 @@ def scrape_openai():
     print(f"OpenAI page 1: {len(current_jobs)} jobs")
 
     for job in current_jobs:
-        addr = job.get(
-            "address",
-            {},
-        ).get(
-            "postalAddress",
-            {},
-        )
+        addr = (job.get("address") or {}).get(
+            "postalAddress"
+        ) or {}
 
-        secondary = job.get(
-            "secondaryLocations",
-            [],
-        )
+        secondary = job.get("secondaryLocations") or []
 
         all_locations = [job.get("location")] + [
             location.get("location")
