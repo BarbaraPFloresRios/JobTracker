@@ -1,42 +1,105 @@
 [![Scrape Jobs](https://github.com/BarbaraPFloresRios/JobTracker/actions/workflows/scrape_jobs.yml/badge.svg)](https://github.com/BarbaraPFloresRios/JobTracker/actions/workflows/scrape_jobs.yml)
 
+# JobTracker
+
+A lightweight job monitoring and semantic matching system built in Python.
+
+## Why this exists
+
+The job market is tough right now, and the postings that matter most are the **newly opened** ones: applying early, before a role gets flooded with applicants, is one of the few things a candidate can actually control. JobTracker watches company career pages several times a day, flags the openings that appeared **today and yesterday**, and ranks them by how well they match your own profile — so you spend your energy applying to fresh, relevant roles instead of refreshing career pages by hand.
+
 # Latest Jobs
 
 _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Data & Applied Scientist](https://apply.careers.microsoft.com/careers/job/1970393556957550) | microsoft | United States, Multiple Locations, Multiple Locations | 0.6267 | 2026-08-08 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10496231/data-center-manager-dco) | amazon | US, GA, Covington | 0.5943 | 2026-08-07 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10496237/data-center-manager-dco) | amazon | US, GA, Covington | 0.5943 | 2026-08-07 |
-| [Campaign Manager, AWS Cloud Sales Center (CSC) , US Customer Acquisition](https://www.amazon.jobs/en/jobs/10494955/campaign-manager-aws-cloud-sales-center-csc-us-customer-acquisition) | amazon | US, TX, Austin | 0.5942 | 2026-08-07 |
-| [Senior Applied Scientist, Perimeter Protection Applied Science](https://www.amazon.jobs/en/jobs/10495411/senior-applied-scientist-perimeter-protection-applied-science) | amazon | US, WA, Seattle | 0.5940 | 2026-08-07 |
-| [Sr. Worldwide GTM Specialist - SQL Server, Data & AI GTM](https://www.amazon.jobs/en/jobs/10496407/sr-worldwide-gtm-specialist-sql-server-data-ai-gtm) | amazon | US, WA, Redmond | 0.5889 | 2026-08-08 |
-| [Early Career Experience Program Manager, Amazon University Talent Acquisition (AUTA), Amazon University Talent Acquisition (AUTA)](https://www.amazon.jobs/en/jobs/10494916/early-career-experience-program-manager-amazon-university-talent-acquisition-auta-amazon-university-talent-acquisition-auta) | amazon | US, WA, Seattle | 0.5775 | 2026-08-07 |
-| [Product Management - Technical (Ads), Amazon Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10496006/product-management-technical-ads-amazon-sponsored-products-and-brands) | amazon | US, CA, Palo Alto | 0.5716 | 2026-08-07 |
-| [Principal Analytics Solutions Architect, US AGS Specialist SA](https://www.amazon.jobs/en/jobs/10496100/principal-analytics-solutions-architect-us-ags-specialist-sa) | amazon | US, CA, East Palo Alto | 0.5692 | 2026-08-07 |
-| [Senior Software Engineer (L5) - Personalization Data](https://explore.jobs.netflix.net/careers/job/790317691412) | netflix | USA - Remote | 0.5685 | 2026-08-07 |
-| [Data Center Manager-Mid Shift, DCO](https://www.amazon.jobs/en/jobs/10496241/data-center-manager-mid-shift-dco) | amazon | US, GA, Covington | 0.5673 | 2026-08-07 |
-| [Data Center Manager - Night Shift, DCO](https://www.amazon.jobs/en/jobs/10496242/data-center-manager-night-shift-dco) | amazon | US, GA, Covington | 0.5659 | 2026-08-07 |
-| [Associate Engagement Manager, ProServe A2C Delivery , Proserve A2C](https://www.amazon.jobs/en/jobs/10495925/associate-engagement-manager-proserve-a2c-delivery-proserve-a2c) | amazon | US, VA, Arlington | 0.5556 | 2026-08-07 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10496239/data-center-manager-dco) | amazon | US, GA, Covington | 0.5532 | 2026-08-07 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10496238/data-center-manager-dco) | amazon | US, GA, Covington | 0.5532 | 2026-08-07 |
-| [Senior PMT-ES, AWS FinOps Agent, AWS Insights and Optimizations](https://www.amazon.jobs/en/jobs/10495384/senior-pmt-es-aws-finops-agent-aws-insights-and-optimizations) | amazon | US, NY, New York | 0.5523 | 2026-08-07 |
-| [Network Install Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10495990/network-install-technician-dcc-communities) | amazon | US, NC, Hamlet | 0.5523 | 2026-08-07 |
-| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10494655/senior-go-to-market-lead-namer-go-to-market) | amazon | US, NY, New York | 0.5510 | 2026-08-07 |
-| [Sr. Program Manager, Fuse Billing Operations](https://www.amazon.jobs/en/jobs/10494820/sr-program-manager-fuse-billing-operations) | amazon | US, WA, Seattle | 0.5497 | 2026-08-07 |
-| [Principal Solutions Architect, Storage, WWSO Storage SA Team](https://www.amazon.jobs/en/jobs/10495714/principal-solutions-architect-storage-wwso-storage-sa-team) | amazon | US, VA, Herndon | 0.5490 | 2026-08-07 |
-| [Startup Solutions Architect, Boston District Startups](https://www.amazon.jobs/en/jobs/10496274/startup-solutions-architect-boston-district-startups) | amazon | US, MA, Boston | 0.5490 | 2026-08-07 |
-| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556953088) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5459 | 2026-08-07 |
-| [Infra Delivery Install Technician, Southeast Region, Military & Veterans Encouraged, DCC Communities ](https://www.amazon.jobs/en/jobs/10496370/infra-delivery-install-technician-southeast-region-military-veterans-encouraged-dcc-communities) | amazon | US, VA, Sterling | 0.5445 | 2026-08-07 |
-| [Decom Manager, Data Center Operations](https://www.amazon.jobs/en/jobs/10495909/decom-manager-data-center-operations) | amazon | US, CO, Aurora | 0.5352 | 2026-08-07 |
-| [Email Marketing Manager, Events, AWS Integrated Demand Center](https://www.amazon.jobs/en/jobs/10496362/email-marketing-manager-events-aws-integrated-demand-center) | amazon | US, WA, Seattle | 0.5267 | 2026-08-07 |
+| [Applied Scientist, Amazon Customer Service](https://www.amazon.jobs/jobs/10522666/applied-scientist-amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.6028 | 2026-09-06 |
+| [Sr. Product Marketing Manager, AI Studios](https://www.amazon.jobs/en/jobs/10529947/sr-product-marketing-manager-ai-studios) | amazon | US, CA, Culver City | 0.6015 | 2026-09-06 |
+| [Sr. Product Marketing Manager, Devices Marketing](https://www.amazon.jobs/en/jobs/10530307/sr-product-marketing-manager-devices-marketing) | amazon | US, WA, Seattle | 0.5824 | 2026-09-06 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556944951) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Pennsylvania, Pittsburgh | 0.5705 | 2026-09-06 |
+| [Cloud Hardware Development Engineer, AWS - Early Career (2026)](https://www.amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026) | amazon | US, WA, Seattle | 0.5675 | 2026-09-06 |
+| [Senior Solutions Architect, Retail, Consumer Goods & Restaurants, AWS](https://www.amazon.jobs/en/jobs/10530387/senior-solutions-architect-retail-consumer-goods-restaurants-aws) | amazon | US, TX, Dallas | 0.5531 | 2026-09-06 |
+| [Applied Scientist, Neuron ARG, Annapurna ML](https://www.amazon.jobs/en/jobs/10530583/applied-scientist-neuron-arg-annapurna-ml) | amazon | US, WA, Seattle | 0.5495 | 2026-09-06 |
+| [Senior Solutions Architect, Retail, Consumer Goods & Restaurants, AWS](https://www.amazon.jobs/en/jobs/10530366/senior-solutions-architect-retail-consumer-goods-restaurants-aws) | amazon | US, GA, Atlanta | 0.5434 | 2026-09-06 |
+| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556988234) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5385 | 2026-09-06 |
+| [Data Scientist, Real Estate & Workplace ](https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd) | openai | San Francisco; Mountain View | 0.5352 | 2026-09-06 |
+| [Systems Dev Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team, Amazon Global Data Center Ops Central Insight and Analytics Team](https://www.amazon.jobs/en/jobs/10530500/systems-dev-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team-amazon-global-data-center-ops-central-insight-and-analytics-team) | amazon | US, WA, Seattle | 0.5282 | 2026-09-06 |
+| [Head of Personalization for Content & Discovery](https://jobs.smartrecruiters.com/Canva/6000000001325595-head-of-personalization-for-content-discovery) | canva | San Francisco, CA, United States | 0.5230 | 2026-09-06 |
+| [Data Scientist , Amazon Transportation Services (NEST)](https://www.amazon.jobs/jobs/10523945/data-scientist--amazon-transportation-services-nest?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5228 | 2026-09-06 |
+| [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | 0.5211 | 2026-09-06 |
+| [Machine Learning Data Scientist, Forecasting](https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703) | openai | San Francisco | 0.5196 | 2026-09-06 |
+| [EPMS Engineer](https://apply.careers.microsoft.com/careers/job/1970393556979122) | microsoft | United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Texas, San Antonio; United States, Arizona, Phoenix; United States, District of Columbia, Washington D.C.; United States, Multiple Locations, Multiple Locations | 0.5186 | 2026-09-06 |
+| [Sr. Construction Manager, Data Center Construction](https://www.amazon.jobs/en/jobs/10530073/sr-construction-manager-data-center-construction) | amazon | US, LA, Shreveport | 0.5143 | 2026-09-06 |
+| [Sr. Applied Scientist, Amazon Ads Marketing Decision Science](https://www.amazon.jobs/jobs/10524079/sr-applied-scientist-amazon-ads-marketing-decision-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.5138 | 2026-09-06 |
+| [Project Engineer](https://www.amazon.jobs/en/jobs/10530385/project-engineer) | amazon | US, VA, Manassas | 0.5135 | 2026-09-06 |
+| [Project Engineer, DCCD Construction Ohio ](https://www.amazon.jobs/en/jobs/10530062/project-engineer-dccd-construction-ohio) | amazon | US, OH, Johnstown | 0.5118 | 2026-09-06 |
+| [Seasonal ICQA Process Assistant, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10530399/seasonal-icqa-process-assistant-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5117 | 2026-09-06 |
+| [Systems Development Engineer, Cryptography and Identity Management](https://www.amazon.jobs/en/jobs/10530419/systems-development-engineer-cryptography-and-identity-management) | amazon | US, WA, Seattle | 0.5087 | 2026-09-06 |
+| [Engagement Manager, WWPS ProServe HCLS](https://www.amazon.jobs/en/jobs/10529916/engagement-manager-wwps-proserve-hcls) | amazon | US, VA, Arlington | 0.5060 | 2026-09-06 |
+| [Software Development Engineer II, AWS Supply Chain, AWS, Infra Supply Chain Automation](https://www.amazon.jobs/en/jobs/10530588/software-development-engineer-ii-aws-supply-chain-aws-infra-supply-chain-automation) | amazon | US, WA, Seattle | 0.5038 | 2026-09-06 |
+| [Sr. Program Manager, WFM Perishables Merchandising](https://www.amazon.jobs/en/jobs/10530381/sr-program-manager-wfm-perishables-merchandising) | amazon | US, TX, Austin | 0.5032 | 2026-09-06 |
 
-# JobTracker
+## Companies tracked
 
-A lightweight job monitoring and semantic matching system built in Python.
+JobTracker currently pulls openings directly from the career pages / official APIs of:
 
-JobTracker automatically collects openings directly from company career pages, maintains historical records of job postings, and ranks opportunities using semantic similarity against a configurable candidate profile.
+* MercadoLibre
+* Apple
+* Amazon
+* Amazon Science
+* NVIDIA
+* Microsoft
+* Netflix
+* Meta
+* OpenAI
+* Anthropic
+* Duolingo
+* Spotify
+* Reddit
+* Discord
+* Canva
+* Uber
+* Airbnb
+
+## How it works
+
+1. A scraper per company collects current openings straight from the source.
+2. Each company's postings are stored as a CSV under `data/raw/`, keeping a history with `first_seen_date` and `last_seen_date` for every job.
+3. Recently discovered roles (first seen today or yesterday) are exported to `data/recent_jobs.csv`.
+4. Each recent job is scored by semantic similarity against a configurable candidate profile, and the top matches are surfaced in the table above.
+5. A GitHub Action runs the whole pipeline every 3 hours and commits the refreshed data automatically.
+
+If one company's site or API changes and its scraper fails, the pipeline logs the error, keeps that company's previous data, and continues with the rest — so a single broken source never stops the run.
+
+## Run it locally
+
+Requires Python 3.11+.
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/BarbaraPFloresRios/JobTracker.git
+cd JobTracker
+
+# 2. (Recommended) create a virtual environment
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Install the browser used by some scrapers
+playwright install --with-deps chromium
+
+# 5. Run the full pipeline
+python main.py
+```
+
+This regenerates `data/raw/*.csv`, `data/recent_jobs.csv`, and this `README.md`.
+
+## Personalize the ranking
+
+Semantic matching is driven by a plain-text profile at [`data/profile/job_matching_profile.txt`](data/profile/job_matching_profile.txt). Edit that file to describe the roles, skills, and seniority you're targeting, then run `python main.py` again — the similarity scores and the "Latest Jobs" ranking will reflect your profile.
 
 ## Current Features
 
@@ -45,6 +108,7 @@ JobTracker automatically collects openings directly from company career pages, m
 * Detect newly discovered openings
 * Track historical job data over time
 * Run automatically using GitHub Actions
+* Fault-tolerant pipeline: a failing scraper never stops the others
 * Store structured datasets as CSV files
 * Export recent jobs from today and yesterday
 * Semantic job matching using sentence embeddings
