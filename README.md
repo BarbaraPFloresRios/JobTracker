@@ -14,9 +14,9 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
+| [Sr. Product Marketing Manager, AI Studios](https://www.amazon.jobs/en/jobs/10529947/sr-product-marketing-manager-ai-studios) | amazon | US, CA, Culver City | 0.6119 | 2026-09-06 |
 | [Applied Scientist, Amazon Customer Service](https://www.amazon.jobs/jobs/10522666/applied-scientist-amazon-customer-service?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.6028 | 2026-09-06 |
-| [Sr. Product Marketing Manager, AI Studios](https://www.amazon.jobs/en/jobs/10529947/sr-product-marketing-manager-ai-studios) | amazon | US, CA, Culver City | 0.6015 | 2026-09-06 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556944951) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Pennsylvania, Pittsburgh | 0.5923 | 2026-09-06 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556944951) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Pennsylvania, Pittsburgh | 0.5939 | 2026-09-06 |
 | [Sr. Product Marketing Manager, Devices Marketing](https://www.amazon.jobs/en/jobs/10530307/sr-product-marketing-manager-devices-marketing) | amazon | US, WA, Seattle | 0.5824 | 2026-09-06 |
 | [Cloud Hardware Development Engineer, AWS - Early Career (2026)](https://www.amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026) | amazon | US, WA, Seattle | 0.5675 | 2026-09-06 |
 | [Senior Solutions Architect, Retail, Consumer Goods & Restaurants, AWS](https://www.amazon.jobs/en/jobs/10530387/senior-solutions-architect-retail-consumer-goods-restaurants-aws) | amazon | US, TX, Dallas | 0.5531 | 2026-09-06 |
@@ -29,14 +29,14 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Data Scientist , Amazon Transportation Services (NEST)](https://www.amazon.jobs/jobs/10523945/data-scientist--amazon-transportation-services-nest?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5228 | 2026-09-06 |
 | [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | 0.5211 | 2026-09-06 |
 | [Machine Learning Data Scientist, Forecasting](https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703) | openai | San Francisco | 0.5196 | 2026-09-06 |
-| [EPMS Engineer](https://apply.careers.microsoft.com/careers/job/1970393556979122) | microsoft | United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Texas, San Antonio; United States, Arizona, Phoenix; United States, District of Columbia, Washington D.C.; United States, Multiple Locations, Multiple Locations | 0.5147 | 2026-09-06 |
+| [SDE - II, Search Product Grouping And Discovery Team](https://www.amazon.jobs/en/jobs/10530720/sde-ii-search-product-grouping-and-discovery-team) | amazon | US, WA, Seattle | 0.5182 | 2026-09-06 |
+| [EPMS Engineer](https://apply.careers.microsoft.com/careers/job/1970393556979122) | microsoft | United States, Washington, Redmond; United States, Georgia, Atlanta; United States, Texas, San Antonio; United States, Arizona, Phoenix; United States, District of Columbia, Washington D.C.; United States, Multiple Locations, Multiple Locations | 0.5158 | 2026-09-06 |
 | [Sr. Construction Manager, Data Center Construction](https://www.amazon.jobs/en/jobs/10530073/sr-construction-manager-data-center-construction) | amazon | US, LA, Shreveport | 0.5143 | 2026-09-06 |
 | [Sr. Applied Scientist, Amazon Ads Marketing Decision Science](https://www.amazon.jobs/jobs/10524079/sr-applied-scientist-amazon-ads-marketing-decision-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.5138 | 2026-09-06 |
 | [Project Engineer](https://www.amazon.jobs/en/jobs/10530385/project-engineer) | amazon | US, VA, Manassas | 0.5135 | 2026-09-06 |
 | [Project Engineer, DCCD Construction Ohio ](https://www.amazon.jobs/en/jobs/10530062/project-engineer-dccd-construction-ohio) | amazon | US, OH, Johnstown | 0.5118 | 2026-09-06 |
 | [Seasonal ICQA Process Assistant, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10530399/seasonal-icqa-process-assistant-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5117 | 2026-09-06 |
 | [Systems Development Engineer, Cryptography and Identity Management](https://www.amazon.jobs/en/jobs/10530419/systems-development-engineer-cryptography-and-identity-management) | amazon | US, WA, Seattle | 0.5087 | 2026-09-06 |
-| [Sr. Site Procurement Manager](https://apply.careers.microsoft.com/careers/job/1970393556958329) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Wenatchee; United States, Indiana, Indianapolis; United States, Ohio, Columbus; United States, Texas, San Antonio; United States, California, San Jose; United States, Arizona, Phoenix; United States, Virginia, Dulles; United States, Virginia, Manassas | 0.5067 | 2026-09-06 |
 | [Engagement Manager, WWPS ProServe HCLS](https://www.amazon.jobs/en/jobs/10529916/engagement-manager-wwps-proserve-hcls) | amazon | US, VA, Arlington | 0.5060 | 2026-09-06 |
 | [Software Development Engineer II, AWS Supply Chain, AWS, Infra Supply Chain Automation](https://www.amazon.jobs/en/jobs/10530588/software-development-engineer-ii-aws-supply-chain-aws-infra-supply-chain-automation) | amazon | US, WA, Seattle | 0.5038 | 2026-09-06 |
 
