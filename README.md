@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal Applied Scientist, CX Science](https://www.amazon.jobs/en/jobs/10531329/principal-applied-scientist-cx-science) | amazon | US, CA, Santa Clara | 0.7167 | 2026-09-08 |
-| [Applied Scientist II, Console Science](https://www.amazon.jobs/en/jobs/10532623/applied-scientist-ii-console-science) | amazon | US, CA, Santa Clara | 0.6395 | 2026-09-08 |
-| [Principal Technologist, 6G and AI, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10532820/principal-technologist-6g-and-ai-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.6205 | 2026-09-08 |
-| [Data Center Operations Manager - Swing Shift](https://www.amazon.jobs/en/jobs/10531606/data-center-operations-manager-swing-shift) | amazon | US, IN, New Carlisle | 0.6097 | 2026-09-08 |
-| [Data Center Operations Manager - Swing Shift](https://www.amazon.jobs/en/jobs/10531622/data-center-operations-manager-swing-shift) | amazon | US, IN, New Carlisle | 0.6097 | 2026-09-08 |
-| [Data Center Cluster Operations Leader, AMER North East DC Ops](https://www.amazon.jobs/en/jobs/10532092/data-center-cluster-operations-leader-amer-north-east-dc-ops) | amazon | US, PA, Berwick | 0.6015 | 2026-09-08 |
-| [Overnight Data Center Operations Manager ](https://www.amazon.jobs/en/jobs/10531648/overnight-data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5969 | 2026-09-08 |
-| [Overnight Data Center Operations Manager ](https://www.amazon.jobs/en/jobs/10531637/overnight-data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5969 | 2026-09-08 |
-| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531297/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5946 | 2026-09-08 |
-| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531295/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5946 | 2026-09-08 |
-| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531293/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5945 | 2026-09-08 |
+| [Principal Applied Scientist, CX Science](https://www.amazon.jobs/en/jobs/10531329/principal-applied-scientist-cx-science) | amazon | US, CA, Santa Clara | 0.7126 | 2026-09-08 |
+| [Applied Scientist II, Console Science](https://www.amazon.jobs/en/jobs/10532623/applied-scientist-ii-console-science) | amazon | US, CA, Santa Clara | 0.6459 | 2026-09-08 |
+| [Principal Technologist, 6G and AI, Telco Tech, AWS Industries](https://www.amazon.jobs/en/jobs/10532820/principal-technologist-6g-and-ai-telco-tech-aws-industries) | amazon | US, TX, Dallas | 0.6427 | 2026-09-08 |
+| [Data Center Operations Manager - Swing Shift](https://www.amazon.jobs/en/jobs/10531606/data-center-operations-manager-swing-shift) | amazon | US, IN, New Carlisle | 0.6100 | 2026-09-08 |
+| [Data Center Operations Manager - Swing Shift](https://www.amazon.jobs/en/jobs/10531622/data-center-operations-manager-swing-shift) | amazon | US, IN, New Carlisle | 0.6100 | 2026-09-08 |
+| [Overnight Data Center Operations Manager ](https://www.amazon.jobs/en/jobs/10531648/overnight-data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.6037 | 2026-09-08 |
+| [Overnight Data Center Operations Manager ](https://www.amazon.jobs/en/jobs/10531637/overnight-data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.6037 | 2026-09-08 |
+| [Sr. Product Manager Technical, Business Data Technologies](https://www.amazon.jobs/en/jobs/10532232/sr-product-manager-technical-business-data-technologies) | amazon | US, MI, Detroit | 0.6029 | 2026-09-08 |
+| [Data Center Cluster Operations Leader, AMER North East DC Ops](https://www.amazon.jobs/en/jobs/10532092/data-center-cluster-operations-leader-amer-north-east-dc-ops) | amazon | US, PA, Berwick | 0.5989 | 2026-09-08 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531297/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5945 | 2026-09-08 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531295/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5945 | 2026-09-08 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531293/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5934 | 2026-09-08 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531289/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5909 | 2026-09-08 |
 | [Applied Scientist (GenAI/LLM), Sandstone](https://www.amazon.jobs/en/jobs/10532200/applied-scientist-genai-llm-sandstone) | amazon | US, CA, San Diego | 0.5905 | 2026-09-08 |
-| [Sr. Product Manager Technical, Business Data Technologies](https://www.amazon.jobs/en/jobs/10532232/sr-product-manager-technical-business-data-technologies) | amazon | US, MI, Detroit | 0.5900 | 2026-09-08 |
-| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10531289/data-center-operations-manager) | amazon | US, IN, New Carlisle | 0.5890 | 2026-09-08 |
-| [Senior Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10531653/senior-data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5858 | 2026-09-08 |
-| [Sr. Database Specialist Solutions Architect, AGS Database Specialist Solutions Architects](https://www.amazon.jobs/en/jobs/10532206/sr-database-specialist-solutions-architect-ags-database-specialist-solutions-architects) | amazon | US, TX, Dallas | 0.5809 | 2026-09-08 |
+| [Sr. Database Specialist Solutions Architect, AGS Database Specialist Solutions Architects](https://www.amazon.jobs/en/jobs/10532206/sr-database-specialist-solutions-architect-ags-database-specialist-solutions-architects) | amazon | US, TX, Dallas | 0.5812 | 2026-09-08 |
+| [Program Manager, Amazon Flex BOSS](https://www.amazon.jobs/en/jobs/10532300/program-manager-amazon-flex-boss) | amazon | US, WA, Bellevue | 0.5774 | 2026-09-08 |
 | [Data Center Materials Spec I (WH),  Logistics and Imaging Team (LIT)](https://www.amazon.jobs/en/jobs/10532804/data-center-materials-spec-i-wh-logistics-and-imaging-team-lit) | amazon | US, WA, Renton | 0.5759 | 2026-09-08 |
 | [Sr. Supply Chain Manager, Amazon Funded Buy Sell](https://www.amazon.jobs/en/jobs/10533714/sr-supply-chain-manager-amazon-funded-buy-sell) | amazon | US, WA, Seattle | 0.5749 | 2026-09-09 |
 | [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10532815/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5715 | 2026-09-08 |
 | [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10532577/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5699 | 2026-09-08 |
+| [GenAI Experiences Demo Architect , AWS Professional Services](https://www.amazon.jobs/en/jobs/10532069/genai-experiences-demo-architect-aws-professional-services) | amazon | US, VA, Arlington | 0.5693 | 2026-09-08 |
+| [Senior Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10531653/senior-data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5686 | 2026-09-08 |
 | [Data Center Infrastructure Delivery Manager](https://www.amazon.jobs/en/jobs/10531808/data-center-infrastructure-delivery-manager) | amazon | US, TX, Wink | 0.5631 | 2026-09-08 |
 | [Sr. GenAI/ML Specialist Solutions Architect, AGS Specialist Solutions Architects](https://www.amazon.jobs/en/jobs/10532699/sr-genai-ml-specialist-solutions-architect-ags-specialist-solutions-architects) | amazon | US, CA, San Francisco | 0.5615 | 2026-09-08 |
-| [Associate Solutions Architect, Frontier AI Startups](https://www.amazon.jobs/en/jobs/10531733/associate-solutions-architect-frontier-ai-startups) | amazon | US, CA, San Francisco | 0.5565 | 2026-09-08 |
-| [GenAI Experiences Demo Architect , AWS Professional Services](https://www.amazon.jobs/en/jobs/10532069/genai-experiences-demo-architect-aws-professional-services) | amazon | US, VA, Arlington | 0.5563 | 2026-09-08 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10531663/data-center-logistics-specialist-dcc-communities) | amazon | US, NV, Sparks | 0.5543 | 2026-09-08 |
+| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533805/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5613 | 2026-09-09 |
 
 ## Companies tracked
 
