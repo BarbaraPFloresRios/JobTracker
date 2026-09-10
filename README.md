@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal Technical Account Manager, AWS Enterprise Support, NAMER-Sp](https://www.amazon.jobs/en/jobs/10535213/principal-technical-account-manager-aws-enterprise-support-namer-sp) | amazon | US, NY, New York | 0.6519 | 2026-09-09 |
-| [Sr. Global Supply Chain Manager, Amazon Custom Modules](https://www.amazon.jobs/en/jobs/10534690/sr-global-supply-chain-manager-amazon-custom-modules) | amazon | US, WA, Seattle | 0.5932 | 2026-09-09 |
-| [Sr. Cloud Technical Account Manager, ES - NAMER - US-SUP](https://www.amazon.jobs/en/jobs/10534446/sr-cloud-technical-account-manager-es-namer-us-sup) | amazon | US, MA, Boston | 0.5830 | 2026-09-09 |
+| [Principal Technical Account Manager, AWS Enterprise Support, NAMER-Sp](https://www.amazon.jobs/en/jobs/10535213/principal-technical-account-manager-aws-enterprise-support-namer-sp) | amazon | US, NY, New York | 0.6474 | 2026-09-09 |
+| [Sr. Global Supply Chain Manager, Amazon Custom Modules](https://www.amazon.jobs/en/jobs/10534690/sr-global-supply-chain-manager-amazon-custom-modules) | amazon | US, WA, Seattle | 0.5912 | 2026-09-09 |
+| [Sr. Cloud Technical Account Manager, ES - NAMER - US-SUP](https://www.amazon.jobs/en/jobs/10534446/sr-cloud-technical-account-manager-es-namer-us-sup) | amazon | US, MA, Boston | 0.5824 | 2026-09-09 |
 | [Business Analyst, Talent Acquisition Analytics](https://www.amazon.jobs/en/jobs/10536521/business-analyst-talent-acquisition-analytics) | amazon | US, WA, Seattle | 0.5735 | 2026-09-10 |
-| [Bus Analyst II – AMZ010578](https://www.amazon.jobs/en/jobs/10534246/bus-analyst-ii-amz010578) | amazon | US, NY, New York | 0.5687 | 2026-09-09 |
-| [Sr. Worldwide Specialist Solutions Architect - Database, Data & AI](https://www.amazon.jobs/en/jobs/10535092/sr-worldwide-specialist-solutions-architect-database-data-ai) | amazon | US, WA, Seattle | 0.5675 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533802/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5639 | 2026-09-09 |
+| [Sr. Worldwide Specialist Solutions Architect - Database, Data & AI](https://www.amazon.jobs/en/jobs/10535092/sr-worldwide-specialist-solutions-architect-database-data-ai) | amazon | US, WA, Seattle | 0.5661 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533806/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5639 | 2026-09-09 |
-| [Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10535238/applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.5606 | 2026-09-09 |
-| [Data Center Logistics Specialist , DCC Communities - Swing Shift](https://www.amazon.jobs/en/jobs/10533800/data-center-logistics-specialist-dcc-communities-swing-shift) | amazon | US, IN, New Carlisle | 0.5580 | 2026-09-09 |
-| [Data Center Logistics Specialist , DCC Communities - Swing Shift](https://www.amazon.jobs/en/jobs/10533816/data-center-logistics-specialist-dcc-communities-swing-shift) | amazon | US, IN, New Carlisle | 0.5580 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533807/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533803/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533801/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533802/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5639 | 2026-09-09 |
+| [Bus Analyst II – AMZ010578](https://www.amazon.jobs/en/jobs/10534246/bus-analyst-ii-amz010578) | amazon | US, NY, New York | 0.5633 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533805/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
-| [Head of Pre-Construction, AMER Data Center Delivery, Data Center Planning and Delivery](https://www.amazon.jobs/en/jobs/10535541/head-of-pre-construction-amer-data-center-delivery-data-center-planning-and-delivery) | amazon | US, VA, Herndon | 0.5555 | 2026-09-09 |
-| [Sr. Supply Chain Manager, Amazon Funded Buy Sell](https://www.amazon.jobs/en/jobs/10533714/sr-supply-chain-manager-amazon-funded-buy-sell) | amazon | US, WA, Seattle | 0.5553 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533799/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533804/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533807/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533801/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities, DCC Communities](https://www.amazon.jobs/en/jobs/10533803/data-center-logistics-specialist-dcc-communities-dcc-communities) | amazon | US, IN, New Carlisle | 0.5560 | 2026-09-09 |
+| [Head of Pre-Construction, AMER Data Center Delivery, Data Center Planning and Delivery](https://www.amazon.jobs/en/jobs/10535541/head-of-pre-construction-amer-data-center-delivery-data-center-planning-and-delivery) | amazon | US, VA, Herndon | 0.5556 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533795/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533797/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533794/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533804/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533798/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533799/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533813/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533817/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10533797/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5523 | 2026-09-09 |
+| [Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10535238/applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.5507 | 2026-09-09 |
+| [Data Center Logistics Specialist , DCC Communities - Swing Shift](https://www.amazon.jobs/en/jobs/10533800/data-center-logistics-specialist-dcc-communities-swing-shift) | amazon | US, IN, New Carlisle | 0.5499 | 2026-09-09 |
+| [Data Center Logistics Specialist , DCC Communities - Swing Shift](https://www.amazon.jobs/en/jobs/10533816/data-center-logistics-specialist-dcc-communities-swing-shift) | amazon | US, IN, New Carlisle | 0.5499 | 2026-09-09 |
+| [Sr. Supply Chain Manager, Amazon Funded Buy Sell](https://www.amazon.jobs/en/jobs/10533714/sr-supply-chain-manager-amazon-funded-buy-sell) | amazon | US, WA, Seattle | 0.5486 | 2026-09-09 |
 
 ## Companies tracked
 
