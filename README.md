@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Center Manager - Night Shift, Data Center Operations](https://www.amazon.jobs/en/jobs/10537046/data-center-manager-night-shift-data-center-operations) | amazon | US, NC, Hamlet | 0.5973 | 2026-09-11 |
+| [Data Center Manager - Night Shift, Data Center Operations](https://www.amazon.jobs/en/jobs/10537046/data-center-manager-night-shift-data-center-operations) | amazon | US, NC, Hamlet | 0.6031 | 2026-09-11 |
 | [Data Engineer, SPTC](https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc) | amazon | US, WA, Seattle | 0.5828 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537013/data-center-technician) | amazon | US, PA, Berwick | 0.5744 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537012/data-center-technician) | amazon | US, PA, Berwick | 0.5744 | 2026-09-11 |
-| [Business Analyst, Talent Acquisition Analytics](https://www.amazon.jobs/en/jobs/10536521/business-analyst-talent-acquisition-analytics) | amazon | US, WA, Seattle | 0.5727 | 2026-09-10 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537013/data-center-technician) | amazon | US, PA, Berwick | 0.5753 | 2026-09-11 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537012/data-center-technician) | amazon | US, PA, Berwick | 0.5753 | 2026-09-11 |
 | [Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/en/jobs/10538102/principal-applied-scientist-ai-for-life-sciences-aws-applied-ai-solutions-life-sciences) | amazon | US, WA, Seattle | 0.5710 | 2026-09-11 |
 | [Senior Manager, Applied Science](https://www.amazon.jobs/en/jobs/10537980/senior-manager-applied-science) | amazon | US, WA, Seattle | 0.5684 | 2026-09-11 |
-| [Transportation Analyst , Vendor Flex](https://www.amazon.jobs/en/jobs/10537932/transportation-analyst-vendor-flex) | amazon | US, TN, Nashville | 0.5662 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537592/data-center-technician) | amazon | US, PA, Berwick | 0.5542 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537728/data-center-technician) | amazon | US, PA, Berwick | 0.5542 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537781/data-center-technician) | amazon | US, PA, Berwick | 0.5542 | 2026-09-11 |
-| [Data Center Technician, DCO](https://www.amazon.jobs/en/jobs/10536951/data-center-technician-dco) | amazon | US, PA, Berwick | 0.5534 | 2026-09-11 |
+| [Transportation Analyst , Vendor Flex](https://www.amazon.jobs/en/jobs/10537932/transportation-analyst-vendor-flex) | amazon | US, TN, Nashville | 0.5588 | 2026-09-11 |
+| [Data Center Facility Operations Manager, DCEO Operations Team](https://www.amazon.jobs/en/jobs/10537596/data-center-facility-operations-manager-dceo-operations-team) | amazon | US, NC, Hamlet | 0.5582 | 2026-09-11 |
+| [Data Center Technician, DCO](https://www.amazon.jobs/en/jobs/10536951/data-center-technician-dco) | amazon | US, PA, Berwick | 0.5532 | 2026-09-11 |
 | [Sr Product Manager-Technical, SCOT Forecasting & Labs](https://www.amazon.jobs/en/jobs/10537791/sr-product-manager-technical-scot-forecasting-labs) | amazon | US, NY, New York | 0.5523 | 2026-09-11 |
-| [Senior Engagement Manager, AWS ProServe EDU & SLG](https://www.amazon.jobs/en/jobs/10536565/senior-engagement-manager-aws-proserve-edu-slg) | amazon | US, TX, Dallas | 0.5510 | 2026-09-10 |
-| [Systems Development Engineer II, AWS Commerce Platform-ADC](https://www.amazon.jobs/en/jobs/10536416/systems-development-engineer-ii-aws-commerce-platform-adc) | amazon | US, VA, Herndon | 0.5498 | 2026-09-10 |
-| [Forward Deployed AI Integrator, Field Engineering](https://www.amazon.jobs/en/jobs/10537396/forward-deployed-ai-integrator-field-engineering) | amazon | US, VA, Herndon | 0.5483 | 2026-09-11 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10535928/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5418 | 2026-09-10 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10535936/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5418 | 2026-09-10 |
-| [Engineering Operations Technician, Amazon Ads BLX](https://www.amazon.jobs/en/jobs/10537367/engineering-operations-technician-amazon-ads-blx) | amazon | US, NV, Sparks | 0.5402 | 2026-09-11 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10535947/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5400 | 2026-09-10 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10535941/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5400 | 2026-09-10 |
-| [Solution Engineer - Cloud & AI Data Platform](https://apply.careers.microsoft.com/careers/job/1970393556958402) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5398 | 2026-09-11 |
-| [Data Center Facility Operations Manager, DCEO Operations Team](https://www.amazon.jobs/en/jobs/10537596/data-center-facility-operations-manager-dceo-operations-team) | amazon | US, NC, Hamlet | 0.5383 | 2026-09-11 |
-| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10535922/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5381 | 2026-09-10 |
-| [Manager of Construction, ADC - Data Center Construction](https://www.amazon.jobs/en/jobs/10536421/manager-of-construction-adc-data-center-construction) | amazon | US, VA, Culpeper | 0.5381 | 2026-09-10 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537728/data-center-technician) | amazon | US, PA, Berwick | 0.5513 | 2026-09-11 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537781/data-center-technician) | amazon | US, PA, Berwick | 0.5513 | 2026-09-11 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537592/data-center-technician) | amazon | US, PA, Berwick | 0.5513 | 2026-09-11 |
+| [Forward Deployed AI Integrator, Field Engineering](https://www.amazon.jobs/en/jobs/10537396/forward-deployed-ai-integrator-field-engineering) | amazon | US, VA, Herndon | 0.5494 | 2026-09-11 |
+| [Solution Engineer - Cloud & AI Data Platform](https://apply.careers.microsoft.com/careers/job/1970393556958402) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5448 | 2026-09-11 |
+| [Engineering Operations Technician, Amazon Ads BLX](https://www.amazon.jobs/en/jobs/10537367/engineering-operations-technician-amazon-ads-blx) | amazon | US, NV, Sparks | 0.5389 | 2026-09-11 |
+| [Learning Exp Designer, Amazon Flex WW Learning](https://www.amazon.jobs/en/jobs/10538003/learning-exp-designer-amazon-flex-ww-learning) | amazon | US, TX, Austin | 0.5329 | 2026-09-11 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10536956/data-center-technician) | amazon | US, PA, Berwick | 0.5308 | 2026-09-11 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537011/data-center-technician) | amazon | US, PA, Berwick | 0.5308 | 2026-09-11 |
+| [Software Development Manager, Leo Security](https://www.amazon.jobs/en/jobs/10537052/software-development-manager-leo-security) | amazon | US, VA, Arlington | 0.5287 | 2026-09-11 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10537839/engineering-operations-technician) | amazon | US, NV, Sparks | 0.5253 | 2026-09-11 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10537359/engineering-operations-technician) | amazon | US, NV, Sparks | 0.5252 | 2026-09-11 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10537845/engineering-operations-technician) | amazon | US, NV, Sparks | 0.5225 | 2026-09-11 |
+| [Program Mgr. AI Automation , WW Prime - Benefits, Pricing & Constructs](https://www.amazon.jobs/en/jobs/10537940/program-mgr-ai-automation-ww-prime-benefits-pricing-constructs) | amazon | US, WA, Seattle | 0.5219 | 2026-09-11 |
+| [Member of Technical Staff - Data Flywheel Infra, Frontier Models](https://apply.careers.microsoft.com/careers/job/1970393556981191) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5191 | 2026-09-11 |
 
 ## Companies tracked
 
