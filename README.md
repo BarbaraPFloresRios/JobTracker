@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Center Manager - Night Shift, Data Center Operations](https://www.amazon.jobs/en/jobs/10537046/data-center-manager-night-shift-data-center-operations) | amazon | US, NC, Hamlet | 0.6045 | 2026-09-11 |
-| [Data Engineer, SPTC](https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc) | amazon | US, WA, Seattle | 0.5828 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537013/data-center-technician) | amazon | US, PA, Berwick | 0.5754 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537012/data-center-technician) | amazon | US, PA, Berwick | 0.5754 | 2026-09-11 |
-| [Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/en/jobs/10538102/principal-applied-scientist-ai-for-life-sciences-aws-applied-ai-solutions-life-sciences) | amazon | US, WA, Seattle | 0.5710 | 2026-09-11 |
-| [Sr. Program Manager, Delivery Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556950877) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5689 | 2026-09-12 |
-| [Senior Manager, Applied Science](https://www.amazon.jobs/en/jobs/10537980/senior-manager-applied-science) | amazon | US, WA, Seattle | 0.5684 | 2026-09-11 |
-| [Transportation Analyst , Vendor Flex](https://www.amazon.jobs/en/jobs/10537932/transportation-analyst-vendor-flex) | amazon | US, TN, Nashville | 0.5673 | 2026-09-11 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556751888) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5625 | 2026-09-12 |
-| [Data Center Facility Operations Manager, DCEO Operations Team](https://www.amazon.jobs/en/jobs/10537596/data-center-facility-operations-manager-dceo-operations-team) | amazon | US, NC, Hamlet | 0.5583 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537781/data-center-technician) | amazon | US, PA, Berwick | 0.5536 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537728/data-center-technician) | amazon | US, PA, Berwick | 0.5536 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537592/data-center-technician) | amazon | US, PA, Berwick | 0.5536 | 2026-09-11 |
-| [Data Center Technician, DCO](https://www.amazon.jobs/en/jobs/10536951/data-center-technician-dco) | amazon | US, PA, Berwick | 0.5534 | 2026-09-11 |
-| [Sr Product Manager-Technical, SCOT Forecasting & Labs](https://www.amazon.jobs/en/jobs/10537791/sr-product-manager-technical-scot-forecasting-labs) | amazon | US, NY, New York | 0.5523 | 2026-09-11 |
-| [Forward Deployed AI Integrator, Field Engineering](https://www.amazon.jobs/en/jobs/10537396/forward-deployed-ai-integrator-field-engineering) | amazon | US, VA, Herndon | 0.5489 | 2026-09-11 |
-| [Developer Experience Engineer II and/or Senior Developer Experience Engineer](https://apply.careers.microsoft.com/careers/job/1970393556971398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5460 | 2026-09-12 |
-| [Solution Engineer - Cloud & AI Data Platform](https://apply.careers.microsoft.com/careers/job/1970393556958402) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5448 | 2026-09-11 |
-| [Engineering Operations Technician, Amazon Ads BLX](https://www.amazon.jobs/en/jobs/10537367/engineering-operations-technician-amazon-ads-blx) | amazon | US, NV, Sparks | 0.5400 | 2026-09-11 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556751888) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5743 | 2026-09-12 |
+| [Sr. Program Manager, Delivery Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556950877) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5696 | 2026-09-12 |
+| [Developer Experience Engineer II and/or Senior Developer Experience Engineer](https://apply.careers.microsoft.com/careers/job/1970393556971398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5687 | 2026-09-12 |
 | [Applied Science Manager, AWS Startups](https://www.amazon.jobs/jobs/10537816/applied-science-manager-aws-startups?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5337 | 2026-09-12 |
-| [Learning Exp Designer, Amazon Flex WW Learning](https://www.amazon.jobs/en/jobs/10538003/learning-exp-designer-amazon-flex-ww-learning) | amazon | US, TX, Austin | 0.5329 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10536956/data-center-technician) | amazon | US, PA, Berwick | 0.5302 | 2026-09-11 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10537011/data-center-technician) | amazon | US, PA, Berwick | 0.5302 | 2026-09-11 |
-| [Software Development Manager, Leo Security](https://www.amazon.jobs/en/jobs/10537052/software-development-manager-leo-security) | amazon | US, VA, Arlington | 0.5286 | 2026-09-11 |
-| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10537839/engineering-operations-technician) | amazon | US, NV, Sparks | 0.5248 | 2026-09-11 |
+| [Senior Product Designer, FDE](https://apply.careers.microsoft.com/careers/job/1970393556981031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5310 | 2026-09-12 |
+| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556982563) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5215 | 2026-09-12 |
+| [Sr. Software Development Engineer, Inference Team - AWS Neuron](https://www.amazon.jobs/en/jobs/10538171/sr-software-development-engineer-inference-team-aws-neuron) | amazon | US, WA, Seattle | 0.5124 | 2026-09-12 |
+| [Business Program Manager - Capacity Demand Predictive Insights](https://apply.careers.microsoft.com/careers/job/1970393556978442) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4981 | 2026-09-12 |
+| [Principal Technical Program Manager, Datacenter End-to-End Build Delivery](https://apply.careers.microsoft.com/careers/job/1970393556994747) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4970 | 2026-09-12 |
+| [Cloud Solution Architect - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556988179) | microsoft | United States, District of Columbia, Washington D.C.; United States, Virginia, Reston; United States, Maryland, Annapolis Junction; United States, Multiple Locations, Multiple Locations | 0.4937 | 2026-09-12 |
+| [Software Engineer - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939575) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4769 | 2026-09-13 |
+| [Data Center Technician Night Shift](https://www.amazon.jobs/en/jobs/10538152/data-center-technician-night-shift) | amazon | US, AZ, Mesa | 0.4763 | 2026-09-12 |
+| [Global GTM Business Architect - Microsoft Fabric](https://apply.careers.microsoft.com/careers/job/1970393556986874) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4745 | 2026-09-13 |
+| [Enterprise Architect, Americas Markets & Industries Office of the CTO](https://apply.careers.microsoft.com/careers/job/1970393556981728) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4649 | 2026-09-13 |
+| [Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.amazon.jobs/en/jobs/10538247/sr-field-sales-operations-lead-us-specialist-org-namer-field-operations-namer-sales-operations) | amazon | US, CA, San Francisco | 0.4589 | 2026-09-12 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556987131) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4535 | 2026-09-12 |
+| [Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/jobs/10538102/principal-applied-scientist--ai-for-life-sciences-aws-applied-ai-solutions--life-sciences?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4356 | 2026-09-12 |
+| [Principal Product Manager, AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556995531) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4293 | 2026-09-12 |
+| [Federal Resource Deployment Manager-CTJ-Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556991292) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4249 | 2026-09-12 |
+| [Business Architect](https://apply.careers.microsoft.com/careers/job/1970393556957827) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4226 | 2026-09-13 |
+| [Senior Director, Sales Strategy Enablement](https://apply.careers.microsoft.com/careers/job/1970393556982324) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4220 | 2026-09-12 |
+| [Consulting Project Manager - Oil, Gas, & Energy](https://apply.careers.microsoft.com/careers/job/1970393556990823) | microsoft | United States, Texas, Houston; United States, Multiple Locations, Multiple Locations | 0.4197 | 2026-09-12 |
+| [Sales Strategy Enablement Lead](https://apply.careers.microsoft.com/careers/job/1970393556957724) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4145 | 2026-09-13 |
+| [Cloud & AI Platform Solution Engineer Manager](https://apply.careers.microsoft.com/careers/job/1970393556994476) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4135 | 2026-09-12 |
+| [Senior Partner Marketing Manager](https://apply.careers.microsoft.com/careers/job/1970393556991291) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4084 | 2026-09-12 |
 
 ## Companies tracked
 
