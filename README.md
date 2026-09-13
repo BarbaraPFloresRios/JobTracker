@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr Software Engineer/Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556929279) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5850 | 2026-09-13 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556751888) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5746 | 2026-09-12 |
-| [Developer Experience Engineer II and/or Senior Developer Experience Engineer](https://apply.careers.microsoft.com/careers/job/1970393556971398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5675 | 2026-09-12 |
+| [Sr Software Engineer/Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556929279) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5872 | 2026-09-13 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556751888) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5740 | 2026-09-12 |
+| [Developer Experience Engineer II and/or Senior Developer Experience Engineer](https://apply.careers.microsoft.com/careers/job/1970393556971398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5681 | 2026-09-12 |
 | [Sr. Program Manager, Delivery Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556950877) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5386 | 2026-09-12 |
 | [Applied Science Manager, AWS Startups](https://www.amazon.jobs/jobs/10537816/applied-science-manager-aws-startups?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5337 | 2026-09-12 |
-| [Senior Product Designer, FDE](https://apply.careers.microsoft.com/careers/job/1970393556981031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5316 | 2026-09-12 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556982563) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5224 | 2026-09-12 |
-| [Business Program Manager - Capacity Demand Predictive Insights](https://apply.careers.microsoft.com/careers/job/1970393556978442) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5136 | 2026-09-12 |
+| [Senior Product Designer, FDE](https://apply.careers.microsoft.com/careers/job/1970393556981031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5322 | 2026-09-12 |
+| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556982563) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5226 | 2026-09-12 |
 | [Sr. Software Development Engineer, Inference Team - AWS Neuron](https://www.amazon.jobs/en/jobs/10538171/sr-software-development-engineer-inference-team-aws-neuron) | amazon | US, WA, Seattle | 0.5124 | 2026-09-12 |
-| [Software Engineer - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939575) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5047 | 2026-09-13 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556992129) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4854 | 2026-09-13 |
-| [Business Architect](https://apply.careers.microsoft.com/careers/job/1970393556957827) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4808 | 2026-09-13 |
+| [Software Engineer - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939575) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5077 | 2026-09-13 |
+| [Business Program Manager - Capacity Demand Predictive Insights](https://apply.careers.microsoft.com/careers/job/1970393556978442) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5034 | 2026-09-12 |
+| [Principal Technical Program Manager, Datacenter End-to-End Build Delivery](https://apply.careers.microsoft.com/careers/job/1970393556994747) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4974 | 2026-09-12 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556992129) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4846 | 2026-09-13 |
+| [Business Architect](https://apply.careers.microsoft.com/careers/job/1970393556957827) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4839 | 2026-09-13 |
 | [Enterprise Architect, Americas Markets & Industries Office of the CTO](https://apply.careers.microsoft.com/careers/job/1970393556981728) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4801 | 2026-09-13 |
-| [Software Engineering II and Senior Software Engineer (CoreAI - Post Training)](https://apply.careers.microsoft.com/careers/job/1970393556994428) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4764 | 2026-09-13 |
 | [Data Center Technician Night Shift](https://www.amazon.jobs/en/jobs/10538152/data-center-technician-night-shift) | amazon | US, AZ, Mesa | 0.4763 | 2026-09-12 |
-| [Global GTM Business Architect - Microsoft Fabric](https://apply.careers.microsoft.com/careers/job/1970393556986874) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4684 | 2026-09-13 |
-| [Principal Technical Program Manager, Datacenter End-to-End Build Delivery](https://apply.careers.microsoft.com/careers/job/1970393556994747) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4647 | 2026-09-12 |
+| [Software Engineering II and Senior Software Engineer (CoreAI - Post Training)](https://apply.careers.microsoft.com/careers/job/1970393556994428) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4762 | 2026-09-13 |
+| [Sales Strategy Enablement Lead](https://apply.careers.microsoft.com/careers/job/1970393556957724) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4673 | 2026-09-13 |
+| [Global GTM Business Architect - Microsoft Fabric](https://apply.careers.microsoft.com/careers/job/1970393556986874) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4661 | 2026-09-13 |
 | [Cloud Solution Architect - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556988179) | microsoft | United States, District of Columbia, Washington D.C.; United States, Virginia, Reston; United States, Maryland, Annapolis Junction; United States, Multiple Locations, Multiple Locations | 0.4594 | 2026-09-12 |
+| [Senior Systems Software Engineer - Machine Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Machine-Learning_JR2024968) | nvidia | US, CA, Santa Clara; US, NC, Durham | 0.4590 | 2026-09-13 |
 | [Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.amazon.jobs/en/jobs/10538247/sr-field-sales-operations-lead-us-specialist-org-namer-field-operations-namer-sales-operations) | amazon | US, CA, San Francisco | 0.4589 | 2026-09-12 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556987131) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4547 | 2026-09-12 |
-| [Sales Strategy Enablement Lead](https://apply.careers.microsoft.com/careers/job/1970393556957724) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4511 | 2026-09-13 |
-| [Senior Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556958196) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4392 | 2026-09-13 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556987131) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4580 | 2026-09-12 |
+| [Senior Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556958196) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4426 | 2026-09-13 |
 | [Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/jobs/10538102/principal-applied-scientist--ai-for-life-sciences-aws-applied-ai-solutions--life-sciences?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4356 | 2026-09-12 |
-| [Principal Product Manager, AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556995531) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4297 | 2026-09-12 |
-| [General Program Manager (L5) - Developer Enablement](https://explore.jobs.netflix.net/careers/job/790317910029) | netflix | Warsaw,Poland | 0.4270 | 2026-09-13 |
+| [Principal Product Manager, AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556995531) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4290 | 2026-09-12 |
 
 ## Companies tracked
 
