@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr Software Engineer/Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556929279) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5872 | 2026-09-13 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556751888) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5740 | 2026-09-12 |
-| [Developer Experience Engineer II and/or Senior Developer Experience Engineer](https://apply.careers.microsoft.com/careers/job/1970393556971398) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5681 | 2026-09-12 |
-| [Sr. Program Manager, Delivery Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556950877) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5386 | 2026-09-12 |
-| [Applied Science Manager, AWS Startups](https://www.amazon.jobs/jobs/10537816/applied-science-manager-aws-startups?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5337 | 2026-09-12 |
-| [Senior Product Designer, FDE](https://apply.careers.microsoft.com/careers/job/1970393556981031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5322 | 2026-09-12 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556982563) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5226 | 2026-09-12 |
-| [Sr. Software Development Engineer, Inference Team - AWS Neuron](https://www.amazon.jobs/en/jobs/10538171/sr-software-development-engineer-inference-team-aws-neuron) | amazon | US, WA, Seattle | 0.5124 | 2026-09-12 |
-| [Software Engineer - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939575) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5077 | 2026-09-13 |
-| [Business Program Manager - Capacity Demand Predictive Insights](https://apply.careers.microsoft.com/careers/job/1970393556978442) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5034 | 2026-09-12 |
-| [Principal Technical Program Manager, Datacenter End-to-End Build Delivery](https://apply.careers.microsoft.com/careers/job/1970393556994747) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4974 | 2026-09-12 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556992129) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4846 | 2026-09-13 |
-| [Business Architect](https://apply.careers.microsoft.com/careers/job/1970393556957827) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4839 | 2026-09-13 |
+| [Sr Software Engineer/Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556929279) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5924 | 2026-09-13 |
+| [Software Engineer - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939575) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5047 | 2026-09-13 |
+| [Member of Technical Staff - Data Flywheel Infra, Frontier Models](https://apply.careers.microsoft.com/careers/job/1970393556982519) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4976 | 2026-09-14 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556992129) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4856 | 2026-09-13 |
+| [Business Architect](https://apply.careers.microsoft.com/careers/job/1970393556957827) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4840 | 2026-09-13 |
+| [Software Engineering II and Senior Software Engineer (CoreAI - Post Training)](https://apply.careers.microsoft.com/careers/job/1970393556994428) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4804 | 2026-09-13 |
 | [Enterprise Architect, Americas Markets & Industries Office of the CTO](https://apply.careers.microsoft.com/careers/job/1970393556981728) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4801 | 2026-09-13 |
-| [Data Center Technician Night Shift](https://www.amazon.jobs/en/jobs/10538152/data-center-technician-night-shift) | amazon | US, AZ, Mesa | 0.4763 | 2026-09-12 |
-| [Software Engineering II and Senior Software Engineer (CoreAI - Post Training)](https://apply.careers.microsoft.com/careers/job/1970393556994428) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4762 | 2026-09-13 |
-| [Sales Strategy Enablement Lead](https://apply.careers.microsoft.com/careers/job/1970393556957724) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4673 | 2026-09-13 |
-| [Global GTM Business Architect - Microsoft Fabric](https://apply.careers.microsoft.com/careers/job/1970393556986874) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4661 | 2026-09-13 |
-| [Cloud Solution Architect - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556988179) | microsoft | United States, District of Columbia, Washington D.C.; United States, Virginia, Reston; United States, Maryland, Annapolis Junction; United States, Multiple Locations, Multiple Locations | 0.4594 | 2026-09-12 |
-| [Senior Systems Software Engineer - Machine Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Machine-Learning_JR2024968) | nvidia | US, CA, Santa Clara; US, NC, Durham | 0.4590 | 2026-09-13 |
-| [Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.amazon.jobs/en/jobs/10538247/sr-field-sales-operations-lead-us-specialist-org-namer-field-operations-namer-sales-operations) | amazon | US, CA, San Francisco | 0.4589 | 2026-09-12 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556987131) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4580 | 2026-09-12 |
-| [Senior Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556958196) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4426 | 2026-09-13 |
-| [Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/jobs/10538102/principal-applied-scientist--ai-for-life-sciences-aws-applied-ai-solutions--life-sciences?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4356 | 2026-09-12 |
-| [Principal Product Manager, AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556995531) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4290 | 2026-09-12 |
+| [Global GTM Business Architect - Microsoft Fabric](https://apply.careers.microsoft.com/careers/job/1970393556986874) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4678 | 2026-09-13 |
+| [Senior Systems Software Engineer - Machine Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Machine-Learning_JR2024968) | nvidia | US, CA, Santa Clara; US, NC, Durham | 0.4584 | 2026-09-13 |
+| [Sales Strategy Enablement Lead](https://apply.careers.microsoft.com/careers/job/1970393556957724) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4522 | 2026-09-13 |
+| [Senior Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556958196) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4392 | 2026-09-13 |
+| [General Program Manager (L5) - Developer Enablement](https://explore.jobs.netflix.net/careers/job/790317910029) | netflix | Warsaw,Poland | 0.4237 | 2026-09-13 |
+| [Senior Software Engineer - Embedded Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Platform_JR2025588) | nvidia | US, CA, Santa Clara | 0.4143 | 2026-09-13 |
+| [Software Engineer 5 - iOS](https://explore.jobs.netflix.net/careers/job/790318041034) | netflix | USA - Remote | 0.4003 | 2026-09-13 |
+| [Services Account Manager](https://apply.careers.microsoft.com/careers/job/1970393556958197) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3971 | 2026-09-13 |
+| [Senior Business Program Manager - Channel Programs Readiness](https://apply.careers.microsoft.com/careers/job/1970393556988040) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.3929 | 2026-09-13 |
+| [Customer Success Account Manager (CSAM)](https://apply.careers.microsoft.com/careers/job/1970393556978550) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3776 | 2026-09-13 |
+| [Regional Partner Commercial Leader - Industry Solutions Delivery (Americas)](https://apply.careers.microsoft.com/careers/job/1970393556982881) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3738 | 2026-09-13 |
+| [Senior System Software Engineer, Software-Defined Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-System-Software-Engineer--Software-Defined-Networking_JR2025345-1) | nvidia | US, CA, Remote; US, NC, Remote; US, TX, Remote; US, CO, Remote; US, WA, Remote | 0.3721 | 2026-09-13 |
+| [Manager, Ad Ops Solutions APAC](https://explore.jobs.netflix.net/careers/job/790318351030) | netflix | Singapore,Singapore | 0.3683 | 2026-09-13 |
+| [Software Engineer II](https://apply.careers.microsoft.com/careers/job/1970393556989680) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3662 | 2026-09-13 |
+| [Data Science Leader \| Responsable en science des données](https://www.metacareers.com/profile/job_details/28353230827677316) | meta | Toronto, Canada | 0.3586 | 2026-09-13 |
+| [Software Engineer 4 - Android](https://explore.jobs.netflix.net/careers/job/790318040862) | netflix | USA - Remote | 0.3448 | 2026-09-13 |
+| [Software Engineer (L5/6) - Infrastructure Management](https://explore.jobs.netflix.net/careers/job/790318143742) | netflix | Los Gatos,California,United States of America | 0.3353 | 2026-09-13 |
+| [Senior Service Engineer - Azure Storage](https://apply.careers.microsoft.com/careers/job/1970393556941956) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3207 | 2026-09-14 |
 
 ## Companies tracked
 
