@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal Applied Scientist, WorkSpaces for AI Agents, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10538705/principal-applied-scientist-workspaces-for-ai-agents-applied-ai-solutions) | amazon | US, WA, Seattle | 0.6107 | 2026-09-14 |
+| [Principal Applied Scientist, WorkSpaces for AI Agents, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10538705/principal-applied-scientist-workspaces-for-ai-agents-applied-ai-solutions) | amazon | US, WA, Seattle | 0.6122 | 2026-09-14 |
+| [Applied Scientist, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10539382/applied-scientist-sponsored-products-and-brands) | amazon | US, WA, Seattle | 0.5902 | 2026-09-14 |
+| [Delivery Consultant - AI/ML, AWS Professional Services WWPS Life Science](https://www.amazon.jobs/en/jobs/10538978/delivery-consultant-ai-ml-aws-professional-services-wwps-life-science) | amazon | US, GA, Atlanta | 0.5827 | 2026-09-14 |
 | [Recruiting Analytics Data Engineer ](https://job-boards.greenhouse.io/anthropic/jobs/5424111008) | anthropic | San Francisco, CA | 0.5816 | 2026-09-15 |
-| [Delivery Consultant - AI/ML, AWS Professional Services WWPS Life Science](https://www.amazon.jobs/en/jobs/10538978/delivery-consultant-ai-ml-aws-professional-services-wwps-life-science) | amazon | US, GA, Atlanta | 0.5600 | 2026-09-14 |
-| [Applied Scientist, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10539382/applied-scientist-sponsored-products-and-brands) | amazon | US, WA, Seattle | 0.5487 | 2026-09-14 |
-| [Data Center Chief Engineer](https://www.amazon.jobs/en/jobs/10539006/data-center-chief-engineer) | amazon | US, TX, Wilmer | 0.5479 | 2026-09-14 |
-| [Data Center Chief Engineer](https://www.amazon.jobs/en/jobs/10539398/data-center-chief-engineer) | amazon | US, TX, Wilmer | 0.5479 | 2026-09-14 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556754360) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5401 | 2026-09-14 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556752185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5339 | 2026-09-15 |
-| [Worldwide Specialist Solutions Architect - GenAI, Data & AI GTM ](https://www.amazon.jobs/en/jobs/10539386/worldwide-specialist-solutions-architect-genai-data-ai-gtm) | amazon | US, NY, New York | 0.5325 | 2026-09-14 |
-| [Data Center Engineering Operations Facility Manager, ADC InfraOps DCEO](https://www.amazon.jobs/en/jobs/10539234/data-center-engineering-operations-facility-manager-adc-infraops-dceo) | amazon | US, OH, Plain City | 0.5316 | 2026-09-14 |
-| [Business Development Manager, AWS Cloud Intelligence , AWS Cloud Intelligence ](https://www.amazon.jobs/en/jobs/10539321/business-development-manager-aws-cloud-intelligence-aws-cloud-intelligence) | amazon | US, WA, Seattle | 0.5286 | 2026-09-14 |
+| [Data Center Engineering Operations Facility Manager, ADC InfraOps DCEO](https://www.amazon.jobs/en/jobs/10539234/data-center-engineering-operations-facility-manager-adc-infraops-dceo) | amazon | US, OH, Plain City | 0.5644 | 2026-09-14 |
+| [Technical CSM III - AMZ10291258](https://www.amazon.jobs/en/jobs/10539349/technical-csm-iii-amz10291258) | amazon | US, WA, Seattle | 0.5623 | 2026-09-15 |
+| [Sr. UX Researcher, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10542004/sr-ux-researcher-applied-ai-solutions) | amazon | US, VA, Arlington | 0.5615 | 2026-09-15 |
+| [Data Center Chief Engineer](https://www.amazon.jobs/en/jobs/10539006/data-center-chief-engineer) | amazon | US, TX, Wilmer | 0.5451 | 2026-09-14 |
+| [Data Center Chief Engineer](https://www.amazon.jobs/en/jobs/10539398/data-center-chief-engineer) | amazon | US, TX, Wilmer | 0.5451 | 2026-09-14 |
+| [Software Development Engineer, CloudFront Console and Agentic Experience](https://www.amazon.jobs/en/jobs/10539081/software-development-engineer-cloudfront-console-and-agentic-experience) | amazon | US, WA, Seattle | 0.5421 | 2026-09-14 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556754360) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5413 | 2026-09-14 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556752185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5405 | 2026-09-15 |
+| [Senior Math Libraries Engineer - LLM Integration and Developer Experience](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---LLM-Integration-and-Developer-Experience_JR2019752-1) | nvidia | US, CA, Santa Clara; US, TX, Remote; US, NY, Remote; US, WA, Remote; US, CA, Remote; US, MA, Remote | 0.5353 | 2026-09-15 |
+| [Worldwide Specialist Solutions Architect - GenAI, Data & AI GTM ](https://www.amazon.jobs/en/jobs/10539386/worldwide-specialist-solutions-architect-genai-data-ai-gtm) | amazon | US, NY, New York | 0.5336 | 2026-09-14 |
+| [Business Development Manager, AWS Cloud Intelligence , AWS Cloud Intelligence ](https://www.amazon.jobs/en/jobs/10539321/business-development-manager-aws-cloud-intelligence-aws-cloud-intelligence) | amazon | US, WA, Seattle | 0.5299 | 2026-09-14 |
 | [Critical Infrastructure Mechanical Engineer, Field Engineering](https://www.amazon.jobs/en/jobs/10539077/critical-infrastructure-mechanical-engineer-field-engineering) | amazon | US, TX, San Antonio | 0.5262 | 2026-09-14 |
 | [Solutions Architect, Greenfield, Automotive & Manufacturing](https://www.amazon.jobs/en/jobs/10539366/solutions-architect-greenfield-automotive-manufacturing) | amazon | US, MI, Detroit | 0.5237 | 2026-09-14 |
-| [Software Development Engineer, CloudFront Console and Agentic Experience](https://www.amazon.jobs/en/jobs/10539081/software-development-engineer-cloudfront-console-and-agentic-experience) | amazon | US, WA, Seattle | 0.5229 | 2026-09-14 |
-| [Engineering  Maintenance Technician](https://www.amazon.jobs/en/jobs/10538970/engineering-maintenance-technician) | amazon | US, CA, San Francisco | 0.5204 | 2026-09-14 |
-| [Member of Technical Staff - Data Flywheel Infra, Frontier Models](https://apply.careers.microsoft.com/careers/job/1970393556982519) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5149 | 2026-09-14 |
+| [Critical Infrastructure Mechanical Engineer, ADC Field Engineering](https://www.amazon.jobs/en/jobs/10541671/critical-infrastructure-mechanical-engineer-adc-field-engineering) | amazon | US, TX, San Antonio | 0.5215 | 2026-09-15 |
+| [Engineering  Maintenance Technician](https://www.amazon.jobs/en/jobs/10538970/engineering-maintenance-technician) | amazon | US, CA, San Francisco | 0.5205 | 2026-09-14 |
+| [Senior Delivery Consultant, Amazon Connect Center of  Delivery Excellence](https://www.amazon.jobs/en/jobs/10541743/senior-delivery-consultant-amazon-connect-center-of-delivery-excellence) | amazon | US, CA, Culver City | 0.5172 | 2026-09-15 |
+| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10540688/engineering-operations-technician) | amazon | US, OR, Boardman | 0.5144 | 2026-09-14 |
+| [Project Engineer, AMER](https://www.amazon.jobs/en/jobs/10541665/project-engineer-amer) | amazon | US, VA, Manassas | 0.5144 | 2026-09-15 |
+| [Bilingual Technical Customer Support, Ring, Ring](https://www.amazon.jobs/en/jobs/10542085/bilingual-technical-customer-support-ring-ring) | amazon | US, TX, Virtual Location - Texas | 0.5132 | 2026-09-15 |
+| [Member of Technical Staff - Data Flywheel Infra, Frontier Models](https://apply.careers.microsoft.com/careers/job/1970393556982519) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5130 | 2026-09-14 |
 | [Sourcing Recruiter, AWS Infrastructure Services (AIS) TA](https://www.amazon.jobs/en/jobs/10539236/sourcing-recruiter-aws-infrastructure-services-ais-ta) | amazon | US, WA, Seattle | 0.5118 | 2026-09-14 |
-| [Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556984206) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5110 | 2026-09-14 |
-| [Senior Developer Relations Manager, Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-New-York/Senior-Developer-Relations-Manager--Capital-Markets_JR2017419-1) | nvidia | US, NY, New York; US, NY, Remote; US, CA, Remote; US, CA, Santa Clara | 0.5079 | 2026-09-14 |
-| [Solution Area Specialist - AI Workforce](https://apply.careers.microsoft.com/careers/job/1970393556866170) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5072 | 2026-09-15 |
-| [Bilingual Technical Customer Support, Ring, Ring](https://www.amazon.jobs/en/jobs/10539558/bilingual-technical-customer-support-ring-ring) | amazon | US, AZ, Virtual Location - Arizona | 0.5070 | 2026-09-14 |
-| [GPU System Performance Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-Performance-Architect_JR2025475) | nvidia | US, CA, Santa Clara; US, CO, Boulder; US, OR, Hillsboro | 0.5061 | 2026-09-14 |
-| [Engineering Operations Technician](https://www.amazon.jobs/en/jobs/10539556/engineering-operations-technician) | amazon | US, PA, Berwick | 0.4949 | 2026-09-14 |
-| [Engineering  Maintenance Technician](https://www.amazon.jobs/en/jobs/10538969/engineering-maintenance-technician) | amazon | US, CA, Hayward | 0.4946 | 2026-09-14 |
-| [Solution Engineer - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556866541) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4921 | 2026-09-15 |
 
 ## Companies tracked
 
