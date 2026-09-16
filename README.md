@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [ AI Platform Data Engineer, Ring Decision Science, Ring Decision Science](https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science) | amazon | US, CA, Hawthorne | 0.6302 | 2026-09-15 |
+| [Data Center  Manager, Data Center Operations (DCO)](https://www.amazon.jobs/en/jobs/10543903/data-center-manager-data-center-operations-dco) | amazon | US, MS, Canton | 0.6086 | 2026-09-15 |
+| [Senior Solutions Architect, Automotive & Manufacturing, AGS Automotive & Manufacturing](https://www.amazon.jobs/en/jobs/10543943/senior-solutions-architect-automotive-manufacturing-ags-automotive-manufacturing) | amazon | US, WA, Seattle | 0.5896 | 2026-09-16 |
 | [Recruiting Analytics Data Engineer ](https://job-boards.greenhouse.io/anthropic/jobs/5424111008) | anthropic | San Francisco, CA | 0.5816 | 2026-09-15 |
+| [Technical CSM III - AMZ10291258](https://www.amazon.jobs/en/jobs/10539349/technical-csm-iii-amz10291258) | amazon | US, WA, Seattle | 0.5769 | 2026-09-15 |
 | [Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10543848/applied-scientist-fauna) | amazon | US, NY, New York | 0.5759 | 2026-09-15 |
-| [Data Center  Manager, Data Center Operations (DCO)](https://www.amazon.jobs/en/jobs/10543903/data-center-manager-data-center-operations-dco) | amazon | US, MS, Canton | 0.5707 | 2026-09-15 |
-| [Sr. UX Researcher, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10542004/sr-ux-researcher-applied-ai-solutions) | amazon | US, VA, Arlington | 0.5707 | 2026-09-15 |
-| [Technical CSM III - AMZ10291258](https://www.amazon.jobs/en/jobs/10539349/technical-csm-iii-amz10291258) | amazon | US, WA, Seattle | 0.5696 | 2026-09-15 |
-| [Senior Solutions Architect, Automotive & Manufacturing, AGS Automotive & Manufacturing](https://www.amazon.jobs/en/jobs/10543943/senior-solutions-architect-automotive-manufacturing-ags-automotive-manufacturing) | amazon | US, WA, Seattle | 0.5695 | 2026-09-16 |
+| [Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544529/data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5750 | 2026-09-16 |
+| [Sr. UX Researcher, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10542004/sr-ux-researcher-applied-ai-solutions) | amazon | US, VA, Arlington | 0.5713 | 2026-09-15 |
 | [Principal Sales Specialist, Analytics, US-FSI Technical Sales Specialists](https://www.amazon.jobs/en/jobs/10543753/principal-sales-specialist-analytics-us-fsi-technical-sales-specialists) | amazon | US, MA, Boston | 0.5596 | 2026-09-15 |
+| [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10544494/data-center-technician-adc-infraops-dco) | amazon | US, MD, Laurel | 0.5569 | 2026-09-16 |
 | [Delivery Practice Manager, A2C, Professional Services Early Career](https://www.amazon.jobs/en/jobs/10544000/delivery-practice-manager-a2c-professional-services-early-career) | amazon | US, VA, Arlington | 0.5550 | 2026-09-16 |
 | [Applied Scientist II, Foundation Model](https://www.amazon.jobs/en/jobs/10543793/applied-scientist-ii-foundation-model) | amazon | US, CA, Sunnyvale | 0.5482 | 2026-09-15 |
-| [Critical Infrastructure Mechanical Engineer, ADC Field Engineering](https://www.amazon.jobs/en/jobs/10541671/critical-infrastructure-mechanical-engineer-adc-field-engineering) | amazon | US, TX, San Antonio | 0.5452 | 2026-09-15 |
+| [Bilingual Technical Customer Support, Ring, Ring](https://www.amazon.jobs/en/jobs/10542085/bilingual-technical-customer-support-ring-ring) | amazon | US, TX, Virtual Location - Texas | 0.5479 | 2026-09-15 |
+| [Critical Infrastructure Mechanical Engineer, ADC Field Engineering](https://www.amazon.jobs/en/jobs/10541671/critical-infrastructure-mechanical-engineer-adc-field-engineering) | amazon | US, TX, San Antonio | 0.5434 | 2026-09-15 |
 | [Applied Scientist , Personalization & Ranking](https://www.amazon.jobs/jobs/10543976/applied-scientist--personalization--ranking-?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5430 | 2026-09-16 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556752185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5414 | 2026-09-15 |
-| [Bilingual Technical Customer Support, Ring, Ring](https://www.amazon.jobs/en/jobs/10542085/bilingual-technical-customer-support-ring-ring) | amazon | US, TX, Virtual Location - Texas | 0.5410 | 2026-09-15 |
-| [Project Engineer, AMER](https://www.amazon.jobs/en/jobs/10541665/project-engineer-amer) | amazon | US, VA, Manassas | 0.5371 | 2026-09-15 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556752185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5401 | 2026-09-15 |
+| [Principal Software Engineer, AI Infra Management and Ops](https://apply.careers.microsoft.com/careers/job/1970393556999396) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5381 | 2026-09-16 |
+| [Manager of Construction, Data Center Construction](https://www.amazon.jobs/en/jobs/10544602/manager-of-construction-data-center-construction) | amazon | US, IN, New Carlisle | 0.5376 | 2026-09-16 |
+| [Project Engineer, AMER](https://www.amazon.jobs/en/jobs/10541665/project-engineer-amer) | amazon | US, VA, Manassas | 0.5356 | 2026-09-15 |
 | [Senior Math Libraries Engineer - LLM Integration and Developer Experience](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---LLM-Integration-and-Developer-Experience_JR2019752-1) | nvidia | US, CA, Santa Clara; US, TX, Remote; US, NY, Remote; US, WA, Remote; US, CA, Remote; US, MA, Remote | 0.5353 | 2026-09-15 |
+| [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10544717/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, MD, Jessup | 0.5352 | 2026-09-16 |
+| [Customer Solutions Manager, US ISV](https://www.amazon.jobs/en/jobs/10542506/customer-solutions-manager-us-isv) | amazon | US, VA, Herndon | 0.5344 | 2026-09-15 |
 | [Senior Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544036/senior-data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5337 | 2026-09-16 |
-| [Engineering Operations Technician - Night Shift, Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10541693/engineering-operations-technician-night-shift-data-center-engineering-operations-dceo) | amazon | US, IN, New Carlisle | 0.5319 | 2026-09-15 |
-| [Talent Sourcer](https://apply.careers.microsoft.com/careers/job/1970393556994768) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5301 | 2026-09-16 |
-| [Finance Analyst, FinOps AR](https://www.amazon.jobs/en/jobs/10543987/finance-analyst-finops-ar) | amazon | US, VA, Arlington | 0.5294 | 2026-09-16 |
-| [MLA IP Design Verification Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10543795/mla-ip-design-verification-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5283 | 2026-09-15 |
-| [Systems Development Engineer, Platform Engineering & Emerging Technology](https://www.amazon.jobs/en/jobs/10543959/systems-development-engineer-platform-engineering-emerging-technology) | amazon | US, CO, Denver | 0.5277 | 2026-09-16 |
-| [Senior Delivery Consultant, Amazon Connect Center of  Delivery Excellence](https://www.amazon.jobs/en/jobs/10541743/senior-delivery-consultant-amazon-connect-center-of-delivery-excellence) | amazon | US, CA, Culver City | 0.5276 | 2026-09-15 |
-| [Software Dev Engineer II, Technical Content Experience (TCX) Engineering](https://www.amazon.jobs/en/jobs/10543901/software-dev-engineer-ii-technical-content-experience-tcx-engineering) | amazon | US, WA, Seattle | 0.5184 | 2026-09-15 |
-| [Customer Solutions Manager, US ISV](https://www.amazon.jobs/en/jobs/10542506/customer-solutions-manager-us-isv) | amazon | US, VA, Herndon | 0.5162 | 2026-09-15 |
+| [Engineering Operations Technician - Night Shift, Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10541693/engineering-operations-technician-night-shift-data-center-engineering-operations-dceo) | amazon | US, IN, New Carlisle | 0.5315 | 2026-09-15 |
+| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10544696/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Herndon | 0.5310 | 2026-09-16 |
 
 ## Companies tracked
 
