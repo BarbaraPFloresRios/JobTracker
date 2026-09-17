@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Applied Scientist , Sponsored Products and Brands Ads Response Prediction ](https://www.amazon.jobs/en/jobs/10547666/senior-applied-scientist-sponsored-products-and-brands-ads-response-prediction) | amazon | US, CA, Palo Alto | 0.5959 | 2026-09-16 |
-| [Senior Solutions Architect, Automotive & Manufacturing, AGS Automotive & Manufacturing](https://www.amazon.jobs/en/jobs/10543943/senior-solutions-architect-automotive-manufacturing-ags-automotive-manufacturing) | amazon | US, WA, Seattle | 0.5948 | 2026-09-16 |
-| [Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544529/data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5892 | 2026-09-16 |
-| [Principal Software Engineer, AI Infra Management and Ops](https://apply.careers.microsoft.com/careers/job/1970393556999396) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5771 | 2026-09-16 |
-| [Delivery Practice Manager, A2C, Professional Services Early Career](https://www.amazon.jobs/en/jobs/10544000/delivery-practice-manager-a2c-professional-services-early-career) | amazon | US, VA, Arlington | 0.5695 | 2026-09-16 |
-| [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10544494/data-center-technician-adc-infraops-dco) | amazon | US, MD, Laurel | 0.5693 | 2026-09-16 |
-| [Senior Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544036/senior-data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5691 | 2026-09-16 |
-| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10544696/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Herndon | 0.5606 | 2026-09-16 |
-| [Finance Analyst, FinOps AR](https://www.amazon.jobs/en/jobs/10543987/finance-analyst-finops-ar) | amazon | US, VA, Arlington | 0.5576 | 2026-09-16 |
-| [Talent Sourcer](https://apply.careers.microsoft.com/careers/job/1970393556994768) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5507 | 2026-09-16 |
-| [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10544717/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, MD, Jessup | 0.5457 | 2026-09-16 |
+| [Senior Applied Scientist , Sponsored Products and Brands Ads Response Prediction ](https://www.amazon.jobs/en/jobs/10547666/senior-applied-scientist-sponsored-products-and-brands-ads-response-prediction) | amazon | US, CA, Palo Alto | 0.6084 | 2026-09-16 |
+| [Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544529/data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5942 | 2026-09-16 |
+| [Senior Solutions Architect, Automotive & Manufacturing, AGS Automotive & Manufacturing](https://www.amazon.jobs/en/jobs/10543943/senior-solutions-architect-automotive-manufacturing-ags-automotive-manufacturing) | amazon | US, WA, Seattle | 0.5927 | 2026-09-16 |
+| [Senior Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10544036/senior-data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5850 | 2026-09-16 |
+| [Principal Software Engineer, AI Infra Management and Ops](https://apply.careers.microsoft.com/careers/job/1970393556999396) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5778 | 2026-09-16 |
+| [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10544494/data-center-technician-adc-infraops-dco) | amazon | US, MD, Laurel | 0.5718 | 2026-09-16 |
+| [Finance Analyst, FinOps AR](https://www.amazon.jobs/en/jobs/10543987/finance-analyst-finops-ar) | amazon | US, VA, Arlington | 0.5692 | 2026-09-16 |
+| [Delivery Practice Manager, A2C, Professional Services Early Career](https://www.amazon.jobs/en/jobs/10544000/delivery-practice-manager-a2c-professional-services-early-career) | amazon | US, VA, Arlington | 0.5652 | 2026-09-16 |
+| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10544696/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Herndon | 0.5623 | 2026-09-16 |
+| [Talent Sourcer](https://apply.careers.microsoft.com/careers/job/1970393556994768) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5516 | 2026-09-16 |
+| [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10544717/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, MD, Jessup | 0.5458 | 2026-09-16 |
 | [Applied Scientist , Personalization & Ranking](https://www.amazon.jobs/jobs/10543976/applied-scientist--personalization--ranking-?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5430 | 2026-09-16 |
 | [Manager of Construction, Data Center Construction](https://www.amazon.jobs/en/jobs/10544602/manager-of-construction-data-center-construction) | amazon | US, IN, New Carlisle | 0.5376 | 2026-09-16 |
+| [Sr Software Development Engineer - AgentCore, AWS Agentic AI](https://www.amazon.jobs/en/jobs/10544938/sr-software-development-engineer-agentcore-aws-agentic-ai) | amazon | US, NY, New York | 0.5368 | 2026-09-16 |
 | [Senior Financial Analyst, Global Procurement Finance](https://www.amazon.jobs/en/jobs/10551379/senior-financial-analyst-global-procurement-finance) | amazon | US, WA, Bellevue | 0.5355 | 2026-09-17 |
-| [Principal Learning Program Manager, Credential Growth & Experience](https://apply.careers.microsoft.com/careers/job/1970393556986824) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5351 | 2026-09-16 |
-| [Sr Software Development Engineer - AgentCore, AWS Agentic AI](https://www.amazon.jobs/en/jobs/10544938/sr-software-development-engineer-agentcore-aws-agentic-ai) | amazon | US, NY, New York | 0.5347 | 2026-09-16 |
-| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10547068/engineering-operation-technician) | amazon | US, NV, Sparks | 0.5333 | 2026-09-16 |
-| [Engineering Operation Technician, RNO101](https://www.amazon.jobs/en/jobs/10547044/engineering-operation-technician-rno101) | amazon | US, NV, Sparks | 0.5312 | 2026-09-16 |
-| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10547050/engineering-operation-technician) | amazon | US, NV, Sparks | 0.5306 | 2026-09-16 |
+| [Principal Learning Program Manager, Credential Growth & Experience](https://apply.careers.microsoft.com/careers/job/1970393556986824) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5347 | 2026-09-16 |
+| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10547068/engineering-operation-technician) | amazon | US, NV, Sparks | 0.5335 | 2026-09-16 |
+| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10547050/engineering-operation-technician) | amazon | US, NV, Sparks | 0.5305 | 2026-09-16 |
 | [Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators](https://www.amazon.jobs/en/jobs/10551438/software-engineer-hardware-abstraction-layer-aws-machine-learning-accelerators) | amazon | US, CA, Cupertino | 0.5298 | 2026-09-17 |
-| [Systems Development Engineer, Platform Engineering & Emerging Technology](https://www.amazon.jobs/en/jobs/10543959/systems-development-engineer-platform-engineering-emerging-technology) | amazon | US, CO, Denver | 0.5290 | 2026-09-16 |
+| [Engineering Operation Technician, RNO101](https://www.amazon.jobs/en/jobs/10547044/engineering-operation-technician-rno101) | amazon | US, NV, Sparks | 0.5288 | 2026-09-16 |
 | [Hardware Validation Engineer, NPD Hardware](https://www.amazon.jobs/en/jobs/10547116/hardware-validation-engineer-npd-hardware) | amazon | US, CA, Cupertino | 0.5278 | 2026-09-16 |
 | [Senior Technical Infrastructure Program Manager, Network Engineering](https://www.amazon.jobs/en/jobs/10545812/senior-technical-infrastructure-program-manager-network-engineering) | amazon | US, WA, Seattle | 0.5259 | 2026-09-16 |
-| [Engineering Operations Technician ](https://www.amazon.jobs/en/jobs/10544802/engineering-operations-technician) | amazon | US, GA, Lithia Springs | 0.5248 | 2026-09-16 |
-| [Sr. Integrated Supply Manager, AWS Infrastructure Services](https://www.amazon.jobs/en/jobs/10544019/sr-integrated-supply-manager-aws-infrastructure-services) | amazon | US, WA, Seattle | 0.5232 | 2026-09-16 |
+| [Systems Development Engineer, Platform Engineering & Emerging Technology](https://www.amazon.jobs/en/jobs/10543959/systems-development-engineer-platform-engineering-emerging-technology) | amazon | US, CO, Denver | 0.5252 | 2026-09-16 |
+| [Engineering Operations Technician ](https://www.amazon.jobs/en/jobs/10544802/engineering-operations-technician) | amazon | US, GA, Lithia Springs | 0.5245 | 2026-09-16 |
+| [Sr. Integrated Supply Manager, AWS Infrastructure Services](https://www.amazon.jobs/en/jobs/10544019/sr-integrated-supply-manager-aws-infrastructure-services) | amazon | US, WA, Seattle | 0.5226 | 2026-09-16 |
 
 ## Companies tracked
 
