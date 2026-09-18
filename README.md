@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10552558/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6424 | 2026-09-17 |
+| [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10552558/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6431 | 2026-09-17 |
 | [Sr. Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10552355/sr-applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.6353 | 2026-09-17 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10552231/data-center-manager-dco) | amazon | US, VA, Sterling | 0.6017 | 2026-09-17 |
-| [Sr. Manager, Customer Solutions Management, Global Financial Services – Banking, Global Financial Services - CSM](https://www.amazon.jobs/en/jobs/10552359/sr-manager-customer-solutions-management-global-financial-services-banking-global-financial-services-csm) | amazon | US, NY, New York | 0.6009 | 2026-09-17 |
+| [Sr. Manager, Customer Solutions Management, Global Financial Services – Banking, Global Financial Services - CSM](https://www.amazon.jobs/en/jobs/10552359/sr-manager-customer-solutions-management-global-financial-services-banking-global-financial-services-csm) | amazon | US, NY, New York | 0.6054 | 2026-09-17 |
+| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10552231/data-center-manager-dco) | amazon | US, VA, Sterling | 0.5980 | 2026-09-17 |
+| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10552144/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Ashburn | 0.5817 | 2026-09-17 |
 | [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5710 | 2026-09-18 |
+| [Senior Financial Analyst, Inbound Operations Finance](https://www.amazon.jobs/en/jobs/10552666/senior-financial-analyst-inbound-operations-finance) | amazon | US, VA, Arlington | 0.5596 | 2026-09-17 |
 | [Senior Financial Analyst, Financial Modeling and Data Analytics, Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552218/senior-financial-analyst-financial-modeling-and-data-analytics-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, TX, Dallas | 0.5546 | 2026-09-17 |
 | [Senior Financial Analyst, Data & Financial Modeling – Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552219/senior-financial-analyst-data-financial-modeling-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, NY, New York | 0.5500 | 2026-09-17 |
 | [Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement](https://www.amazon.jobs/en/jobs/10553013/sr-marketing-operations-manager-aws-marketing-strategy-operations-and-enablement) | amazon | US, NY, New York | 0.5493 | 2026-09-18 |
 | [AI Principal Product Manager - Technical, Amazon Customer Service ](https://www.amazon.jobs/en/jobs/10552284/ai-principal-product-manager-technical-amazon-customer-service) | amazon | US, WA, Seattle | 0.5477 | 2026-09-17 |
 | [Engineering Operations Technician ](https://www.amazon.jobs/en/jobs/10552693/engineering-operations-technician) | amazon | US, VA, Chantilly | 0.5431 | 2026-09-17 |
 | [2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning](https://www.amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning) | amazon | US, WA, Seattle | 0.5421 | 2026-09-18 |
-| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10552144/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Ashburn | 0.5381 | 2026-09-17 |
-| [Senior Financial Analyst, Global Procurement Finance](https://www.amazon.jobs/en/jobs/10551379/senior-financial-analyst-global-procurement-finance) | amazon | US, WA, Bellevue | 0.5377 | 2026-09-17 |
-| [Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators](https://www.amazon.jobs/en/jobs/10551438/software-engineer-hardware-abstraction-layer-aws-machine-learning-accelerators) | amazon | US, CA, Cupertino | 0.5358 | 2026-09-17 |
+| [Senior Financial Analyst, Global Procurement Finance](https://www.amazon.jobs/en/jobs/10551379/senior-financial-analyst-global-procurement-finance) | amazon | US, WA, Bellevue | 0.5382 | 2026-09-17 |
 | [Senior Applied Scientist , Sponsored Products and Brands Ads Response Prediction](https://www.amazon.jobs/jobs/10547666/senior-applied-scientist--sponsored-products-and-brands-ads-response-prediction-?cmpid=bsp-amazon-science) | amazon_science | US, CA, Palo Alto | 0.5354 | 2026-09-17 |
-| [Senior Financial Analyst, Inbound Operations Finance](https://www.amazon.jobs/en/jobs/10552666/senior-financial-analyst-inbound-operations-finance) | amazon | US, VA, Arlington | 0.5336 | 2026-09-17 |
-| [Application Security Engineer, AWS Security](https://www.amazon.jobs/en/jobs/10550878/application-security-engineer-aws-security) | amazon | US, WA, Seattle | 0.5332 | 2026-09-17 |
-| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10551443/software-development-engineer) | amazon | US, WA, Seattle | 0.5301 | 2026-09-17 |
-| [Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10549835/sr-post-silicon-systems-software-validation-engineer-annapurna-labs) | amazon | US, TX, Austin | 0.5260 | 2026-09-17 |
+| [AWS Senior Account Manager, Education Technology](https://www.amazon.jobs/en/jobs/10553131/aws-senior-account-manager-education-technology) | amazon | US, NY, New York | 0.5338 | 2026-09-18 |
+| [Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators](https://www.amazon.jobs/en/jobs/10551438/software-engineer-hardware-abstraction-layer-aws-machine-learning-accelerators) | amazon | US, CA, Cupertino | 0.5330 | 2026-09-17 |
+| [Application Security Engineer, AWS Security](https://www.amazon.jobs/en/jobs/10550878/application-security-engineer-aws-security) | amazon | US, WA, Seattle | 0.5321 | 2026-09-17 |
+| [Software Development Engineer 2, Prime Video Personalization and Discovery](https://www.amazon.jobs/en/jobs/10553194/software-development-engineer-2-prime-video-personalization-and-discovery) | amazon | US, WA, Seattle | 0.5317 | 2026-09-18 |
+| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10551443/software-development-engineer) | amazon | US, WA, Seattle | 0.5270 | 2026-09-17 |
+| [Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10549835/sr-post-silicon-systems-software-validation-engineer-annapurna-labs) | amazon | US, TX, Austin | 0.5259 | 2026-09-17 |
 | [Senior Portfolio Growth Manager, Auto, AWS Worldwide Startups](https://www.amazon.jobs/en/jobs/10553011/senior-portfolio-growth-manager-auto-aws-worldwide-startups) | amazon | US, CA, San Francisco | 0.5249 | 2026-09-18 |
-| [Construction Cost Engineer, AMER Cost Control](https://www.amazon.jobs/en/jobs/10551963/construction-cost-engineer-amer-cost-control) | amazon | US, VA, Herndon | 0.5203 | 2026-09-17 |
+| [Construction Cost Engineer, AMER Cost Control](https://www.amazon.jobs/en/jobs/10551963/construction-cost-engineer-amer-cost-control) | amazon | US, VA, Herndon | 0.5209 | 2026-09-17 |
 | [Startup Growth PDM, Global Startup Team](https://www.amazon.jobs/en/jobs/10552260/startup-growth-pdm-global-startup-team) | amazon | US, WA, Seattle | 0.5176 | 2026-09-17 |
-| [Senior Product Marketing Manager, Real-to-Sim and Simulation Frameworks](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager--Real-to-Sim-and-Simulation-Frameworks_JR2025795) | nvidia | US, CA, Santa Clara | 0.5130 | 2026-09-17 |
-| [Psychometrician, AWS Training & Certification](https://www.amazon.jobs/jobs/10545431/psychometrician-aws-training--certification?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5118 | 2026-09-17 |
-| [Data Center Engineering Operations Technician , DCEO Engr 3](https://www.amazon.jobs/en/jobs/10552697/data-center-engineering-operations-technician-dceo-engr-3) | amazon | US, OH, Hilliard | 0.5113 | 2026-09-17 |
+| [Senior Product Marketing Manager, Real-to-Sim and Simulation Frameworks](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager--Real-to-Sim-and-Simulation-Frameworks_JR2025795) | nvidia | US, CA, Santa Clara | 0.5135 | 2026-09-17 |
 
 ## Companies tracked
 
