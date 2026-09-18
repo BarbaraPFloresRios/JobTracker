@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10552355/sr-applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.6542 | 2026-09-17 |
-| [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10552558/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6435 | 2026-09-17 |
-| [Sr. Manager, Customer Solutions Management, Global Financial Services – Banking, Global Financial Services - CSM](https://www.amazon.jobs/en/jobs/10552359/sr-manager-customer-solutions-management-global-financial-services-banking-global-financial-services-csm) | amazon | US, NY, New York | 0.6044 | 2026-09-17 |
-| [Principal Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.amazon.jobs/en/jobs/10553420/principal-technical-account-manager-es-namer-us-frontier-ai) | amazon | US, CA, San Francisco | 0.6016 | 2026-09-18 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10552231/data-center-manager-dco) | amazon | US, VA, Sterling | 0.6003 | 2026-09-17 |
-| [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5710 | 2026-09-18 |
-| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10552144/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Ashburn | 0.5688 | 2026-09-17 |
-| [AI Principal Product Manager - Technical, Amazon Customer Service ](https://www.amazon.jobs/en/jobs/10552284/ai-principal-product-manager-technical-amazon-customer-service) | amazon | US, WA, Seattle | 0.5673 | 2026-09-17 |
-| [Senior Financial Analyst, Inbound Operations Finance](https://www.amazon.jobs/en/jobs/10552666/senior-financial-analyst-inbound-operations-finance) | amazon | US, VA, Arlington | 0.5616 | 2026-09-17 |
+| [Data Engineer, Ring Agent Platforms](https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms) | amazon | US, CA, Hawthorne | 0.6595 | 2026-09-18 |
+| [Sr. Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10552355/sr-applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.6529 | 2026-09-17 |
+| [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10552558/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6432 | 2026-09-17 |
+| [Principal Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.amazon.jobs/en/jobs/10553420/principal-technical-account-manager-es-namer-us-frontier-ai) | amazon | US, CA, San Francisco | 0.6262 | 2026-09-18 |
+| [Sr. Manager, Customer Solutions Management, Global Financial Services – Banking, Global Financial Services - CSM](https://www.amazon.jobs/en/jobs/10552359/sr-manager-customer-solutions-management-global-financial-services-banking-global-financial-services-csm) | amazon | US, NY, New York | 0.6057 | 2026-09-17 |
+| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10552231/data-center-manager-dco) | amazon | US, VA, Sterling | 0.5987 | 2026-09-17 |
+| [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5978 | 2026-09-18 |
+| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10552144/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Ashburn | 0.5823 | 2026-09-17 |
+| [Senior Electrical Engineer Data Centers](https://apply.careers.microsoft.com/careers/job/1970393556956383) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5732 | 2026-09-18 |
+| [AI Principal Product Manager - Technical, Amazon Customer Service ](https://www.amazon.jobs/en/jobs/10552284/ai-principal-product-manager-technical-amazon-customer-service) | amazon | US, WA, Seattle | 0.5664 | 2026-09-17 |
+| [Senior Financial Analyst, Financial Modeling and Data Analytics, Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552218/senior-financial-analyst-financial-modeling-and-data-analytics-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, TX, Dallas | 0.5627 | 2026-09-17 |
+| [Senior Financial Analyst, Inbound Operations Finance](https://www.amazon.jobs/en/jobs/10552666/senior-financial-analyst-inbound-operations-finance) | amazon | US, VA, Arlington | 0.5597 | 2026-09-17 |
 | [Partner Marketing Manager, NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10553425/partner-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5569 | 2026-09-18 |
-| [Senior Financial Analyst, Financial Modeling and Data Analytics, Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552218/senior-financial-analyst-financial-modeling-and-data-analytics-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, TX, Dallas | 0.5568 | 2026-09-17 |
-| [Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement](https://www.amazon.jobs/en/jobs/10553013/sr-marketing-operations-manager-aws-marketing-strategy-operations-and-enablement) | amazon | US, NY, New York | 0.5493 | 2026-09-18 |
-| [Senior Financial Analyst, Data & Financial Modeling – Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552219/senior-financial-analyst-data-financial-modeling-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, NY, New York | 0.5457 | 2026-09-17 |
-| [Engineering Operations Technician ](https://www.amazon.jobs/en/jobs/10552693/engineering-operations-technician) | amazon | US, VA, Chantilly | 0.5431 | 2026-09-17 |
-| [2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning](https://www.amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning) | amazon | US, WA, Seattle | 0.5421 | 2026-09-18 |
-| [Startup Growth PDM, Global Startup Team](https://www.amazon.jobs/en/jobs/10552260/startup-growth-pdm-global-startup-team) | amazon | US, WA, Seattle | 0.5416 | 2026-09-17 |
-| [Senior Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10552220/senior-applied-scientist-fauna) | amazon | US, NY, New York | 0.5388 | 2026-09-17 |
-| [Senior Financial Analyst, Global Procurement Finance](https://www.amazon.jobs/en/jobs/10551379/senior-financial-analyst-global-procurement-finance) | amazon | US, WA, Bellevue | 0.5369 | 2026-09-17 |
-| [Senior Applied Scientist , Sponsored Products and Brands Ads Response Prediction](https://www.amazon.jobs/jobs/10547666/senior-applied-scientist--sponsored-products-and-brands-ads-response-prediction-?cmpid=bsp-amazon-science) | amazon_science | US, CA, Palo Alto | 0.5347 | 2026-09-17 |
-| [AWS Senior Account Manager, Education Technology](https://www.amazon.jobs/en/jobs/10553131/aws-senior-account-manager-education-technology) | amazon | US, NY, New York | 0.5338 | 2026-09-18 |
-| [Application Security Engineer, AWS Security](https://www.amazon.jobs/en/jobs/10550878/application-security-engineer-aws-security) | amazon | US, WA, Seattle | 0.5325 | 2026-09-17 |
-| [Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators](https://www.amazon.jobs/en/jobs/10551438/software-engineer-hardware-abstraction-layer-aws-machine-learning-accelerators) | amazon | US, CA, Cupertino | 0.5324 | 2026-09-17 |
-| [Software Development Engineer 2, Prime Video Personalization and Discovery](https://www.amazon.jobs/en/jobs/10553194/software-development-engineer-2-prime-video-personalization-and-discovery) | amazon | US, WA, Seattle | 0.5311 | 2026-09-18 |
-| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10551443/software-development-engineer) | amazon | US, WA, Seattle | 0.5294 | 2026-09-17 |
-| [Psychometrician, AWS Training & Certification](https://www.amazon.jobs/jobs/10545431/psychometrician-aws-training--certification?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5293 | 2026-09-17 |
+| [Senior Portfolio Growth Manager, Auto, AWS Worldwide Startups](https://www.amazon.jobs/en/jobs/10553011/senior-portfolio-growth-manager-auto-aws-worldwide-startups) | amazon | US, CA, San Francisco | 0.5532 | 2026-09-18 |
+| [Senior Financial Analyst, Data & Financial Modeling – Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552219/senior-financial-analyst-data-financial-modeling-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, NY, New York | 0.5518 | 2026-09-17 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553560/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553573/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553569/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553556/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553554/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553574/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553555/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553565/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553561/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Data Center Facility Manager](https://www.amazon.jobs/en/jobs/10553816/data-center-facility-manager) | amazon | US, AZ, Mesa | 0.5515 | 2026-09-18 |
 
 ## Companies tracked
 
