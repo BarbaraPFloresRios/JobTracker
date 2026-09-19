@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Engineer, Ring Agent Platforms](https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms) | amazon | US, CA, Hawthorne | 0.6595 | 2026-09-18 |
-| [Sr. Applied Scientist, Pricing Science](https://www.amazon.jobs/en/jobs/10552355/sr-applied-scientist-pricing-science) | amazon | US, WA, Seattle | 0.6567 | 2026-09-17 |
-| [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10552558/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6420 | 2026-09-17 |
-| [Principal Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.amazon.jobs/en/jobs/10553420/principal-technical-account-manager-es-namer-us-frontier-ai) | amazon | US, CA, San Francisco | 0.6320 | 2026-09-18 |
-| [Data Center Manager, DCO](https://www.amazon.jobs/en/jobs/10552231/data-center-manager-dco) | amazon | US, VA, Sterling | 0.6036 | 2026-09-17 |
-| [Sr. Manager, Customer Solutions Management, Global Financial Services – Banking, Global Financial Services - CSM](https://www.amazon.jobs/en/jobs/10552359/sr-manager-customer-solutions-management-global-financial-services-banking-global-financial-services-csm) | amazon | US, NY, New York | 0.6033 | 2026-09-17 |
-| [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5987 | 2026-09-18 |
-| [Senior Electrical Engineer Data Centers](https://apply.careers.microsoft.com/careers/job/1970393556956383) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5732 | 2026-09-18 |
-| [Data Center Engineering Operations Technician, DCC Communities, Amazon Web Services](https://www.amazon.jobs/en/jobs/10552144/data-center-engineering-operations-technician-dcc-communities-amazon-web-services) | amazon | US, VA, Ashburn | 0.5683 | 2026-09-17 |
-| [AI Principal Product Manager - Technical, Amazon Customer Service ](https://www.amazon.jobs/en/jobs/10552284/ai-principal-product-manager-technical-amazon-customer-service) | amazon | US, WA, Seattle | 0.5660 | 2026-09-17 |
-| [Senior Financial Analyst, Inbound Operations Finance](https://www.amazon.jobs/en/jobs/10552666/senior-financial-analyst-inbound-operations-finance) | amazon | US, VA, Arlington | 0.5614 | 2026-09-17 |
-| [Senior Financial Analyst, Financial Modeling and Data Analytics, Operations Finance, North America 3P External Fulfillment Finance](https://www.amazon.jobs/en/jobs/10552218/senior-financial-analyst-financial-modeling-and-data-analytics-operations-finance-north-america-3p-external-fulfillment-finance) | amazon | US, TX, Dallas | 0.5569 | 2026-09-17 |
-| [Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement](https://www.amazon.jobs/en/jobs/10553013/sr-marketing-operations-manager-aws-marketing-strategy-operations-and-enablement) | amazon | US, NY, New York | 0.5554 | 2026-09-18 |
-| [Delivery Practice Manager, WWPS ProServe](https://www.amazon.jobs/en/jobs/10553815/delivery-practice-manager-wwps-proserve) | amazon | US, MD, Jessup | 0.5540 | 2026-09-18 |
-| [Partner Marketing Manager, NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10553425/partner-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5531 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553565/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553561/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553573/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553560/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553569/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553556/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553554/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553574/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553555/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553562/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5517 | 2026-09-18 |
+| [Data Engineer, Ring Agent Platforms](https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms) | amazon | US, CA, Hawthorne | 0.6553 | 2026-09-18 |
+| [Principal Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.amazon.jobs/en/jobs/10553420/principal-technical-account-manager-es-namer-us-frontier-ai) | amazon | US, CA, San Francisco | 0.6266 | 2026-09-18 |
+| [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5984 | 2026-09-18 |
+| [Business Intelligence Engineer II, Amazon Leo](https://www.amazon.jobs/en/jobs/10554122/business-intelligence-engineer-ii-amazon-leo) | amazon | US, WA, Bellevue | 0.5594 | 2026-09-19 |
+| [Senior Electrical Engineer Data Centers](https://apply.careers.microsoft.com/careers/job/1970393556956383) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5547 | 2026-09-18 |
+| [Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement](https://www.amazon.jobs/en/jobs/10553013/sr-marketing-operations-manager-aws-marketing-strategy-operations-and-enablement) | amazon | US, NY, New York | 0.5545 | 2026-09-18 |
+| [Senior Delivery Consultant – AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10553975/senior-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, CO, Denver | 0.5544 | 2026-09-18 |
+| [Delivery Practice Manager, WWPS ProServe](https://www.amazon.jobs/en/jobs/10553815/delivery-practice-manager-wwps-proserve) | amazon | US, MD, Jessup | 0.5536 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553567/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553563/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553566/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553582/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553585/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553596/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553593/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553594/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553570/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553562/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553592/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5529 | 2026-09-18 |
+| [Partner Marketing Manager, NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10553425/partner-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5527 | 2026-09-18 |
+| [Senior Portfolio Growth Manager, Auto, AWS Worldwide Startups](https://www.amazon.jobs/en/jobs/10553011/senior-portfolio-growth-manager-auto-aws-worldwide-startups) | amazon | US, CA, San Francisco | 0.5518 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553561/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5516 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553565/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5516 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553555/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5516 | 2026-09-18 |
+| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553574/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5516 | 2026-09-18 |
 
 ## Companies tracked
 
