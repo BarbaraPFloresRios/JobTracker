@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal Data Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958759) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5867 | 2026-09-19 |
-| [Director of Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556958758) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5639 | 2026-09-19 |
+| [Principal Data Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958759) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5978 | 2026-09-19 |
+| [Director of Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556958758) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5663 | 2026-09-19 |
 | [Business Intelligence Engineer II, Amazon Leo](https://www.amazon.jobs/en/jobs/10554122/business-intelligence-engineer-ii-amazon-leo) | amazon | US, WA, Bellevue | 0.5594 | 2026-09-19 |
 | [Data Scientist II, Amazon Travel & Events](https://www.amazon.jobs/jobs/10538046/data-scientist-ii-amazon-travel--events?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5508 | 2026-09-19 |
-| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556999949) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5381 | 2026-09-20 |
-| [Commercial Skilling Director - Global Skilling](https://apply.careers.microsoft.com/careers/job/1970393557000102) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5166 | 2026-09-19 |
-| [Digital Solution Area Specialist-Cloud & AI](https://apply.careers.microsoft.com/careers/job/1970393556992011) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, Georgia, Atlanta; United States, North Dakota, Fargo | 0.5107 | 2026-09-19 |
-| [Technical Solution Manager - Security Strategy](https://apply.careers.microsoft.com/careers/job/1970393556999983) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5062 | 2026-09-19 |
+| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556999949) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5400 | 2026-09-20 |
+| [Commercial Skilling Director - Global Skilling](https://apply.careers.microsoft.com/careers/job/1970393557000102) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5176 | 2026-09-19 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556990540) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5104 | 2026-09-20 |
+| [Cloud Solution Architect- AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983961) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5054 | 2026-09-20 |
+| [Technical Solution Manager - Security Strategy](https://apply.careers.microsoft.com/careers/job/1970393556999983) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5049 | 2026-09-19 |
 | [Principal Technical Program Manager- Trust](https://apply.careers.microsoft.com/careers/job/1970393556956145) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5041 | 2026-09-19 |
-| [Solution Engineer - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984043) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5019 | 2026-09-20 |
-| [Senior Sales Specialist -Cloud & AI Platforms](https://apply.careers.microsoft.com/careers/job/1970393556984110) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4917 | 2026-09-20 |
-| [Cloud & AI Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393556955544) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, Illinois, Chicago | 0.4877 | 2026-09-19 |
-| [Cloud Solution Architect- AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983961) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4773 | 2026-09-20 |
-| [Technical Program Manager, Strategy & Transformation](https://apply.careers.microsoft.com/careers/job/1970393556994709) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4754 | 2026-09-20 |
-| [Technical Program Manager-AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556994711) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4675 | 2026-09-19 |
-| [CAIP Sales Excellence Lead](https://apply.careers.microsoft.com/careers/job/1970393557000704) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4577 | 2026-09-19 |
+| [Digital Solution Area Specialist-Cloud & AI](https://apply.careers.microsoft.com/careers/job/1970393556992011) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, Georgia, Atlanta; United States, North Dakota, Fargo | 0.4991 | 2026-09-19 |
+| [Senior Sales Specialist -Cloud & AI Platforms](https://apply.careers.microsoft.com/careers/job/1970393556984110) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4990 | 2026-09-20 |
+| [Cloud & AI Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393556955544) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, Illinois, Chicago | 0.4864 | 2026-09-19 |
+| [Solution Engineer - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984043) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4862 | 2026-09-20 |
 | [Compute & Infrastructure Counsel, Real Estate](https://job-boards.greenhouse.io/anthropic/jobs/5427969008) | anthropic | San Francisco, CA | 0.4541 | 2026-09-19 |
+| [Technical Program Manager, Strategy & Transformation](https://apply.careers.microsoft.com/careers/job/1970393556994709) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4520 | 2026-09-20 |
+| [Technical Program Manager-AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556994711) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4469 | 2026-09-19 |
 | [Senior NPI TPM, Ops, Last Mile Delivery & Technology](https://www.amazon.jobs/en/jobs/10554135/senior-npi-tpm-ops-last-mile-delivery-technology) | amazon | US, WA, Bellevue | 0.4445 | 2026-09-19 |
 | [Pre-Construction Manager, Data Center (AMERS)](https://apply.careers.microsoft.com/careers/job/1970393556981449) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4434 | 2026-09-19 |
-| [Bilingual Account Executive (AI Natives)](https://apply.careers.microsoft.com/careers/job/1970393556994771) | microsoft | United States, Texas, Dallas; United States, Texas, Austin; United States, Texas, Houston; United States, New Mexico, Sante Fe; United States, California, San Francisco; United States, Multiple Locations, Multiple Locations | 0.4387 | 2026-09-19 |
-| [Sales Motion Strategy Lead](https://apply.careers.microsoft.com/careers/job/1970393557001918) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4355 | 2026-09-19 |
-| [Applied Scientist, AWS Infrastructure Services Science](https://www.amazon.jobs/jobs/10554058/applied-scientist-aws-infrastructure-services-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Herndon | 0.4352 | 2026-09-19 |
+| [CAIP Sales Excellence Lead](https://apply.careers.microsoft.com/careers/job/1970393557000704) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4388 | 2026-09-19 |
+| [Bilingual Account Executive (AI Natives)](https://apply.careers.microsoft.com/careers/job/1970393556994771) | microsoft | United States, Texas, Dallas; United States, Texas, Austin; United States, Texas, Houston; United States, New Mexico, Sante Fe; United States, California, San Francisco; United States, Multiple Locations, Multiple Locations | 0.4383 | 2026-09-19 |
+| [Sales Motion Strategy Lead](https://apply.careers.microsoft.com/careers/job/1970393557001918) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4367 | 2026-09-19 |
+| [Applied Scientist, AWS Infrastructure Services Science](https://www.amazon.jobs/jobs/10554058/applied-scientist-aws-infrastructure-services-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Herndon | 0.4349 | 2026-09-19 |
 | [Principal Applied Scientist, AAIS](https://www.amazon.jobs/jobs/10553806/principal-applied-scientist-aais?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4281 | 2026-09-19 |
-| [Sr Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557001527) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4187 | 2026-09-19 |
-| [Business Systems Engineer, Tech Foundations](https://careers.airbnb.com/positions/8214444/) | airbnb | San Francisco, CA | 0.4103 | 2026-09-19 |
+| [Machine Learning Engineer, Experimentation](https://www.metacareers.com/profile/job_details/1434849621914402) | meta | London, UK | 0.4248 | 2026-09-20 |
 
 ## Companies tracked
 
