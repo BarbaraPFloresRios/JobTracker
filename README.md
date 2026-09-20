@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Engineer, Ring Agent Platforms](https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms) | amazon | US, CA, Hawthorne | 0.6540 | 2026-09-18 |
-| [Principal Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.amazon.jobs/en/jobs/10553420/principal-technical-account-manager-es-namer-us-frontier-ai) | amazon | US, CA, San Francisco | 0.6248 | 2026-09-18 |
-| [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs) | amazon | US, CA, Cupertino | 0.5981 | 2026-09-18 |
-| [Data Center Facility Manager](https://www.amazon.jobs/en/jobs/10553816/data-center-facility-manager) | amazon | US, AZ, Mesa | 0.5925 | 2026-09-18 |
+| [Director of Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556958758) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5703 | 2026-09-19 |
 | [Principal Data Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958759) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5623 | 2026-09-19 |
 | [Business Intelligence Engineer II, Amazon Leo](https://www.amazon.jobs/en/jobs/10554122/business-intelligence-engineer-ii-amazon-leo) | amazon | US, WA, Bellevue | 0.5594 | 2026-09-19 |
-| [Senior Delivery Consultant – AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10553975/senior-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, CO, Denver | 0.5579 | 2026-09-18 |
-| [Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement](https://www.amazon.jobs/en/jobs/10553013/sr-marketing-operations-manager-aws-marketing-strategy-operations-and-enablement) | amazon | US, NY, New York | 0.5551 | 2026-09-18 |
-| [Delivery Practice Manager, WWPS ProServe](https://www.amazon.jobs/en/jobs/10553815/delivery-practice-manager-wwps-proserve) | amazon | US, MD, Jessup | 0.5543 | 2026-09-18 |
-| [Senior Electrical Engineer Data Centers](https://apply.careers.microsoft.com/careers/job/1970393556956383) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5539 | 2026-09-18 |
-| [Partner Marketing Manager, NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10553425/partner-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5532 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553594/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553563/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553566/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553596/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553592/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553593/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553582/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553567/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553570/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553562/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553585/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5527 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553555/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5515 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553561/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5515 | 2026-09-18 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10553574/infra-delivery-install-technician) | amazon | US, MS, Canton | 0.5515 | 2026-09-18 |
+| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556999949) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5515 | 2026-09-20 |
+| [Data Scientist II, Amazon Travel & Events](https://www.amazon.jobs/jobs/10538046/data-scientist-ii-amazon-travel--events?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5508 | 2026-09-19 |
+| [Commercial Skilling Director - Global Skilling](https://apply.careers.microsoft.com/careers/job/1970393557000102) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5167 | 2026-09-19 |
+| [Technical Solution Manager - Security Strategy](https://apply.careers.microsoft.com/careers/job/1970393556999983) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5044 | 2026-09-19 |
+| [Principal Technical Program Manager- Trust](https://apply.careers.microsoft.com/careers/job/1970393556956145) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5041 | 2026-09-19 |
+| [Cloud & AI Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393556955544) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, Illinois, Chicago | 0.4870 | 2026-09-19 |
+| [Digital Solution Area Specialist-Cloud & AI](https://apply.careers.microsoft.com/careers/job/1970393556992011) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, Georgia, Atlanta; United States, North Dakota, Fargo | 0.4867 | 2026-09-19 |
+| [Pre-Construction Manager, Data Center (AMERS)](https://apply.careers.microsoft.com/careers/job/1970393556981449) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4699 | 2026-09-19 |
+| [Technical Program Manager-AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556994711) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4603 | 2026-09-19 |
+| [CAIP Sales Excellence Lead](https://apply.careers.microsoft.com/careers/job/1970393557000704) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4583 | 2026-09-19 |
+| [Compute & Infrastructure Counsel, Real Estate](https://job-boards.greenhouse.io/anthropic/jobs/5427969008) | anthropic | San Francisco, CA | 0.4541 | 2026-09-19 |
+| [Technical Program Manager, Strategy & Transformation](https://apply.careers.microsoft.com/careers/job/1970393556994709) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4520 | 2026-09-20 |
+| [Senior NPI TPM, Ops, Last Mile Delivery & Technology](https://www.amazon.jobs/en/jobs/10554135/senior-npi-tpm-ops-last-mile-delivery-technology) | amazon | US, WA, Bellevue | 0.4445 | 2026-09-19 |
+| [Sales Motion Strategy Lead](https://apply.careers.microsoft.com/careers/job/1970393557001918) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4358 | 2026-09-19 |
+| [Applied Scientist, AWS Infrastructure Services Science](https://www.amazon.jobs/jobs/10554058/applied-scientist-aws-infrastructure-services-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Herndon | 0.4349 | 2026-09-19 |
+| [Principal Applied Scientist, AAIS](https://www.amazon.jobs/jobs/10553806/principal-applied-scientist-aais?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4281 | 2026-09-19 |
+| [Sr Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557001527) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4129 | 2026-09-19 |
+| [Business Systems Engineer, Tech Foundations](https://careers.airbnb.com/positions/8214444/) | airbnb | San Francisco, CA | 0.4103 | 2026-09-19 |
+| [Head of Commercial Legal ](https://jobs.smartrecruiters.com/Canva/6000000001420724-head-of-commercial-legal-) | canva | San Francisco, CALIFORNIA, United States | 0.4079 | 2026-09-19 |
+| [Construction Project Engineer](https://apply.careers.microsoft.com/careers/job/1970393556986771) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4047 | 2026-09-19 |
+| [Applied Scientist, AWS Applied AI Solutions - Life Sciences](https://www.amazon.jobs/jobs/10553641/applied-scientist-aws-applied-ai-solutions--life-sciences?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4019 | 2026-09-19 |
+| [Bilingual Account Executive (AI Natives)](https://apply.careers.microsoft.com/careers/job/1970393556994771) | microsoft | United States, Texas, Dallas; United States, Texas, Austin; United States, Texas, Houston; United States, New Mexico, Sante Fe; United States, California, San Francisco; United States, Multiple Locations, Multiple Locations | 0.3976 | 2026-09-19 |
 
 ## Companies tracked
 
