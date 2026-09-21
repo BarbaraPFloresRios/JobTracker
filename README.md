@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Principal Data Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958759) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5952 | 2026-09-19 |
-| [Director of Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556958758) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5651 | 2026-09-19 |
-| [Business Intelligence Engineer II, Amazon Leo](https://www.amazon.jobs/en/jobs/10554122/business-intelligence-engineer-ii-amazon-leo) | amazon | US, WA, Bellevue | 0.5594 | 2026-09-19 |
-| [Data Scientist II, Amazon Travel & Events](https://www.amazon.jobs/jobs/10538046/data-scientist-ii-amazon-travel--events?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5508 | 2026-09-19 |
-| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556999949) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5367 | 2026-09-20 |
+| [Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393556999949) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5416 | 2026-09-20 |
 | [Area Occupancy Planner, Regional Portfolio Management (RPM-AMER) GREF](https://www.amazon.jobs/en/jobs/10554213/area-occupancy-planner-regional-portfolio-management-rpm-amer-gref) | amazon | US, CA, Culver City | 0.5188 | 2026-09-20 |
-| [Commercial Skilling Director - Global Skilling](https://apply.careers.microsoft.com/careers/job/1970393557000102) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5168 | 2026-09-19 |
-| [Cloud Solution Architect- AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983961) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5161 | 2026-09-20 |
 | [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556990540) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5104 | 2026-09-20 |
-| [Senior Sales Specialist -Cloud & AI Platforms](https://apply.careers.microsoft.com/careers/job/1970393556984110) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5071 | 2026-09-20 |
-| [Technical Solution Manager - Security Strategy](https://apply.careers.microsoft.com/careers/job/1970393556999983) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5057 | 2026-09-19 |
-| [Principal Technical Program Manager- Trust](https://apply.careers.microsoft.com/careers/job/1970393556956145) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5041 | 2026-09-19 |
-| [Digital Solution Area Specialist-Cloud & AI](https://apply.careers.microsoft.com/careers/job/1970393556992011) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, Georgia, Atlanta; United States, North Dakota, Fargo | 0.4987 | 2026-09-19 |
-| [Solution Engineer - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984043) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4966 | 2026-09-20 |
-| [Cloud & AI Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393556955544) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Texas, Las Colinas; United States, District of Columbia, Washington D.C.; United States, Georgia, Atlanta; United States, Illinois, Chicago | 0.4859 | 2026-09-19 |
-| [Technical Program Manager, Strategy & Transformation](https://apply.careers.microsoft.com/careers/job/1970393556994709) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4743 | 2026-09-20 |
-| [Pre-Construction Manager, Data Center (AMERS)](https://apply.careers.microsoft.com/careers/job/1970393556981449) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4631 | 2026-09-19 |
-| [Technical Program Manager-AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556994711) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4603 | 2026-09-19 |
-| [CAIP Sales Excellence Lead](https://apply.careers.microsoft.com/careers/job/1970393557000704) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4583 | 2026-09-19 |
-| [Compute & Infrastructure Counsel, Real Estate](https://job-boards.greenhouse.io/anthropic/jobs/5427969008) | anthropic | San Francisco, CA | 0.4541 | 2026-09-19 |
-| [Senior NPI TPM, Ops, Last Mile Delivery & Technology](https://www.amazon.jobs/en/jobs/10554135/senior-npi-tpm-ops-last-mile-delivery-technology) | amazon | US, WA, Bellevue | 0.4445 | 2026-09-19 |
-| [Bilingual Account Executive (AI Natives)](https://apply.careers.microsoft.com/careers/job/1970393556994771) | microsoft | United States, Texas, Dallas; United States, Texas, Austin; United States, Texas, Houston; United States, New Mexico, Sante Fe; United States, California, San Francisco; United States, Multiple Locations, Multiple Locations | 0.4382 | 2026-09-19 |
-| [Sales Motion Strategy Lead](https://apply.careers.microsoft.com/careers/job/1970393557001918) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4365 | 2026-09-19 |
-| [Applied Scientist, AWS Infrastructure Services Science](https://www.amazon.jobs/jobs/10554058/applied-scientist-aws-infrastructure-services-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Herndon | 0.4352 | 2026-09-19 |
-| [Principal Applied Scientist, AAIS](https://www.amazon.jobs/jobs/10553806/principal-applied-scientist-aais?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4289 | 2026-09-19 |
+| [Senior Sales Specialist -Cloud & AI Platforms](https://apply.careers.microsoft.com/careers/job/1970393556984110) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5066 | 2026-09-20 |
+| [Cloud Solution Architect- AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983961) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5047 | 2026-09-20 |
+| [Solution Engineer - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984043) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4890 | 2026-09-20 |
+| [Regional Data Center Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Regional-Data-Center-Manager_JR2022565-1) | nvidia | US, OR, Remote | 0.4829 | 2026-09-21 |
+| [Technical Program Manager, Strategy & Transformation](https://apply.careers.microsoft.com/careers/job/1970393556994709) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4756 | 2026-09-20 |
+| [Technical Program Manager, Business Operations Procurement Management](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Technical-Program-Manager--Business-Operations-Procurement-Management_JR2024039) | nvidia | US, OR, Remote; US, VA, Remote | 0.4433 | 2026-09-21 |
+| [Machine Learning Engineer, Experimentation](https://www.metacareers.com/profile/job_details/1434849621914402) | meta | London, UK | 0.4248 | 2026-09-20 |
+| [Senior Software Engineer, Capacity Management - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025388) | nvidia | US, CA, Santa Clara | 0.4171 | 2026-09-21 |
+| [Technical Program Manager, AI Factory Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--AI-Factory-Infrastructure_JR2024574) | nvidia | US, CA, Santa Clara; US, TX, Remote; US, IL, Remote; US, CO, Remote; US, OR, Remote; US, CA, Remote | 0.4156 | 2026-09-20 |
+| [Head of Commercial Legal ](https://jobs.smartrecruiters.com/Canva/6000000001422676-head-of-commercial-legal-) | canva | San Francisco, CALIFORNIA, United States | 0.4103 | 2026-09-21 |
+| [System Software Engineer - CUDA Chips](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1) | nvidia | US, CA, Santa Clara | 0.4098 | 2026-09-21 |
+| [Global Partner Development Manager](https://apply.careers.microsoft.com/careers/job/1970393556984004) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4047 | 2026-09-20 |
+| [Senior Storage Software Engineer - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer---DGX-Cloud_JR2026042) | nvidia | US, CA, Santa Clara; US, Remote | 0.4042 | 2026-09-21 |
+| [AI Data & Infrastructure Engineer](https://jobs.apple.com/en-us/details/200683893-3956/ai-data-infrastructure-engineer?team=OPMFG) | apple | nan | 0.3876 | 2026-09-20 |
+| [Research Scientist, Machine Learning](https://www.metacareers.com/profile/job_details/1464755102365911) | meta | Sunnyvale, CA | 0.3717 | 2026-09-20 |
+| [AI Security Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001498) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3673 | 2026-09-20 |
+| [Senior Software Engineer, AI Frameworks](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Frameworks_JR2015296) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.3660 | 2026-09-21 |
+| [Senior Partner Development Manager - ISV, Americas](https://apply.careers.microsoft.com/careers/job/1970393556995597) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3513 | 2026-09-20 |
+| [Senior Solution Engineer, Compute Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Compute-Systems_JR2025971) | nvidia | US, CA, Santa Clara; US, MA, Westford; US, TX, Austin; US, NC, Durham; US, WA, Redmond; US, NY, New York | 0.3403 | 2026-09-21 |
+| [Data Governance Engineer](https://jobs.apple.com/en-us/details/200684475-0157/data-governance-engineer?team=SFTWR) | apple | nan | 0.3390 | 2026-09-21 |
+| [Research Scientist, Computer Vision (PhD)](https://www.metacareers.com/profile/job_details/1412780974120239) | meta | Pittsburgh, PA | 0.3298 | 2026-09-20 |
+| [Software Engineer Manager - ML Infra](https://www.metacareers.com/profile/job_details/796893786818449) | meta | Sunnyvale, CA | 0.3111 | 2026-09-20 |
 
 ## Companies tracked
 
