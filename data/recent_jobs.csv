@@ -1,28 +1,46 @@
 title,company,location,semantic_similarity,first_seen_date,url
-Regional Data Center Manager,nvidia,"US, OR, Remote",0.4829,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Regional-Data-Center-Manager_JR2022565-1
-"Technical Program Manager, Business Operations Procurement Management",nvidia,"US, OR, Remote; US, VA, Remote",0.4433,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Technical-Program-Manager--Business-Operations-Procurement-Management_JR2024039
-"Senior Software Engineer, Capacity Management - DGX Cloud",nvidia,"US, CA, Santa Clara",0.4171,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025388
-Head of Commercial Legal ,canva,"San Francisco, CALIFORNIA, United States",0.4103,2026-09-21,https://jobs.smartrecruiters.com/Canva/6000000001422676-head-of-commercial-legal-
-System Software Engineer - CUDA Chips,nvidia,"US, CA, Santa Clara",0.4098,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1
-Senior Storage Software Engineer - DGX Cloud,nvidia,"US, CA, Santa Clara; US, Remote",0.4042,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer---DGX-Cloud_JR2026042
-"Senior Software Engineer, AI Frameworks",nvidia,"US, CA, Santa Clara; US, CA, Remote",0.366,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Frameworks_JR2015296
-"Senior Solution Engineer, Compute Systems",nvidia,"US, CA, Santa Clara; US, MA, Westford; US, TX, Austin; US, NC, Durham; US, WA, Redmond; US, NY, New York",0.3403,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Compute-Systems_JR2025971
+Senior Solution Area Specialist - AI Business Process,microsoft,"United States, Multiple Locations, Multiple Locations",0.5231,2026-09-21,https://apply.careers.microsoft.com/careers/job/1970393556983980
+Regional Data Center Manager,nvidia,"US, OR, Remote",0.4833,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Regional-Data-Center-Manager_JR2022565-1
+Applied AI Architect,anthropic,"Bangalore, India",0.4639,2026-09-21,https://job-boards.greenhouse.io/anthropic/jobs/5424310008
+"Technical Program Manager, Business Operations Procurement Management",nvidia,"US, OR, Remote; US, VA, Remote",0.4429,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Technical-Program-Manager--Business-Operations-Procurement-Management_JR2024039
+Customer Success ,anthropic,"Bangalore, India",0.4282,2026-09-21,https://job-boards.greenhouse.io/anthropic/jobs/5424402008
+DCO Tech,amazon,"US, MD, Frederick",0.4239,2026-09-21,https://www.amazon.jobs/en/jobs/10554350/dco-tech
+"Senior Software Engineer, Capacity Management - DGX Cloud",nvidia,"US, CA, Santa Clara",0.417,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025388
+System Software Engineer - CUDA Chips,nvidia,"US, CA, Santa Clara",0.4103,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1
+Senior Storage Software Engineer - DGX Cloud,nvidia,"US, CA, Santa Clara; US, Remote",0.4046,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer---DGX-Cloud_JR2026042
+Process Assistant,amazon,"US, FL, Tamarac",0.3954,2026-09-21,https://www.amazon.jobs/en/jobs/10554451/process-assistant
+Head of Commercial Legal ,canva,"San Francisco, CA, United States",0.3912,2026-09-21,https://jobs.smartrecruiters.com/Canva/6000000001422897-head-of-commercial-legal-
+"Creative Executive, Documentary, Documentary Series ",amazon,"US, CA, Culver City",0.3811,2026-09-21,https://www.amazon.jobs/en/jobs/10554443/creative-executive-documentary-documentary-series
+"Software Engineer, Beneficial Deployments ",anthropic,"San Francisco, CA",0.3793,2026-09-21,https://job-boards.greenhouse.io/anthropic/jobs/4942024008
+Head of Commercial Legal ,canva,"San Francisco, CALIFORNIA, United States",0.3775,2026-09-21,https://jobs.smartrecruiters.com/Canva/6000000001422676-head-of-commercial-legal-
+"Senior Software Engineer, AI Frameworks",nvidia,"US, CA, Santa Clara; US, CA, Remote",0.3659,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Frameworks_JR2015296
+Senior Software Control Integration Engineer - Autonomous Vehicles,nvidia,"US, CA, Santa Clara",0.3649,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Control-Integration-Engineer---Autonomous-Vehicles_JR2025121
+"Senior Machine Learning Engineer, Perception - Autonomous Driving",nvidia,"US, CA, Santa Clara; US, CA, Remote",0.3557,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--Perception---Autonomous-Driving_JR2024785
+Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.3553,2026-09-21,https://apply.careers.microsoft.com/careers/job/1970393556955804
+Head of APAC GTM Enablement,anthropic,Singapore,0.3449,2026-09-21,https://job-boards.greenhouse.io/anthropic/jobs/5426627008
+"Senior Solution Engineer, Compute Systems",nvidia,"US, CA, Santa Clara; US, MA, Westford; US, TX, Austin; US, NC, Durham; US, WA, Redmond; US, NY, New York",0.3399,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Compute-Systems_JR2025971
 Data Governance Engineer,apple,,0.339,2026-09-21,https://jobs.apple.com/en-us/details/200684475-0157/data-governance-engineer?team=SFTWR
-Security Assurance Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.2816,2026-09-21,https://apply.careers.microsoft.com/careers/job/1970393557002616
-"Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret",microsoft,"United States, Multiple Locations, Multiple Locations",0.5416,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556999949
+"Manager, Solutions Architecture - AI Infrastructure Build Readiness",nvidia,"US, CA, Santa Clara",0.3384,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Solutions-Architecture---AI-Infrastructure-Build-Readiness_JR2026144-1
+Security Assurance Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3167,2026-09-21,https://apply.careers.microsoft.com/careers/job/1970393557002616
+"Senior Software Engineer, Test - Autonomous Vehicles",nvidia,"US, CA, Santa Clara; US, WA, Remote; US, NJ, Remote; US, CA, Remote",0.3089,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Test---Autonomous-Vehicles_JR2025892
+"Senior Events Manager, Flagship Events",nvidia,"US, CA, Santa Clara",0.295,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Events-Manager--Flagship-Events_JR2024031
+Senior Synthetic Data Engineer - Autonomous Driving,nvidia,"US, CA, Santa Clara; US, TX, Remote; US, NY, Remote; US, WA, Remote; US, CA, Remote",0.295,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1
+"Manager, OEM Solution Architecture",nvidia,"US, CA, Santa Clara; US, TX, Remote; US, CA, Remote",0.2613,2026-09-21,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--OEM-Solution-Architecture_JR2025803
+Public Sector Sales Lead,anthropic,"Paris, France",0.2033,2026-09-21,https://job-boards.greenhouse.io/anthropic/jobs/5426617008
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5423,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556990540
+"Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret",microsoft,"United States, Multiple Locations, Multiple Locations",0.5376,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556999949
 "Area Occupancy Planner, Regional Portfolio Management (RPM-AMER) GREF",amazon,"US, CA, Culver City",0.5188,2026-09-20,https://www.amazon.jobs/en/jobs/10554213/area-occupancy-planner-regional-portfolio-management-rpm-amer-gref
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5104,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556990540
-Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.5066,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984110
-Cloud Solution Architect- AI Business Process,microsoft,"United States, Multiple Locations, Multiple Locations",0.5047,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556983961
-Solution Engineer - AI Business Process,microsoft,"United States, Multiple Locations, Multiple Locations",0.489,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984043
-"Technical Program Manager, Strategy & Transformation",microsoft,"United States, Multiple Locations, Multiple Locations",0.4756,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556994709
+Solution Engineer - AI Business Process,microsoft,"United States, Multiple Locations, Multiple Locations",0.5019,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984043
+Senior Sales Specialist -Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.4989,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984110
+Cloud Solution Architect- AI Business Process,microsoft,"United States, Multiple Locations, Multiple Locations",0.4773,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556983961
+"Technical Program Manager, Strategy & Transformation",microsoft,"United States, Multiple Locations, Multiple Locations",0.452,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556994709
 "Machine Learning Engineer, Experimentation",meta,"London, UK",0.4248,2026-09-20,https://www.metacareers.com/profile/job_details/1434849621914402
-"Technical Program Manager, AI Factory Infrastructure",nvidia,"US, CA, Santa Clara; US, TX, Remote; US, IL, Remote; US, CO, Remote; US, OR, Remote; US, CA, Remote",0.4156,2026-09-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--AI-Factory-Infrastructure_JR2024574
-Global Partner Development Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4047,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984004
+"Technical Program Manager, AI Factory Infrastructure",nvidia,"US, CA, Santa Clara; US, TX, Remote; US, IL, Remote; US, CO, Remote; US, OR, Remote; US, CA, Remote",0.4161,2026-09-20,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--AI-Factory-Infrastructure_JR2024574
+Global Partner Development Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3965,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556984004
 AI Data & Infrastructure Engineer,apple,,0.3876,2026-09-20,https://jobs.apple.com/en-us/details/200683893-3956/ai-data-infrastructure-engineer?team=OPMFG
+AI Security Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.3733,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393557001498
 "Research Scientist, Machine Learning",meta,"Sunnyvale, CA",0.3717,2026-09-20,https://www.metacareers.com/profile/job_details/1464755102365911
-AI Security Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.3673,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393557001498
-"Senior Partner Development Manager - ISV, Americas",microsoft,"United States, Multiple Locations, Multiple Locations",0.3513,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556995597
+"Senior Partner Development Manager - ISV, Americas",microsoft,"United States, Multiple Locations, Multiple Locations",0.3462,2026-09-20,https://apply.careers.microsoft.com/careers/job/1970393556995597
 "Research Scientist, Computer Vision (PhD)",meta,"Pittsburgh, PA",0.3298,2026-09-20,https://www.metacareers.com/profile/job_details/1412780974120239
 Software Engineer Manager - ML Infra,meta,"Sunnyvale, CA",0.3111,2026-09-20,https://www.metacareers.com/profile/job_details/796893786818449
 Visiting Scholar — Post Training & Research (Discovery AI Lab),meta,"Menlo Park, CA",0.3074,2026-09-20,https://www.metacareers.com/profile/job_details/1073138652005948
@@ -31,8 +49,8 @@ Security Technology Deployment Specialist,anthropic,"New York City, NY; Remote-F
 "Program Manager, Strategic Risk Programs",meta,"London, UK",0.2356,2026-09-20,https://www.metacareers.com/profile/job_details/1389870450006292
 Software Engineering Manager,meta,"Menlo Park, CA",0.2334,2026-09-20,https://www.metacareers.com/profile/job_details/1050754181130466
 "AI Research Scientist, Physical AI",meta,"New York, NY",0.2234,2026-09-20,https://www.metacareers.com/profile/job_details/2947322545617694
-"Screening Specialist, APAC (India)",netflix,"Mumbai,India",0.1918,2026-09-20,https://explore.jobs.netflix.net/careers/job/790318478981
-"Coordinator, Production Management - Indonesia",netflix,"Jakarta,Indonesia",0.188,2026-09-20,https://explore.jobs.netflix.net/careers/job/790318484648
+"Coordinator, Production Management - Indonesia",netflix,"Jakarta,Indonesia",0.1973,2026-09-20,https://explore.jobs.netflix.net/careers/job/790318484648
+"Screening Specialist, APAC (India)",netflix,"Mumbai,India",0.1954,2026-09-20,https://explore.jobs.netflix.net/careers/job/790318478981
 Líder de Equipe Logística Senior - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1861,2026-09-20,https://mercadolibre.eightfold.ai/careers/job/44551091
 "Director, Security Risk Program",meta,"Washington, DC",0.183,2026-09-20,https://www.metacareers.com/profile/job_details/1522951836305627
 Líder de Equipe Logística - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1758,2026-09-20,https://mercadolibre.eightfold.ai/careers/job/44536248
