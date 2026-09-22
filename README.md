@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Finance Manager, Prime Video Finance](https://www.amazon.jobs/en/jobs/10555720/finance-manager-prime-video-finance) | amazon | US, WA, Seattle | 0.5530 | 2026-09-22 |
-| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10555490/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5528 | 2026-09-22 |
-| [Delivery Consultant - Connect and Lex, Amazon Connect Center of  Delivery Excellence](https://www.amazon.jobs/en/jobs/10554930/delivery-consultant-connect-and-lex-amazon-connect-center-of-delivery-excellence) | amazon | US, GA, Atlanta | 0.5517 | 2026-09-21 |
-| [Software Development Engineer, 3P Measurement Tech ](https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech) | amazon | US, NY, New York | 0.5511 | 2026-09-22 |
+| [Principal Product Manager, Amazon Customer Service Data Intelligence](https://www.amazon.jobs/en/jobs/10556415/principal-product-manager-amazon-customer-service-data-intelligence) | amazon | US, WA, Seattle | 0.6561 | 2026-09-22 |
+| [Data Scientist II, Device Economics](https://www.amazon.jobs/en/jobs/10556575/data-scientist-ii-device-economics) | amazon | US, CA, Sunnyvale | 0.6271 | 2026-09-22 |
+| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10555490/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5705 | 2026-09-22 |
+| [Delivery Consultant - Connect and Lex, Amazon Connect Center of  Delivery Excellence](https://www.amazon.jobs/en/jobs/10554930/delivery-consultant-connect-and-lex-amazon-connect-center-of-delivery-excellence) | amazon | US, GA, Atlanta | 0.5665 | 2026-09-21 |
+| [Logistics Manager II, Data Center Materials, Logistics - Data Center Operations](https://www.amazon.jobs/en/jobs/10556574/logistics-manager-ii-data-center-materials-logistics-data-center-operations) | amazon | US, GA, Lithia Springs | 0.5590 | 2026-09-22 |
+| [Sr Solutions Architect, BDT](https://www.amazon.jobs/en/jobs/10556400/sr-solutions-architect-bdt) | amazon | US, WA, Seattle | 0.5567 | 2026-09-22 |
 | [Marketing Manager, Amazon Grocery, Amazon Grocery](https://www.amazon.jobs/en/jobs/10555270/marketing-manager-amazon-grocery-amazon-grocery) | amazon | US, TX, Austin | 0.5476 | 2026-09-21 |
-| [Senior Solution Area Specialist - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983980) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5389 | 2026-09-21 |
+| [Program Manager, Amazon Flex BOSS](https://www.amazon.jobs/en/jobs/10556260/program-manager-amazon-flex-boss) | amazon | US, TX, Austin | 0.5470 | 2026-09-22 |
+| [Software Development Engineer, 3P Measurement Tech ](https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech) | amazon | US, NY, New York | 0.5469 | 2026-09-22 |
+| [Finance Manager, Prime Video Finance](https://www.amazon.jobs/en/jobs/10555720/finance-manager-prime-video-finance) | amazon | US, WA, Seattle | 0.5382 | 2026-09-22 |
+| [Senior Solution Area Specialist - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556983980) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5372 | 2026-09-21 |
 | [Program Manager II, Keynote Team](https://www.amazon.jobs/en/jobs/10555665/program-manager-ii-keynote-team) | amazon | US, VA, Arlington | 0.5319 | 2026-09-22 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10554491/data-center-technician) | amazon | US, PA, Berwick | 0.5173 | 2026-09-21 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556989685) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5161 | 2026-09-21 |
-| [Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)](https://www.amazon.jobs/en/jobs/10555440/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps) | amazon | US, TX, Austin | 0.5161 | 2026-09-22 |
-| [Network Cable Installation Technician, Infra - GND](https://www.amazon.jobs/en/jobs/10555401/network-cable-installation-technician-infra-gnd) | amazon | US, VA, Chantilly | 0.5141 | 2026-09-22 |
-| [Senior Software Development Engineer, Fauna](https://www.amazon.jobs/en/jobs/10555499/senior-software-development-engineer-fauna) | amazon | US, NY, New York | 0.5092 | 2026-09-22 |
-| [Work Based Learning Program Data Center Operations Technician](https://www.amazon.jobs/en/jobs/10555540/work-based-learning-program-data-center-operations-technician) | amazon | US, MD, Frederick | 0.5079 | 2026-09-22 |
-| [Solutions Architect, Engineering, Construction, Real Estate, and Transportation](https://www.amazon.jobs/en/jobs/10555650/solutions-architect-engineering-construction-real-estate-and-transportation) | amazon | US, NY, New York | 0.5045 | 2026-09-22 |
-| [Robotics Systems Engineer I, Tech Deployment](https://www.amazon.jobs/en/jobs/10555302/robotics-systems-engineer-i-tech-deployment) | amazon | US, TX, Austin | 0.4961 | 2026-09-22 |
-| [Sr. Technical Program Manager, Catalog Data Quality, Catalog System Services](https://www.amazon.jobs/en/jobs/10555653/sr-technical-program-manager-catalog-data-quality-catalog-system-services) | amazon | US, WA, Seattle | 0.4922 | 2026-09-22 |
-| [Sr. Solutions Architect -, Travel & Hospitality ](https://www.amazon.jobs/en/jobs/10555611/sr-solutions-architect-travel-hospitality) | amazon | US, CA, San Francisco | 0.4915 | 2026-09-22 |
-| [Data and Platform Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-and-Platform-Engineer_JR2025619) | nvidia | US, CA, Remote; US, TX, Remote; US, NY, Remote; US, WA, Remote | 0.4915 | 2026-09-22 |
-| [AI Automation Equity Operations Associate](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Automation-Equity-Operations-Associate_JR2024542-1) | nvidia | US, CA, Santa Clara | 0.4893 | 2026-09-22 |
-| [Regional Data Center Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Regional-Data-Center-Manager_JR2022565-1) | nvidia | US, OR, Remote | 0.4887 | 2026-09-21 |
-| [Sr. Solutions Architect , Agriculture and Consulting Services](https://www.amazon.jobs/en/jobs/10555655/sr-solutions-architect-agriculture-and-consulting-services) | amazon | US, TX, Austin | 0.4886 | 2026-09-22 |
-| [Developer Relations Manager, Higher Education and Research - Foundational AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2026229) | nvidia | US, CA, Santa Clara; US, Remote | 0.4845 | 2026-09-21 |
-| [Manager, Applied Science- Manipulation & Autonomy , Fauna](https://www.amazon.jobs/en/jobs/10555029/manager-applied-science-manipulation-autonomy-fauna) | amazon | US, NY, New York | 0.4836 | 2026-09-21 |
-| [Colo Physical Security Engineer [Architect], Data Center Engineering, Colocation Regional Engineering](https://www.amazon.jobs/en/jobs/10555539/colo-physical-security-engineer-architect-data-center-engineering-colocation-regional-engineering) | amazon | US, TX, Dallas | 0.4829 | 2026-09-22 |
-| [Software Development Engineer, Kiro](https://www.amazon.jobs/en/jobs/10554903/software-development-engineer-kiro) | amazon | US, WA, Seattle | 0.4791 | 2026-09-21 |
+| [Sr. Technical Program Manager, Catalog Data Quality, Catalog System Services](https://www.amazon.jobs/en/jobs/10555653/sr-technical-program-manager-catalog-data-quality-catalog-system-services) | amazon | US, WA, Seattle | 0.5258 | 2026-09-22 |
+| [Robotics Systems Engineer I, Tech Deployment](https://www.amazon.jobs/en/jobs/10555302/robotics-systems-engineer-i-tech-deployment) | amazon | US, TX, Austin | 0.5244 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556113/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556135/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556104/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556136/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556129/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556139/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556105/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556114/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556110/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556132/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556112/data-center-technician) | amazon | US, MS, Canton | 0.5182 | 2026-09-22 |
 
 ## Companies tracked
 
