@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist II, Device Economics](https://www.amazon.jobs/en/jobs/10556575/data-scientist-ii-device-economics) | amazon | US, CA, Sunnyvale | 0.6609 | 2026-09-22 |
-| [AI Platform Data Engineer, Ring Agent Platform Org](https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org) | amazon | US, CA, Hawthorne | 0.6512 | 2026-09-22 |
-| [Principal Product Manager, Amazon Customer Service Data Intelligence](https://www.amazon.jobs/en/jobs/10556415/principal-product-manager-amazon-customer-service-data-intelligence) | amazon | US, WA, Seattle | 0.6502 | 2026-09-22 |
+| [Data Scientist II, Device Economics](https://www.amazon.jobs/en/jobs/10556575/data-scientist-ii-device-economics) | amazon | US, CA, Sunnyvale | 0.6616 | 2026-09-22 |
+| [AI Platform Data Engineer, Ring Agent Platform Org](https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org) | amazon | US, CA, Hawthorne | 0.6601 | 2026-09-22 |
+| [Principal Product Manager, Amazon Customer Service Data Intelligence](https://www.amazon.jobs/en/jobs/10556415/principal-product-manager-amazon-customer-service-data-intelligence) | amazon | US, WA, Seattle | 0.6554 | 2026-09-22 |
 | [Applied Scientist, Customer360](https://www.amazon.jobs/en/jobs/10557022/applied-scientist-customer360) | amazon | US, WA, Seattle | 0.6420 | 2026-09-23 |
 | [Applied Scientist, Catalog System Services Science](https://www.amazon.jobs/en/jobs/10557777/applied-scientist-catalog-system-services-science) | amazon | US, WA, Seattle | 0.6178 | 2026-09-23 |
-| [Program Manager, Amazon Flex BOSS](https://www.amazon.jobs/en/jobs/10556260/program-manager-amazon-flex-boss) | amazon | US, TX, Austin | 0.5923 | 2026-09-22 |
+| [Applied Scientist, Neuron ARG, Annapurna ML](https://www.amazon.jobs/en/jobs/10558288/applied-scientist-neuron-arg-annapurna-ml) | amazon | US, WA, Seattle | 0.6015 | 2026-09-23 |
+| [Program Manager, Amazon Flex BOSS](https://www.amazon.jobs/en/jobs/10556260/program-manager-amazon-flex-boss) | amazon | US, TX, Austin | 0.5928 | 2026-09-22 |
 | [Senior Business Analytics Specialist](https://apply.careers.microsoft.com/careers/job/1970393557002690) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5891 | 2026-09-23 |
-| [Sr Solutions Architect, BDT](https://www.amazon.jobs/en/jobs/10556400/sr-solutions-architect-bdt) | amazon | US, WA, Seattle | 0.5737 | 2026-09-22 |
 | [Senior Applied Scientist, Amazon Connect](https://www.amazon.jobs/en/jobs/10557099/senior-applied-scientist-amazon-connect) | amazon | US, NY, New York | 0.5735 | 2026-09-23 |
-| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10555490/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5715 | 2026-09-22 |
+| [Delivery Consultant - AI/ML, AWS Professional Services WWPS Healthcare and Life Science](https://www.amazon.jobs/en/jobs/10556723/delivery-consultant-ai-ml-aws-professional-services-wwps-healthcare-and-life-science) | amazon | US, GA, Atlanta | 0.5734 | 2026-09-22 |
+| [Sr. Customer Solutions Manager, Software and Technology (SWAT)](https://www.amazon.jobs/en/jobs/10556922/sr-customer-solutions-manager-software-and-technology-swat) | amazon | US, TX, Austin | 0.5721 | 2026-09-22 |
+| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10555490/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5716 | 2026-09-22 |
+| [Sr Solutions Architect, BDT](https://www.amazon.jobs/en/jobs/10556400/sr-solutions-architect-bdt) | amazon | US, WA, Seattle | 0.5711 | 2026-09-22 |
 | [Data Engineer, Decision Intelligence Technology](https://www.amazon.jobs/en/jobs/10557661/data-engineer-decision-intelligence-technology) | amazon | US, WA, Bellevue | 0.5670 | 2026-09-23 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556112/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556139/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556114/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556127/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556110/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556113/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556137/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556136/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556135/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556105/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Logistics Manager II, Data Center Materials, Logistics - Data Center Operations](https://www.amazon.jobs/en/jobs/10556574/logistics-manager-ii-data-center-materials-logistics-data-center-operations) | amazon | US, GA, Lithia Springs | 0.5647 | 2026-09-22 |
-| [Applied Scientist II— Robotics & Physical AI, Autonomous Lab, WW Sustainability](https://www.amazon.jobs/en/jobs/10556642/applied-scientist-ii-robotics-physical-ai-autonomous-lab-ww-sustainability) | amazon | US, WA, Seattle | 0.5630 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556104/data-center-technician) | amazon | US, MS, Canton | 0.5628 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556130/data-center-technician) | amazon | US, MS, Canton | 0.5628 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556132/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556131/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556129/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556104/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556130/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556110/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556139/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556105/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556114/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556127/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556112/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
 
 ## Companies tracked
 
