@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist II, Device Economics](https://www.amazon.jobs/en/jobs/10556575/data-scientist-ii-device-economics) | amazon | US, CA, Sunnyvale | 0.6616 | 2026-09-22 |
-| [AI Platform Data Engineer, Ring Agent Platform Org](https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org) | amazon | US, CA, Hawthorne | 0.6601 | 2026-09-22 |
-| [Principal Product Manager, Amazon Customer Service Data Intelligence](https://www.amazon.jobs/en/jobs/10556415/principal-product-manager-amazon-customer-service-data-intelligence) | amazon | US, WA, Seattle | 0.6554 | 2026-09-22 |
-| [Applied Scientist, Customer360](https://www.amazon.jobs/en/jobs/10557022/applied-scientist-customer360) | amazon | US, WA, Seattle | 0.6420 | 2026-09-23 |
+| [Applied Scientist, Customer360](https://www.amazon.jobs/en/jobs/10557022/applied-scientist-customer360) | amazon | US, WA, Seattle | 0.6451 | 2026-09-23 |
 | [Applied Scientist, Catalog System Services Science](https://www.amazon.jobs/en/jobs/10557777/applied-scientist-catalog-system-services-science) | amazon | US, WA, Seattle | 0.6178 | 2026-09-23 |
 | [Applied Scientist, Neuron ARG, Annapurna ML](https://www.amazon.jobs/en/jobs/10558288/applied-scientist-neuron-arg-annapurna-ml) | amazon | US, WA, Seattle | 0.6015 | 2026-09-23 |
-| [Program Manager, Amazon Flex BOSS](https://www.amazon.jobs/en/jobs/10556260/program-manager-amazon-flex-boss) | amazon | US, TX, Austin | 0.5928 | 2026-09-22 |
-| [Senior Business Analytics Specialist](https://apply.careers.microsoft.com/careers/job/1970393557002690) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5891 | 2026-09-23 |
-| [Senior Applied Scientist, Amazon Connect](https://www.amazon.jobs/en/jobs/10557099/senior-applied-scientist-amazon-connect) | amazon | US, NY, New York | 0.5735 | 2026-09-23 |
-| [Delivery Consultant - AI/ML, AWS Professional Services WWPS Healthcare and Life Science](https://www.amazon.jobs/en/jobs/10556723/delivery-consultant-ai-ml-aws-professional-services-wwps-healthcare-and-life-science) | amazon | US, GA, Atlanta | 0.5734 | 2026-09-22 |
-| [Sr. Customer Solutions Manager, Software and Technology (SWAT)](https://www.amazon.jobs/en/jobs/10556922/sr-customer-solutions-manager-software-and-technology-swat) | amazon | US, TX, Austin | 0.5721 | 2026-09-22 |
-| [Systems Engineer, Controls Fleet, Data Center Capacity Delivery](https://www.amazon.jobs/en/jobs/10555490/systems-engineer-controls-fleet-data-center-capacity-delivery) | amazon | US, VA, Herndon | 0.5716 | 2026-09-22 |
-| [Sr Solutions Architect, BDT](https://www.amazon.jobs/en/jobs/10556400/sr-solutions-architect-bdt) | amazon | US, WA, Seattle | 0.5711 | 2026-09-22 |
+| [Senior Business Analytics Specialist](https://apply.careers.microsoft.com/careers/job/1970393557002690) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5955 | 2026-09-23 |
+| [Software Dev Engineer, Business Data Technologies](https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies) | amazon | US, MI, Detroit | 0.5887 | 2026-09-24 |
+| [Senior Applied Scientist, Amazon Connect](https://www.amazon.jobs/en/jobs/10557099/senior-applied-scientist-amazon-connect) | amazon | US, NY, New York | 0.5859 | 2026-09-23 |
 | [Data Engineer, Decision Intelligence Technology](https://www.amazon.jobs/en/jobs/10557661/data-engineer-decision-intelligence-technology) | amazon | US, WA, Bellevue | 0.5670 | 2026-09-23 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556132/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556131/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556129/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556104/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556130/data-center-technician) | amazon | US, MS, Canton | 0.5651 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556110/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556139/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556105/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556114/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556127/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
-| [Data Center Technician ](https://www.amazon.jobs/en/jobs/10556112/data-center-technician) | amazon | US, MS, Canton | 0.5639 | 2026-09-22 |
+| [2027 Data Science Internship - United States, PhD or Masters Student](https://www.amazon.jobs/jobs/10556927/-data-science-internship--united-states-phd-or-masters-student?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5610 | 2026-09-23 |
+| [Customer Solutions Manager, NAMER Scale](https://www.amazon.jobs/en/jobs/10558645/customer-solutions-manager-namer-scale) | amazon | US, NY, New York | 0.5591 | 2026-09-24 |
+| [Machine Learning Engineer II, Amazon Music - MusicIQ](https://www.amazon.jobs/en/jobs/10557456/machine-learning-engineer-ii-amazon-music-musiciq) | amazon | US, WA, Seattle | 0.5580 | 2026-09-23 |
+| [Senior Applied Scientist, Amazon Connect](https://www.amazon.jobs/jobs/10557099/senior-applied-scientist-amazon-connect?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.5518 | 2026-09-23 |
+| [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10557464/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, MD, Jessup | 0.5504 | 2026-09-23 |
+| [Senior Product Manager - Technical, Marketing Optimizaiton, Devices Science Optimization](https://www.amazon.jobs/en/jobs/10558248/senior-product-manager-technical-marketing-optimizaiton-devices-science-optimization) | amazon | US, WA, Seattle | 0.5493 | 2026-09-23 |
+| [Supplier emissions and Scope 3 measurement lead, AWS Global Sustainability](https://www.amazon.jobs/en/jobs/10557787/supplier-emissions-and-scope-3-measurement-lead-aws-global-sustainability) | amazon | US, VA, Arlington | 0.5476 | 2026-09-23 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556752179) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5455 | 2026-09-23 |
+| [Applied Scientist, Customer360](https://www.amazon.jobs/jobs/10557022/applied-scientist-customer?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5386 | 2026-09-23 |
+| [Senior Applied Scientist, Real-Time Conversational AI , AGI](https://www.amazon.jobs/en/jobs/10557469/senior-applied-scientist-real-time-conversational-ai-agi) | amazon | US, CA, Sunnyvale | 0.5349 | 2026-09-23 |
+| [Senior Capacity Delivery Reliability Planner , AWS Infra Supply Chain](https://www.amazon.jobs/en/jobs/10558683/senior-capacity-delivery-reliability-planner-aws-infra-supply-chain) | amazon | US, WA, Seattle | 0.5339 | 2026-09-24 |
+| [Product Marketing Manager, Tech Amazon Quick ](https://www.amazon.jobs/en/jobs/10557647/product-marketing-manager-tech-amazon-quick) | amazon | US, CA, San Francisco | 0.5339 | 2026-09-23 |
+| [Applied Scientist II, Advertising Incrementality Measurement](https://www.amazon.jobs/jobs/10556827/applied-scientist-ii-advertising-incrementality-measurement?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.5338 | 2026-09-23 |
+| [Mfg Eng; Process Quality, Hardware Engineering Services - Manufacturing](https://www.amazon.jobs/en/jobs/10557686/mfg-eng-process-quality-hardware-engineering-services-manufacturing) | amazon | US, TX, Austin | 0.5316 | 2026-09-23 |
+| [Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10557015/category-manager-data-center-sourcing-procurement) | amazon | US, VA, Herndon | 0.5286 | 2026-09-23 |
+| [Sr. Solutions Architect, Financial Services (FSI), Greenfield](https://www.amazon.jobs/en/jobs/10558635/sr-solutions-architect-financial-services-fsi-greenfield) | amazon | US, NY, New York | 0.5267 | 2026-09-24 |
+| [Financial Analyst, Amazon Ads, Ads Trust](https://www.amazon.jobs/en/jobs/10557299/financial-analyst-amazon-ads-ads-trust) | amazon | US, NY, New York | 0.5137 | 2026-09-23 |
+| [Cloud Hardware Development Engineer, Network Product Development ](https://www.amazon.jobs/en/jobs/10558183/cloud-hardware-development-engineer-network-product-development) | amazon | US, CA, Cupertino | 0.5120 | 2026-09-23 |
 
 ## Companies tracked
 
