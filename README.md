@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Solutions Architect, Financial Services (FSI), Greenfield](https://www.amazon.jobs/en/jobs/10558635/sr-solutions-architect-financial-services-fsi-greenfield) | amazon | US, NY, New York | 0.5843 | 2026-09-24 |
-| [Software Dev Engineer, Business Data Technologies](https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies) | amazon | US, MI, Detroit | 0.5787 | 2026-09-24 |
-| [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5774 | 2026-09-24 |
-| [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.5769 | 2026-09-25 |
-| [Sr. Solutions Architect, Software and Technology](https://www.amazon.jobs/en/jobs/10559370/sr-solutions-architect-software-and-technology) | amazon | US, CO, Denver | 0.5745 | 2026-09-24 |
-| [Customer Solutions Manager, NAMER Scale](https://www.amazon.jobs/en/jobs/10558645/customer-solutions-manager-namer-scale) | amazon | US, NY, New York | 0.5708 | 2026-09-24 |
-| [ASIC Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5693 | 2026-09-24 |
+| [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.6039 | 2026-09-25 |
+| [Assoc Customer Solutions Mgr, NAMER Scale CSM](https://www.amazon.jobs/en/jobs/10560745/assoc-customer-solutions-mgr-namer-scale-csm) | amazon | US, VA, Arlington | 0.6006 | 2026-09-25 |
+| [Business Intelligence Engineer, Amazon Prime Video Product Analytics](https://www.amazon.jobs/en/jobs/10560823/business-intelligence-engineer-amazon-prime-video-product-analytics) | amazon | US, WA, Seattle | 0.5914 | 2026-09-25 |
+| [Sr. Solutions Architect, Financial Services (FSI), Greenfield](https://www.amazon.jobs/en/jobs/10558635/sr-solutions-architect-financial-services-fsi-greenfield) | amazon | US, NY, New York | 0.5854 | 2026-09-24 |
+| [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5852 | 2026-09-24 |
+| [Software Dev Engineer, Business Data Technologies](https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies) | amazon | US, MI, Detroit | 0.5837 | 2026-09-24 |
+| [Sr. Solutions Architect, Software and Technology](https://www.amazon.jobs/en/jobs/10559370/sr-solutions-architect-software-and-technology) | amazon | US, CO, Denver | 0.5815 | 2026-09-24 |
+| [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5813 | 2026-09-25 |
+| [Startup Solutions Architect, Early Stage Startups](https://www.amazon.jobs/en/jobs/10559416/startup-solutions-architect-early-stage-startups) | amazon | US, CA, San Francisco | 0.5738 | 2026-09-24 |
+| [Financial Analyst II, ASP Partner Core Finance](https://www.amazon.jobs/en/jobs/10560691/financial-analyst-ii-asp-partner-core-finance) | amazon | US, VA, Arlington | 0.5713 | 2026-09-25 |
+| [Customer Solutions Manager, NAMER Scale](https://www.amazon.jobs/en/jobs/10558645/customer-solutions-manager-namer-scale) | amazon | US, NY, New York | 0.5685 | 2026-09-24 |
+| [ASIC Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5672 | 2026-09-24 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities) | amazon | US, NV, Sparks | 0.5619 | 2026-09-25 |
 | [Delivery Consultant - Data, AWS ProServe WWPS - EDU & SLG](https://www.amazon.jobs/en/jobs/10560500/delivery-consultant-data-aws-proserve-wwps-edu-slg) | amazon | US, GA, Atlanta | 0.5615 | 2026-09-25 |
-| [Startup Solutions Architect, Early Stage Startups](https://www.amazon.jobs/en/jobs/10559416/startup-solutions-architect-early-stage-startups) | amazon | US, CA, San Francisco | 0.5610 | 2026-09-24 |
-| [Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, TX, Austin | 0.5596 | 2026-09-24 |
-| [Sr Program Manager, AI & Data, Global Corporate Communications](https://www.amazon.jobs/en/jobs/10559445/sr-program-manager-ai-data-global-corporate-communications) | amazon | US, WA, Seattle | 0.5591 | 2026-09-24 |
-| [DCEO Technician 3 , ATL Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10559090/dceo-technician-3-atl-data-center-engineering-operations-dceo) | amazon | US, GA, Lithia Springs | 0.5571 | 2026-09-24 |
+| [Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, TX, Austin | 0.5594 | 2026-09-24 |
+| [DCEO Technician 3 , ATL Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10559090/dceo-technician-3-atl-data-center-engineering-operations-dceo) | amazon | US, GA, Lithia Springs | 0.5568 | 2026-09-24 |
+| [Sr Program Manager, AI & Data, Global Corporate Communications](https://www.amazon.jobs/en/jobs/10559445/sr-program-manager-ai-data-global-corporate-communications) | amazon | US, WA, Seattle | 0.5564 | 2026-09-24 |
+| [Principal Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560728/principal-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5557 | 2026-09-25 |
+| [Software Development Engineer, General Shopping Intelligence](https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence) | amazon | US, WA, Seattle | 0.5550 | 2026-09-24 |
 | [Sr Solution Architect, Ad Tech Ops, Prime Video Advertising](https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising) | amazon | US, NY, New York | 0.5540 | 2026-09-25 |
-| [Software Development Engineer, General Shopping Intelligence](https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence) | amazon | US, WA, Seattle | 0.5516 | 2026-09-24 |
 | [Cloud Hardware Dev Engineer, AWS AI/ML UltraServers](https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers) | amazon | US, WA, Seattle | 0.5506 | 2026-09-25 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities) | amazon | US, NV, Sparks | 0.5501 | 2026-09-25 |
-| [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5478 | 2026-09-25 |
+| [Senior Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560847/senior-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5456 | 2026-09-25 |
+| [Network Development Eng, ADC Networking](https://www.amazon.jobs/en/jobs/10560699/network-development-eng-adc-networking) | amazon | US, VA, Arlington | 0.5377 | 2026-09-25 |
 | [Software Development Manager, Classification&Policy Platform](https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform) | amazon | US, CA, Sunnyvale | 0.5333 | 2026-09-25 |
 | [Solutions Architect III](https://www.amazon.jobs/en/jobs/10559383/solutions-architect-iii) | amazon | US, VA, Arlington | 0.5303 | 2026-09-24 |
-| [Principal Software Engineer, Integration and Automation - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557004835) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5299 | 2026-09-25 |
-| [Software Development Engineer, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands) | amazon | US, WA, Seattle | 0.5294 | 2026-09-24 |
-| [Senior Capacity Delivery Reliability Planner , AWS Infra Supply Chain](https://www.amazon.jobs/en/jobs/10558683/senior-capacity-delivery-reliability-planner-aws-infra-supply-chain) | amazon | US, WA, Seattle | 0.5257 | 2026-09-24 |
-| [Senior Solutions Architect - Google Cloud Platform/Emerging Tech, Cloud Intelligence](https://www.amazon.jobs/en/jobs/10560541/senior-solutions-architect-google-cloud-platform-emerging-tech-cloud-intelligence) | amazon | US, VA, Arlington | 0.5216 | 2026-09-25 |
-| [Product Development Engineer, Annapurna Labs Silicon Operations](https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations) | amazon | US, TX, Austin | 0.5178 | 2026-09-25 |
-| [Lead ICT Design Engineer, ICT Infra Engineering](https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering) | amazon | US, TX, Austin | 0.5103 | 2026-09-25 |
 
 ## Companies tracked
 
