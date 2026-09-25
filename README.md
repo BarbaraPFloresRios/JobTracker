@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Solutions Architect, Financial Services (FSI), Greenfield](https://www.amazon.jobs/en/jobs/10558635/sr-solutions-architect-financial-services-fsi-greenfield) | amazon | US, NY, New York | 0.5868 | 2026-09-24 |
-| [Software Dev Engineer, Business Data Technologies](https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies) | amazon | US, MI, Detroit | 0.5777 | 2026-09-24 |
+| [Sr. Solutions Architect, Financial Services (FSI), Greenfield](https://www.amazon.jobs/en/jobs/10558635/sr-solutions-architect-financial-services-fsi-greenfield) | amazon | US, NY, New York | 0.5865 | 2026-09-24 |
+| [Software Dev Engineer, Business Data Technologies](https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies) | amazon | US, MI, Detroit | 0.5841 | 2026-09-24 |
 | [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.5769 | 2026-09-25 |
 | [Sr. Solutions Architect, Software and Technology](https://www.amazon.jobs/en/jobs/10559370/sr-solutions-architect-software-and-technology) | amazon | US, CO, Denver | 0.5745 | 2026-09-24 |
-| [Customer Solutions Manager, NAMER Scale](https://www.amazon.jobs/en/jobs/10558645/customer-solutions-manager-namer-scale) | amazon | US, NY, New York | 0.5693 | 2026-09-24 |
+| [Customer Solutions Manager, NAMER Scale](https://www.amazon.jobs/en/jobs/10558645/customer-solutions-manager-namer-scale) | amazon | US, NY, New York | 0.5735 | 2026-09-24 |
 | [Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, TX, Austin | 0.5661 | 2026-09-24 |
 | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5637 | 2026-09-24 |
 | [Startup Solutions Architect, Early Stage Startups](https://www.amazon.jobs/en/jobs/10559416/startup-solutions-architect-early-stage-startups) | amazon | US, CA, San Francisco | 0.5610 | 2026-09-24 |
-| [DCEO Technician 3 , ATL Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10559090/dceo-technician-3-atl-data-center-engineering-operations-dceo) | amazon | US, GA, Lithia Springs | 0.5572 | 2026-09-24 |
+| [DCEO Technician 3 , ATL Data Center Engineering Operations (DCEO)](https://www.amazon.jobs/en/jobs/10559090/dceo-technician-3-atl-data-center-engineering-operations-dceo) | amazon | US, GA, Lithia Springs | 0.5574 | 2026-09-24 |
 | [Sr Program Manager, AI & Data, Global Corporate Communications](https://www.amazon.jobs/en/jobs/10559445/sr-program-manager-ai-data-global-corporate-communications) | amazon | US, WA, Seattle | 0.5566 | 2026-09-24 |
+| [Sr Solution Architect, Ad Tech Ops, Prime Video Advertising](https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising) | amazon | US, NY, New York | 0.5540 | 2026-09-25 |
 | [Software Development Engineer, General Shopping Intelligence](https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence) | amazon | US, WA, Seattle | 0.5516 | 2026-09-24 |
 | [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5478 | 2026-09-25 |
 | [ASIC Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027) | amazon | US, CA, Cupertino | 0.5458 | 2026-09-24 |
-| [Solutions Architect III](https://www.amazon.jobs/en/jobs/10559383/solutions-architect-iii) | amazon | US, VA, Arlington | 0.5317 | 2026-09-24 |
-| [Software Development Engineer, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands) | amazon | US, WA, Seattle | 0.5297 | 2026-09-24 |
-| [Senior Capacity Delivery Reliability Planner , AWS Infra Supply Chain](https://www.amazon.jobs/en/jobs/10558683/senior-capacity-delivery-reliability-planner-aws-infra-supply-chain) | amazon | US, WA, Seattle | 0.5257 | 2026-09-24 |
+| [Software Development Engineer, Sponsored Products and Brands](https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands) | amazon | US, WA, Seattle | 0.5304 | 2026-09-24 |
+| [Solutions Architect III](https://www.amazon.jobs/en/jobs/10559383/solutions-architect-iii) | amazon | US, VA, Arlington | 0.5303 | 2026-09-24 |
+| [Senior Capacity Delivery Reliability Planner , AWS Infra Supply Chain](https://www.amazon.jobs/en/jobs/10558683/senior-capacity-delivery-reliability-planner-aws-infra-supply-chain) | amazon | US, WA, Seattle | 0.5259 | 2026-09-24 |
+| [Principal Software Engineer, Integration and Automation - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557004835) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5195 | 2026-09-25 |
 | [Product Development Engineer, Annapurna Labs Silicon Operations](https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations) | amazon | US, TX, Austin | 0.5178 | 2026-09-25 |
+| [Lead ICT Design Engineer, ICT Infra Engineering](https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering) | amazon | US, TX, Austin | 0.5103 | 2026-09-25 |
 | [Applied Scientist, Neuron ARG, Annapurna ML](https://www.amazon.jobs/jobs/10558288/applied-scientist-neuron-arg-annapurna-ml?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5077 | 2026-09-24 |
-| [Sr. Global Sourcing Manager, AWS Infrastructure Services](https://www.amazon.jobs/en/jobs/10558681/sr-global-sourcing-manager-aws-infrastructure-services) | amazon | US, WA, Seattle | 0.5018 | 2026-09-24 |
-| [Cloud Solution Architect - Data & AI](https://apply.careers.microsoft.com/careers/job/1970393556988219) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5018 | 2026-09-24 |
-| [Supply Chain Manager II, Capacity Planning, R2L Supply Chain ](https://www.amazon.jobs/en/jobs/10558368/supply-chain-manager-ii-capacity-planning-r2l-supply-chain) | amazon | US, WA, Bellevue | 0.5014 | 2026-09-24 |
+| [Sr. Global Sourcing Manager, AWS Infrastructure Services](https://www.amazon.jobs/en/jobs/10558681/sr-global-sourcing-manager-aws-infrastructure-services) | amazon | US, WA, Seattle | 0.5007 | 2026-09-24 |
+| [Cloud Solution Architect - Data & AI](https://apply.careers.microsoft.com/careers/job/1970393556988219) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5005 | 2026-09-24 |
 | [Decom Tech, ADC InfraOps Decom](https://www.amazon.jobs/en/jobs/10559374/decom-tech-adc-infraops-decom) | amazon | US, TX, San Antonio | 0.5000 | 2026-09-24 |
-| [Regional Environmental Engineer, AWS Environmental Team](https://www.amazon.jobs/en/jobs/10558631/regional-environmental-engineer-aws-environmental-team) | amazon | US, VA, Herndon | 0.4993 | 2026-09-24 |
-| [Senior Business Intelligence Engineer, Private Pricing Programs and Experiences](https://www.amazon.jobs/en/jobs/10559476/senior-business-intelligence-engineer-private-pricing-programs-and-experiences) | amazon | US, WA, Seattle | 0.4970 | 2026-09-24 |
-| [Senior Technical Program Manager, Global Engineering Strategy ](https://www.amazon.jobs/en/jobs/10559097/senior-technical-program-manager-global-engineering-strategy) | amazon | US, VA, Herndon | 0.4960 | 2026-09-24 |
+| [Regional Environmental Engineer, AWS Environmental Team](https://www.amazon.jobs/en/jobs/10558631/regional-environmental-engineer-aws-environmental-team) | amazon | US, VA, Herndon | 0.4992 | 2026-09-24 |
 
 ## Companies tracked
 
