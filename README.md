@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.6070 | 2026-09-25 |
+| [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.6075 | 2026-09-25 |
 | [Assoc Customer Solutions Mgr, NAMER Scale CSM](https://www.amazon.jobs/en/jobs/10560745/assoc-customer-solutions-mgr-namer-scale-csm) | amazon | US, VA, Arlington | 0.6006 | 2026-09-25 |
 | [Business Intelligence Engineer, Amazon Prime Video Product Analytics](https://www.amazon.jobs/en/jobs/10560823/business-intelligence-engineer-amazon-prime-video-product-analytics) | amazon | US, WA, Seattle | 0.5914 | 2026-09-25 |
-| [Sr Solution Architect, Ad Tech Ops, Prime Video Advertising](https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising) | amazon | US, NY, New York | 0.5716 | 2026-09-25 |
+| [Sr Solution Architect, Ad Tech Ops, Prime Video Advertising](https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising) | amazon | US, NY, New York | 0.5737 | 2026-09-25 |
 | [Financial Analyst II, ASP Partner Core Finance](https://www.amazon.jobs/en/jobs/10560691/financial-analyst-ii-asp-partner-core-finance) | amazon | US, VA, Arlington | 0.5713 | 2026-09-25 |
-| [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5631 | 2026-09-25 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities) | amazon | US, NV, Sparks | 0.5626 | 2026-09-25 |
+| [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5640 | 2026-09-25 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities) | amazon | US, NV, Sparks | 0.5618 | 2026-09-25 |
 | [Delivery Consultant - Data, AWS ProServe WWPS - EDU & SLG](https://www.amazon.jobs/en/jobs/10560500/delivery-consultant-data-aws-proserve-wwps-edu-slg) | amazon | US, GA, Atlanta | 0.5615 | 2026-09-25 |
 | [Principal Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560728/principal-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5557 | 2026-09-25 |
-| [Cloud Hardware Dev Engineer, AWS AI/ML UltraServers](https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers) | amazon | US, WA, Seattle | 0.5521 | 2026-09-25 |
-| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10560309/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5486 | 2026-09-25 |
+| [Cloud Hardware Dev Engineer, AWS AI/ML UltraServers](https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers) | amazon | US, WA, Seattle | 0.5519 | 2026-09-25 |
 | [Senior Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560847/senior-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5456 | 2026-09-25 |
-| [Software Development Manager, Classification&Policy Platform](https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform) | amazon | US, CA, Sunnyvale | 0.5389 | 2026-09-25 |
+| [Software Development Manager, Classification&Policy Platform](https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform) | amazon | US, CA, Sunnyvale | 0.5428 | 2026-09-25 |
+| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10560309/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5408 | 2026-09-25 |
 | [Network Development Eng, ADC Networking](https://www.amazon.jobs/en/jobs/10560699/network-development-eng-adc-networking) | amazon | US, VA, Arlington | 0.5377 | 2026-09-25 |
+| [Principal Software Engineer, Integration and Automation - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557004835) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5299 | 2026-09-25 |
+| [Lead ICT Design Engineer, ICT Infra Engineering](https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering) | amazon | US, TX, Austin | 0.5287 | 2026-09-25 |
 | [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560963/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5282 | 2026-09-26 |
-| [Lead ICT Design Engineer, ICT Infra Engineering](https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering) | amazon | US, TX, Austin | 0.5277 | 2026-09-25 |
-| [Financial Analyst, Reverse Logistics Finance](https://www.amazon.jobs/en/jobs/10559742/financial-analyst-reverse-logistics-finance) | amazon | US, CA, Sunnyvale | 0.5237 | 2026-09-25 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560893/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
+| [Applied Scientist, Tabular Foundational Model, AWS](https://www.amazon.jobs/jobs/10560684/applied-scientist-tabular-foundational-model-aws?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5258 | 2026-09-26 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560896/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560914/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560878/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-25 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560585/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-25 |
-| [Software Development Engineer II, AWS Cross Domain Services (CDS)](https://www.amazon.jobs/en/jobs/10560316/software-development-engineer-ii-aws-cross-domain-services-cds) | amazon | US, VA, Arlington | 0.5221 | 2026-09-25 |
-| [Principal Software Engineer, Integration and Automation - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557004835) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5195 | 2026-09-25 |
-| [Product Development Engineer, Annapurna Labs Silicon Operations](https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations) | amazon | US, TX, Austin | 0.5182 | 2026-09-25 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560893/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
+| [Financial Analyst, Reverse Logistics Finance](https://www.amazon.jobs/en/jobs/10559742/financial-analyst-reverse-logistics-finance) | amazon | US, CA, Sunnyvale | 0.5228 | 2026-09-25 |
+| [Product Development Engineer, Annapurna Labs Silicon Operations](https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations) | amazon | US, TX, Austin | 0.5186 | 2026-09-25 |
 
 ## Companies tracked
 

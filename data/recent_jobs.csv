@@ -1,51 +1,63 @@
 title,company,location,semantic_similarity,first_seen_date,url
 "Data Center Technician , DCC Communities ",amazon,"US, CA, Gilroy",0.5282,2026-09-26,https://www.amazon.jobs/en/jobs/10560963/data-center-technician-dcc-communities
+"Applied Scientist, Tabular Foundational Model, AWS",amazon_science,"US, WA, Seattle",0.5258,2026-09-26,https://www.amazon.jobs/jobs/10560684/applied-scientist-tabular-foundational-model-aws?cmpid=bsp-amazon-science
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Lithia Springs",0.5232,2026-09-26,https://www.amazon.jobs/en/jobs/10560893/data-center-technician-dcc-communities-dco-tech
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Lithia Springs",0.5232,2026-09-26,https://www.amazon.jobs/en/jobs/10560896/data-center-technician-dcc-communities-dco-tech
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Lithia Springs",0.5232,2026-09-26,https://www.amazon.jobs/en/jobs/10560914/data-center-technician-dcc-communities-dco-tech
 "Mechanical Product Engineer, Mechanical Products and Services",amazon,"US, VA, Herndon",0.5061,2026-09-26,https://www.amazon.jobs/en/jobs/10560929/mechanical-product-engineer-mechanical-products-and-services
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Atlanta",0.5029,2026-09-26,https://www.amazon.jobs/en/jobs/10560909/data-center-technician-dcc-communities-dco-tech
+"Senior Cloud Solution Architect, Cloud & AI Business Solutions",microsoft,"United States, Multiple Locations, Multiple Locations",0.4999,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393557002031
 Technical Recruiter,openai,San Francisco,0.4989,2026-09-26,https://jobs.ashbyhq.com/openai/0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1
+"Applied Scientist, RL post-training, AWS",amazon_science,"US, WA, Seattle",0.4884,2026-09-26,https://www.amazon.jobs/jobs/10560685/applied-scientist-rl-posttraining-aws?cmpid=bsp-amazon-science
 "Sr. Technical Account Manager, TAM ",amazon,"US, WA, Seattle",0.4834,2026-09-26,https://www.amazon.jobs/en/jobs/10560891/sr-technical-account-manager-tam
 "Sr. Technical Account Manager, TAM ",amazon,"US, WA, Seattle",0.4781,2026-09-26,https://www.amazon.jobs/en/jobs/10560897/sr-technical-account-manager-tam
 "Sr. Technical Account Manager, TAM ",amazon,"US, WA, Seattle",0.4781,2026-09-26,https://www.amazon.jobs/en/jobs/10560895/sr-technical-account-manager-tam
+Director of Sales Enablement,microsoft,"United States, Multiple Locations, Multiple Locations",0.464,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393557008025
+"Americas Sales Excellence Director, AI Business Solutions",microsoft,"United States, Multiple Locations, Multiple Locations",0.4374,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393556962195
 "Software I&T Engineer, Amazon Leo Optical Inter-Satellite Link ",amazon,"US, CA, Northridge",0.436,2026-09-26,https://www.amazon.jobs/en/jobs/10560946/software-i-t-engineer-amazon-leo-optical-inter-satellite-link
 "Network Deployment Manager I, Global Network Delivery",amazon,"US, IN, New Carlisle",0.4324,2026-09-26,https://www.amazon.jobs/en/jobs/10560967/network-deployment-manager-i-global-network-delivery
 "Senior Program Manager, Global Tax PMO",amazon,"US, WA, Seattle",0.4111,2026-09-26,https://www.amazon.jobs/en/jobs/10560938/senior-program-manager-global-tax-pmo
+Senior Solution Area Specialists - Security,microsoft,"United States, Multiple Locations, Multiple Locations",0.3987,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393556866772
 "Senior ML Engineer, Apple Ray, Apple Data Platform",apple,,0.3863,2026-09-26,https://jobs.apple.com/en-us/details/200647309-0836/senior-ml-engineer-apple-ray-apple-data-platform?team=SFTWR
 "Deal Lead, Special Situations",openai,San Francisco,0.3746,2026-09-26,https://jobs.ashbyhq.com/openai/f16eaf44-208f-4374-b576-f033ed6e5eed
+"AI Research Scientist 4 - Generative Models, Recommender Systems",netflix,"Remote, United States",0.3714,2026-09-26,https://explore.jobs.netflix.net/careers/job/790317917705
 "Senior Data Science Manager, Developer Platform",discord,San Francisco Bay Area,0.3692,2026-09-26,https://job-boards.greenhouse.io/discord/jobs/8821508002
 "Machine Learning Engineer, Proactive",apple,,0.3495,2026-09-26,https://jobs.apple.com/en-us/details/200685771-0836/machine-learning-engineer-proactive?team=MLAI
 "ASIC Implementation Engineer, Static Verification",meta,"Sunnyvale, CA",0.3481,2026-09-26,https://www.metacareers.com/profile/job_details/1600283378263128
+Business Architect for Security Services Strategy,microsoft,"United States, Multiple Locations, Multiple Locations",0.3435,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393557000682
+"Software Engineering L5, Open Connect Platform",netflix,"Remote, United States",0.3373,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318653296
 "ASIC Engineer, Implementation - Timing",meta,"Sunnyvale, CA",0.3301,2026-09-26,https://www.metacareers.com/profile/job_details/2147375966212784
 "Critical Facilities Chief Engineer, Data Center Operations",apple,,0.3285,2026-09-26,https://jobs.apple.com/en-us/details/200685553-2228/critical-facilities-chief-engineer-data-center-operations?team=CORSV
 Software Engineer Backend - IT CRM Customer Service,mercadolibre,"Buenos Aires,Argentina",0.324,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44441759
-Business Architect for Security Services Strategy,microsoft,"United States, Multiple Locations, Multiple Locations",0.323,2026-09-26,https://apply.careers.microsoft.com/careers/job/1970393557000682
 Lab Operations Engineering Program Specialist,apple,,0.3179,2026-09-26,https://jobs.apple.com/en-us/details/200643393-0836/lab-operations-engineering-program-specialist?team=SFTWR
 "Senior Software Engineer, Development Engineering Workflows, Core OS",apple,,0.317,2026-09-26,https://jobs.apple.com/en-us/details/200685555-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR
 "Critical Facilities Operations Manager, Data Center Operations",apple,,0.2983,2026-09-26,https://jobs.apple.com/en-us/details/200685552-2228/critical-facilities-operations-manager-data-center-operations?team=CORSV
 "Executive Assistant, Retail Customer Care",apple,,0.2918,2026-09-26,https://jobs.apple.com/en-us/details/200685941-0157/executive-assistant-retail-customer-care?team=CORSV
 "Software Engineer, Product (Technical Leadership)",meta,"Menlo Park, CA",0.2811,2026-09-26,https://www.metacareers.com/profile/job_details/1796500981494634
+Engineering Manager — Change Systems,netflix,"Warsaw,Poland",0.2787,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318622925
 Business Development Partner Manager - Apple Services,apple,,0.2768,2026-09-26,https://jobs.apple.com/en-us/details/200685948-0670/business-development-partner-manager-apple-services?team=SLDEV
 Software Engineer (Technical Leadership),meta,"Menlo Park, CA",0.2765,2026-09-26,https://www.metacareers.com/profile/job_details/4681548652164642
 Accountant,airbnb,United States,0.2634,2026-09-26,https://careers.airbnb.com/positions/8232207/
-HR Business Partner - Thailand and Indonesia,netflix,"Bangkok,Thailand",0.2539,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318621079
+HR Business Partner - Thailand and Indonesia,netflix,"Bangkok,Thailand",0.2608,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318621079
+OS Power and Performance - Software Development Engineer in Test,apple,,0.2554,2026-09-26,https://jobs.apple.com/en-us/details/200685970-3543/os-power-and-performance-software-development-engineer-in-test?team=SFTWR
 Senior Program Manager - Podcast Sales Strategy & Solutions,spotify,"Los Angeles, CA; New York, NY",0.2535,2026-09-26,https://jobs.lever.co/spotify/99860086-49bc-46b4-97ec-99d8993ffffb
+"AI Research Scientist 4/5 - Promotional Asset & Creative Technology, AIMS",netflix,"Remote, United States",0.2441,2026-09-26,https://explore.jobs.netflix.net/careers/job/790317917698
 "Policy Manager, Data Center Community Engagement & Strategic Initiatives",meta,"Menlo Park, CA",0.2405,2026-09-26,https://www.metacareers.com/profile/job_details/1122428030133565
-Engineering Manager — Change Systems,netflix,"Warsaw,Poland",0.2368,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318622925
 Construction Project Manager,apple,,0.2341,2026-09-26,https://jobs.apple.com/en-us/details/200676690-3337/construction-project-manager?team=CORSV
 "Sr Network Reliability Engineer, IS",apple,,0.2307,2026-09-26,https://jobs.apple.com/en-us/details/200684650-3956/sr-network-reliability-engineer-is?team=SFTWR
 "Software Engineering Technical Lead, Apple Pay — Wallet, Payments & Commerce (WPC)",apple,,0.2301,2026-09-26,https://jobs.apple.com/en-us/details/200685954-0836/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc?team=SFTWR
 "SDET Manager, Mail & Messages Automated Testing Frameworks",apple,,0.215,2026-09-26,https://jobs.apple.com/en-us/details/200685898-3543/sdet-manager-mail-messages-automated-testing-frameworks?team=SFTWR
-"Manager, AV Localization - APAC",netflix,"Singapore,Singapore; Tokyo,Japan",0.1972,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318619634
+"Lead Designer, Design Systems & Structures",apple,,0.2074,2026-09-26,https://jobs.apple.com/en-us/details/200685976-0670/lead-designer-design-systems-structures?team=SFTWR
 "Software Engineer, Infrastructure (Technical Leadership)",meta,"Bellevue, WA",0.1961,2026-09-26,https://www.metacareers.com/profile/job_details/941201945734492
+"Manager, AV Localization - APAC",netflix,"Singapore,Singapore; Tokyo,Japan",0.1958,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318619634
 Operational Excellence Transportation Brazil Sr Analyst,mercadolibre,"Sudeste,Brazil",0.1955,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44667035
+"Manager, Post Production - Indonesia",netflix,"Jakarta,Indonesia",0.1858,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318617537
 Optoelectronic Test Development Engineer,apple,,0.1804,2026-09-26,https://jobs.apple.com/en-us/details/200685786-0836/optoelectronic-test-development-engineer?team=HRDWR
 Líder de Equipe Logística - Mercado Envios,mercadolibre,"Norte,Brazil",0.1803,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44624715
-Analista de Gestión de Programas de Excelencia - Mercado Envíos,mercadolibre,"Capital Federal,Argentina",0.1782,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/43936674
 Optical Process & Manufacturing Engineer - Lens Technical Lead,meta,"Sunnyvale, CA",0.1774,2026-09-26,https://www.metacareers.com/profile/job_details/1831636447841270
-"Manager, Post Production - Indonesia",netflix,"Jakarta,Indonesia",0.1674,2026-09-26,https://explore.jobs.netflix.net/careers/job/790318617537
 "Software Engineer, Systems",meta,"Bellevue, WA",0.1672,2026-09-26,https://www.metacareers.com/profile/job_details/1104959738740874
+Analista de Gestión de Programas de Excelencia - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.1652,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/43936674
+Analista de planeacion de demanda y flujo operacional - Mercado envios,mercadolibre,"Distrito Federal,Mexico",0.1625,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/43889588
 Analista de Datos - Mercado Envios,mercadolibre,"Bogotá,Colombia",0.1533,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44647852
 Battery Architect,apple,,0.1496,2026-09-26,https://jobs.apple.com/en-us/details/200685722-3543/battery-architect?team=HRDWR
 Analista Pleno de Transportes - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1486,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44604976
@@ -54,201 +66,201 @@ Especialista en Ejecución de Ingeniería Hispanos - Mercado Envíos,mercadolibr
 Lider de Equipo para Mantenimiento - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.1026,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44660305
 Analista de Control de Monitoreo - Mercado Envíos,mercadolibre,"Buenos Aires,Argentina",0.1012,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/43627368
 Asistente de Transporte - Mercado Envíos,mercadolibre,"Bogotá,Colombia",0.0958,2026-09-26,https://mercadolibre.eightfold.ai/careers/job/44647918
-"Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services",amazon,"US, NY, New York",0.607,2026-09-25,https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services
+"Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services",amazon,"US, NY, New York",0.6075,2026-09-25,https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services
 "Assoc Customer Solutions Mgr, NAMER Scale CSM",amazon,"US, VA, Arlington",0.6006,2026-09-25,https://www.amazon.jobs/en/jobs/10560745/assoc-customer-solutions-mgr-namer-scale-csm
 "Business Intelligence Engineer, Amazon Prime Video Product Analytics",amazon,"US, WA, Seattle",0.5914,2026-09-25,https://www.amazon.jobs/en/jobs/10560823/business-intelligence-engineer-amazon-prime-video-product-analytics
-"Sr Solution Architect, Ad Tech Ops, Prime Video Advertising",amazon,"US, NY, New York",0.5716,2026-09-25,https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising
+"Sr Solution Architect, Ad Tech Ops, Prime Video Advertising",amazon,"US, NY, New York",0.5737,2026-09-25,https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising
 "Financial Analyst II, ASP Partner Core Finance",amazon,"US, VA, Arlington",0.5713,2026-09-25,https://www.amazon.jobs/en/jobs/10560691/financial-analyst-ii-asp-partner-core-finance
-"Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",amazon,"US, WA, Seattle",0.5631,2026-09-25,https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc
-"Data Center Technician , DCC Communities ",amazon,"US, NV, Sparks",0.5626,2026-09-25,https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities
+"Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",amazon,"US, WA, Seattle",0.564,2026-09-25,https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc
+"Data Center Technician , DCC Communities ",amazon,"US, NV, Sparks",0.5618,2026-09-25,https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities
 "Delivery Consultant - Data, AWS ProServe WWPS - EDU & SLG",amazon,"US, GA, Atlanta",0.5615,2026-09-25,https://www.amazon.jobs/en/jobs/10560500/delivery-consultant-data-aws-proserve-wwps-edu-slg
 "Principal Technical Product Manager - Agentic AI, Velocity Labs",amazon,"US, WA, Seattle",0.5557,2026-09-25,https://www.amazon.jobs/en/jobs/10560728/principal-technical-product-manager-agentic-ai-velocity-labs
-"Cloud Hardware Dev Engineer, AWS AI/ML UltraServers",amazon,"US, WA, Seattle",0.5521,2026-09-25,https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers
-"Demand Generation Manager, Digital Acquisition",amazon,"US, VA, Arlington",0.5486,2026-09-25,https://www.amazon.jobs/en/jobs/10560309/demand-generation-manager-digital-acquisition
+"Cloud Hardware Dev Engineer, AWS AI/ML UltraServers",amazon,"US, WA, Seattle",0.5519,2026-09-25,https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers
 "Senior Technical Product Manager - Agentic AI, Velocity Labs",amazon,"US, WA, Seattle",0.5456,2026-09-25,https://www.amazon.jobs/en/jobs/10560847/senior-technical-product-manager-agentic-ai-velocity-labs
-"Software Development Manager, Classification&Policy Platform",amazon,"US, CA, Sunnyvale",0.5389,2026-09-25,https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform
+"Software Development Manager, Classification&Policy Platform",amazon,"US, CA, Sunnyvale",0.5428,2026-09-25,https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform
+"Demand Generation Manager, Digital Acquisition",amazon,"US, VA, Arlington",0.5408,2026-09-25,https://www.amazon.jobs/en/jobs/10560309/demand-generation-manager-digital-acquisition
 "Network Development Eng, ADC Networking",amazon,"US, VA, Arlington",0.5377,2026-09-25,https://www.amazon.jobs/en/jobs/10560699/network-development-eng-adc-networking
-"Lead ICT Design Engineer, ICT Infra Engineering",amazon,"US, TX, Austin",0.5277,2026-09-25,https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering
-"Financial Analyst, Reverse Logistics Finance",amazon,"US, CA, Sunnyvale",0.5237,2026-09-25,https://www.amazon.jobs/en/jobs/10559742/financial-analyst-reverse-logistics-finance
+"Principal Software Engineer, Integration and Automation - AI Infrastructure",microsoft,"United States, Multiple Locations, Multiple Locations",0.5299,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557004835
+"Lead ICT Design Engineer, ICT Infra Engineering",amazon,"US, TX, Austin",0.5287,2026-09-25,https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Lithia Springs",0.5232,2026-09-25,https://www.amazon.jobs/en/jobs/10560585/data-center-technician-dcc-communities-dco-tech
 "Data Center Technician, DCC Communities, DCO Tech",amazon,"US, GA, Lithia Springs",0.5232,2026-09-25,https://www.amazon.jobs/en/jobs/10560878/data-center-technician-dcc-communities-dco-tech
-"Software Development Engineer II, AWS Cross Domain Services (CDS)",amazon,"US, VA, Arlington",0.5221,2026-09-25,https://www.amazon.jobs/en/jobs/10560316/software-development-engineer-ii-aws-cross-domain-services-cds
-"Principal Software Engineer, Integration and Automation - AI Infrastructure",microsoft,"United States, Multiple Locations, Multiple Locations",0.5195,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557004835
-"Product Development Engineer, Annapurna Labs Silicon Operations",amazon,"US, TX, Austin",0.5182,2026-09-25,https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations
+"Financial Analyst, Reverse Logistics Finance",amazon,"US, CA, Sunnyvale",0.5228,2026-09-25,https://www.amazon.jobs/en/jobs/10559742/financial-analyst-reverse-logistics-finance
+"Product Development Engineer, Annapurna Labs Silicon Operations",amazon,"US, TX, Austin",0.5186,2026-09-25,https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations
+"Software Development Engineer II, AWS Cross Domain Services (CDS)",amazon,"US, VA, Arlington",0.5178,2026-09-25,https://www.amazon.jobs/en/jobs/10560316/software-development-engineer-ii-aws-cross-domain-services-cds
+"ASIC Test Engineer, Annapurna Silicon Operations",amazon,"US, TX, Austin",0.5166,2026-09-25,https://www.amazon.jobs/en/jobs/10560446/asic-test-engineer-annapurna-silicon-operations
 "Senior Solutions Architect - Google Cloud Platform/Emerging Tech, Cloud Intelligence",amazon,"US, VA, Arlington",0.5164,2026-09-25,https://www.amazon.jobs/en/jobs/10560541/senior-solutions-architect-google-cloud-platform-emerging-tech-cloud-intelligence
-"Project Manager, Worldwide Grocery Stores (WWGS) Marketing Operations",amazon,"US, TX, Austin",0.5161,2026-09-25,https://www.amazon.jobs/en/jobs/10560400/project-manager-worldwide-grocery-stores-wwgs-marketing-operations
-"ASIC Test Engineer, Annapurna Silicon Operations",amazon,"US, TX, Austin",0.5146,2026-09-25,https://www.amazon.jobs/en/jobs/10560446/asic-test-engineer-annapurna-silicon-operations
+"Project Manager, Worldwide Grocery Stores (WWGS) Marketing Operations",amazon,"US, TX, Austin",0.5139,2026-09-25,https://www.amazon.jobs/en/jobs/10560400/project-manager-worldwide-grocery-stores-wwgs-marketing-operations
 Automation Engineer Manager,amazon,"US, VA, Rockville",0.5082,2026-09-25,https://www.amazon.jobs/en/jobs/10560874/automation-engineer-manager
 "Senior Business Intelligence Engineer, Private Pricing Programs and Experiences",amazon,"US, NY, New York",0.5003,2026-09-25,https://www.amazon.jobs/en/jobs/10560343/senior-business-intelligence-engineer-private-pricing-programs-and-experiences
 "Senior Business Intelligence Engineer, Private Pricing Programs and Experiences",amazon,"US, NY, New York",0.5003,2026-09-25,https://www.amazon.jobs/en/jobs/10560314/senior-business-intelligence-engineer-private-pricing-programs-and-experiences
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4963,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556998598
 Data Scientist,amazon_science,"US, NJ, Newark",0.492,2026-09-25,https://www.amazon.jobs/jobs/10559066/data-scientist?cmpid=bsp-amazon-science
-Software Engineer (L6) - Compute Runtime,netflix,"Remote, United States",0.4902,2026-09-25,https://explore.jobs.netflix.net/careers/job/790317912743
 "Benchmarking Program Manager, Cloud Economics Scale",amazon,"US, WA, Seattle",0.4809,2026-09-25,https://www.amazon.jobs/en/jobs/10560598/benchmarking-program-manager-cloud-economics-scale
 "Sr. HR Business Partner, NACF",amazon,"US, DE, Wilmington",0.4795,2026-09-25,https://www.amazon.jobs/en/jobs/10560885/sr-hr-business-partner-nacf
-Principal Software Engineer - Maia Model Enablement,microsoft,"United States, Multiple Locations, Multiple Locations",0.473,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556999270
+Principal Software Engineer - Maia Model Enablement,microsoft,"United States, Multiple Locations, Multiple Locations",0.4727,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556999270
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.471,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557002355
 "Account Director, Digital Natives | MENA",openai,"Abu Dhabi, UAE",0.4684,2026-09-25,https://jobs.ashbyhq.com/openai/2d91e925-7d2d-4a7d-b824-70678ce9453e
-Senior Lease Delivery Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4644,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556998528
-Talent Enablement Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4634,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557000670
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.462,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556998598
-"Software Development Engineer, Automated Reasoning Group",amazon,"US, WA, Seattle",0.4619,2026-09-25,https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group
-"Software Development Engineer II, EC2 Core Platform",amazon,"US, WA, Seattle",0.4597,2026-09-25,https://www.amazon.jobs/en/jobs/10560688/software-development-engineer-ii-ec2-core-platform
+"Software Development Engineer II, EC2 Core Platform",amazon,"US, WA, Seattle",0.4676,2026-09-25,https://www.amazon.jobs/en/jobs/10560688/software-development-engineer-ii-ec2-core-platform
+Senior Lease Delivery Program Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4653,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556998528
+Talent Enablement Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4633,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557000670
+"Software Development Engineer, Automated Reasoning Group",amazon,"US, WA, Seattle",0.4618,2026-09-25,https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group
+Software Engineer (L6) - Compute Runtime,netflix,"Remote, United States",0.4548,2026-09-25,https://explore.jobs.netflix.net/careers/job/790317912743
 "Software Engineer, Search Infrastructure",openai,San Francisco,0.4497,2026-09-25,https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4496,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557002355
-"Recruiting Coordinator, Recruiting Operations Center",amazon,"US, TN, Nashville",0.4431,2026-09-25,https://www.amazon.jobs/en/jobs/10560427/recruiting-coordinator-recruiting-operations-center
-"Recruiting Coordinator, Recruiting Operations Center",amazon,"US, TN, Nashville",0.4365,2026-09-25,https://www.amazon.jobs/en/jobs/10560428/recruiting-coordinator-recruiting-operations-center
-"Mgr, Global Cabling Quality, Global Cabling Quality",amazon,"US, IN, New Carlisle",0.4362,2026-09-25,https://www.amazon.jobs/en/jobs/10560453/mgr-global-cabling-quality-global-cabling-quality
+"Recruiting Coordinator, Recruiting Operations Center",amazon,"US, TN, Nashville",0.4454,2026-09-25,https://www.amazon.jobs/en/jobs/10560427/recruiting-coordinator-recruiting-operations-center
+"Mgr, Global Cabling Quality, Global Cabling Quality",amazon,"US, IN, New Carlisle",0.4384,2026-09-25,https://www.amazon.jobs/en/jobs/10560453/mgr-global-cabling-quality-global-cabling-quality
+"Recruiting Coordinator, Recruiting Operations Center",amazon,"US, TN, Nashville",0.4357,2026-09-25,https://www.amazon.jobs/en/jobs/10560428/recruiting-coordinator-recruiting-operations-center
 Data Scientist 5 - Media Science DSE,netflix,"Remote, United States",0.4352,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318623518
 Senior Mechatronics & Robotics Technician,amazon,"US, FL, Deltona",0.4335,2026-09-25,https://www.amazon.jobs/en/jobs/10560880/senior-mechatronics-robotics-technician
-"Senior Product Manager, Commerce",amazon,"US, CA, San Francisco",0.4323,2026-09-25,https://www.amazon.jobs/en/jobs/10560722/senior-product-manager-commerce
 "Export Compliance Manager, Global Trade Services",amazon,"US, WA, Bellevue",0.432,2026-09-25,https://www.amazon.jobs/en/jobs/10560816/export-compliance-manager-global-trade-services
+"Senior Product Manager, Commerce",amazon,"US, CA, San Francisco",0.4317,2026-09-25,https://www.amazon.jobs/en/jobs/10560722/senior-product-manager-commerce
 "ASIC Design Verification Engineer, Amazon Leo",amazon,"US, CA, San Diego",0.4298,2026-09-25,https://www.amazon.jobs/en/jobs/10560753/asic-design-verification-engineer-amazon-leo
-"Senior Staff Machine Learning Engineer, ML Platform",apple,,0.425,2026-09-25,https://jobs.apple.com/en-us/details/200685766-0836/senior-staff-machine-learning-engineer-ml-platform?team=SFTWR
-"Sr. Applied Scientist, DemandTech - AdDelivery, Experience and Measurement",amazon_science,"US, NY, New York",0.4244,2026-09-25,https://www.amazon.jobs/jobs/10559440/sr-applied-scientist-demandtech--addelivery-experience-and-measurement-?cmpid=bsp-amazon-science
-"Embedded Software Engineer, Amazon Leo Digital RF Systems",amazon,"US, CA, San Diego",0.423,2026-09-25,https://www.amazon.jobs/en/jobs/10559759/embedded-software-engineer-amazon-leo-digital-rf-systems
+"Sr. Applied Scientist, DemandTech - AdDelivery, Experience and Measurement",amazon_science,"US, NY, New York",0.4249,2026-09-25,https://www.amazon.jobs/jobs/10559440/sr-applied-scientist-demandtech--addelivery-experience-and-measurement-?cmpid=bsp-amazon-science
 Senior Site EHS Manager,amazon,"US, NM, Los Lunas",0.4224,2026-09-25,https://www.amazon.jobs/en/jobs/10560555/senior-site-ehs-manager
+"Embedded Software Engineer, Amazon Leo Digital RF Systems",amazon,"US, CA, San Diego",0.4206,2026-09-25,https://www.amazon.jobs/en/jobs/10559759/embedded-software-engineer-amazon-leo-digital-rf-systems
 Strategic Customer Success Manager,canva,"Austin, TX, United States",0.4183,2026-09-25,https://jobs.smartrecruiters.com/Canva/6000000001435611-strategic-customer-success-manager
 "Installation Technician, Nights",amazon,"US, VA, Aldie",0.4175,2026-09-25,https://www.amazon.jobs/en/jobs/10560526/installation-technician-nights
+"Senior Staff Machine Learning Engineer, ML Platform",apple,,0.4174,2026-09-25,https://jobs.apple.com/en-us/details/200685766-0836/senior-staff-machine-learning-engineer-ml-platform?team=SFTWR
 Senior Site EHS Manager,amazon,"US, CA, Stockton",0.4161,2026-09-25,https://www.amazon.jobs/en/jobs/10560563/senior-site-ehs-manager
-Machine Learning Security Expert (WebSec),mercadolibre,"Buenos Aires,Argentina",0.4085,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44563098
+Machine Learning Security Expert (WebSec),mercadolibre,"Buenos Aires,Argentina",0.4093,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44563098
 "Engineering Manager, Rosalind Workbench",openai,San Francisco,0.404,2026-09-25,https://jobs.ashbyhq.com/openai/4ca2e49f-83bb-4276-be17-d85a9a0c58e9
-Software Engineer 4 - Revenue Infrastructure,netflix,"Remote, United States",0.401,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318597004
 EHS Specialist ,amazon,"US, CT, Danbury",0.4009,2026-09-25,https://www.amazon.jobs/en/jobs/10560405/ehs-specialist
 "Construction Estimator, AMER Estimating and Cost Control",amazon,"US, VA, Herndon",0.4007,2026-09-25,https://www.amazon.jobs/en/jobs/10560311/construction-estimator-amer-estimating-and-cost-control
 "General Manager, Operations, NACF AR Operations",amazon,"US, IL, Markham",0.3993,2026-09-25,https://www.amazon.jobs/en/jobs/10560361/general-manager-operations-nacf-ar-operations
 Transportation Area Manager,amazon,"US, MD, Hagerstown",0.3953,2026-09-25,https://www.amazon.jobs/en/jobs/10560503/transportation-area-manager
+Software Engineer 4 - Revenue Infrastructure,netflix,"Remote, United States",0.3935,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318597004
 Senior Site EHS Manager,amazon,"US, IN, Indianapolis",0.3924,2026-09-25,https://www.amazon.jobs/en/jobs/10560564/senior-site-ehs-manager
-Data Engineering Manager — Video Engineering,apple,Various Locations within San Francisco Bay Area,0.3897,2026-09-25,https://jobs.apple.com/en-us/details/200685417-3401/data-engineering-manager-video-engineering?team=HRDWR
-"Technical Program Manager 6 - Infrastructure, AI",netflix,"Remote, United States",0.3892,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318596466
+"Technical Program Manager 6 - Infrastructure, AI",netflix,"Remote, United States",0.3872,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318596466
 Dedicated Support Engineer - Toronto,openai,Ontario - Remote,0.3871,2026-09-25,https://jobs.ashbyhq.com/openai/295464f1-7d48-468f-afe2-87f9075b7a20
 Data Scientist Technical Leader,mercadolibre,"Sudeste,Brazil",0.3857,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44530010
 Dedicated Support Engineer - Singapore,openai,Singapore,0.382,2026-09-25,https://jobs.ashbyhq.com/openai/85feb543-f234-4db3-9d9c-a6fb195ddc19
-Data Center East Region Construction Manager,apple,,0.381,2026-09-25,https://jobs.apple.com/en-us/details/200683221-1902/data-center-east-region-construction-manager?team=CORSV
 "Product Manager, Stream & Batch Processing in Data Infrastructure",meta,"London, UK",0.3808,2026-09-25,https://www.metacareers.com/profile/job_details/1075894708388764
 "ATE Test Engineer , Amazon Leo",amazon,"US, CA, Sunnyvale",0.3728,2026-09-25,https://www.amazon.jobs/en/jobs/10560683/ate-test-engineer-amazon-leo
-"Senior Network Planning Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.3726,2026-09-25,https://jobs.apple.com/en-us/details/200684674-3121/senior-network-planning-engineer-infrastructure-services?team=SFTWR
 "Software Development Engineer, Consumer Domains",amazon,"US, NJ, Newark",0.3715,2026-09-25,https://www.amazon.jobs/en/jobs/10560727/software-development-engineer-consumer-domains
 "Marketing Analytics Lead, Enterprise Marketing",anthropic,Remote-Friendly US (Travel Required),0.3715,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5434145008
 Dedicated Support Engineer - Dublin,openai,"Dublin, Ireland",0.3693,2026-09-25,https://jobs.ashbyhq.com/openai/c139b85e-bd3a-4242-be0c-9b8b01ec3c9b
-WW Sales Business Process Reengineering (Business & Education) Manager,apple,,0.368,2026-09-25,https://jobs.apple.com/en-us/details/200685500-0836/ww-sales-business-process-reengineering-business-education-manager?team=SLDEV
-"Research Scientist, Mobile Manipulation Robotics (I/O)",amazon_science,"US, MA, North Reading",0.3669,2026-09-25,https://www.amazon.jobs/jobs/10559720/research-scientist-mobile-manipulation-robotics-io?cmpid=bsp-amazon-science
+"Research Scientist, Mobile Manipulation Robotics (I/O)",amazon_science,"US, MA, North Reading",0.3674,2026-09-25,https://www.amazon.jobs/jobs/10559720/research-scientist-mobile-manipulation-robotics-io?cmpid=bsp-amazon-science
 "Director, Head of Product Marketing",amazon,"US, CA, San Francisco",0.3651,2026-09-25,https://www.amazon.jobs/en/jobs/10560871/director-head-of-product-marketing
 Area Manager,amazon,"US, IL, Skokie",0.3622,2026-09-25,https://www.amazon.jobs/en/jobs/10560498/area-manager
-"RF DVT Engineer, Amazon Leo Silicon",amazon,"US, CA, San Diego",0.3622,2026-09-25,https://www.amazon.jobs/en/jobs/10560486/rf-dvt-engineer-amazon-leo-silicon
+"RF DVT Engineer, Amazon Leo Silicon",amazon,"US, CA, San Diego",0.3616,2026-09-25,https://www.amazon.jobs/en/jobs/10560486/rf-dvt-engineer-amazon-leo-silicon
 "Strategic Finance, Ads",openai,San Francisco; New York City,0.3613,2026-09-25,https://jobs.ashbyhq.com/openai/04c7b3d3-8523-41a2-8f84-39a739ebf207
-Retail Financial Analyst,apple,,0.3609,2026-09-25,https://jobs.apple.com/en-us/details/200683478-0836/retail-financial-analyst?team=CORSV
 Dedicated Support Engineer - Tokyo,openai,"Tokyo, Japan",0.3598,2026-09-25,https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9
 "People Legal Counsel, APAC ",anthropic,"Sydney, Australia",0.3587,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5433869008
-"Network Deployment Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.3571,2026-09-25,https://jobs.apple.com/en-us/details/200684671-3121/network-deployment-engineer-infrastructure-services?team=SFTWR
+Sr. Account Manager (Canada),netflix,"Toronto,Canada",0.3586,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616118
 "Prime Air Ground Handler, Amazon Prime Air",amazon,"US, IL, Harvey",0.3564,2026-09-25,https://www.amazon.jobs/en/jobs/10560855/prime-air-ground-handler-amazon-prime-air
-Software Engineer II,microsoft,"United States, Multiple Locations, Multiple Locations",0.3561,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556995345
-"Network Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.3557,2026-09-25,https://jobs.apple.com/en-us/details/200684667-3121/network-engineer-infrastructure-services?team=CORSV
-Sr. Account Manager (Canada),netflix,"Toronto,Canada",0.3556,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616118
+Software Engineer II,microsoft,"United States, Multiple Locations, Multiple Locations",0.3563,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556995345
 "Prime Air Ground Handler, Amazon Prime Air",amazon,"US, TX, Richmond",0.3555,2026-09-25,https://www.amazon.jobs/en/jobs/10560856/prime-air-ground-handler-amazon-prime-air
 Data Scientist - Client Platform,discord,San Francisco Bay Area,0.3548,2026-09-25,https://job-boards.greenhouse.io/discord/jobs/8840756002
 "Prime Air Ground Handler, Amazon Prime Air",amazon,"US, TX, Richardson",0.3548,2026-09-25,https://www.amazon.jobs/en/jobs/10560861/prime-air-ground-handler-amazon-prime-air
-AI-Powered Growth Strategist - Build Team,apple,,0.3538,2026-09-25,https://jobs.apple.com/en-us/details/200679254-0836/ai-powered-growth-strategist-build-team?team=SLDEV
-"Product Manager, Data Foundations",netflix,"New York,New York,United States of America; Los Angeles,California,United States of America; Los Gatos,California,United States of America",0.3515,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318491067
+Principal Product Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3538,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557001429
+Data Engineering Manager — Video Engineering,apple,Various Locations within San Francisco Bay Area,0.3525,2026-09-25,https://jobs.apple.com/en-us/details/200685417-3401/data-engineering-manager-video-engineering?team=HRDWR
 "Prime Air Ground Handler, Amazon Prime Air",amazon,"US, IL, Matteson",0.3509,2026-09-25,https://www.amazon.jobs/en/jobs/10560858/prime-air-ground-handler-amazon-prime-air
 "Prime Air Ground Handler, Amazon Prime Air",amazon,"US, TX, Houston",0.344,2026-09-25,https://www.amazon.jobs/en/jobs/10560859/prime-air-ground-handler-amazon-prime-air
 "Senior Applied Scientist - Optimization, Fulfillment Planning and Execution Science - Fulfillment Optimization",amazon_science,"US, WA, Bellevue",0.3424,2026-09-25,https://www.amazon.jobs/jobs/10559787/senior-applied-scientist--optimization-fulfillment-planning-and-execution-science--fulfillment-optimization?cmpid=bsp-amazon-science
-"Digital Campaigns Strategist, Policy",anthropic,"San Francisco, CA",0.3422,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5432845008
-"Principal Engineer, Business Traveler Compliance",apple,,0.3421,2026-09-25,https://jobs.apple.com/en-us/details/200685240-0157/principal-engineer-business-traveler-compliance?team=CORSV
+"Digital Campaigns Strategist, Policy",anthropic,"San Francisco, CA",0.3409,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5432845008
 "Flight Monitor, Amazon - Prime Air",amazon,"US, IL, Harvey",0.34,2026-09-25,https://www.amazon.jobs/en/jobs/10560860/flight-monitor-amazon-prime-air
-"Senior Network Security Engineer, Infrastructure Services",apple,Various Locations within Austin Metro Area,0.3369,2026-09-25,https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR
-"Community Specialist, Channel Retail",apple,,0.3366,2026-09-25,https://jobs.apple.com/en-us/details/200685867-0586/community-specialist-channel-retail?team=SLDEV
 "Staff Machine Learning Engineer, App Ads Modeling",reddit,Remote - United States,0.3364,2026-09-25,https://job-boards.greenhouse.io/reddit/jobs/8187652
 "Modeling and Simulation Research Scientist, Reality Labs Research",meta,"Redmond, WA",0.3363,2026-09-25,https://www.metacareers.com/profile/job_details/1138304848625338
-WorldWide Retail Planning Manager,apple,Various Locations within Austin Metro Area,0.3357,2026-09-25,https://jobs.apple.com/en-us/details/200685956-0240/worldwide-retail-planning-manager?team=OPMFG
 "Commercial Counsel, Hardware",anthropic,"San Francisco, CA",0.3349,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5434795008
 "Partner Manager, Microsoft Co-sell",anthropic,"San Francisco, CA",0.3343,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5391253008
-Security Programs Investment Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.333,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556994700
 Data Science Engineer - On line Payments,mercadolibre,"Sudeste,Brazil",0.3312,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44633170
-"Director, Marketing - ANZ",netflix,"Sydney,Australia",0.3301,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318602375
+"Director, Marketing - ANZ",netflix,"Sydney,Australia",0.3311,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318602375
 "Finance & Strategy, Deal Desk - APAC",anthropic,"Tokyo, Japan",0.3283,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5431578008
 Lead Associate,amazon,"US, MO, Kansas City",0.3281,2026-09-25,https://www.amazon.jobs/en/jobs/10560757/lead-associate
 "Flight Monitor, Amazon - Prime Air",amazon,"US, IL, Matteson",0.3281,2026-09-25,https://www.amazon.jobs/en/jobs/10560857/flight-monitor-amazon-prime-air
-Software Technical Leader,mercadolibre,"Buenos Aires,Argentina",0.3274,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44619068
-"Managing Producer, Channel 3D Experience Design",apple,,0.3247,2026-09-25,https://jobs.apple.com/en-us/details/200684236-3956/managing-producer-channel-3d-experience-design?team=MKTG
-Principal Product Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.3235,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557001429
-Technical Compliance Lead,apple,,0.3203,2026-09-25,https://jobs.apple.com/en-us/details/200684985-3337/technical-compliance-lead?team=MKTG
-Security Engineer - Health Software,apple,,0.3177,2026-09-25,https://jobs.apple.com/en-us/details/200685900-3543/security-engineer-health-software?team=SFTWR
-"Senior Program Manager Services, Finance Transformation",apple,,0.3171,2026-09-25,https://jobs.apple.com/en-us/details/200684208-0836/senior-program-manager-services-finance-transformation?team=CORSV
-"Senior Systems Engineer, Watch Software",apple,,0.3162,2026-09-25,https://jobs.apple.com/en-us/details/200685676-0365/senior-systems-engineer-watch-software?team=SFTWR
-Software Technical Leader,mercadolibre,"Sudeste,Brazil",0.3125,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44627298
-"Associate Creative Director, Art",apple,,0.3106,2026-09-25,https://jobs.apple.com/en-us/details/200684260-2605/associate-creative-director-art?team=MKTG
+"Senior Network Planning Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.3262,2026-09-25,https://jobs.apple.com/en-us/details/200684674-3121/senior-network-planning-engineer-infrastructure-services?team=SFTWR
+Software Technical Leader,mercadolibre,"Buenos Aires,Argentina",0.3261,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44619068
+Security Programs Investment Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.3254,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393556994700
+Software Technical Leader,mercadolibre,"Sudeste,Brazil",0.3129,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44627298
+"Network Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.3098,2026-09-25,https://jobs.apple.com/en-us/details/200684667-3121/network-engineer-infrastructure-services?team=CORSV
 "Client Partner, Ads Solutions (Spanish Speaking)",openai,"Dublin, Ireland",0.3089,2026-09-25,https://jobs.ashbyhq.com/openai/bb1c9e6f-892e-434b-9f02-fcf6a238bc1c
 "ASIC Engineer, Power",meta,"Sunnyvale, CA",0.3084,2026-09-25,https://www.metacareers.com/profile/job_details/960129209791256
+"Sr. Manager, Applied Science, GenAI, Amazon Advertising - Creative X",amazon_science,"US, NY, New York",0.3078,2026-09-25,https://www.amazon.jobs/jobs/10559036/sr-manager-applied-science-genai-amazon-advertising--creative-x?cmpid=bsp-amazon-science
 "Product Designer, Safeguards",anthropic,"San Francisco, CA",0.3073,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5428014008
-"Sr. Manager, Applied Science, GenAI, Amazon Advertising - Creative X",amazon_science,"US, NY, New York",0.3071,2026-09-25,https://www.amazon.jobs/jobs/10559036/sr-manager-applied-science-genai-amazon-advertising--creative-x?cmpid=bsp-amazon-science
+"Administrative Assistant, Marketing",netflix,"Mexico City,Mexico",0.3063,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616532
 Security Program Manager,openai,"US - Remote; New York City; Seattle; Washington, DC; San Francisco",0.3062,2026-09-25,https://jobs.ashbyhq.com/openai/6fd50ace-941b-4559-992f-e53f9b76c9a0
-Sr Software Engineering Program Manager - Claris,apple,,0.3038,2026-09-25,https://jobs.apple.com/en-us/details/200679240-3956/sr-software-engineering-program-manager-claris?team=SFTWR
-"US Education Strategic Initiatives Lead, State (West)",apple,,0.3008,2026-09-25,https://jobs.apple.com/en-us/details/200685178-3164/us-education-strategic-initiatives-lead-state-west?team=CORSV
+"Product Manager, Data Foundations",netflix,"New York,New York,United States of America; Los Angeles,California,United States of America; Los Gatos,California,United States of America",0.3049,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318491067
+Data Center East Region Construction Manager,apple,,0.303,2026-09-25,https://jobs.apple.com/en-us/details/200683221-1902/data-center-east-region-construction-manager?team=CORSV
+Sr. Program Manager - Cybersecurity Incident Communications,microsoft,"United States, Multiple Locations, Multiple Locations",0.3028,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557002655
+HR Business Partner - Japan,netflix,"Tokyo,Japan",0.301,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318618279
 Corporate Security GSOC Operator,openai,San Francisco,0.3006,2026-09-25,https://jobs.ashbyhq.com/openai/5d37e9c8-f9f0-46b6-ba6d-ee6e6ead8d17
-"Senior Program Manager O2C, Finance Transformation",apple,,0.3006,2026-09-25,https://jobs.apple.com/en-us/details/200684435-0157/senior-program-manager-o2c-finance-transformation?team=CORSV
 Sr Software Engineer,mercadolibre,"Cali,Colombia",0.3005,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44665747
-US-Operations Specialist,apple,,0.2988,2026-09-25,https://jobs.apple.com/en-us/details/200685899-3136/us-operations-specialist?team=APPST
-"Administrative Assistant, Marketing",netflix,"Mexico City,Mexico",0.2973,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616532
-Gate-level IR/EM CAD/NLP Engineer,apple,,0.2957,2026-09-25,https://jobs.apple.com/en-us/details/200685870-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR
-"Senior Manager, Finance Transformation",apple,,0.2954,2026-09-25,https://jobs.apple.com/en-us/details/200684426-0836/senior-manager-finance-transformation?team=CORSV
-Client Partner (US - OMC),netflix,"New York,New York,United States of America",0.2883,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318648433
-HR Associate - Korea,netflix,"Seoul,Korea, Republic of",0.2882,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318591702
+WW Sales Business Process Reengineering (Business & Education) Manager,apple,,0.2993,2026-09-25,https://jobs.apple.com/en-us/details/200685500-0836/ww-sales-business-process-reengineering-business-education-manager?team=SLDEV
+"Network Deployment Engineer, Infrastructure Services",apple,Various Locations within Sacramento Metro Area,0.2987,2026-09-25,https://jobs.apple.com/en-us/details/200684671-3121/network-deployment-engineer-infrastructure-services?team=SFTWR
+HR Associate - Korea,netflix,"Seoul,Korea, Republic of",0.2902,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318591702
+"Certified Pharmacy Technician, Amazon Pharmacy",amazon,"US, FL, Seffner",0.2898,2026-09-25,https://www.amazon.jobs/en/jobs/10560109/certified-pharmacy-technician-amazon-pharmacy
+AI-Powered Growth Strategist - Build Team,apple,,0.2888,2026-09-25,https://jobs.apple.com/en-us/details/200679254-0836/ai-powered-growth-strategist-build-team?team=SLDEV
+"Managing Producer, Channel 3D Experience Design",apple,,0.2882,2026-09-25,https://jobs.apple.com/en-us/details/200684236-3956/managing-producer-channel-3d-experience-design?team=MKTG
 Software Engineer,mercadolibre,"Buenos Aires,Argentina; Bogotá, Colombia",0.2881,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44615643
-"Certified Pharmacy Technician, Amazon Pharmacy",amazon,"US, FL, Seffner",0.2874,2026-09-25,https://www.amazon.jobs/en/jobs/10560109/certified-pharmacy-technician-amazon-pharmacy
+"Principal Engineer, Business Traveler Compliance",apple,,0.2869,2026-09-25,https://jobs.apple.com/en-us/details/200685240-0157/principal-engineer-business-traveler-compliance?team=CORSV
 Especialista de adquisición - Fintech,mercadolibre,"Buenos Aires,Argentina",0.2854,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44615490
-Sr. Program Manager - Cybersecurity Incident Communications,microsoft,"United States, Multiple Locations, Multiple Locations",0.2852,2026-09-25,https://apply.careers.microsoft.com/careers/job/1970393557002655
-CAD Engineer - Signoff Infrastructure,apple,,0.2812,2026-09-25,https://jobs.apple.com/en-us/details/200685871-0157/cad-engineer-signoff-infrastructure?team=HRDWR
+"Community Specialist, Channel Retail",apple,,0.284,2026-09-25,https://jobs.apple.com/en-us/details/200685867-0586/community-specialist-channel-retail?team=SLDEV
 "Finance & Strategy, Deal Strategy",anthropic,"London, UK",0.2802,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5433843008
+Client Partner (US - OMC),netflix,"New York,New York,United States of America",0.2795,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318648433
 Wireless Regulatory Engineer - SAR,openai,Mountain View; San Francisco,0.2774,2026-09-25,https://jobs.ashbyhq.com/openai/2250282b-7f1a-43e6-bf55-e603cbf0fd89
-HR Business Partner - Japan,netflix,"Tokyo,Japan",0.2771,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318618279
+"Senior Network Security Engineer, Infrastructure Services",apple,Various Locations within Austin Metro Area,0.2766,2026-09-25,https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR
+"Senior Systems Engineer, Watch Software",apple,,0.2763,2026-09-25,https://jobs.apple.com/en-us/details/200685676-0365/senior-systems-engineer-watch-software?team=SFTWR
 Cloud Security Engineer Senior - IT,mercadolibre,"Buenos Aires,Argentina; Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina",0.2752,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/42304401
-"Software Engineer, Music Search",apple,,0.274,2026-09-25,https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR
-"Senior System Security Software Engineer, Platform Attestation",apple,,0.2734,2026-09-25,https://jobs.apple.com/en-us/details/200684879-3337/senior-system-security-software-engineer-platform-attestation?team=SFTWR
-"Sr. RF and Wireless Systems Engineer, Amazon Leo Digital RF Systems",amazon,"US, WA, Redmond",0.2679,2026-09-25,https://www.amazon.jobs/en/jobs/10560125/sr-rf-and-wireless-systems-engineer-amazon-leo-digital-rf-systems
-Software Engineer (L5) - JavaScript Platform,netflix,"Remote, United States",0.2626,2026-09-25,https://explore.jobs.netflix.net/careers/job/790317859053
-"Product Manager, Sports Experience",netflix,"Remote, United States",0.2587,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318602179
+"Sr. RF and Wireless Systems Engineer, Amazon Leo Digital RF Systems",amazon,"US, WA, Redmond",0.2724,2026-09-25,https://www.amazon.jobs/en/jobs/10560125/sr-rf-and-wireless-systems-engineer-amazon-leo-digital-rf-systems
+WorldWide Retail Planning Manager,apple,Various Locations within Austin Metro Area,0.2687,2026-09-25,https://jobs.apple.com/en-us/details/200685956-0240/worldwide-retail-planning-manager?team=OPMFG
+Retail Financial Analyst,apple,,0.2673,2026-09-25,https://jobs.apple.com/en-us/details/200683478-0836/retail-financial-analyst?team=CORSV
+Sr Software Engineering Program Manager - Claris,apple,,0.2661,2026-09-25,https://jobs.apple.com/en-us/details/200679240-3956/sr-software-engineering-program-manager-claris?team=SFTWR
+Software Engineer (L5) - JavaScript Platform,netflix,"Remote, United States",0.2636,2026-09-25,https://explore.jobs.netflix.net/careers/job/790317859053
+Gate-level IR/EM CAD/NLP Engineer,apple,,0.2618,2026-09-25,https://jobs.apple.com/en-us/details/200685870-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR
+"Director, Product Management",meta,Product Management,0.2604,2026-09-25,https://www.metacareers.com/profile/job_details/1083544224293566
+Security Engineer - Health Software,apple,,0.2603,2026-09-25,https://jobs.apple.com/en-us/details/200685900-3543/security-engineer-health-software?team=SFTWR
+"Product Manager, Sports Experience",netflix,"Remote, United States",0.26,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318602179
 "Associate Principal, Procurement Innovation Supplier Programs",airbnb,United States,0.256,2026-09-25,https://careers.airbnb.com/positions/8231416/
-Photo Campaign Manager - Series,netflix,"Los Angeles,California,United States of America",0.2552,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318652466
-Senior UX Designer,apple,,0.2524,2026-09-25,https://jobs.apple.com/en-us/details/200654232-2605/senior-ux-designer?team=DESGN
+CAD Engineer - Signoff Infrastructure,apple,,0.2532,2026-09-25,https://jobs.apple.com/en-us/details/200685871-0157/cad-engineer-signoff-infrastructure?team=HRDWR
+"Associate Creative Director, Art",apple,,0.2511,2026-09-25,https://jobs.apple.com/en-us/details/200684260-2605/associate-creative-director-art?team=MKTG
+"Software Engineer, Music Search",apple,,0.2498,2026-09-25,https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR
+Technical Compliance Lead,apple,,0.248,2026-09-25,https://jobs.apple.com/en-us/details/200684985-3337/technical-compliance-lead?team=MKTG
 "Pharmacy Manager, Amazon Pharmacy",amazon,"US, IL, Bolingbrook",0.2478,2026-09-25,https://www.amazon.jobs/en/jobs/10560700/pharmacy-manager-amazon-pharmacy
-"Product Design Producer, Music & Podcasts",apple,,0.2478,2026-09-25,https://jobs.apple.com/en-us/details/200685918-0670/product-design-producer-music-podcasts?team=SFTWR
-Business Security Partner (L5),netflix,"Remote, United States",0.2443,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616256
-US-Creative,apple,,0.2369,2026-09-25,https://jobs.apple.com/en-us/details/200685929-3100/us-creative?team=APPST
-"Director, Product Management",meta,Product Management,0.2345,2026-09-25,https://www.metacareers.com/profile/job_details/1083544224293566
-"Research Scientist, Fauna",amazon_science,"US, NY, New York",0.2322,2026-09-25,https://www.amazon.jobs/jobs/10559427/research-scientist-fauna?cmpid=bsp-amazon-science
-Crowds Supervisor - Netflix Animation Stuidos,netflix,"Sydney,Australia",0.2264,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318631123
-Director - Film & Series Marketing - India,netflix,"Mumbai,India",0.2249,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318636029
+Photo Campaign Manager - Series,netflix,"Los Angeles,California,United States of America",0.2476,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318652466
+"Senior Program Manager Services, Finance Transformation",apple,,0.2348,2026-09-25,https://jobs.apple.com/en-us/details/200684208-0836/senior-program-manager-services-finance-transformation?team=CORSV
+"Research Scientist, Fauna",amazon_science,"US, NY, New York",0.2333,2026-09-25,https://www.amazon.jobs/jobs/10559427/research-scientist-fauna?cmpid=bsp-amazon-science
+Crowds Supervisor - Netflix Animation Stuidos,netflix,"Sydney,Australia",0.2256,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318631123
+"Senior System Security Software Engineer, Platform Attestation",apple,,0.2256,2026-09-25,https://jobs.apple.com/en-us/details/200684879-3337/senior-system-security-software-engineer-platform-attestation?team=SFTWR
+Business Security Partner (L5),netflix,"Remote, United States",0.2252,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318616256
+Director - Film & Series Marketing - India,netflix,"Mumbai,India",0.225,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318636029
+Senior Software Engineer Android - Mercado Pago,mercadolibre,"Sudeste,Brazil",0.2243,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44529563
 International Payroll Analyst,reddit,Remote - United Kingdom,0.2226,2026-09-25,https://job-boards.greenhouse.io/reddit/jobs/8234154
+"US Education Strategic Initiatives Lead, State (West)",apple,,0.222,2026-09-25,https://jobs.apple.com/en-us/details/200685178-3164/us-education-strategic-initiatives-lead-state-west?team=CORSV
 Disaster Response Coordinator,airbnb,United Kingdom,0.2217,2026-09-25,https://careers.airbnb.com/positions/8230709/
 Disaster Response Coordinator,airbnb,South Africa,0.2182,2026-09-25,https://careers.airbnb.com/positions/8230593/
-Senior Software Engineer Android - Mercado Pago,mercadolibre,"Sudeste,Brazil",0.2182,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44529563
+"Senior Program Manager O2C, Finance Transformation",apple,,0.2162,2026-09-25,https://jobs.apple.com/en-us/details/200684435-0157/senior-program-manager-o2c-finance-transformation?team=CORSV
+"Manager, VFX - Chinese Language",netflix,"Taipei City,Taiwan",0.2146,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318603649
+US-Operations Specialist,apple,,0.213,2026-09-25,https://jobs.apple.com/en-us/details/200685899-3136/us-operations-specialist?team=APPST
 "Research Mechanical Engineer, Robotics",meta,"Redmond, WA",0.2129,2026-09-25,https://www.metacareers.com/profile/job_details/1073790892310511
 Analista Service Center Temuco,mercadolibre,"Región de La Araucanía,Chile",0.2123,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44629671
-iPhone System Integration EE,apple,,0.2088,2026-09-25,https://jobs.apple.com/en-us/details/200685887-0836/iphone-system-integration-ee?team=HRDWR
+"Senior Manager, Finance Transformation",apple,,0.2062,2026-09-25,https://jobs.apple.com/en-us/details/200684426-0836/senior-manager-finance-transformation?team=CORSV
+Photo & AV Studio Manager - DACH,netflix,"Berlin,Germany",0.2049,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318531573
 "Senior Compliance Program Manager, Political Law",anthropic,"San Francisco, CA",0.2031,2026-09-25,https://job-boards.greenhouse.io/anthropic/jobs/5433952008
-"Managing Producer – Content Design for Music & Podcasts (Apple Services: Product, Design & Marketing)",apple,,0.1978,2026-09-25,https://jobs.apple.com/en-us/details/200685800-0670/managing-producer-content-design-for-music-podcasts-apple-services-product-design-marketing?team=SFTWR
 Líder de Operaciones de Inventario Part Time - Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile",0.1941,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44448129
-"Manager, VFX - Chinese Language",netflix,"Taipei City,Taiwan",0.1905,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318603649
 Engagement Sellers Manager,mercadolibre,"Buenos Aires,Argentina",0.1897,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44659988
-Photo & AV Studio Manager - DACH,netflix,"Berlin,Germany",0.1891,2026-09-25,https://explore.jobs.netflix.net/careers/job/790318531573
-Analista Pleno de Prevenção a Perdas - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1879,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/43775661
 "Partner Solutions Manager, 3P Supply Audience Network",meta,"London, UK",0.1842,2026-09-25,https://www.metacareers.com/profile/job_details/971567912651978
 Líder Senior de Equipe Logística - Mercado Envios,mercadolibre,"Sudeste,Brazil; Barueri, SP, Brasil; Santana de Parnaíba, SP, Brasil; Jandira, SP, Brasil; Carapicuíba - SP, Brasil; Itapevi, SP, Brasil; Osasco, SP, Brasil; Cotia - SP, Brasil; Cajamar, SP, BR; São Paulo, SP, Brasil",0.1827,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44613834
 Analista Senior Scoring Shipping Fraud Prevention,mercadolibre,"Montevideo,Uruguay",0.1823,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44634213
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Nordeste,Brazil",0.1818,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632717
+"Product Design Producer, Music & Podcasts",apple,,0.1806,2026-09-25,https://jobs.apple.com/en-us/details/200685918-0670/product-design-producer-music-podcasts?team=SFTWR
+Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1774,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632757
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1774,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44633103
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1774,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44633111
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1774,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632884
-Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1774,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632757
+Analista Pleno de Prevenção a Perdas - Mercado Envios,mercadolibre,"Sudeste,Brazil",0.1764,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/43775661
 Network Develoment Manager,meta,"Menlo Park, CA",0.1763,2026-09-25,https://www.metacareers.com/profile/job_details/1791972098707784
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Centro Oeste,Brazil",0.1753,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632739
 Analista Sênior de Projetos de Excelência Operacional - Mercado Envios,mercadolibre,"Centro Oeste,Brazil",0.1753,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44632817
 Corporate Accounting Manager,meta,"Menlo Park, CA",0.171,2026-09-25,https://www.metacareers.com/profile/job_details/2118065598800847
+"Managing Producer – Content Design for Music & Podcasts (Apple Services: Product, Design & Marketing)",apple,,0.1603,2026-09-25,https://jobs.apple.com/en-us/details/200685800-0670/managing-producer-content-design-for-music-podcasts-apple-services-product-design-marketing?team=SFTWR
 Experto en Riesgos y Control Interno en Prevención de Lavado de Dinero,mercadolibre,Mexico,0.1581,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44526757
+US-Creative,apple,,0.157,2026-09-25,https://jobs.apple.com/en-us/details/200685929-3100/us-creative?team=APPST
+Senior UX Designer,apple,,0.1539,2026-09-25,https://jobs.apple.com/en-us/details/200654232-2605/senior-ux-designer?team=DESGN
 Especialista en Ejecución de Ingeniería Hispanos - Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile",0.1433,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44527499
 "Associate General Counsel, Privacy",meta,"Los Angeles, CA",0.1432,2026-09-25,https://www.metacareers.com/profile/job_details/1466631248621038
 Analista de Custos de Manutenção Pleno - Mercado Envios.,mercadolibre,"Sudeste,Brazil",0.1386,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/43789245
+iPhone System Integration EE,apple,,0.1354,2026-09-25,https://jobs.apple.com/en-us/details/200685887-0836/iphone-system-integration-ee?team=HRDWR
 "Director of Public Policy, Greater China Region",meta,Hong Kong,0.1306,2026-09-25,https://www.metacareers.com/profile/job_details/2978982495789572
 Analista de Control de Inventario y Garantía de Calidad   - Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile",0.124,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44660742
 Líder de Operaciones Turno Tarde - Mercado Envíos,mercadolibre,"Región Metropolitana de Santiago,Chile",0.1235,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44434247
-Localization Producer - Apple Music,apple,,0.1222,2026-09-25,https://jobs.apple.com/en-us/details/200685539-0670/localization-producer-apple-music?team=SFTWR
 Líder de Equipe - Cabo de Santo Agostinho/PE,mercadolibre,"Sudeste,Brazil",0.0973,2026-09-25,https://mercadolibre.eightfold.ai/careers/job/44663293
+Localization Producer - Apple Music,apple,,0.0644,2026-09-25,https://jobs.apple.com/en-us/details/200685539-0670/localization-producer-apple-music?team=SFTWR
