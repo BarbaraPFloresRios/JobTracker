@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr. Cloud Technical Account Manager - Financial Services, ES - SI - Financial Services](https://www.amazon.jobs/en/jobs/10560157/sr-cloud-technical-account-manager-financial-services-es-si-financial-services) | amazon | US, NY, New York | 0.6055 | 2026-09-25 |
-| [Assoc Customer Solutions Mgr, NAMER Scale CSM](https://www.amazon.jobs/en/jobs/10560745/assoc-customer-solutions-mgr-namer-scale-csm) | amazon | US, VA, Arlington | 0.6006 | 2026-09-25 |
-| [Business Intelligence Engineer, Amazon Prime Video Product Analytics](https://www.amazon.jobs/en/jobs/10560823/business-intelligence-engineer-amazon-prime-video-product-analytics) | amazon | US, WA, Seattle | 0.5914 | 2026-09-25 |
-| [Sr Solution Architect, Ad Tech Ops, Prime Video Advertising](https://www.amazon.jobs/en/jobs/10560165/sr-solution-architect-ad-tech-ops-prime-video-advertising) | amazon | US, NY, New York | 0.5754 | 2026-09-25 |
-| [Financial Analyst II, ASP Partner Core Finance](https://www.amazon.jobs/en/jobs/10560691/financial-analyst-ii-asp-partner-core-finance) | amazon | US, VA, Arlington | 0.5713 | 2026-09-25 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560297/data-center-technician-dcc-communities) | amazon | US, NV, Sparks | 0.5634 | 2026-09-25 |
-| [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | amazon | US, WA, Seattle | 0.5631 | 2026-09-25 |
-| [Delivery Consultant - Data, AWS ProServe WWPS - EDU & SLG](https://www.amazon.jobs/en/jobs/10560500/delivery-consultant-data-aws-proserve-wwps-edu-slg) | amazon | US, GA, Atlanta | 0.5615 | 2026-09-25 |
-| [Principal Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560728/principal-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5557 | 2026-09-25 |
-| [Cloud Hardware Dev Engineer, AWS AI/ML UltraServers](https://www.amazon.jobs/en/jobs/10560458/cloud-hardware-dev-engineer-aws-ai-ml-ultraservers) | amazon | US, WA, Seattle | 0.5519 | 2026-09-25 |
-| [Senior Technical Product Manager - Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10560847/senior-technical-product-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5456 | 2026-09-25 |
-| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10560309/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5414 | 2026-09-25 |
-| [Network Development Eng, ADC Networking](https://www.amazon.jobs/en/jobs/10560699/network-development-eng-adc-networking) | amazon | US, VA, Arlington | 0.5377 | 2026-09-25 |
-| [Software Development Manager, Classification&Policy Platform](https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform) | amazon | US, CA, Sunnyvale | 0.5365 | 2026-09-25 |
-| [Principal Software Engineer, Integration and Automation - AI Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557004835) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5300 | 2026-09-25 |
 | [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560963/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5282 | 2026-09-26 |
 | [Applied Scientist, Tabular Foundational Model, AWS](https://www.amazon.jobs/jobs/10560684/applied-scientist-tabular-foundational-model-aws?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5258 | 2026-09-26 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560585/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-25 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560878/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-25 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560893/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560896/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560914/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
-| [Lead ICT Design Engineer, ICT Infra Engineering](https://www.amazon.jobs/en/jobs/10560263/lead-ict-design-engineer-ict-infra-engineering) | amazon | US, TX, Austin | 0.5231 | 2026-09-25 |
-| [Financial Analyst, Reverse Logistics Finance](https://www.amazon.jobs/en/jobs/10559742/financial-analyst-reverse-logistics-finance) | amazon | US, CA, Sunnyvale | 0.5227 | 2026-09-25 |
-| [Software Development Engineer II, AWS Cross Domain Services (CDS)](https://www.amazon.jobs/en/jobs/10560316/software-development-engineer-ii-aws-cross-domain-services-cds) | amazon | US, VA, Arlington | 0.5226 | 2026-09-25 |
+| [Senior Solution Area Specialist - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556866762) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5224 | 2026-09-26 |
+| [Senior Cloud Solution Architect, Cloud & AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393557002031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5182 | 2026-09-26 |
+| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557006854) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5115 | 2026-09-26 |
+| [Mechanical Product Engineer, Mechanical Products and Services](https://www.amazon.jobs/en/jobs/10560929/mechanical-product-engineer-mechanical-products-and-services) | amazon | US, VA, Herndon | 0.5061 | 2026-09-26 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560909/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Atlanta | 0.5029 | 2026-09-26 |
+| [Technical Recruiter](https://jobs.ashbyhq.com/openai/0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1) | openai | San Francisco | 0.4989 | 2026-09-26 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958087) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4976 | 2026-09-26 |
+| [Applied Scientist, RL post-training, AWS](https://www.amazon.jobs/jobs/10560685/applied-scientist-rl-posttraining-aws?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4884 | 2026-09-26 |
+| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560891/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4834 | 2026-09-26 |
+| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560897/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4781 | 2026-09-26 |
+| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560895/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4781 | 2026-09-26 |
+| [AI Research Scientist 4 - Generative Models, Recommender Systems](https://explore.jobs.netflix.net/careers/job/790317917705) | netflix | Remote, United States | 0.4723 | 2026-09-26 |
+| [Cloud Solution Architect Manager](https://apply.careers.microsoft.com/careers/job/1970393557007323) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4702 | 2026-09-26 |
+| [Director of Sales Enablement](https://apply.careers.microsoft.com/careers/job/1970393557008025) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4662 | 2026-09-26 |
+| [Software Engineering IC4](https://apply.careers.microsoft.com/careers/job/1970393557007484) | microsoft | United States | 0.4527 | 2026-09-26 |
+| [Americas Sales Excellence Director, AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556962195) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4380 | 2026-09-26 |
+| [Software I&T Engineer, Amazon Leo Optical Inter-Satellite Link ](https://www.amazon.jobs/en/jobs/10560946/software-i-t-engineer-amazon-leo-optical-inter-satellite-link) | amazon | US, CA, Northridge | 0.4360 | 2026-09-26 |
+| [Network Deployment Manager I, Global Network Delivery](https://www.amazon.jobs/en/jobs/10560967/network-deployment-manager-i-global-network-delivery) | amazon | US, IN, New Carlisle | 0.4324 | 2026-09-26 |
+| [Fiber Delivery Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999388) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Arizona, Phoenix | 0.4245 | 2026-09-26 |
+| [Business Manager](https://apply.careers.microsoft.com/careers/job/1970393557006415) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4231 | 2026-09-26 |
 
 ## Companies tracked
 
