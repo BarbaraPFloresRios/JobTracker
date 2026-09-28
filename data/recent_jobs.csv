@@ -1,7 +1,34 @@
 title,company,location,semantic_similarity,first_seen_date,url
+"Senior Product Manager, Builder - Tech, Ring",amazon,"US, CA, Hawthorne",0.5304,2026-09-28,https://www.amazon.jobs/en/jobs/10561340/senior-product-manager-builder-tech-ring
 "Data Center Chief Engineer, DCEO",amazon,"US, IN, New Carlisle",0.524,2026-09-28,https://www.amazon.jobs/en/jobs/10561062/data-center-chief-engineer-dceo
-Cloud Solution Architect - Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.4287,2026-09-28,https://apply.careers.microsoft.com/careers/job/1970393556995359
-Senior Data Analytics Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.6003,2026-09-27,https://apply.careers.microsoft.com/careers/job/1970393556999984
+"Applied AI Engineer, DNB",anthropic,"London, UK",0.4922,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5435282008
+"Recruiter, Go-To-Market (GTM) ",anthropic,"Tokyo, Japan",0.4886,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5433950008
+"Data Center Technician, DCC Communities ",amazon,"US, CA, Gilroy",0.4841,2026-09-28,https://www.amazon.jobs/en/jobs/10561172/data-center-technician-dcc-communities
+Cloud Solution Architect - Cloud & AI Platforms,microsoft,"United States, Multiple Locations, Multiple Locations",0.4353,2026-09-28,https://apply.careers.microsoft.com/careers/job/1970393556995359
+"[London] Applied AI Architect, Partnerships",anthropic,"London, UK",0.4346,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5432583008
+Outside Plant Telecom Engineer,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Texas, Dallas; United States, Texas, Austin; United States, Texas, San Antonio",0.4314,2026-09-28,https://apply.careers.microsoft.com/careers/job/1970393556998672
+"Process Assistant, Grocery Fulfillment Centers",amazon,"US, CA, San Diego",0.4292,2026-09-28,https://www.amazon.jobs/en/jobs/10561099/process-assistant-grocery-fulfillment-centers
+"Director, Solution Sales Advisor Manager, GBB - Security",microsoft,"United States, Multiple Locations, Multiple Locations",0.4213,2026-09-28,https://apply.careers.microsoft.com/careers/job/1970393557000712
+"Engineering Manager, Agentic AI",nvidia,"US, CA, Santa Clara; US, CA, Remote; US, NY, Remote",0.4168,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Agentic-AI_JR2026543
+"[London] Manager, Technical Deployment",anthropic,"London, UK",0.4002,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5426631008
+GPU SW Security PSIRT Lead,nvidia,"US, CA, Santa Clara; US, NC, Durham",0.3985,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-SW-Security-PSIRT-Lead_JR2026531
+"Applied AI Engineer, Enterprise",anthropic,"London, UK",0.3937,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5354765008
+"Software Dev Engineer III,  Amazon Interactive Video Service (IVS), Stream Management",amazon,"US, WA, Seattle",0.393,2026-09-28,https://www.amazon.jobs/en/jobs/10561518/software-dev-engineer-iii-amazon-interactive-video-service-ivs-stream-management
+"Senior System Software Engineer, NVLink Fusion",nvidia,"US, CA, Santa Clara; US, MA, Westford",0.3884,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NVLink-Fusion_JR2026446-1
+"HR Business Partner, EMEA",openai,"Paris, France",0.3652,2026-09-28,https://jobs.ashbyhq.com/openai/923eebc8-5591-4057-892f-5825de1a5460
+Mixed Signal Design Engineer - New College Grad 2026,nvidia,"US, CA, Santa Clara; US, CA, Remote",0.3542,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693
+" Head of Customer Success, APAC ",anthropic,"Sydney, Australia",0.3335,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5424443008
+GPU SW Security Engineer,nvidia,"US, CA, Santa Clara",0.3314,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-SW-Security-Engineer_JR2026536
+Global Director Partner Development Management,microsoft,"United States, Multiple Locations, Multiple Locations",0.3312,2026-09-28,https://apply.careers.microsoft.com/careers/job/1970393556981183
+"Software Development Engineer in Test, IS&T Customer Systems",apple,,0.3275,2026-09-28,https://jobs.apple.com/en-us/details/200667747-0157/software-development-engineer-in-test-is-t-customer-systems?team=CORSV
+Engineering Manager - Music,spotify,"New York, NY",0.3124,2026-09-28,https://jobs.lever.co/spotify/9f477315-94fa-47b8-9b92-f6d8fc48785a
+"Ad Sales Lead, Programmatic",duolingo,"New York, NY",0.2931,2026-09-28,https://careers.duolingo.com/jobs/8851677002?gh_jid=8851677002
+"AI Software Engineer, Lightspeed Studios",nvidia,"US, CA, Remote; US, CA, Santa Clara",0.2854,2026-09-28,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/AI-Software-Engineer--Lightspeed-Studios_JR2026538
+Analista de Operaciones - Fintech,mercadolibre,"Buenos Aires,Argentina",0.2807,2026-09-28,https://mercadolibre.eightfold.ai/careers/job/44663189
+" Staff Security Engineer, Detection & Response",anthropic,"Zürich, CH",0.2548,2026-09-28,https://job-boards.greenhouse.io/anthropic/jobs/5432626008
+Especialista de Riesgo de Crédito - Fintech,mercadolibre,"Buenos Aires,Argentina",0.2253,2026-09-28,https://mercadolibre.eightfold.ai/careers/job/44670620
+Expert de Rentabilidade para Cartão de Crédito - Fintech,mercadolibre,"Sudeste,Brazil",0.2215,2026-09-28,https://mercadolibre.eightfold.ai/careers/job/44235949
+Senior Data Analytics Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5998,2026-09-27,https://apply.careers.microsoft.com/careers/job/1970393556999984
 "Delivery Station Customer Service Associate, DSL",amazon,"US, CA, Riverside",0.5103,2026-09-27,https://www.amazon.jobs/en/jobs/10561040/delivery-station-customer-service-associate-dsl
-"Product Finance & Strategy, Monetization",anthropic,"San Francisco, CA",0.3607,2026-09-27,https://job-boards.greenhouse.io/anthropic/jobs/5435710008
+"Product Finance & Strategy, Monetization",anthropic,"San Francisco, CA",0.3896,2026-09-27,https://job-boards.greenhouse.io/anthropic/jobs/5435710008
 Especialista de Pricing y Estrategia de Negocio - Marketplace,mercadolibre,"Bogotá,Argentina",0.1521,2026-09-27,https://mercadolibre.eightfold.ai/careers/job/44669292
