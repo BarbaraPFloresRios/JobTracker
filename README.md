@@ -14,31 +14,12 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Data Analytics Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999984) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5960 | 2026-09-27 |
-| [Senior Solution Area Specialist - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556866762) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5374 | 2026-09-26 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10560963/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5282 | 2026-09-26 |
-| [Applied Scientist, Tabular Foundational Model, AWS](https://www.amazon.jobs/jobs/10560684/applied-scientist-tabular-foundational-model-aws?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5262 | 2026-09-26 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560893/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560914/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560896/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-26 |
-| [Senior Cloud Solution Architect, Cloud & AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393557002031) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5183 | 2026-09-26 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557006854) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5131 | 2026-09-26 |
+| [Senior Data Analytics Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999984) | microsoft | United States, Multiple Locations, Multiple Locations | 0.6003 | 2026-09-27 |
+| [Data Center Chief Engineer, DCEO](https://www.amazon.jobs/en/jobs/10561062/data-center-chief-engineer-dceo) | amazon | US, IN, New Carlisle | 0.5240 | 2026-09-28 |
 | [Delivery Station Customer Service Associate, DSL](https://www.amazon.jobs/en/jobs/10561040/delivery-station-customer-service-associate-dsl) | amazon | US, CA, Riverside | 0.5103 | 2026-09-27 |
-| [Mechanical Product Engineer, Mechanical Products and Services](https://www.amazon.jobs/en/jobs/10560929/mechanical-product-engineer-mechanical-products-and-services) | amazon | US, VA, Herndon | 0.5061 | 2026-09-26 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10560909/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Atlanta | 0.5029 | 2026-09-26 |
-| [Technical Recruiter](https://jobs.ashbyhq.com/openai/0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1) | openai | San Francisco | 0.4989 | 2026-09-26 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556958087) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4934 | 2026-09-26 |
-| [Applied Scientist, RL post-training, AWS](https://www.amazon.jobs/jobs/10560685/applied-scientist-rl-posttraining-aws?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4889 | 2026-09-26 |
-| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560891/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4834 | 2026-09-26 |
-| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560897/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4781 | 2026-09-26 |
-| [Sr. Technical Account Manager, TAM ](https://www.amazon.jobs/en/jobs/10560895/sr-technical-account-manager-tam) | amazon | US, WA, Seattle | 0.4781 | 2026-09-26 |
-| [Cloud Solution Architect Manager](https://apply.careers.microsoft.com/careers/job/1970393557007323) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4705 | 2026-09-26 |
-| [Director of Sales Enablement](https://apply.careers.microsoft.com/careers/job/1970393557008025) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4664 | 2026-09-26 |
-| [Software Engineering IC4](https://apply.careers.microsoft.com/careers/job/1970393557007484) | microsoft | United States | 0.4447 | 2026-09-26 |
-| [Fiber Delivery Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999388) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Arizona, Phoenix | 0.4412 | 2026-09-26 |
-| [Americas Sales Excellence Director, AI Business Solutions](https://apply.careers.microsoft.com/careers/job/1970393556962195) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4363 | 2026-09-26 |
-| [Software I&T Engineer, Amazon Leo Optical Inter-Satellite Link ](https://www.amazon.jobs/en/jobs/10560946/software-i-t-engineer-amazon-leo-optical-inter-satellite-link) | amazon | US, CA, Northridge | 0.4360 | 2026-09-26 |
-| [Network Deployment Manager I, Global Network Delivery](https://www.amazon.jobs/en/jobs/10560967/network-deployment-manager-i-global-network-delivery) | amazon | US, IN, New Carlisle | 0.4324 | 2026-09-26 |
+| [Cloud Solution Architect - Cloud & AI Platforms](https://apply.careers.microsoft.com/careers/job/1970393556995359) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4287 | 2026-09-28 |
+| [Product Finance & Strategy, Monetization](https://job-boards.greenhouse.io/anthropic/jobs/5435710008) | anthropic | San Francisco, CA | 0.3607 | 2026-09-27 |
+| [Especialista de Pricing y Estrategia de Negocio - Marketplace](https://mercadolibre.eightfold.ai/careers/job/44669292) | mercadolibre | Bogotá,Argentina | 0.1521 | 2026-09-27 |
 
 ## Companies tracked
 
