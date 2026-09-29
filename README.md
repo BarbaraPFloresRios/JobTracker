@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Data Analytics Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999984) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5960 | 2026-09-27 |
 | [Data Center Category Manager, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10561551/data-center-category-manager-data-center-sourcing-procurement) | amazon | US, VA, Arlington | 0.5738 | 2026-09-28 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10562761/data-center-operations-manager) | amazon | US, TX, Wharton | 0.5713 | 2026-09-29 |
+| [Software Development Engineer, Personalization, Amazon Personalization](https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization) | amazon | US, WA, Seattle | 0.5580 | 2026-09-29 |
+| [Data Center Chief Engineer, DCEO](https://www.amazon.jobs/en/jobs/10561062/data-center-chief-engineer-dceo) | amazon | US, IN, New Carlisle | 0.5562 | 2026-09-28 |
 | [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10561963/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, MD, Jessup | 0.5346 | 2026-09-28 |
 | [Senior Product Manager, Builder - Tech, Ring](https://www.amazon.jobs/en/jobs/10561340/senior-product-manager-builder-tech-ring) | amazon | US, CA, Hawthorne | 0.5304 | 2026-09-28 |
+| [Engineering Manager, Math Libraries Platform Expansion and Readiness](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Math-Libraries-Platform-Expansion-and-Readiness_JR2026005) | nvidia | US, CA, Santa Clara; US, DC, Remote; US, TX, Remote; US, PA, Remote; US, WA, Remote; US, CA, Remote | 0.5286 | 2026-09-29 |
 | [Delivery Consultant – AI/ML, Professional Services, AWSI HCLS ](https://www.amazon.jobs/en/jobs/10562262/delivery-consultant-ai-ml-professional-services-awsi-hcls) | amazon | US, IL, Chicago | 0.5258 | 2026-09-28 |
-| [Data Center Chief Engineer, DCEO](https://www.amazon.jobs/en/jobs/10561062/data-center-chief-engineer-dceo) | amazon | US, IN, New Carlisle | 0.5240 | 2026-09-28 |
-| [Delivery Station Customer Service Associate, DSL](https://www.amazon.jobs/en/jobs/10561040/delivery-station-customer-service-associate-dsl) | amazon | US, CA, Riverside | 0.5221 | 2026-09-27 |
+| [Delivery Consultant - SRC, WWPS Professional Services - GPS ](https://www.amazon.jobs/en/jobs/10562610/delivery-consultant-src-wwps-professional-services-gps) | amazon | US, VA, Arlington | 0.5178 | 2026-09-29 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562842/data-center-technician) | amazon | US, CA, San Francisco | 0.5084 | 2026-09-29 |
+| [Infrastructure Solution Engineer Cloud & AI](https://apply.careers.microsoft.com/careers/job/1970393556957828) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5063 | 2026-09-29 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562844/data-center-technician) | amazon | US, CA, Santa Clara | 0.5056 | 2026-09-29 |
+| [Applied Scientist, Neuro-Symbolic AI Labs](https://www.amazon.jobs/en/jobs/10562737/applied-scientist-neuro-symbolic-ai-labs) | amazon | US, MA, Boston | 0.4999 | 2026-09-29 |
+| [Compiler Engineer, Neuron Automated Reasoning Group](https://www.amazon.jobs/en/jobs/10562848/compiler-engineer-neuron-automated-reasoning-group) | amazon | US, WA, Seattle | 0.4995 | 2026-09-29 |
 | [Data Center Controls Engineer, Data Center Capacity Delivery - Controls ](https://www.amazon.jobs/en/jobs/10561691/data-center-controls-engineer-data-center-capacity-delivery-controls) | amazon | US, VA, Chantilly | 0.4963 | 2026-09-28 |
 | [Sales Account Manager, US LCS, Grocery](https://www.amazon.jobs/en/jobs/10561960/sales-account-manager-us-lcs-grocery) | amazon | US, NY, New York | 0.4916 | 2026-09-28 |
-| [Recruiter, Go-To-Market (GTM) ](https://job-boards.greenhouse.io/anthropic/jobs/5433950008) | anthropic | Tokyo, Japan | 0.4886 | 2026-09-28 |
+| [Principal Global Category Manager](https://apply.careers.microsoft.com/careers/job/1970393557002617) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4906 | 2026-09-28 |
 | [Software Development Engineer, Amazon Quick ](https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick) | amazon | US, NY, New York | 0.4886 | 2026-09-28 |
+| [Software Development Engineer, AWS Payments & Fraud Prevention](https://www.amazon.jobs/en/jobs/10562259/software-development-engineer-aws-payments-fraud-prevention) | amazon | US, WA, Seattle | 0.4886 | 2026-09-28 |
+| [Recruiter, Go-To-Market (GTM) ](https://job-boards.greenhouse.io/anthropic/jobs/5433950008) | anthropic | Tokyo, Japan | 0.4886 | 2026-09-28 |
 | [Software Development Engineer III, Prime Video Personalization & Discovery ](https://www.amazon.jobs/en/jobs/10562399/software-development-engineer-iii-prime-video-personalization-discovery) | amazon | US, NY, New York | 0.4856 | 2026-09-28 |
 | [Sr Embedded Software Engineer, Annapurna ML Software](https://www.amazon.jobs/en/jobs/10562496/sr-embedded-software-engineer-annapurna-ml-software) | amazon | US, TX, Austin | 0.4855 | 2026-09-28 |
 | [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10561172/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.4841 | 2026-09-28 |
 | [Infra Delivery Technician](https://www.amazon.jobs/en/jobs/10562104/infra-delivery-technician) | amazon | US, TX, Wink | 0.4818 | 2026-09-28 |
 | [Colo Physical Security Engineer [Architect], Data Center Engineering, Colocation Regional Engineering](https://www.amazon.jobs/en/jobs/10562376/colo-physical-security-engineer-architect-data-center-engineering-colocation-regional-engineering) | amazon | US, AZ, Mesa | 0.4763 | 2026-09-28 |
-| [Principal ProServe Account Executive (PAE), HCLS, Healthcare and Life Sciences](https://www.amazon.jobs/en/jobs/10562332/principal-proserve-account-executive-pae-hcls-healthcare-and-life-sciences) | amazon | US, NJ, Jersey City | 0.4747 | 2026-09-28 |
-| [Principal PM, Regulatory and Compliance ](https://www.amazon.jobs/en/jobs/10562018/principal-pm-regulatory-and-compliance) | amazon | US, TX, Austin | 0.4718 | 2026-09-28 |
-| [Senior Software Engineer - AI Inference Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Inference-Performance_JR2024262) | nvidia | US, CA, Santa Clara | 0.4694 | 2026-09-28 |
-| [Software Development Engineer III](https://www.amazon.jobs/en/jobs/10562396/software-development-engineer-iii) | amazon | US, NY, New York | 0.4670 | 2026-09-28 |
-| [Technical Program Manager, Hardware Systems](https://jobs.ashbyhq.com/openai/32ca0028-c12d-4def-a200-946ec8d4ea5f) | openai | San Francisco | 0.4656 | 2026-09-28 |
-| [Sr Mgr, Compute AI Services, BOSS, Compute AI Services](https://www.amazon.jobs/en/jobs/10562277/sr-mgr-compute-ai-services-boss-compute-ai-services) | amazon | US, WA, Seattle | 0.4633 | 2026-09-28 |
-| [Principal Global Category Manager](https://apply.careers.microsoft.com/careers/job/1970393557002617) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4588 | 2026-09-28 |
-| [Software Development Engineer, AWS Payments & Fraud Prevention](https://www.amazon.jobs/en/jobs/10562259/software-development-engineer-aws-payments-fraud-prevention) | amazon | US, WA, Seattle | 0.4586 | 2026-09-28 |
-| [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343) | nvidia | US, TX, Austin; US, CA, Santa Clara | 0.4573 | 2026-09-28 |
 
 ## Companies tracked
 
