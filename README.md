@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist III, Amazon Devices Software & Services](https://www.amazon.jobs/jobs/10562519/data-scientist-iii-amazon-devices-software--services-?cmpid=bsp-amazon-science) | amazon_science | US, CO, Denver | 0.6042 | 2026-09-29 |
-| [Solutions Architecture Manager, CrossIndustry Greenfield](https://www.amazon.jobs/en/jobs/10563941/solutions-architecture-manager-crossindustry-greenfield) | amazon | US, TX, Dallas | 0.5763 | 2026-09-29 |
-| [Sr. Customer Solutions Manager, Software and Technology (SWAT)](https://www.amazon.jobs/en/jobs/10563963/sr-customer-solutions-manager-software-and-technology-swat) | amazon | US, TX, Dallas | 0.5726 | 2026-09-29 |
+| [Data Scientist III, Amazon Devices Software & Services](https://www.amazon.jobs/jobs/10562519/data-scientist-iii-amazon-devices-software--services-?cmpid=bsp-amazon-science) | amazon_science | US, CO, Denver | 0.5876 | 2026-09-29 |
+| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10562761/data-center-operations-manager) | amazon | US, TX, Wharton | 0.5863 | 2026-09-29 |
+| [Solutions Architecture Manager, CrossIndustry Greenfield](https://www.amazon.jobs/en/jobs/10563941/solutions-architecture-manager-crossindustry-greenfield) | amazon | US, TX, Dallas | 0.5825 | 2026-09-29 |
 | [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564420/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5716 | 2026-09-30 |
-| [Sr. Software Dev Engineer, Ads AI Core Infra](https://www.amazon.jobs/en/jobs/10563931/sr-software-dev-engineer-ads-ai-core-infra) | amazon | US, WA, Seattle | 0.5695 | 2026-09-29 |
-| [Data Center Operations Manager](https://www.amazon.jobs/en/jobs/10562761/data-center-operations-manager) | amazon | US, TX, Wharton | 0.5676 | 2026-09-29 |
-| [Professional Services III - AMZ19016.3](https://www.amazon.jobs/en/jobs/10564222/professional-services-iii-amz19016-3) | amazon | US, NY, New York | 0.5612 | 2026-09-30 |
-| [Applied Scientist, Execution Planning Science & Engineering](https://www.amazon.jobs/jobs/10562813/applied-scientist-execution-planning-science--engineering?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5609 | 2026-09-29 |
+| [Sr. Customer Solutions Manager, Software and Technology (SWAT)](https://www.amazon.jobs/en/jobs/10563963/sr-customer-solutions-manager-software-and-technology-swat) | amazon | US, TX, Dallas | 0.5706 | 2026-09-29 |
+| [ Program Manager - Site Operations, Annapurna Labs Silicon](https://www.amazon.jobs/en/jobs/10565869/program-manager-site-operations-annapurna-labs-silicon) | amazon | US, TX, Austin | 0.5699 | 2026-09-30 |
+| [Sr. Software Dev Engineer, Ads AI Core Infra](https://www.amazon.jobs/en/jobs/10563931/sr-software-dev-engineer-ads-ai-core-infra) | amazon | US, WA, Seattle | 0.5694 | 2026-09-29 |
+| [Applied Scientist, Execution Planning Science & Engineering](https://www.amazon.jobs/jobs/10562813/applied-scientist-execution-planning-science--engineering?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.5671 | 2026-09-29 |
+| [Professional Services III - AMZ19016.3](https://www.amazon.jobs/en/jobs/10564222/professional-services-iii-amz19016-3) | amazon | US, NY, New York | 0.5636 | 2026-09-30 |
+| [Sales Operations Manager, Creator Ad Partnerships](https://www.amazon.jobs/en/jobs/10565974/sales-operations-manager-creator-ad-partnerships) | amazon | US, CA, Culver City | 0.5613 | 2026-09-30 |
 | [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564485/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5604 | 2026-09-30 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562842/data-center-technician) | amazon | US, CA, San Francisco | 0.5560 | 2026-09-29 |
-| [Sr. Physical Design Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10563896/sr-physical-design-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5554 | 2026-09-29 |
-| [Sr Procurement Manager - Data Center Modularization, Data Center Sourcing and Procurement](https://www.amazon.jobs/en/jobs/10563763/sr-procurement-manager-data-center-modularization-data-center-sourcing-and-procurement) | amazon | US, VA, Herndon | 0.5513 | 2026-09-29 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562844/data-center-technician) | amazon | US, CA, Santa Clara | 0.5511 | 2026-09-29 |
-| [Sr Procurement Manager - Data Center Modularization, Data Center Sourcing and Procurement](https://www.amazon.jobs/en/jobs/10563992/sr-procurement-manager-data-center-modularization-data-center-sourcing-and-procurement) | amazon | US, VA, Herndon | 0.5510 | 2026-09-29 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562842/data-center-technician) | amazon | US, CA, San Francisco | 0.5552 | 2026-09-29 |
+| [IT App Dev Engr III - AMZ10430591](https://www.amazon.jobs/en/jobs/10566016/it-app-dev-engr-iii-amz10430591) | amazon | US, CA, Santa Clara | 0.5542 | 2026-09-30 |
+| [Sr. Physical Design Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10563896/sr-physical-design-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5520 | 2026-09-29 |
+| [Sr Procurement Manager - Data Center Modularization, Data Center Sourcing and Procurement](https://www.amazon.jobs/en/jobs/10563763/sr-procurement-manager-data-center-modularization-data-center-sourcing-and-procurement) | amazon | US, VA, Herndon | 0.5518 | 2026-09-29 |
+| [Sr Procurement Manager - Data Center Modularization, Data Center Sourcing and Procurement](https://www.amazon.jobs/en/jobs/10563992/sr-procurement-manager-data-center-modularization-data-center-sourcing-and-procurement) | amazon | US, VA, Herndon | 0.5513 | 2026-09-29 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10562844/data-center-technician) | amazon | US, CA, Santa Clara | 0.5512 | 2026-09-29 |
 | [Senior DevEx Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564486/senior-devex-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5470 | 2026-09-30 |
-| [Software Development Engineer, Personalization, Amazon Personalization](https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization) | amazon | US, WA, Seattle | 0.5427 | 2026-09-29 |
+| [Facility Operations Center Engineer, ADC InfraOps FOC](https://www.amazon.jobs/en/jobs/10564194/facility-operations-center-engineer-adc-infraops-foc) | amazon | US, CO, Denver | 0.5459 | 2026-09-29 |
+| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10565910/engineering-operation-technician) | amazon | US, TX, Wink | 0.5457 | 2026-09-30 |
+| [Software Development Engineer, Personalization, Amazon Personalization](https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization) | amazon | US, WA, Seattle | 0.5433 | 2026-09-29 |
 | [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10564457/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Dallas | 0.5415 | 2026-09-30 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10564277/engineering-operation-technician-dcc-communities) | amazon | US, IN, New Carlisle | 0.5382 | 2026-09-29 |
 | [2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/jobs/10564598/-applied-science-internship--recommender-systems-information-retrieval-machine-learning--united-states-phd-student-science-recruiting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5382 | 2026-09-30 |
-| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10564277/engineering-operation-technician-dcc-communities) | amazon | US, IN, New Carlisle | 0.5377 | 2026-09-29 |
-| [Data Center Project Manager, Critical Projects Implementation](https://www.amazon.jobs/en/jobs/10563592/data-center-project-manager-critical-projects-implementation) | amazon | US, MS, Canton | 0.5349 | 2026-09-29 |
-| [Azure Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393556981313) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5322 | 2026-09-29 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557002351) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5307 | 2026-09-29 |
-| [Engineering Manager, Math Libraries Platform Expansion and Readiness](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Math-Libraries-Platform-Expansion-and-Readiness_JR2026005) | nvidia | US, CA, Santa Clara; US, DC, Remote; US, TX, Remote; US, PA, Remote; US, WA, Remote; US, CA, Remote | 0.5284 | 2026-09-29 |
-| [Sr. Applied Scientist, Frontier AI Assets](https://www.amazon.jobs/jobs/10564138/sr-applied-scientist-frontier-ai-assets?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5276 | 2026-09-30 |
-| [Startup Solutions Architect](https://www.amazon.jobs/en/jobs/10563823/startup-solutions-architect) | amazon | US, CA, Santa Monica | 0.5275 | 2026-09-29 |
+| [Sr. ProServe Cloud Architect, NAMER ProServe](https://www.amazon.jobs/en/jobs/10565995/sr-proserve-cloud-architect-namer-proserve) | amazon | US, CO, Denver | 0.5357 | 2026-09-30 |
 
 ## Companies tracked
 
