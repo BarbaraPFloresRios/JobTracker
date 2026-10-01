@@ -15,29 +15,29 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/en/jobs/10566181/sr-data-scientist-amazon-vertical-ads) | amazon | US, CA, Palo Alto | 0.6630 | 2026-10-01 |
-| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564420/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5782 | 2026-09-30 |
 | [Senior ML Compiler Engineer, Neuron](https://www.amazon.jobs/en/jobs/10566149/senior-ml-compiler-engineer-neuron) | amazon | US, WA, Seattle | 0.5764 | 2026-10-01 |
-| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564485/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5711 | 2026-09-30 |
+| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564420/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5745 | 2026-09-30 |
+| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564485/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5716 | 2026-09-30 |
 | [ Program Manager - Site Operations, Annapurna Labs Silicon](https://www.amazon.jobs/en/jobs/10565869/program-manager-site-operations-annapurna-labs-silicon) | amazon | US, TX, Austin | 0.5699 | 2026-09-30 |
-| [Professional Services III - AMZ19016.3](https://www.amazon.jobs/en/jobs/10564222/professional-services-iii-amz19016-3) | amazon | US, NY, New York | 0.5631 | 2026-09-30 |
+| [Professional Services III - AMZ19016.3](https://www.amazon.jobs/en/jobs/10564222/professional-services-iii-amz19016-3) | amazon | US, NY, New York | 0.5642 | 2026-09-30 |
 | [Sales Operations Manager, Creator Ad Partnerships](https://www.amazon.jobs/en/jobs/10565974/sales-operations-manager-creator-ad-partnerships) | amazon | US, CA, Culver City | 0.5613 | 2026-09-30 |
 | [IT App Dev Engr III - AMZ10430591](https://www.amazon.jobs/en/jobs/10566016/it-app-dev-engr-iii-amz10430591) | amazon | US, CA, Santa Clara | 0.5542 | 2026-09-30 |
-| [Sr. ProServe Cloud Architect, NAMER ProServe](https://www.amazon.jobs/en/jobs/10565995/sr-proserve-cloud-architect-namer-proserve) | amazon | US, CO, Denver | 0.5509 | 2026-09-30 |
+| [Sr. ProServe Cloud Architect, NAMER ProServe](https://www.amazon.jobs/en/jobs/10565995/sr-proserve-cloud-architect-namer-proserve) | amazon | US, CO, Denver | 0.5513 | 2026-09-30 |
 | [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10565910/engineering-operation-technician) | amazon | US, TX, Wink | 0.5457 | 2026-09-30 |
-| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10564457/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Dallas | 0.5415 | 2026-09-30 |
-| [Senior DevEx Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564486/senior-devex-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5401 | 2026-09-30 |
-| [2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/jobs/10564598/-applied-science-internship--recommender-systems-information-retrieval-machine-learning--united-states-phd-student-science-recruiting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5382 | 2026-09-30 |
-| [Customer Care Program Manager II, Worldwide Grocery Stores (WWGS) Support Services](https://www.amazon.jobs/en/jobs/10565834/customer-care-program-manager-ii-worldwide-grocery-stores-wwgs-support-services) | amazon | US, VA, Arlington | 0.5288 | 2026-09-30 |
-| [Sr. Applied Scientist, Frontier AI Assets](https://www.amazon.jobs/jobs/10564138/sr-applied-scientist-frontier-ai-assets?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5276 | 2026-09-30 |
+| [Senior DevEx Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564486/senior-devex-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5397 | 2026-09-30 |
+| [2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/jobs/10564598/-applied-science-internship--recommender-systems-information-retrieval-machine-learning--united-states-phd-student-science-recruiting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5388 | 2026-09-30 |
+| [Manager, Applied Science, Sales AI](https://www.amazon.jobs/jobs/10565896/manager-applied-science-sales-ai?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5378 | 2026-10-01 |
+| [Customer Care Program Manager II, Worldwide Grocery Stores (WWGS) Support Services](https://www.amazon.jobs/en/jobs/10565834/customer-care-program-manager-ii-worldwide-grocery-stores-wwgs-support-services) | amazon | US, VA, Arlington | 0.5297 | 2026-09-30 |
 | [Sr. Product Manager - Technical (External Services), AWS Startups, AWS Startups](https://www.amazon.jobs/en/jobs/10565797/sr-product-manager-technical-external-services-aws-startups-aws-startups) | amazon | US, WA, Seattle | 0.5275 | 2026-09-30 |
+| [Sr. Applied Scientist, Frontier AI Assets](https://www.amazon.jobs/jobs/10564138/sr-applied-scientist-frontier-ai-assets?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5274 | 2026-09-30 |
 | [Data Scientist, B2B Generalist ](https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5) | openai | San Francisco | 0.5267 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565907/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565811/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565860/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
+| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10564457/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Dallas | 0.5263 | 2026-09-30 |
 | [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565903/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565860/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565811/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565907/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5232 | 2026-09-30 |
 | [Software Development Engineer, Amazon, APM Twitch](https://www.amazon.jobs/en/jobs/10565824/software-development-engineer-amazon-apm-twitch) | amazon | US, NY, New York | 0.5229 | 2026-09-30 |
 | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | amazon | US, WA, Seattle | 0.5219 | 2026-09-30 |
-| [Engagement Manager, AWS Professional Services](https://www.amazon.jobs/en/jobs/10564537/engagement-manager-aws-professional-services) | amazon | US, NY, New York | 0.5214 | 2026-09-30 |
 | [Data Center Technician](https://www.amazon.jobs/en/jobs/10565759/data-center-technician) | amazon | US, GA, Lithia Springs | 0.5202 | 2026-09-30 |
 
 ## Companies tracked
