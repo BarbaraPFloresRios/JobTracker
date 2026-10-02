@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/en/jobs/10566181/sr-data-scientist-amazon-vertical-ads) | amazon | US, CA, Palo Alto | 0.6450 | 2026-10-01 |
+| [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/en/jobs/10566181/sr-data-scientist-amazon-vertical-ads) | amazon | US, CA, Palo Alto | 0.6456 | 2026-10-01 |
+| [Software Development Engineer, ROBOTICS, Early Career - 2027](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) | amazon | US, MA, North Reading | 0.6018 | 2026-10-02 |
 | [ISV Marketing Manager , NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10566918/isv-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5863 | 2026-10-01 |
-| [Senior ML Compiler Engineer, Neuron](https://www.amazon.jobs/en/jobs/10566149/senior-ml-compiler-engineer-neuron) | amazon | US, WA, Seattle | 0.5832 | 2026-10-01 |
-| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564420/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5778 | 2026-09-30 |
+| [Senior Product Manager - Tech, PV Commerce & International Product](https://www.amazon.jobs/en/jobs/10566994/senior-product-manager-tech-pv-commerce-international-product) | amazon | US, WA, Seattle | 0.5824 | 2026-10-01 |
+| [Senior ML Compiler Engineer, Neuron](https://www.amazon.jobs/en/jobs/10566149/senior-ml-compiler-engineer-neuron) | amazon | US, WA, Seattle | 0.5824 | 2026-10-01 |
 | [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/jobs/10566181/sr-data-scientist-amazon--vertical-ads?cmpid=bsp-amazon-science) | amazon_science | US, CA, Palo Alto | 0.5767 | 2026-10-01 |
-| [Developer Experience Engineer, AWS Developer Experience](https://www.amazon.jobs/en/jobs/10564485/developer-experience-engineer-aws-developer-experience) | amazon | US, WA, Seattle | 0.5717 | 2026-09-30 |
 | [Sr. Applied Scientist, Prime Video - Title Lifecycle Presentation](https://www.amazon.jobs/en/jobs/10567257/sr-applied-scientist-prime-video-title-lifecycle-presentation) | amazon | US, WA, Seattle | 0.5692 | 2026-10-01 |
-| [Senior Product Manager - Tech, PV Commerce & International Product](https://www.amazon.jobs/en/jobs/10566994/senior-product-manager-tech-pv-commerce-international-product) | amazon | US, WA, Seattle | 0.5668 | 2026-10-01 |
-| [ Program Manager - Site Operations, Annapurna Labs Silicon](https://www.amazon.jobs/en/jobs/10565869/program-manager-site-operations-annapurna-labs-silicon) | amazon | US, TX, Austin | 0.5626 | 2026-09-30 |
-| [Professional Services III - AMZ19016.3](https://www.amazon.jobs/en/jobs/10564222/professional-services-iii-amz19016-3) | amazon | US, NY, New York | 0.5625 | 2026-09-30 |
-| [IT App Dev Engr III - AMZ10430591](https://www.amazon.jobs/en/jobs/10566016/it-app-dev-engr-iii-amz10430591) | amazon | US, CA, Santa Clara | 0.5612 | 2026-09-30 |
-| [Solutions Architect, Engineering, Construction, Real Estate, and Transportation](https://www.amazon.jobs/en/jobs/10566717/solutions-architect-engineering-construction-real-estate-and-transportation) | amazon | US, VA, Arlington | 0.5545 | 2026-10-01 |
-| [Sales Operations Manager, Creator Ad Partnerships](https://www.amazon.jobs/en/jobs/10565974/sales-operations-manager-creator-ad-partnerships) | amazon | US, CA, Culver City | 0.5533 | 2026-09-30 |
-| [Sr. ProServe Cloud Architect, NAMER ProServe](https://www.amazon.jobs/en/jobs/10565995/sr-proserve-cloud-architect-namer-proserve) | amazon | US, CO, Denver | 0.5509 | 2026-09-30 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10565759/data-center-technician) | amazon | US, GA, Lithia Springs | 0.5477 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565907/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5464 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565860/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5464 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565903/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5464 | 2026-09-30 |
-| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10565811/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5464 | 2026-09-30 |
+| [Solutions Architect, Engineering, Construction, Real Estate, and Transportation](https://www.amazon.jobs/en/jobs/10566717/solutions-architect-engineering-construction-real-estate-and-transportation) | amazon | US, VA, Arlington | 0.5673 | 2026-10-01 |
+| [Strategic Account Rep, Strategic Accounts ](https://www.amazon.jobs/en/jobs/10567425/strategic-account-rep-strategic-accounts) | amazon | US, WA, Seattle | 0.5582 | 2026-10-02 |
+| [Data Center Technician, DCC Communities, DCO Tech](https://www.amazon.jobs/en/jobs/10567270/data-center-technician-dcc-communities-dco-tech) | amazon | US, GA, Lithia Springs | 0.5462 | 2026-10-01 |
 | [Business Intel Engineer III - AMZ10540501](https://www.amazon.jobs/en/jobs/10567307/business-intel-engineer-iii-amz10540501) | amazon | US, WA, Seattle | 0.5459 | 2026-10-01 |
-| [Sr. Product Manager - Technical (External Services), AWS Startups, AWS Startups](https://www.amazon.jobs/en/jobs/10565797/sr-product-manager-technical-external-services-aws-startups-aws-startups) | amazon | US, WA, Seattle | 0.5457 | 2026-09-30 |
 | [Senior Product Manager - Tech, Private Pricing Programs & Experiences (3PX)](https://www.amazon.jobs/en/jobs/10567011/senior-product-manager-tech-private-pricing-programs-experiences-3px) | amazon | US, NY, New York | 0.5450 | 2026-10-01 |
-| [Engineering Operation Technician](https://www.amazon.jobs/en/jobs/10565910/engineering-operation-technician) | amazon | US, TX, Wink | 0.5396 | 2026-09-30 |
-| [2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/jobs/10564598/-applied-science-internship--recommender-systems-information-retrieval-machine-learning--united-states-phd-student-science-recruiting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5388 | 2026-09-30 |
 | [Manager, Applied Science, Sales AI](https://www.amazon.jobs/jobs/10565896/manager-applied-science-sales-ai?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5378 | 2026-10-01 |
+| [Data Center Regional Chief Engineer, PHX/RNO](https://www.amazon.jobs/en/jobs/10566567/data-center-regional-chief-engineer-phx-rno) | amazon | US, NV, Sparks | 0.5360 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566892/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566906/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566905/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566883/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566884/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566899/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566893/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566895/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566885/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566903/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-01 |
+| [Sr. Solutions Architect, Cross-Industry Greenfield](https://www.amazon.jobs/en/jobs/10566669/sr-solutions-architect-cross-industry-greenfield) | amazon | US, NY, New York | 0.5325 | 2026-10-01 |
 
 ## Companies tracked
 
