@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Delivery Consultant- AI/ML, Data & Machine Learning (DML)](https://www.amazon.jobs/en/jobs/10567886/delivery-consultant-ai-ml-data-machine-learning-dml) | amazon | US, VA, Arlington | 0.6449 | 2026-10-02 |
-| [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/en/jobs/10566181/sr-data-scientist-amazon-vertical-ads) | amazon | US, CA, Palo Alto | 0.6449 | 2026-10-01 |
+| [Senior Applied Scientist, ASCS AI Lab Team](https://www.amazon.jobs/en/jobs/10567981/senior-applied-scientist-ascs-ai-lab-team) | amazon | US, WA, Seattle | 0.6425 | 2026-10-02 |
 | [Data Scientist, Amazon Ads Marketing Decision Science](https://www.amazon.jobs/en/jobs/10568249/data-scientist-amazon-ads-marketing-decision-science) | amazon | US, NY, New York | 0.6285 | 2026-10-02 |
 | [Sr. Delivery Consultant - AI/ML, WWPS ProServe](https://www.amazon.jobs/en/jobs/10567894/sr-delivery-consultant-ai-ml-wwps-proserve) | amazon | US, VA, Arlington | 0.6222 | 2026-10-02 |
-| [Senior Applied Scientist, ASCS AI Lab Team](https://www.amazon.jobs/en/jobs/10567981/senior-applied-scientist-ascs-ai-lab-team) | amazon | US, WA, Seattle | 0.6027 | 2026-10-02 |
+| [Senior Data Scientist, AWS Central Econ and Science](https://www.amazon.jobs/en/jobs/10568149/senior-data-scientist-aws-central-econ-and-science) | amazon | US, NY, New York | 0.6168 | 2026-10-02 |
 | [Software Development Engineer, ROBOTICS, Early Career - 2027](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) | amazon | US, MA, North Reading | 0.6014 | 2026-10-02 |
-| [Sr. Applied Scientist, Prime Video - Title Lifecycle Presentation](https://www.amazon.jobs/en/jobs/10567257/sr-applied-scientist-prime-video-title-lifecycle-presentation) | amazon | US, WA, Seattle | 0.5981 | 2026-10-01 |
-| [Senior Data Scientist, AWS Central Econ and Science](https://www.amazon.jobs/en/jobs/10568149/senior-data-scientist-aws-central-econ-and-science) | amazon | US, NY, New York | 0.5905 | 2026-10-02 |
-| [Senior ML Compiler Engineer, Neuron](https://www.amazon.jobs/en/jobs/10566149/senior-ml-compiler-engineer-neuron) | amazon | US, WA, Seattle | 0.5829 | 2026-10-01 |
-| [ISV Marketing Manager , NAMER Strategic Customer and Partner Marketing](https://www.amazon.jobs/en/jobs/10566918/isv-marketing-manager-namer-strategic-customer-and-partner-marketing) | amazon | US, TX, Austin | 0.5816 | 2026-10-01 |
 | [Applied Scientist, PXT Central Science](https://www.amazon.jobs/jobs/10567408/applied-scientist-pxt-central-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5773 | 2026-10-02 |
-| [Sr Data Scientist, Amazon - Vertical Ads](https://www.amazon.jobs/jobs/10566181/sr-data-scientist-amazon--vertical-ads?cmpid=bsp-amazon-science) | amazon_science | US, CA, Palo Alto | 0.5771 | 2026-10-01 |
-| [Senior Product Manager - Tech, PV Commerce & International Product](https://www.amazon.jobs/en/jobs/10566994/senior-product-manager-tech-pv-commerce-international-product) | amazon | US, WA, Seattle | 0.5747 | 2026-10-01 |
-| [Sr. Applied Scientist, AI & AGI Security](https://www.amazon.jobs/en/jobs/10567882/sr-applied-scientist-ai-agi-security) | amazon | US, NY, New York | 0.5746 | 2026-10-02 |
-| [Sr Applied Scientist, Ring AI](https://www.amazon.jobs/en/jobs/10567915/sr-applied-scientist-ring-ai) | amazon | US, CA, Sunnyvale | 0.5731 | 2026-10-02 |
-| [Data Center Facility Manager](https://www.amazon.jobs/en/jobs/10567057/data-center-facility-manager) | amazon | US, MD, Frederick | 0.5700 | 2026-10-01 |
-| [Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna) | amazon | US, NY, New York | 0.5672 | 2026-10-02 |
-| [Solutions Architect, Engineering, Construction, Real Estate, and Transportation](https://www.amazon.jobs/en/jobs/10566717/solutions-architect-engineering-construction-real-estate-and-transportation) | amazon | US, VA, Arlington | 0.5664 | 2026-10-01 |
-| [Sr. Solutions Architect, Cross-Industry Greenfield](https://www.amazon.jobs/en/jobs/10566669/sr-solutions-architect-cross-industry-greenfield) | amazon | US, NY, New York | 0.5646 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566892/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566906/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566903/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566905/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566883/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10566895/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5557 | 2026-10-01 |
+| [Sr. Applied Scientist, AI & AGI Security](https://www.amazon.jobs/en/jobs/10567882/sr-applied-scientist-ai-agi-security) | amazon | US, NY, New York | 0.5752 | 2026-10-02 |
+| [Sr Applied Scientist, Ring AI](https://www.amazon.jobs/en/jobs/10567915/sr-applied-scientist-ring-ai) | amazon | US, CA, Sunnyvale | 0.5735 | 2026-10-02 |
+| [Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna) | amazon | US, NY, New York | 0.5634 | 2026-10-02 |
+| [Program Manager Data Center Operations, RNO](https://www.amazon.jobs/en/jobs/10567804/program-manager-data-center-operations-rno) | amazon | US, NV, Sparks | 0.5541 | 2026-10-02 |
+| [Global Category Manager](https://www.amazon.jobs/en/jobs/10568426/global-category-manager) | amazon | US, CA, Cupertino | 0.5533 | 2026-10-03 |
+| [Strategic Account Rep, Strategic Accounts ](https://www.amazon.jobs/en/jobs/10567425/strategic-account-rep-strategic-accounts) | amazon | US, WA, Seattle | 0.5517 | 2026-10-02 |
+| [Program Manager III, Strategic Initiatives Team](https://www.amazon.jobs/en/jobs/10568006/program-manager-iii-strategic-initiatives-team) | amazon | US, TX, Austin | 0.5441 | 2026-10-02 |
+| [Bus Intel Eng II AMZ1242164, Reputation Marketing & Insights](https://www.amazon.jobs/en/jobs/10567500/bus-intel-eng-ii-amz1242164-reputation-marketing-insights) | amazon | US, VA, Arlington | 0.5419 | 2026-10-02 |
+| [Sr. Customer Solutions Manager, ISV](https://www.amazon.jobs/en/jobs/10567354/sr-customer-solutions-manager-isv) | amazon | US, VA, Arlington | 0.5394 | 2026-10-02 |
+| [Manager of Construction, Data Center Construction](https://www.amazon.jobs/en/jobs/10568167/manager-of-construction-data-center-construction) | amazon | US, IN, New Carlisle | 0.5360 | 2026-10-02 |
+| [Engagement Manager, Professional Services](https://www.amazon.jobs/en/jobs/10568356/engagement-manager-professional-services) | amazon | US, GA, Atlanta | 0.5336 | 2026-10-02 |
+| [Data Center Infrastructure Delivery Manager](https://www.amazon.jobs/en/jobs/10568288/data-center-infrastructure-delivery-manager) | amazon | US, TX, Wink | 0.5325 | 2026-10-02 |
+| [Infra Delivery Technician ](https://www.amazon.jobs/en/jobs/10567889/infra-delivery-technician) | amazon | US, TX, Wilmer | 0.5268 | 2026-10-02 |
+| [Senior Security Engineer, AI & AGI Security](https://www.amazon.jobs/en/jobs/10567905/senior-security-engineer-ai-agi-security) | amazon | US, WA, Seattle | 0.5252 | 2026-10-02 |
+| [Software Development Engineer – AI/ML Networking Disaggregated Inference, Annapurna Labs , Elastic Collectives](https://www.amazon.jobs/en/jobs/10567360/software-development-engineer-ai-ml-networking-disaggregated-inference-annapurna-labs-elastic-collectives) | amazon | US, CA, Cupertino | 0.5246 | 2026-10-02 |
+| [Software Development Engineer (SDE2), AWS](https://www.amazon.jobs/en/jobs/10568432/software-development-engineer-sde2-aws) | amazon | US, WA, Seattle | 0.5193 | 2026-10-03 |
+| [Cloud Solution Architect - Cloud & AI Applications](https://apply.careers.microsoft.com/careers/job/1970393557000185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5165 | 2026-10-02 |
+| [Mfg Process and Quality Engineer](https://www.amazon.jobs/en/jobs/10568197/mfg-process-and-quality-engineer) | amazon | US, TX, Austin | 0.5152 | 2026-10-02 |
 
 ## Companies tracked
 
