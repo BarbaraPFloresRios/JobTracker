@@ -14,31 +14,24 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist, Amazon Ads Marketing Decision Science](https://www.amazon.jobs/jobs/10568249/data-scientist-amazon-ads-marketing-decision-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.6188 | 2026-10-03 |
-| [Global Category Manager](https://www.amazon.jobs/en/jobs/10568426/global-category-manager) | amazon | US, CA, Cupertino | 0.5533 | 2026-10-03 |
-| [Senior Business Process Cloud Solution Architect](https://apply.careers.microsoft.com/careers/job/1970393556978842) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5437 | 2026-10-03 |
-| [Software Development Engineer (SDE2), AWS](https://www.amazon.jobs/en/jobs/10568432/software-development-engineer-sde2-aws) | amazon | US, WA, Seattle | 0.5193 | 2026-10-03 |
-| [Senior Manager, Talent Insights & Assessment](https://apply.careers.microsoft.com/careers/job/1970393557021681) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5061 | 2026-10-03 |
-| [Datacenter Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557004917) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4996 | 2026-10-03 |
-| [Senior Applied Scientist, ASCS AI Lab Team](https://www.amazon.jobs/jobs/10567981/senior-applied-scientist-ascs-ai-lab-team?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4843 | 2026-10-03 |
-| [AI Compute Engineer - NVIS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compute-Engineer---NVIS_JR2025216) | nvidia | US, CA, Santa Clara; US, Remote | 0.4794 | 2026-10-03 |
-| [AWS Sr. Account Manager, ISV, Business Applications](https://www.amazon.jobs/en/jobs/10568425/aws-sr-account-manager-isv-business-applications) | amazon | US, NY, New York | 0.4750 | 2026-10-03 |
-| [Senior System Software Engineer, GPU Server](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--GPU-Server_JR2026838) | nvidia | US, CA, Santa Clara; US, OR, Hillsboro | 0.4749 | 2026-10-03 |
-| [Field Product Marketing Manager](https://apply.careers.microsoft.com/careers/job/1970393557016421) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4743 | 2026-10-03 |
-| [Senior Business Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557021621) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4670 | 2026-10-03 |
-| [D365 Sales and Service Business Architect](https://apply.careers.microsoft.com/careers/job/1970393557008072) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4653 | 2026-10-03 |
+| [Work Based Learning Program Infrastructure Delivery Technician ](https://www.amazon.jobs/en/jobs/10568527/work-based-learning-program-infrastructure-delivery-technician) | amazon | US, MS, Canton | 0.4511 | 2026-10-05 |
 | [Transportation Area Manager](https://www.amazon.jobs/en/jobs/10568499/transportation-area-manager) | amazon | US, IL, Rockford | 0.4484 | 2026-10-04 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557008730) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4469 | 2026-10-03 |
-| [Infrastructure Project Manager, Development Lab Operations](https://www.amazon.jobs/en/jobs/10568417/infrastructure-project-manager-development-lab-operations) | amazon | US, WA, Redmond | 0.4425 | 2026-10-03 |
-| [Senior System Software Engineer, Agentic Retrieval](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Retrieval_JR2026513) | nvidia | US, CA, Santa Clara; US, WA, Remote; US, CA, Remote; US, WA, Redmond; US, WI, Remote | 0.4401 | 2026-10-03 |
-| [Global Cross-Solution Partner Architect](https://apply.careers.microsoft.com/careers/job/1970393557021657) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4389 | 2026-10-03 |
-| [Retail Partner Marketing Manager](https://apply.careers.microsoft.com/careers/job/1970393557008022) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4334 | 2026-10-03 |
-| [Sr Applied Scientist, Ring AI](https://www.amazon.jobs/jobs/10567915/sr-applied-scientist-ring-ai?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.4318 | 2026-10-03 |
-| [Senior Data Scientist, AWS Central Econ and Science](https://www.amazon.jobs/jobs/10568149/senior-data-scientist-aws-central-econ-and-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.4105 | 2026-10-03 |
-| [Prime Air Sr. Maintenance Technician , Corporate Operations, Prime Air](https://www.amazon.jobs/en/jobs/10568389/prime-air-sr-maintenance-technician-corporate-operations-prime-air) | amazon | US, TX, Richmond | 0.4099 | 2026-10-03 |
-| [Global Ad Sales Learning Enablement Manager](https://explore.jobs.netflix.net/careers/job/790318598901) | netflix | New York,New York,United States of America | 0.4083 | 2026-10-04 |
-| [Software Dev Engineer II (SDE2), Amazon Connect](https://www.amazon.jobs/en/jobs/10568469/software-dev-engineer-ii-sde2-amazon-connect) | amazon | US, CA, Santa Clara | 0.4058 | 2026-10-03 |
-| [Customer and Partner Engagement Lead](https://apply.careers.microsoft.com/careers/job/1970393557021620) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4030 | 2026-10-03 |
+| [Machine Learning Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1619290696213069) | meta | Singapore | 0.4236 | 2026-10-05 |
+| [Global Ad Sales Learning Enablement Manager](https://explore.jobs.netflix.net/careers/job/790318598901) | netflix | New York,New York,United States of America | 0.4141 | 2026-10-04 |
+| [Group Product Manager, Plans Innovation](https://explore.jobs.netflix.net/careers/job/790318601563) | netflix | Los Gatos,California,United States of America | 0.3113 | 2026-10-04 |
+| [Senior Scale-Up Network System Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Scale-Up-Network-System-Architect_JR2026652) | nvidia | US, CA, Santa Clara | 0.3075 | 2026-10-05 |
+| [Account Manager (Spain) - Temporary Coverage](https://explore.jobs.netflix.net/careers/job/790318676145) | netflix | Madrid,Spain | 0.2867 | 2026-10-04 |
+| [Account Manager (France)](https://explore.jobs.netflix.net/careers/job/790318752901) | netflix | Paris,France | 0.2738 | 2026-10-04 |
+| [Market Planning & Operations Manager (EMEA - Sales Operations)](https://explore.jobs.netflix.net/careers/job/790318500566) | netflix | London,United Kingdom | 0.2681 | 2026-10-04 |
+| [Security Engineer - Applied AI](https://www.metacareers.com/profile/job_details/1383588067176943) | meta | Menlo Park, CA | 0.2670 | 2026-10-05 |
+| [Manager, Technical SEO Programs - Cupertino](https://jobs.apple.com/en-us/details/200687148-0836/manager-technical-seo-programs-cupertino?team=CORSV) | apple | nan | 0.2527 | 2026-10-04 |
+| [Account Manager, Mid-Market (Hong Kong and Taiwan), SMB Group](https://www.metacareers.com/profile/job_details/837356059343551) | meta | Singapore | 0.2517 | 2026-10-05 |
+| [Manager, Production Finance - Indonesia](https://explore.jobs.netflix.net/careers/job/790318751113) | netflix | Jakarta,Indonesia | 0.2406 | 2026-10-04 |
+| [Manager, Photo & Audio Visual Studio - Japan](https://explore.jobs.netflix.net/careers/job/790318500438) | netflix | Tokyo,Japan | 0.2104 | 2026-10-04 |
+| [Content SEO Program Manager - Cupertino](https://jobs.apple.com/en-us/details/200687147-0836/content-seo-program-manager-cupertino?team=CORSV) | apple | nan | 0.2031 | 2026-10-04 |
+| [Head of Cinematography, Lighting](https://explore.jobs.netflix.net/careers/job/790318686994) | netflix | Vancouver,Canada | 0.1897 | 2026-10-04 |
+| [Head of Cinematography, Lighting](https://explore.jobs.netflix.net/careers/job/790318715894) | netflix | Sydney,Australia | 0.1862 | 2026-10-04 |
+| [Technical Program Manager — Developer Productivity](https://www.metacareers.com/profile/job_details/1769900794137147) | meta | Sunnyvale, CA | 0.1673 | 2026-10-05 |
 
 ## Companies tracked
 
