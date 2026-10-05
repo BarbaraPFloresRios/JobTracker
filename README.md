@@ -14,24 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
+| [Cloud Technical Account Manager, ES - Strategic Industries, ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10568551/cloud-technical-account-manager-es-strategic-industries-es-strategic-industries) | amazon | US, NJ, Jersey City | 0.5885 | 2026-10-05 |
+| [Account Manager - AI Natives](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---AI-Natives_JR2026699) | nvidia | US, CA, Santa Clara | 0.4914 | 2026-10-05 |
 | [Work Based Learning Program Infrastructure Delivery Technician ](https://www.amazon.jobs/en/jobs/10568527/work-based-learning-program-infrastructure-delivery-technician) | amazon | US, MS, Canton | 0.4511 | 2026-10-05 |
 | [Transportation Area Manager](https://www.amazon.jobs/en/jobs/10568499/transportation-area-manager) | amazon | US, IL, Rockford | 0.4484 | 2026-10-04 |
 | [Machine Learning Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1619290696213069) | meta | Singapore | 0.4236 | 2026-10-05 |
-| [Global Ad Sales Learning Enablement Manager](https://explore.jobs.netflix.net/careers/job/790318598901) | netflix | New York,New York,United States of America | 0.4141 | 2026-10-04 |
-| [Group Product Manager, Plans Innovation](https://explore.jobs.netflix.net/careers/job/790318601563) | netflix | Los Gatos,California,United States of America | 0.3113 | 2026-10-04 |
-| [Senior Scale-Up Network System Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Scale-Up-Network-System-Architect_JR2026652) | nvidia | US, CA, Santa Clara | 0.3075 | 2026-10-05 |
-| [Account Manager (Spain) - Temporary Coverage](https://explore.jobs.netflix.net/careers/job/790318676145) | netflix | Madrid,Spain | 0.2867 | 2026-10-04 |
-| [Account Manager (France)](https://explore.jobs.netflix.net/careers/job/790318752901) | netflix | Paris,France | 0.2738 | 2026-10-04 |
-| [Market Planning & Operations Manager (EMEA - Sales Operations)](https://explore.jobs.netflix.net/careers/job/790318500566) | netflix | London,United Kingdom | 0.2681 | 2026-10-04 |
+| [Manager, Field Application Engineering - OEM Support](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Manager--Field-Application-Engineering---OEM-Support_JR2026481) | nvidia | US, NC, Durham | 0.4095 | 2026-10-05 |
+| [Global Ad Sales Learning Enablement Manager](https://explore.jobs.netflix.net/careers/job/790318598901) | netflix | New York,New York,United States of America | 0.4070 | 2026-10-04 |
+| [SDS Manager, NALA Sales Development](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/SDS-Manager--NALA-Sales-Development_JR2026937) | nvidia | US, NC, Remote; US, CA, Remote | 0.3823 | 2026-10-05 |
+| [Enterprise Account Executive - Healthcare & Life Science](https://job-boards.greenhouse.io/anthropic/jobs/5432590008) | anthropic | Seoul, South Korea | 0.3528 | 2026-10-05 |
+| [Group Product Manager, Plans Innovation](https://explore.jobs.netflix.net/careers/job/790318601563) | netflix | Los Gatos,California,United States of America | 0.3134 | 2026-10-04 |
+| [Senior Scale-Up Network System Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Scale-Up-Network-System-Architect_JR2026652) | nvidia | US, CA, Santa Clara | 0.3105 | 2026-10-05 |
+| [Account Manager (Spain) - Temporary Coverage](https://explore.jobs.netflix.net/careers/job/790318676145) | netflix | Madrid,Spain | 0.2866 | 2026-10-04 |
+| [Account Manager (France)](https://explore.jobs.netflix.net/careers/job/790318752901) | netflix | Paris,France | 0.2860 | 2026-10-04 |
+| [Enterprise Account Executive - Manufacturing](https://job-boards.greenhouse.io/anthropic/jobs/5443281008) | anthropic | Seoul, South Korea | 0.2797 | 2026-10-05 |
+| [Market Planning & Operations Manager (EMEA - Sales Operations)](https://explore.jobs.netflix.net/careers/job/790318500566) | netflix | London,United Kingdom | 0.2678 | 2026-10-04 |
 | [Security Engineer - Applied AI](https://www.metacareers.com/profile/job_details/1383588067176943) | meta | Menlo Park, CA | 0.2670 | 2026-10-05 |
 | [Manager, Technical SEO Programs - Cupertino](https://jobs.apple.com/en-us/details/200687148-0836/manager-technical-seo-programs-cupertino?team=CORSV) | apple | nan | 0.2527 | 2026-10-04 |
 | [Account Manager, Mid-Market (Hong Kong and Taiwan), SMB Group](https://www.metacareers.com/profile/job_details/837356059343551) | meta | Singapore | 0.2517 | 2026-10-05 |
-| [Manager, Production Finance - Indonesia](https://explore.jobs.netflix.net/careers/job/790318751113) | netflix | Jakarta,Indonesia | 0.2406 | 2026-10-04 |
-| [Manager, Photo & Audio Visual Studio - Japan](https://explore.jobs.netflix.net/careers/job/790318500438) | netflix | Tokyo,Japan | 0.2104 | 2026-10-04 |
+| [DPU Networking Architect, Infrastructure Silicon](https://www.metacareers.com/profile/job_details/966396852519991) | meta | Sunnyvale, CA | 0.2494 | 2026-10-05 |
+| [DPU IO Architect, Infrastructure Silicon](https://www.metacareers.com/profile/job_details/1469752631642156) | meta | Sunnyvale, CA | 0.2468 | 2026-10-05 |
+| [Manager, Production Finance - Indonesia](https://explore.jobs.netflix.net/careers/job/790318751113) | netflix | Jakarta,Indonesia | 0.2421 | 2026-10-04 |
+| [DPU Power Architect, Infrastructure Silicon](https://www.metacareers.com/profile/job_details/4384466011807153) | meta | Sunnyvale, CA | 0.2288 | 2026-10-05 |
+| [Manager, Photo & Audio Visual Studio - Japan](https://explore.jobs.netflix.net/careers/job/790318500438) | netflix | Tokyo,Japan | 0.2105 | 2026-10-04 |
 | [Content SEO Program Manager - Cupertino](https://jobs.apple.com/en-us/details/200687147-0836/content-seo-program-manager-cupertino?team=CORSV) | apple | nan | 0.2031 | 2026-10-04 |
-| [Head of Cinematography, Lighting](https://explore.jobs.netflix.net/careers/job/790318686994) | netflix | Vancouver,Canada | 0.1897 | 2026-10-04 |
-| [Head of Cinematography, Lighting](https://explore.jobs.netflix.net/careers/job/790318715894) | netflix | Sydney,Australia | 0.1862 | 2026-10-04 |
-| [Technical Program Manager — Developer Productivity](https://www.metacareers.com/profile/job_details/1769900794137147) | meta | Sunnyvale, CA | 0.1673 | 2026-10-05 |
+| [Head of Cinematography, Lighting](https://explore.jobs.netflix.net/careers/job/790318686994) | netflix | Vancouver,Canada | 0.1830 | 2026-10-04 |
 
 ## Companies tracked
 
