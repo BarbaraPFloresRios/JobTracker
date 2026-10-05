@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Cloud Technical Account Manager, ES - Strategic Industries, ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10568551/cloud-technical-account-manager-es-strategic-industries-es-strategic-industries) | amazon | US, NJ, Jersey City | 0.5885 | 2026-10-05 |
-| [Technical Infrastructure Program Manager, Data Center Planning Delivery](https://www.amazon.jobs/en/jobs/10568596/technical-infrastructure-program-manager-data-center-planning-delivery) | amazon | US, TX, Houston | 0.5217 | 2026-10-05 |
-| [CPI Data Center Project Manager, US-West CPI](https://www.amazon.jobs/en/jobs/10568747/cpi-data-center-project-manager-us-west-cpi) | amazon | US, OR, Boardman | 0.5179 | 2026-10-05 |
-| [Account Manager - AI Natives](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---AI-Natives_JR2026699) | nvidia | US, CA, Santa Clara | 0.4923 | 2026-10-05 |
-| [Principal Technical Program Manager](https://www.amazon.jobs/en/jobs/10568785/principal-technical-program-manager) | amazon | US, TX, Austin | 0.4667 | 2026-10-05 |
-| [Sr. Integrations Engineer, Supply Chain Technology](https://jobs.ashbyhq.com/openai/fa02b383-d5b0-45ea-b29e-3464ceeb4574) | openai | San Francisco | 0.4552 | 2026-10-05 |
-| [Work Based Learning Program Infrastructure Delivery Technician ](https://www.amazon.jobs/en/jobs/10568527/work-based-learning-program-infrastructure-delivery-technician) | amazon | US, MS, Canton | 0.4511 | 2026-10-05 |
-| [Transportation Area Manager](https://www.amazon.jobs/en/jobs/10568499/transportation-area-manager) | amazon | US, IL, Rockford | 0.4484 | 2026-10-04 |
-| [Software Devt Engineer II (ADBL200)](https://www.amazon.jobs/en/jobs/10568803/software-devt-engineer-ii-adbl200) | amazon | US, MA, Cambridge | 0.4311 | 2026-10-05 |
-| [Senior Advanced Manufacturing Engineer, Actuators](https://www.amazon.jobs/en/jobs/10568605/senior-advanced-manufacturing-engineer-actuators) | amazon | US, WA, Bellevue | 0.4259 | 2026-10-05 |
-| [Senior Advanced Manufacturing Engineer, Actuators](https://www.amazon.jobs/en/jobs/10568599/senior-advanced-manufacturing-engineer-actuators) | amazon | US, WA, Bellevue | 0.4259 | 2026-10-05 |
-| [Machine Learning Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1619290696213069) | meta | Singapore | 0.4236 | 2026-10-05 |
-| [Global Ad Sales Learning Enablement Manager](https://explore.jobs.netflix.net/careers/job/790318598901) | netflix | New York,New York,United States of America | 0.4201 | 2026-10-04 |
-| [Senior Product Designer](https://apply.careers.microsoft.com/careers/job/1970393557002602) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4173 | 2026-10-05 |
-| [Manager, Field Application Engineering - OEM Support](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Manager--Field-Application-Engineering---OEM-Support_JR2026481) | nvidia | US, NC, Durham | 0.4096 | 2026-10-05 |
-| [SDS Manager, NALA Sales Development](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/SDS-Manager--NALA-Sales-Development_JR2026937) | nvidia | US, NC, Remote; US, CA, Remote | 0.3867 | 2026-10-05 |
-| [Executive Engagement Mgr, AWS Forward Deployed Engineering ](https://www.amazon.jobs/en/jobs/10568630/executive-engagement-mgr-aws-forward-deployed-engineering) | amazon | US, MA, Cambridge | 0.3797 | 2026-10-05 |
-| [Transportation Associate ](https://www.amazon.jobs/en/jobs/10568713/transportation-associate) | amazon | US, AZ, Phoenix | 0.3691 | 2026-10-05 |
-| [Transportation Associate ](https://www.amazon.jobs/en/jobs/10568715/transportation-associate) | amazon | US, NE, Omaha | 0.3566 | 2026-10-05 |
-| [NVIDIA 2027 Ignite Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | nvidia | US, CA, Santa Clara | 0.3564 | 2026-10-05 |
-| [NVIDIA 2027 Ignite Internships: Hardware Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) | nvidia | US, CA, Santa Clara | 0.3561 | 2026-10-05 |
-| [Enterprise Account Executive - Healthcare & Life Science](https://job-boards.greenhouse.io/anthropic/jobs/5432590008) | anthropic | Seoul, South Korea | 0.3528 | 2026-10-05 |
-| [Senior Business Systems Analyst, ANAPLAN](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst--ANAPLAN_JR2026241) | nvidia | US, CA, Santa Clara | 0.3310 | 2026-10-05 |
-| [Program Expert Cross Border Trade - Marketplace](https://mercadolibre.eightfold.ai/careers/job/44762631) | mercadolibre | United States | 0.3265 | 2026-10-05 |
-| [Group Product Manager, Plans Innovation](https://explore.jobs.netflix.net/careers/job/790318601563) | netflix | Los Gatos,California,United States of America | 0.3134 | 2026-10-04 |
+| [Applied Scientist, Advertiser Growth Engine](https://www.amazon.jobs/en/jobs/10569394/applied-scientist-advertiser-growth-engine) | amazon | US, NY, New York | 0.6341 | 2026-10-05 |
+| [Cloud Technical Account Manager, ES - Strategic Industries, ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10568551/cloud-technical-account-manager-es-strategic-industries-es-strategic-industries) | amazon | US, NJ, Jersey City | 0.6065 | 2026-10-05 |
+| [Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10569713/applied-scientist-fauna) | amazon | US, NY, New York | 0.5751 | 2026-10-05 |
+| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10569781/software-development-engineer) | amazon | US, NY, New York | 0.5669 | 2026-10-05 |
+| [Data Center Network Deploy Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10569788/data-center-network-deploy-technician-dcc-communities) | amazon | US, VA, Manassas | 0.5604 | 2026-10-05 |
+| [Senior Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10569789/senior-applied-scientist-fauna) | amazon | US, NY, New York | 0.5573 | 2026-10-05 |
+| [Bus Development Manager, Scale Sales, CSC, CSC SMB ](https://www.amazon.jobs/en/jobs/10568950/bus-development-manager-scale-sales-csc-csc-smb) | amazon | US, VA, Arlington | 0.5485 | 2026-10-05 |
+| [Network Development Engineer, ADC Networking](https://www.amazon.jobs/en/jobs/10568870/network-development-engineer-adc-networking) | amazon | US, VA, Arlington | 0.5442 | 2026-10-05 |
+| [Inference Engineer, AGI](https://www.amazon.jobs/en/jobs/10569698/inference-engineer-agi) | amazon | US, CA, Sunnyvale | 0.5365 | 2026-10-05 |
+| [DC Design Manager for Region (AMER), Data Center Engineering, DCDE - AMER](https://www.amazon.jobs/en/jobs/10569760/dc-design-manager-for-region-amer-data-center-engineering-dcde-amer) | amazon | US, TX, Austin | 0.5358 | 2026-10-05 |
+| [Sr. Product Lifecycle Mechanical Engineer, DCE - Mechanical Products & Services (MPS) ](https://www.amazon.jobs/en/jobs/10569340/sr-product-lifecycle-mechanical-engineer-dce-mechanical-products-services-mps) | amazon | US, VA, Herndon | 0.5346 | 2026-10-05 |
+| [Cloud Sales Representative](https://www.amazon.jobs/en/jobs/10569617/cloud-sales-representative) | amazon | US, VA, Arlington | 0.5318 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569443/data-center-technician) | amazon | US, AZ, Mesa | 0.5311 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569437/data-center-technician) | amazon | US, AZ, Mesa | 0.5311 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569439/data-center-technician) | amazon | US, AZ, Chandler | 0.5268 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569438/data-center-technician) | amazon | US, AZ, Chandler | 0.5268 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569444/data-center-technician) | amazon | US, AZ, Chandler | 0.5268 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569442/data-center-technician) | amazon | US, AZ, Glendale | 0.5253 | 2026-10-05 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569441/data-center-technician) | amazon | US, AZ, Glendale | 0.5253 | 2026-10-05 |
+| [Analytics Engineer 5 - Demand Science](https://explore.jobs.netflix.net/careers/job/790318658684) | netflix | Remote, United States | 0.5232 | 2026-10-05 |
+| [Sr. Mechanical Product Engineer, Data Center Eng, MPS](https://www.amazon.jobs/en/jobs/10569597/sr-mechanical-product-engineer-data-center-eng-mps) | amazon | US, TX, Austin | 0.5165 | 2026-10-05 |
+| [Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)](https://www.amazon.jobs/en/jobs/10569548/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps) | amazon | US, TX, Austin | 0.5159 | 2026-10-05 |
+| [Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)](https://www.amazon.jobs/en/jobs/10569598/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps) | amazon | US, TX, Austin | 0.5159 | 2026-10-05 |
+| [Technical Infrastructure Program Manager, Data Center Planning Delivery](https://www.amazon.jobs/en/jobs/10568596/technical-infrastructure-program-manager-data-center-planning-delivery) | amazon | US, TX, Houston | 0.5156 | 2026-10-05 |
+| [Principal Recruiter, PE Recruiting ](https://www.amazon.jobs/en/jobs/10569710/principal-recruiter-pe-recruiting) | amazon | US, WA, Seattle | 0.5156 | 2026-10-05 |
 
 ## Companies tracked
 
