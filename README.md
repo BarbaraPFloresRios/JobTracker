@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist , Leo Customer Terminal](https://www.amazon.jobs/en/jobs/10569910/data-scientist-leo-customer-terminal) | amazon | US, WA, Redmond | 0.6632 | 2026-10-06 |
-| [Applied Scientist, Advertiser Growth Engine](https://www.amazon.jobs/en/jobs/10569394/applied-scientist-advertiser-growth-engine) | amazon | US, NY, New York | 0.6501 | 2026-10-05 |
-| [Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10569713/applied-scientist-fauna) | amazon | US, NY, New York | 0.6035 | 2026-10-05 |
-| [Cloud Technical Account Manager, ES - Strategic Industries, ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10568551/cloud-technical-account-manager-es-strategic-industries-es-strategic-industries) | amazon | US, NJ, Jersey City | 0.6029 | 2026-10-05 |
-| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10569781/software-development-engineer) | amazon | US, NY, New York | 0.5964 | 2026-10-05 |
-| [Talent Intelligence Analyst, Global Specialty Recruiting](https://www.amazon.jobs/en/jobs/10569918/talent-intelligence-analyst-global-specialty-recruiting) | amazon | US, NY, New York | 0.5937 | 2026-10-06 |
-| [Senior Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10569789/senior-applied-scientist-fauna) | amazon | US, NY, New York | 0.5921 | 2026-10-05 |
+| [Data Scientist , Leo Customer Terminal](https://www.amazon.jobs/en/jobs/10569910/data-scientist-leo-customer-terminal) | amazon | US, WA, Redmond | 0.6631 | 2026-10-06 |
+| [Talent Intelligence Analyst, Global Specialty Recruiting](https://www.amazon.jobs/en/jobs/10569918/talent-intelligence-analyst-global-specialty-recruiting) | amazon | US, NY, New York | 0.5929 | 2026-10-06 |
+| [Customer Experience Program Manager II](https://apply.careers.microsoft.com/careers/job/1970393557000021) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5706 | 2026-10-06 |
 | [Clearable Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10570706/clearable-data-center-technician-adc-infraops-dco) | amazon | US, CO, Aurora | 0.5687 | 2026-10-06 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10569948/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5588 | 2026-10-06 |
-| [Data Center Network Deploy Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10569788/data-center-network-deploy-technician-dcc-communities) | amazon | US, VA, Manassas | 0.5583 | 2026-10-05 |
-| [Inference Engineer, AGI](https://www.amazon.jobs/en/jobs/10569698/inference-engineer-agi) | amazon | US, CA, Sunnyvale | 0.5559 | 2026-10-05 |
-| [Network Development Engineer, ADC Networking](https://www.amazon.jobs/en/jobs/10568870/network-development-engineer-adc-networking) | amazon | US, VA, Arlington | 0.5542 | 2026-10-05 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569437/data-center-technician) | amazon | US, AZ, Mesa | 0.5520 | 2026-10-05 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569443/data-center-technician) | amazon | US, AZ, Mesa | 0.5515 | 2026-10-05 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569940/data-center-technician) | amazon | US, AZ, Glendales | 0.5489 | 2026-10-06 |
-| [Cloud Sales Representative](https://www.amazon.jobs/en/jobs/10569617/cloud-sales-representative) | amazon | US, VA, Arlington | 0.5472 | 2026-10-05 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569442/data-center-technician) | amazon | US, AZ, Glendale | 0.5467 | 2026-10-05 |
-| [Bus Development Manager, Scale Sales, CSC, CSC SMB ](https://www.amazon.jobs/en/jobs/10568950/bus-development-manager-scale-sales-csc-csc-smb) | amazon | US, VA, Arlington | 0.5462 | 2026-10-05 |
-| [DC Design Manager for Region (AMER), Data Center Engineering, DCDE - AMER](https://www.amazon.jobs/en/jobs/10569760/dc-design-manager-for-region-amer-data-center-engineering-dcde-amer) | amazon | US, TX, Austin | 0.5459 | 2026-10-05 |
-| [Engineering Operations Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569840/engineering-operations-technician-aws-support) | amazon | US, OR, Hermiston | 0.5441 | 2026-10-06 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569940/data-center-technician) | amazon | US, AZ, Glendales | 0.5609 | 2026-10-06 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10569979/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5588 | 2026-10-06 |
+| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10569948/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5579 | 2026-10-06 |
+| [Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure](https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure) | amazon | US, NY, New York | 0.5464 | 2026-10-06 |
+| [Engineering Operations Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569840/engineering-operations-technician-aws-support) | amazon | US, OR, Hermiston | 0.5458 | 2026-10-06 |
 | [UX Designer , GOEST (Global Operations Enterprise Services - Tech)](https://www.amazon.jobs/en/jobs/10571101/ux-designer-goest-global-operations-enterprise-services-tech) | amazon | US, TX, Austin | 0.5409 | 2026-10-06 |
-| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569952/infra-delivery-install-technician-aws-support) | amazon | US, MS, Ridgeland | 0.5398 | 2026-10-06 |
-| [Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure](https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure) | amazon | US, NY, New York | 0.5396 | 2026-10-06 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569444/data-center-technician) | amazon | US, AZ, Chandler | 0.5374 | 2026-10-05 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569438/data-center-technician) | amazon | US, AZ, Chandler | 0.5364 | 2026-10-05 |
+| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569981/infra-delivery-install-technician-aws-support) | amazon | US, MS, Ridgeland | 0.5398 | 2026-10-06 |
+| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569952/infra-delivery-install-technician-aws-support) | amazon | US, MS, Ridgeland | 0.5387 | 2026-10-06 |
+| [Senior Technical Program Manager, Data Center Engineering](https://www.amazon.jobs/en/jobs/10569983/senior-technical-program-manager-data-center-engineering) | amazon | US, WA, Seattle | 0.5372 | 2026-10-06 |
+| [Senior Financial Analyst, Transportation Technology & Services Finance](https://www.amazon.jobs/en/jobs/10571190/senior-financial-analyst-transportation-technology-services-finance) | amazon | US, TX, Irving | 0.5369 | 2026-10-07 |
+| [Sr. Category Sourcing Manager , Amazon Leo](https://www.amazon.jobs/en/jobs/10570486/sr-category-sourcing-manager-amazon-leo) | amazon | US, WA, Bellevue | 0.5334 | 2026-10-06 |
+| [Manager, Strategy and Capture, ALG](https://www.amazon.jobs/en/jobs/10571287/manager-strategy-and-capture-alg) | amazon | US, VA, Arlington | 0.5307 | 2026-10-07 |
+| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10569962/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5302 | 2026-10-06 |
+| [Analytics & AI Specialist Solutions Architect, AGS US Specialist SA](https://www.amazon.jobs/en/jobs/10571208/analytics-ai-specialist-solutions-architect-ags-us-specialist-sa) | amazon | US, CA, Cupertino | 0.5301 | 2026-10-07 |
+| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10569939/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5286 | 2026-10-06 |
+| [Engineering Operation Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569959/engineering-operation-technician-aws-support) | amazon | US, TX, Wink | 0.5276 | 2026-10-06 |
+| [CPI Data Center Project Manager, US-West CPI](https://www.amazon.jobs/en/jobs/10571105/cpi-data-center-project-manager-us-west-cpi) | amazon | US, OR, Boardman | 0.5170 | 2026-10-06 |
+| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569980/infra-delivery-install-technician-aws-support) | amazon | US, MS, Canton | 0.5163 | 2026-10-06 |
+| [Sr. Mechanical Product Engineer, Data Center Eng, MPS](https://www.amazon.jobs/en/jobs/10570690/sr-mechanical-product-engineer-data-center-eng-mps) | amazon | US, TX, Austin | 0.5159 | 2026-10-06 |
+| [Sr. Mechanical Product Engineer, Data Center Eng, MPS](https://www.amazon.jobs/en/jobs/10570956/sr-mechanical-product-engineer-data-center-eng-mps) | amazon | US, TX, Austin | 0.5159 | 2026-10-06 |
+| [Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)](https://www.amazon.jobs/en/jobs/10570569/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps) | amazon | US, TX, Austin | 0.5158 | 2026-10-06 |
 
 ## Companies tracked
 
