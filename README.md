@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist , Leo Customer Terminal](https://www.amazon.jobs/en/jobs/10569910/data-scientist-leo-customer-terminal) | amazon | US, WA, Redmond | 0.6622 | 2026-10-06 |
-| [Product Marketing Manager - Tech, AWS Observability](https://www.amazon.jobs/en/jobs/10571777/product-marketing-manager-tech-aws-observability) | amazon | US, CA, San Francisco | 0.6013 | 2026-10-07 |
-| [Applied Scientist III, AGI Responsible AI (RAI)](https://www.amazon.jobs/en/jobs/10571444/applied-scientist-iii-agi-responsible-ai-rai) | amazon | US, CA, Sunnyvale | 0.6013 | 2026-10-07 |
-| [Talent Intelligence Analyst, Global Specialty Recruiting](https://www.amazon.jobs/en/jobs/10569918/talent-intelligence-analyst-global-specialty-recruiting) | amazon | US, NY, New York | 0.5931 | 2026-10-06 |
-| [Clearable Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10570706/clearable-data-center-technician-adc-infraops-dco) | amazon | US, CO, Aurora | 0.5745 | 2026-10-06 |
+| [Product Marketing Manager - Tech, AWS Observability](https://www.amazon.jobs/en/jobs/10571777/product-marketing-manager-tech-aws-observability) | amazon | US, CA, San Francisco | 0.6125 | 2026-10-07 |
+| [Applied Scientist III, AGI Responsible AI (RAI)](https://www.amazon.jobs/en/jobs/10571444/applied-scientist-iii-agi-responsible-ai-rai) | amazon | US, CA, Sunnyvale | 0.6014 | 2026-10-07 |
+| [Data Center Nights Manager ](https://www.amazon.jobs/en/jobs/10571948/data-center-nights-manager) | amazon | US, NV, Sparks | 0.5875 | 2026-10-07 |
+| [Data Center Nights Manager ](https://www.amazon.jobs/en/jobs/10571952/data-center-nights-manager) | amazon | US, NV, Sparks | 0.5875 | 2026-10-07 |
+| [Business Intelligence Engineer I, SCOT-FO, TVP](https://www.amazon.jobs/en/jobs/10572791/business-intelligence-engineer-i-scot-fo-tvp) | amazon | US, TX, Austin | 0.5832 | 2026-10-08 |
 | [Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | amazon | US, WA, Redmond | 0.5685 | 2026-10-07 |
-| [Customer Experience Program Manager II](https://apply.careers.microsoft.com/careers/job/1970393557000021) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5666 | 2026-10-06 |
+| [Sr. Category Manager, Packaging, Global Procurement Operations (GPO)](https://www.amazon.jobs/en/jobs/10572774/sr-category-manager-packaging-global-procurement-operations-gpo) | amazon | US, CA, Irvine | 0.5682 | 2026-10-08 |
 | [Manager I, Data Center Operations, Data Center Operations](https://www.amazon.jobs/en/jobs/10572024/manager-i-data-center-operations-data-center-operations) | amazon | US, MD, Frederick | 0.5644 | 2026-10-07 |
-| [UX Designer , GOEST (Global Operations Enterprise Services - Tech)](https://www.amazon.jobs/en/jobs/10571101/ux-designer-goest-global-operations-enterprise-services-tech) | amazon | US, TX, Austin | 0.5634 | 2026-10-06 |
-| [Data Center Nights Manager ](https://www.amazon.jobs/en/jobs/10571948/data-center-nights-manager) | amazon | US, NV, Sparks | 0.5624 | 2026-10-07 |
-| [Data Center Nights Manager ](https://www.amazon.jobs/en/jobs/10571952/data-center-nights-manager) | amazon | US, NV, Sparks | 0.5624 | 2026-10-07 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10569948/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5579 | 2026-10-06 |
-| [Data Center Technician , DCC Communities ](https://www.amazon.jobs/en/jobs/10569979/data-center-technician-dcc-communities) | amazon | US, CA, Gilroy | 0.5579 | 2026-10-06 |
-| [Manager, Strategy and Capture, ALG](https://www.amazon.jobs/en/jobs/10571287/manager-strategy-and-capture-alg) | amazon | US, VA, Arlington | 0.5528 | 2026-10-07 |
 | [Startup Solutions Architect](https://www.amazon.jobs/en/jobs/10572259/startup-solutions-architect) | amazon | US, CA, San Francisco | 0.5526 | 2026-10-07 |
 | [Sr. Technical Program Manager, Amazon Leo](https://www.amazon.jobs/en/jobs/10572018/sr-technical-program-manager-amazon-leo) | amazon | US, WA, Bellevue | 0.5522 | 2026-10-07 |
 | [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10571788/finance-manager-ww-ops-finance-cf-support) | amazon | US, TN, Nashville | 0.5517 | 2026-10-07 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10569940/data-center-technician) | amazon | US, AZ, Glendales | 0.5486 | 2026-10-06 |
+| [Manager, Strategy and Capture, ALG](https://www.amazon.jobs/en/jobs/10571287/manager-strategy-and-capture-alg) | amazon | US, VA, Arlington | 0.5513 | 2026-10-07 |
 | [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10571800/finance-manager-ww-ops-finance-cf-support) | amazon | US, VA, Arlington | 0.5476 | 2026-10-07 |
 | [Applied Scientist, TSI Science](https://www.amazon.jobs/jobs/10570705/applied-scientist-tsi-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5473 | 2026-10-07 |
-| [Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure](https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure) | amazon | US, NY, New York | 0.5470 | 2026-10-06 |
-| [Engineering Operations Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569840/engineering-operations-technician-aws-support) | amazon | US, OR, Hermiston | 0.5464 | 2026-10-06 |
-| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569981/infra-delivery-install-technician-aws-support) | amazon | US, MS, Ridgeland | 0.5389 | 2026-10-06 |
-| [Infra Delivery Install Technician, AWS Support](https://www.amazon.jobs/en/jobs/10569952/infra-delivery-install-technician-aws-support) | amazon | US, MS, Ridgeland | 0.5386 | 2026-10-06 |
-| [Senior Technical Program Manager, Data Center Engineering](https://www.amazon.jobs/en/jobs/10569983/senior-technical-program-manager-data-center-engineering) | amazon | US, WA, Seattle | 0.5380 | 2026-10-06 |
+| [Senior Financial Analyst, Transportation Technology & Services Finance](https://www.amazon.jobs/en/jobs/10571190/senior-financial-analyst-transportation-technology-services-finance) | amazon | US, TX, Irving | 0.5425 | 2026-10-07 |
+| [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/en/jobs/10572356/applied-scientist-iii-amz10564141) | amazon | US, CA, Culver City | 0.5401 | 2026-10-08 |
+| [Network Deploy Technician , Global Network Delivery](https://www.amazon.jobs/en/jobs/10571221/network-deploy-technician-global-network-delivery) | amazon | US, OR, Umatilla | 0.5374 | 2026-10-07 |
+| [Account Based Marketing Manager, Energy & Utilities, AWS Industry Marketing, AWS Industry Marketing](https://www.amazon.jobs/en/jobs/10572347/account-based-marketing-manager-energy-utilities-aws-industry-marketing-aws-industry-marketing) | amazon | US, TX, Houston | 0.5372 | 2026-10-08 |
+| [Engineering Operation Technician, Data Center Engineering Operations (DCEO) - VAR](https://www.amazon.jobs/en/jobs/10571339/engineering-operation-technician-data-center-engineering-operations-dceo-var) | amazon | US, GA, Covington | 0.5369 | 2026-10-07 |
+| [Engineering Operation Technician, Data Center Engineering Operations (DCEO) - VAR](https://www.amazon.jobs/en/jobs/10571336/engineering-operation-technician-data-center-engineering-operations-dceo-var) | amazon | US, GA, Covington | 0.5369 | 2026-10-07 |
+| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10571801/finance-manager-ww-ops-finance-cf-support) | amazon | US, WA, Bellevue | 0.5353 | 2026-10-07 |
+| [Sr. Technical Program Manager, Planning, Amazon Ads Demand Tech](https://www.amazon.jobs/en/jobs/10572611/sr-technical-program-manager-planning-amazon-ads-demand-tech) | amazon | US, NY, New York | 0.5353 | 2026-10-08 |
+| [Senior Storage AI Specialist Solution Architect , AGS Specialist Solutions Architecture Team](https://www.amazon.jobs/en/jobs/10572171/senior-storage-ai-specialist-solution-architect-ags-specialist-solutions-architecture-team) | amazon | US, CA, Santa Clara | 0.5343 | 2026-10-07 |
+| [Finance Manager, WW Ops Finance - CF Support](https://www.amazon.jobs/en/jobs/10571798/finance-manager-ww-ops-finance-cf-support) | amazon | US, TX, Irving | 0.5320 | 2026-10-07 |
+| [Principal, HRBP, AWS PXT, Global Support](https://www.amazon.jobs/en/jobs/10572246/principal-hrbp-aws-pxt-global-support) | amazon | US, WA, Seattle | 0.5310 | 2026-10-07 |
 
 ## Companies tracked
 
