@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [BIE I - FBA Analytics, FBA Analytics](https://www.amazon.jobs/en/jobs/10573882/bie-i-fba-analytics-fba-analytics) | amazon | US, WA, Bellevue | 0.5931 | 2026-10-09 |
-| [Principal Datacenter Design Strategist](https://apply.careers.microsoft.com/careers/job/1970393557023076) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5907 | 2026-10-08 |
-| [Sr. Category Manager, Packaging, Global Procurement Operations (GPO)](https://www.amazon.jobs/en/jobs/10572774/sr-category-manager-packaging-global-procurement-operations-gpo) | amazon | US, CA, Irvine | 0.5891 | 2026-10-08 |
+| [Sr. Category Manager, Packaging, Global Procurement Operations (GPO)](https://www.amazon.jobs/en/jobs/10572774/sr-category-manager-packaging-global-procurement-operations-gpo) | amazon | US, CA, Irvine | 0.5896 | 2026-10-08 |
+| [Principal Datacenter Design Strategist](https://apply.careers.microsoft.com/careers/job/1970393557023076) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5877 | 2026-10-08 |
 | [Applied Scientist, Machine Learning Accelerator - Annapurna Labs](https://www.amazon.jobs/en/jobs/10573806/applied-scientist-machine-learning-accelerator-annapurna-labs) | amazon | US, MA, Boston | 0.5831 | 2026-10-08 |
-| [Business Intelligence Engineer I, SCOT-FO, TVP](https://www.amazon.jobs/en/jobs/10572791/business-intelligence-engineer-i-scot-fo-tvp) | amazon | US, TX, Austin | 0.5718 | 2026-10-08 |
-| [Senior Financial Analyst - Prime, Global Prime Finance](https://www.amazon.jobs/en/jobs/10573822/senior-financial-analyst-prime-global-prime-finance) | amazon | US, WA, Seattle | 0.5682 | 2026-10-08 |
+| [Business Intelligence Engineer I, SCOT-FO, TVP](https://www.amazon.jobs/en/jobs/10572791/business-intelligence-engineer-i-scot-fo-tvp) | amazon | US, TX, Austin | 0.5728 | 2026-10-08 |
+| [Senior Financial Analyst - Prime, Global Prime Finance](https://www.amazon.jobs/en/jobs/10573822/senior-financial-analyst-prime-global-prime-finance) | amazon | US, WA, Seattle | 0.5681 | 2026-10-08 |
 | [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/jobs/10572356/applied-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Culver City | 0.5658 | 2026-10-08 |
-| [Sr. Technical Program Manager, Planning, Amazon Ads Demand Tech](https://www.amazon.jobs/en/jobs/10572611/sr-technical-program-manager-planning-amazon-ads-demand-tech) | amazon | US, NY, New York | 0.5637 | 2026-10-08 |
-| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10572553/senior-go-to-market-lead-namer-go-to-market) | amazon | US, IL, Chicago | 0.5633 | 2026-10-08 |
-| [Account Based Marketing Manager, Energy & Utilities, AWS Industry Marketing, AWS Industry Marketing](https://www.amazon.jobs/en/jobs/10572347/account-based-marketing-manager-energy-utilities-aws-industry-marketing-aws-industry-marketing) | amazon | US, TX, Houston | 0.5585 | 2026-10-08 |
-| [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/en/jobs/10572356/applied-scientist-iii-amz10564141) | amazon | US, CA, Culver City | 0.5451 | 2026-10-08 |
+| [Sr. Technical Program Manager, Planning, Amazon Ads Demand Tech](https://www.amazon.jobs/en/jobs/10572611/sr-technical-program-manager-planning-amazon-ads-demand-tech) | amazon | US, NY, New York | 0.5645 | 2026-10-08 |
+| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10572553/senior-go-to-market-lead-namer-go-to-market) | amazon | US, IL, Chicago | 0.5542 | 2026-10-08 |
+| [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/en/jobs/10572356/applied-scientist-iii-amz10564141) | amazon | US, CA, Culver City | 0.5481 | 2026-10-08 |
+| [Account Based Marketing Manager, Energy & Utilities, AWS Industry Marketing, AWS Industry Marketing](https://www.amazon.jobs/en/jobs/10572347/account-based-marketing-manager-energy-utilities-aws-industry-marketing-aws-industry-marketing) | amazon | US, TX, Houston | 0.5473 | 2026-10-08 |
 | [GND - GPO TIPM III, Global Network Deployment](https://www.amazon.jobs/en/jobs/10573467/gnd-gpo-tipm-iii-global-network-deployment) | amazon | US, VA, Herndon | 0.5407 | 2026-10-08 |
-| [Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.amazon.jobs/en/jobs/10573211/cloud-technical-account-manager-aws-enterprise-support-strategic-industries) | amazon | US, CA, Sunnyvale | 0.5402 | 2026-10-08 |
-| [Principal, Corporate Development](https://www.amazon.jobs/en/jobs/10572903/principal-corporate-development) | amazon | US, MA, Boston | 0.5336 | 2026-10-08 |
-| [Technical Program Manager III - AMZ10237159](https://www.amazon.jobs/en/jobs/10572327/technical-program-manager-iii-amz10237159) | amazon | US, WA, Seattle | 0.5323 | 2026-10-08 |
-| [Network Deploy Technician , Global Network Delivery](https://www.amazon.jobs/en/jobs/10572760/network-deploy-technician-global-network-delivery) | amazon | US, OR, Umatilla | 0.5311 | 2026-10-08 |
+| [Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.amazon.jobs/en/jobs/10573211/cloud-technical-account-manager-aws-enterprise-support-strategic-industries) | amazon | US, CA, Sunnyvale | 0.5403 | 2026-10-08 |
+| [Principal, Corporate Development](https://www.amazon.jobs/en/jobs/10572903/principal-corporate-development) | amazon | US, MA, Boston | 0.5342 | 2026-10-08 |
+| [Technical Program Manager III - AMZ10237159](https://www.amazon.jobs/en/jobs/10572327/technical-program-manager-iii-amz10237159) | amazon | US, WA, Seattle | 0.5325 | 2026-10-08 |
+| [Network Deploy Technician , Global Network Delivery](https://www.amazon.jobs/en/jobs/10572760/network-deploy-technician-global-network-delivery) | amazon | US, OR, Umatilla | 0.5301 | 2026-10-08 |
+| [Business Intelligence Engineer II, Amazon Leo, Amazon LEO](https://www.amazon.jobs/en/jobs/10574266/business-intelligence-engineer-ii-amazon-leo-amazon-leo) | amazon | US, WA, Redmond | 0.5286 | 2026-10-09 |
 | [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10574133/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Houston | 0.5272 | 2026-10-09 |
-| [Robotics Systems Engineer I, Robotics Delivery & Packaging Innovations (RDPI) Technology Deployment](https://www.amazon.jobs/en/jobs/10572744/robotics-systems-engineer-i-robotics-delivery-packaging-innovations-rdpi-technology-deployment) | amazon | US, MA, N.reading | 0.5271 | 2026-10-08 |
+| [Robotics Systems Engineer I, Robotics Delivery & Packaging Innovations (RDPI) Technology Deployment](https://www.amazon.jobs/en/jobs/10572744/robotics-systems-engineer-i-robotics-delivery-packaging-innovations-rdpi-technology-deployment) | amazon | US, MA, N.reading | 0.5265 | 2026-10-08 |
 | [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5217 | 2026-10-09 |
 | [Software Development Manager, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5173 | 2026-10-09 |
 | [Sr. Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573900/sr-software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5161 | 2026-10-09 |
-| [Network Cable Installation Technician, Infra - GND](https://www.amazon.jobs/en/jobs/10573955/network-cable-installation-technician-infra-gnd) | amazon | US, VA, Chantilly | 0.5146 | 2026-10-09 |
 | [Software Development Engineer, AWS Central SDE Team](https://www.amazon.jobs/en/jobs/10573324/software-development-engineer-aws-central-sde-team) | amazon | US, WA, Seattle | 0.5133 | 2026-10-08 |
+| [Network Cable Installation Technician, Infra - GND](https://www.amazon.jobs/en/jobs/10573955/network-cable-installation-technician-infra-gnd) | amazon | US, VA, Chantilly | 0.5124 | 2026-10-09 |
 | [ICT Colocation Engineer, Colo Regional Engineering - AMER](https://www.amazon.jobs/en/jobs/10573751/ict-colocation-engineer-colo-regional-engineering-amer) | amazon | US, AZ, Mesa | 0.5123 | 2026-10-08 |
-| [Product Designer, AWS Events Tech Team & Marketer Experience](https://www.amazon.jobs/en/jobs/10573830/product-designer-aws-events-tech-team-marketer-experience) | amazon | US, NY, New York | 0.5095 | 2026-10-09 |
 
 ## Companies tracked
 
