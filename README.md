@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Data Scientist II - AMZ10564056](https://www.amazon.jobs/en/jobs/10574837/data-scientist-ii-amz10564056) | amazon | US, CA, Culver City | 0.6238 | 2026-10-09 |
-| [BIE I - FBA Analytics, FBA Analytics](https://www.amazon.jobs/en/jobs/10573882/bie-i-fba-analytics-fba-analytics) | amazon | US, WA, Bellevue | 0.5803 | 2026-10-09 |
-| [Data Scientist II - AMZ10564056](https://www.amazon.jobs/jobs/10574837/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Culver City | 0.5803 | 2026-10-10 |
+| [BIE I - FBA Analytics, FBA Analytics](https://www.amazon.jobs/en/jobs/10573882/bie-i-fba-analytics-fba-analytics) | amazon | US, WA, Bellevue | 0.5802 | 2026-10-09 |
 | [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/en/jobs/10575244/applied-scientist-manager-marketplace-intelligence) | amazon | US, VA, Arlington | 0.5722 | 2026-10-10 |
+| [Data Scientist II - AMZ10564056](https://www.amazon.jobs/jobs/10574837/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Culver City | 0.5676 | 2026-10-10 |
 | [Senior Agentic WorkSpaces Specialist, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10574939/senior-agentic-workspaces-specialist-applied-ai-solutions) | amazon | US, NY, New York | 0.5534 | 2026-10-09 |
-| [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/jobs/10575244/applied-scientist-manager-marketplace-intelligence?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5528 | 2026-10-10 |
 | [Data Engineer, Product](https://job-boards.greenhouse.io/anthropic/jobs/5448481008) | anthropic | San Francisco, CA | 0.5494 | 2026-10-09 |
-| [Sr. Physical Design Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10574284/sr-physical-design-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5449 | 2026-10-09 |
-| [Business Intelligence Engineer II, Amazon Leo, Amazon LEO](https://www.amazon.jobs/en/jobs/10574266/business-intelligence-engineer-ii-amazon-leo-amazon-leo) | amazon | US, WA, Redmond | 0.5391 | 2026-10-09 |
-| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10574133/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Houston | 0.5380 | 2026-10-09 |
+| [Sr. Physical Design Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10574284/sr-physical-design-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5447 | 2026-10-09 |
+| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10574133/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Houston | 0.5381 | 2026-10-09 |
+| [Data Engineer, Accounting](https://www.amazon.jobs/en/jobs/10574968/data-engineer-accounting) | amazon | US, VA, Arlington | 0.5380 | 2026-10-09 |
 | [Solutions Architecture Manager, Software and Technology Solutions Architecture](https://www.amazon.jobs/en/jobs/10575306/solutions-architecture-manager-software-and-technology-solutions-architecture) | amazon | US, CA, San Francisco | 0.5356 | 2026-10-10 |
+| [Business Intelligence Engineer II, Amazon Leo, Amazon LEO](https://www.amazon.jobs/en/jobs/10574266/business-intelligence-engineer-ii-amazon-leo-amazon-leo) | amazon | US, WA, Redmond | 0.5337 | 2026-10-09 |
 | [Project Engineer, Data Center Construction](https://www.amazon.jobs/en/jobs/10575079/project-engineer-data-center-construction) | amazon | US, OR, Boardman | 0.5331 | 2026-10-10 |
 | [Support Engineer, High Touch Support](https://www.amazon.jobs/en/jobs/10575160/support-engineer-high-touch-support) | amazon | US, WA, Bellevue | 0.5324 | 2026-10-10 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10574995/data-center-technician) | amazon | US, OR, Hermiston | 0.5313 | 2026-10-09 |
-| [Data Engineer, Accounting](https://www.amazon.jobs/en/jobs/10574968/data-engineer-accounting) | amazon | US, VA, Arlington | 0.5303 | 2026-10-09 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10574995/data-center-technician) | amazon | US, OR, Hermiston | 0.5307 | 2026-10-09 |
 | [SAP Consultant, Professional Services - SAP ](https://www.amazon.jobs/en/jobs/10574947/sap-consultant-professional-services-sap) | amazon | US, TX, Dallas | 0.5301 | 2026-10-09 |
 | [Clearable Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10574750/clearable-network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, CO, Broomfield | 0.5277 | 2026-10-09 |
+| [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/jobs/10575244/applied-scientist-manager-marketplace-intelligence?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5251 | 2026-10-10 |
 | [Clearable Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10574751/clearable-network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, CO, Broomfield | 0.5251 | 2026-10-09 |
-| [Sr. Manufacturing Engineer - Process Quality, Hardware Engineering - Manufacturing](https://www.amazon.jobs/en/jobs/10574156/sr-manufacturing-engineer-process-quality-hardware-engineering-manufacturing) | amazon | US, KY, Florence | 0.5229 | 2026-10-09 |
-| [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5220 | 2026-10-09 |
+| [Sr. Manufacturing Engineer - Process Quality, Hardware Engineering - Manufacturing](https://www.amazon.jobs/en/jobs/10574156/sr-manufacturing-engineer-process-quality-hardware-engineering-manufacturing) | amazon | US, KY, Florence | 0.5246 | 2026-10-09 |
+| [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5244 | 2026-10-09 |
 | [Data Center Chief Engineer ](https://www.amazon.jobs/en/jobs/10574842/data-center-chief-engineer) | amazon | US, OH, Jeffersonville | 0.5215 | 2026-10-09 |
-| [Product Designer, AWS Events Tech Team & Marketer Experience](https://www.amazon.jobs/en/jobs/10573830/product-designer-aws-events-tech-team-marketer-experience) | amazon | US, NY, New York | 0.5213 | 2026-10-09 |
-| [Sr. Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573900/sr-software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5141 | 2026-10-09 |
+| [Sr. Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573900/sr-software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5149 | 2026-10-09 |
+| [Product Designer, AWS Events Tech Team & Marketer Experience](https://www.amazon.jobs/en/jobs/10573830/product-designer-aws-events-tech-team-marketer-experience) | amazon | US, NY, New York | 0.5142 | 2026-10-09 |
 | [Network Cable Installation Technician, Infra - GND](https://www.amazon.jobs/en/jobs/10573955/network-cable-installation-technician-infra-gnd) | amazon | US, VA, Chantilly | 0.5129 | 2026-10-09 |
-| [Software Development Manager, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5097 | 2026-10-09 |
+| [Software Development Manager, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5062 | 2026-10-09 |
 
 ## Companies tracked
 
