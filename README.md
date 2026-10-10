@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Data Scientist II - AMZ10564056](https://www.amazon.jobs/en/jobs/10574837/data-scientist-ii-amz10564056) | amazon | US, CA, Culver City | 0.6238 | 2026-10-09 |
-| [BIE I - FBA Analytics, FBA Analytics](https://www.amazon.jobs/en/jobs/10573882/bie-i-fba-analytics-fba-analytics) | amazon | US, WA, Bellevue | 0.5931 | 2026-10-09 |
-| [Sr. Category Manager, Packaging, Global Procurement Operations (GPO)](https://www.amazon.jobs/en/jobs/10572774/sr-category-manager-packaging-global-procurement-operations-gpo) | amazon | US, CA, Irvine | 0.5896 | 2026-10-08 |
-| [Principal Datacenter Design Strategist](https://apply.careers.microsoft.com/careers/job/1970393557023076) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5838 | 2026-10-08 |
-| [Applied Scientist, Machine Learning Accelerator - Annapurna Labs](https://www.amazon.jobs/en/jobs/10573806/applied-scientist-machine-learning-accelerator-annapurna-labs) | amazon | US, MA, Boston | 0.5831 | 2026-10-08 |
-| [Business Intelligence Engineer I, SCOT-FO, TVP](https://www.amazon.jobs/en/jobs/10572791/business-intelligence-engineer-i-scot-fo-tvp) | amazon | US, TX, Austin | 0.5742 | 2026-10-08 |
-| [Senior Financial Analyst - Prime, Global Prime Finance](https://www.amazon.jobs/en/jobs/10573822/senior-financial-analyst-prime-global-prime-finance) | amazon | US, WA, Seattle | 0.5673 | 2026-10-08 |
-| [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/jobs/10572356/applied-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Culver City | 0.5658 | 2026-10-08 |
-| [Sr. Technical Program Manager, Planning, Amazon Ads Demand Tech](https://www.amazon.jobs/en/jobs/10572611/sr-technical-program-manager-planning-amazon-ads-demand-tech) | amazon | US, NY, New York | 0.5639 | 2026-10-08 |
-| [Account Based Marketing Manager, Energy & Utilities, AWS Industry Marketing, AWS Industry Marketing](https://www.amazon.jobs/en/jobs/10572347/account-based-marketing-manager-energy-utilities-aws-industry-marketing-aws-industry-marketing) | amazon | US, TX, Houston | 0.5582 | 2026-10-08 |
+| [BIE I - FBA Analytics, FBA Analytics](https://www.amazon.jobs/en/jobs/10573882/bie-i-fba-analytics-fba-analytics) | amazon | US, WA, Bellevue | 0.5819 | 2026-10-09 |
+| [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/en/jobs/10575244/applied-scientist-manager-marketplace-intelligence) | amazon | US, VA, Arlington | 0.5722 | 2026-10-10 |
+| [Senior Agentic WorkSpaces Specialist, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10574939/senior-agentic-workspaces-specialist-applied-ai-solutions) | amazon | US, NY, New York | 0.5543 | 2026-10-09 |
 | [Data Engineer, Product](https://job-boards.greenhouse.io/anthropic/jobs/5448481008) | anthropic | San Francisco, CA | 0.5494 | 2026-10-09 |
-| [Senior Go-to-Market Lead, NAMER Go-to-Market ](https://www.amazon.jobs/en/jobs/10572553/senior-go-to-market-lead-namer-go-to-market) | amazon | US, IL, Chicago | 0.5490 | 2026-10-08 |
-| [Senior Agentic WorkSpaces Specialist, Applied AI Solutions](https://www.amazon.jobs/en/jobs/10574939/senior-agentic-workspaces-specialist-applied-ai-solutions) | amazon | US, NY, New York | 0.5469 | 2026-10-09 |
-| [GND - GPO TIPM III, Global Network Deployment](https://www.amazon.jobs/en/jobs/10573467/gnd-gpo-tipm-iii-global-network-deployment) | amazon | US, VA, Herndon | 0.5452 | 2026-10-08 |
-| [Applied Scientist III - AMZ10564141](https://www.amazon.jobs/en/jobs/10572356/applied-scientist-iii-amz10564141) | amazon | US, CA, Culver City | 0.5440 | 2026-10-08 |
-| [Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.amazon.jobs/en/jobs/10573211/cloud-technical-account-manager-aws-enterprise-support-strategic-industries) | amazon | US, CA, Sunnyvale | 0.5401 | 2026-10-08 |
-| [Software Development Engineer, AWS Central SDE Team](https://www.amazon.jobs/en/jobs/10573324/software-development-engineer-aws-central-sde-team) | amazon | US, WA, Seattle | 0.5356 | 2026-10-08 |
-| [Technical Program Manager III - AMZ10237159](https://www.amazon.jobs/en/jobs/10572327/technical-program-manager-iii-amz10237159) | amazon | US, WA, Seattle | 0.5333 | 2026-10-08 |
-| [Principal, Corporate Development](https://www.amazon.jobs/en/jobs/10572903/principal-corporate-development) | amazon | US, MA, Boston | 0.5326 | 2026-10-08 |
-| [Network Deploy Technician , Global Network Delivery](https://www.amazon.jobs/en/jobs/10572760/network-deploy-technician-global-network-delivery) | amazon | US, OR, Umatilla | 0.5315 | 2026-10-08 |
+| [Sr. Physical Design Engineer, Annapurna Labs](https://www.amazon.jobs/en/jobs/10574284/sr-physical-design-engineer-annapurna-labs) | amazon | US, CA, Cupertino | 0.5460 | 2026-10-09 |
+| [Data Engineer, Accounting](https://www.amazon.jobs/en/jobs/10574968/data-engineer-accounting) | amazon | US, VA, Arlington | 0.5411 | 2026-10-09 |
+| [Business Intelligence Engineer II, Amazon Leo, Amazon LEO](https://www.amazon.jobs/en/jobs/10574266/business-intelligence-engineer-ii-amazon-leo-amazon-leo) | amazon | US, WA, Redmond | 0.5396 | 2026-10-09 |
+| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10574133/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Houston | 0.5392 | 2026-10-09 |
+| [Solutions Architecture Manager, Software and Technology Solutions Architecture](https://www.amazon.jobs/en/jobs/10575306/solutions-architecture-manager-software-and-technology-solutions-architecture) | amazon | US, CA, San Francisco | 0.5356 | 2026-10-10 |
+| [Project Engineer, Data Center Construction](https://www.amazon.jobs/en/jobs/10575079/project-engineer-data-center-construction) | amazon | US, OR, Boardman | 0.5331 | 2026-10-10 |
+| [Support Engineer, High Touch Support](https://www.amazon.jobs/en/jobs/10575160/support-engineer-high-touch-support) | amazon | US, WA, Bellevue | 0.5324 | 2026-10-10 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10574995/data-center-technician) | amazon | US, OR, Hermiston | 0.5316 | 2026-10-09 |
 | [SAP Consultant, Professional Services - SAP ](https://www.amazon.jobs/en/jobs/10574947/sap-consultant-professional-services-sap) | amazon | US, TX, Dallas | 0.5301 | 2026-10-09 |
-| [Business Intelligence Engineer II, Amazon Leo, Amazon LEO](https://www.amazon.jobs/en/jobs/10574266/business-intelligence-engineer-ii-amazon-leo-amazon-leo) | amazon | US, WA, Redmond | 0.5286 | 2026-10-09 |
 | [Clearable Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10574750/clearable-network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, CO, Broomfield | 0.5277 | 2026-10-09 |
-| [Engagement Manager, Professional Services, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10574133/engagement-manager-professional-services-aws-strategic-industries) | amazon | US, TX, Houston | 0.5272 | 2026-10-09 |
 | [Clearable Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10574751/clearable-network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | amazon | US, CO, Broomfield | 0.5251 | 2026-10-09 |
+| [Sr. Manufacturing Engineer - Process Quality, Hardware Engineering - Manufacturing](https://www.amazon.jobs/en/jobs/10574156/sr-manufacturing-engineer-process-quality-hardware-engineering-manufacturing) | amazon | US, KY, Florence | 0.5244 | 2026-10-09 |
+| [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5222 | 2026-10-09 |
+| [Data Center Chief Engineer ](https://www.amazon.jobs/en/jobs/10574842/data-center-chief-engineer) | amazon | US, OH, Jeffersonville | 0.5215 | 2026-10-09 |
+| [Product Designer, AWS Events Tech Team & Marketer Experience](https://www.amazon.jobs/en/jobs/10573830/product-designer-aws-events-tech-team-marketer-experience) | amazon | US, NY, New York | 0.5200 | 2026-10-09 |
+| [Network Cable Installation Technician, Infra - GND](https://www.amazon.jobs/en/jobs/10573955/network-cable-installation-technician-infra-gnd) | amazon | US, VA, Chantilly | 0.5129 | 2026-10-09 |
+| [Sr. Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573900/sr-software-development-engineer-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5122 | 2026-10-09 |
+| [Software Development Manager, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs) | amazon | US, WA, Seattle | 0.5069 | 2026-10-09 |
+| [Manager II, Network Depl. Eng, ADC NIDD](https://www.amazon.jobs/en/jobs/10575015/manager-ii-network-depl-eng-adc-nidd) | amazon | US, OH, Plain City | 0.5061 | 2026-10-09 |
+| [Front-End Engineer](https://www.amazon.jobs/en/jobs/10573988/front-end-engineer) | amazon | US, WA, Seattle | 0.5039 | 2026-10-09 |
 
 ## Companies tracked
 
