@@ -21,19 +21,19 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Support Engineer, High Touch Support](https://www.amazon.jobs/en/jobs/10575160/support-engineer-high-touch-support) | amazon | US, WA, Bellevue | 0.5324 | 2026-10-10 |
 | [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/jobs/10575244/applied-scientist-manager-marketplace-intelligence?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5255 | 2026-10-10 |
 | [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5117 | 2026-10-11 |
-| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5067 | 2026-10-11 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556957800) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5025 | 2026-10-10 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556749366) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4990 | 2026-10-10 |
-| [Senior Software Engineer - Azure Compute Next Gen Platform](https://apply.careers.microsoft.com/careers/job/1970393557024859) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4877 | 2026-10-10 |
+| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5061 | 2026-10-11 |
+| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556957800) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5049 | 2026-10-10 |
+| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556749366) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4999 | 2026-10-10 |
+| [Senior Software Engineer - Azure Compute Next Gen Platform](https://apply.careers.microsoft.com/careers/job/1970393557024859) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4923 | 2026-10-10 |
+| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027422) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4865 | 2026-10-10 |
 | [Business Analyst Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) | amazon | US, WA, Bellevue | 0.4860 | 2026-10-10 |
 | [Senior Program Manager, APM Video](https://www.amazon.jobs/en/jobs/10575227/senior-program-manager-apm-video) | amazon | US, TX, Austin | 0.4858 | 2026-10-10 |
-| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027422) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4847 | 2026-10-10 |
 | [Software Development Engineer , Cryptography and Identity Management](https://www.amazon.jobs/en/jobs/10575067/software-development-engineer-cryptography-and-identity-management) | amazon | US, WA, Seattle | 0.4830 | 2026-10-10 |
-| [Principal Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556956535) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4825 | 2026-10-10 |
-| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4800 | 2026-10-11 |
-| [Sr. TIPM, Data Center Network Build, BaND](https://www.amazon.jobs/en/jobs/10575081/sr-tipm-data-center-network-build-band) | amazon | US, VA, Herndon | 0.4798 | 2026-10-10 |
 | [Sr. TIPM, Data Center Network Build, BaND](https://www.amazon.jobs/en/jobs/10575095/sr-tipm-data-center-network-build-band) | amazon | US, VA, Herndon | 0.4798 | 2026-10-10 |
+| [Sr. TIPM, Data Center Network Build, BaND](https://www.amazon.jobs/en/jobs/10575081/sr-tipm-data-center-network-build-band) | amazon | US, VA, Herndon | 0.4798 | 2026-10-10 |
+| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4780 | 2026-10-11 |
 | [Software Development Engineer](https://www.amazon.jobs/en/jobs/10575340/software-development-engineer) | amazon | US, WA, Seattle | 0.4764 | 2026-10-10 |
+| [Principal Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556956535) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4759 | 2026-10-10 |
 | [General Marketing Specialist Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027) | amazon | US, WA, Seattle | 0.4671 | 2026-10-10 |
 | [Supply Chain Manager Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) | amazon | US, WA, Seattle | 0.4665 | 2026-10-10 |
 | [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10575080/infra-delivery-install-technician) | amazon | US, VA, Manassas | 0.4658 | 2026-10-10 |
