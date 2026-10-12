@@ -14,31 +14,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/en/jobs/10575244/applied-scientist-manager-marketplace-intelligence) | amazon | US, VA, Arlington | 0.5722 | 2026-10-10 |
-| [Data Scientist II - AMZ10564056](https://www.amazon.jobs/jobs/10574837/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Culver City | 0.5673 | 2026-10-10 |
-| [Solutions Architecture Manager, Software and Technology Solutions Architecture](https://www.amazon.jobs/en/jobs/10575306/solutions-architecture-manager-software-and-technology-solutions-architecture) | amazon | US, CA, San Francisco | 0.5356 | 2026-10-10 |
-| [Project Engineer, Data Center Construction](https://www.amazon.jobs/en/jobs/10575079/project-engineer-data-center-construction) | amazon | US, OR, Boardman | 0.5331 | 2026-10-10 |
-| [Support Engineer, High Touch Support](https://www.amazon.jobs/en/jobs/10575160/support-engineer-high-touch-support) | amazon | US, WA, Bellevue | 0.5324 | 2026-10-10 |
-| [Applied Scientist Manager, Marketplace Intelligence](https://www.amazon.jobs/jobs/10575244/applied-scientist-manager-marketplace-intelligence?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.5255 | 2026-10-10 |
 | [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5117 | 2026-10-11 |
-| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5061 | 2026-10-11 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556957800) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5049 | 2026-10-10 |
-| [Principal Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393556749366) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4999 | 2026-10-10 |
-| [Senior Software Engineer - Azure Compute Next Gen Platform](https://apply.careers.microsoft.com/careers/job/1970393557024859) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4923 | 2026-10-10 |
-| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027422) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4865 | 2026-10-10 |
-| [Business Analyst Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) | amazon | US, WA, Bellevue | 0.4860 | 2026-10-10 |
-| [Senior Program Manager, APM Video](https://www.amazon.jobs/en/jobs/10575227/senior-program-manager-apm-video) | amazon | US, TX, Austin | 0.4858 | 2026-10-10 |
-| [Software Development Engineer , Cryptography and Identity Management](https://www.amazon.jobs/en/jobs/10575067/software-development-engineer-cryptography-and-identity-management) | amazon | US, WA, Seattle | 0.4830 | 2026-10-10 |
-| [Sr. TIPM, Data Center Network Build, BaND](https://www.amazon.jobs/en/jobs/10575095/sr-tipm-data-center-network-build-band) | amazon | US, VA, Herndon | 0.4798 | 2026-10-10 |
-| [Sr. TIPM, Data Center Network Build, BaND](https://www.amazon.jobs/en/jobs/10575081/sr-tipm-data-center-network-build-band) | amazon | US, VA, Herndon | 0.4798 | 2026-10-10 |
-| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4780 | 2026-10-11 |
-| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10575340/software-development-engineer) | amazon | US, WA, Seattle | 0.4764 | 2026-10-10 |
-| [Principal Product Manager](https://apply.careers.microsoft.com/careers/job/1970393556956535) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4759 | 2026-10-10 |
-| [General Marketing Specialist Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027) | amazon | US, WA, Seattle | 0.4671 | 2026-10-10 |
-| [Supply Chain Manager Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) | amazon | US, WA, Seattle | 0.4665 | 2026-10-10 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10575080/infra-delivery-install-technician) | amazon | US, VA, Manassas | 0.4658 | 2026-10-10 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10575290/infra-delivery-install-technician) | amazon | US, VA, Ashburn | 0.4614 | 2026-10-10 |
-| [Infra Delivery Install Technician](https://www.amazon.jobs/en/jobs/10575285/infra-delivery-install-technician) | amazon | US, VA, Aldie | 0.4607 | 2026-10-10 |
+| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5052 | 2026-10-11 |
+| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4799 | 2026-10-11 |
+| [Principal Software Engineer - AI Systems Observability](https://apply.careers.microsoft.com/careers/job/1970393557007452) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4444 | 2026-10-11 |
+| [Integrated Business Planner](https://apply.careers.microsoft.com/careers/job/1970393557023130) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4386 | 2026-10-11 |
+| [Security Threat Protection Programs Lead](https://apply.careers.microsoft.com/careers/job/1970393557026863) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4295 | 2026-10-11 |
+| [Senior Software Engineer, AI Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812) | nvidia | US, TX, Austin; US, CA, Santa Clara | 0.4111 | 2026-10-12 |
+| [Principal Design Engineer, Interactive Graphics, Copilot](https://apply.careers.microsoft.com/careers/job/1970393557025843) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4098 | 2026-10-11 |
+| [Software Engineer, DL Kernel Libraries - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | nvidia | US, CA, Santa Clara | 0.4091 | 2026-10-12 |
+| [Senior Circuit Timing Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4011 | 2026-10-12 |
+| [Senior Hardware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557024794) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4000 | 2026-10-11 |
+| [Technical Product Manager - Enterprise Products](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549) | nvidia | US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote | 0.3893 | 2026-10-12 |
+| [Human Factors Engineer-ARC](https://jobs.apple.com/en-us/details/200688368-0836/human-factors-engineer-arc?team=HRDWR) | apple | nan | 0.3423 | 2026-10-11 |
+| [Software Engineer - Fleet Management & Repair Automation](https://www.metacareers.com/profile/job_details/1125521820153840) | meta | London, UK | 0.3230 | 2026-10-11 |
+| [Software Engineer, Product](https://www.metacareers.com/profile/job_details/1981788412485869) | meta | London, UK | 0.3210 | 2026-10-11 |
+| [Software Engineer, Wearables Interfaces Engineering](https://www.metacareers.com/profile/job_details/2010980536447079) | meta | Redmond, WA | 0.3158 | 2026-10-11 |
+| [Senior DTCO Engineer, CPU Physical Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716) | nvidia | US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham | 0.3057 | 2026-10-12 |
+| [Software Engineer, Multimedia & Multimodal AI](https://www.metacareers.com/profile/job_details/1556935935696387) | meta | Menlo Park, CA | 0.2883 | 2026-10-11 |
+| [ASIC Engineer, Performance Architecture and Modeling](https://www.metacareers.com/profile/job_details/1508340500461438) | meta | Sunnyvale, CA | 0.2821 | 2026-10-11 |
+| [Product Manager, Core Ads Quality](https://www.metacareers.com/profile/job_details/1103207882176191) | meta | London, UK | 0.2732 | 2026-10-11 |
+| [Product Manager, Identity](https://www.metacareers.com/profile/job_details/3052290235108380) | meta | London, UK | 0.2272 | 2026-10-11 |
+| [Graphics Software Engineer](https://jobs.apple.com/en-us/details/200688305-0157/graphics-software-engineer?team=HRDWR) | apple | nan | 0.2247 | 2026-10-11 |
+| [Connectivity Integration Lead](https://www.metacareers.com/profile/job_details/1379555217714628) | meta | New Albany, OH | 0.2136 | 2026-10-11 |
+| [Product Manager, Growth Platforms](https://www.metacareers.com/profile/job_details/2697455420705628) | meta | Tel Aviv, Israel | 0.1761 | 2026-10-11 |
 
 ## Companies tracked
 
