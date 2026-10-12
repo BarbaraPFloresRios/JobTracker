@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5272 | 2026-10-11 |
+| [Systems Development Engineer, Analytics ADC](https://www.amazon.jobs/en/jobs/10575807/systems-development-engineer-analytics-adc) | amazon | US, CO, Denver | 0.5891 | 2026-10-12 |
+| [Software Dev Engineer, Prime Video Personalization & Discovery ](https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) | amazon | US, NY, New York | 0.5738 | 2026-10-12 |
+| [Category Manager, GPO Tech Category](https://www.amazon.jobs/en/jobs/10576077/category-manager-gpo-tech-category) | amazon | US, TX, Austin | 0.5521 | 2026-10-12 |
+| [Network Deployment Technician, GND-NASA-Deploy](https://www.amazon.jobs/en/jobs/10576323/network-deployment-technician-gnd-nasa-deploy) | amazon | US, TX, Dallas | 0.5481 | 2026-10-12 |
 | [HR Partner, Human Resources, NACF](https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf) | amazon | US, NY, Liverpool | 0.5230 | 2026-10-12 |
-| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5070 | 2026-10-11 |
-| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4789 | 2026-10-11 |
-| [Integrated Business Planner](https://apply.careers.microsoft.com/careers/job/1970393557023130) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4575 | 2026-10-11 |
-| [Principal Software Engineer - AI Systems Observability](https://apply.careers.microsoft.com/careers/job/1970393557007452) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4452 | 2026-10-11 |
-| [Data Scientist, Product](https://www.metacareers.com/profile/job_details/4374182922893050) | meta | Bangalore, India | 0.4433 | 2026-10-12 |
-| [Senior Hardware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557024794) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4356 | 2026-10-11 |
-| [Principal Design Engineer, Interactive Graphics, Copilot](https://apply.careers.microsoft.com/careers/job/1970393557025843) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4354 | 2026-10-11 |
-| [Security Threat Protection Programs Lead](https://apply.careers.microsoft.com/careers/job/1970393557026863) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4264 | 2026-10-11 |
-| [Senior Software Engineer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU_JR2027781) | nvidia | US, CA, Santa Clara | 0.4154 | 2026-10-12 |
-| [Senior Software Engineer, AI Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812) | nvidia | US, TX, Austin; US, CA, Santa Clara | 0.4111 | 2026-10-12 |
-| [Software Engineer, DL Kernel Libraries - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | nvidia | US, CA, Santa Clara | 0.4091 | 2026-10-12 |
-| [Data Scientist, Product](https://www.metacareers.com/profile/job_details/1755410732408318) | meta | São Paulo, Brazil | 0.4064 | 2026-10-12 |
-| [Senior Circuit Timing Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.3998 | 2026-10-12 |
-| [Technical Product Manager - Enterprise Products](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549) | nvidia | US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote | 0.3887 | 2026-10-12 |
-| [Enterprise Account Executive - CEE](https://job-boards.greenhouse.io/anthropic/jobs/5449831008) | anthropic | Munich, Germany | 0.3784 | 2026-10-12 |
-| [Enterprise Account Executive, Energy & Utilities](https://job-boards.greenhouse.io/anthropic/jobs/5446414008) | anthropic | Munich, Germany | 0.3776 | 2026-10-12 |
-| [Human Factors Engineer-ARC](https://jobs.apple.com/en-us/details/200688368-0836/human-factors-engineer-arc?team=HRDWR) | apple | nan | 0.3423 | 2026-10-11 |
-| [Senior Legal Counsel, Americas](https://jobs.smartrecruiters.com/Canva/6000000001479285-senior-legal-counsel-americas) | canva | San Francisco, CA, United States | 0.3420 | 2026-10-12 |
-| [Software Engineer - Fleet Management & Repair Automation](https://www.metacareers.com/profile/job_details/1125521820153840) | meta | London, UK | 0.3230 | 2026-10-11 |
-| [Software Engineer, Product](https://www.metacareers.com/profile/job_details/1981788412485869) | meta | London, UK | 0.3210 | 2026-10-11 |
-| [Software Engineer, Wearables Interfaces Engineering](https://www.metacareers.com/profile/job_details/2010980536447079) | meta | Redmond, WA | 0.3158 | 2026-10-11 |
-| [Senior Manager, Software Engineering - Rack Scale Systems Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Rack-Scale-Systems-Infrastructure_JR2027577) | nvidia | US, CA, Santa Clara; US, WA, Seattle | 0.3126 | 2026-10-12 |
-| [Senior DTCO Engineer, CPU Physical Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716) | nvidia | US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham | 0.3058 | 2026-10-12 |
+| [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5214 | 2026-10-11 |
+| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5081 | 2026-10-11 |
+| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10576138/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5059 | 2026-10-12 |
+| [Financial Analyst](https://www.amazon.jobs/en/jobs/10576260/financial-analyst) | amazon | US, TX, Irving | 0.5059 | 2026-10-12 |
+| [Industrial Engineer II, Layout](https://www.amazon.jobs/en/jobs/10576010/industrial-engineer-ii-layout) | amazon | US, PA, Pittsburgh | 0.5035 | 2026-10-12 |
+| [Security Engineer, Leo Security](https://www.amazon.jobs/en/jobs/10575820/security-engineer-leo-security) | amazon | US, VA, Herndon | 0.5023 | 2026-10-12 |
+| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575746/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5020 | 2026-10-12 |
+| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575752/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5020 | 2026-10-12 |
+| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576314/network-deployment-lead-dcc-communities) | amazon | US, GA, Covington | 0.4972 | 2026-10-12 |
+| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576305/network-deployment-lead-dcc-communities) | amazon | US, GA, Covington | 0.4972 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575857/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575858/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575859/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575861/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
+| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576324/network-deployment-lead-dcc-communities) | amazon | US, TX, Dallas | 0.4962 | 2026-10-12 |
+| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576318/network-deployment-lead-dcc-communities) | amazon | US, NC, Hamlet | 0.4930 | 2026-10-12 |
+| [Sr. Product Manager - Tech, OpsTech Solutions, OTS Delivery Software Engineering (DSE)](https://www.amazon.jobs/en/jobs/10575982/sr-product-manager-tech-opstech-solutions-ots-delivery-software-engineering-dse) | amazon | US, TX, Austin | 0.4898 | 2026-10-12 |
+| [ICQA Data Analyst](https://www.amazon.jobs/en/jobs/10576372/icqa-data-analyst) | amazon | US, CA, Hollister | 0.4819 | 2026-10-12 |
+| [NW Deployment Build Lead I, DC Global Network Delivery](https://www.amazon.jobs/en/jobs/10576301/nw-deployment-build-lead-i-dc-global-network-delivery) | amazon | US, PA, Berwick | 0.4788 | 2026-10-12 |
+| [Engagement Manager, WWPS ProServe DoD Shared Delivery Team](https://www.amazon.jobs/en/jobs/10575750/engagement-manager-wwps-proserve-dod-shared-delivery-team) | amazon | US, FL, Tampa | 0.4764 | 2026-10-12 |
 
 ## Companies tracked
 
