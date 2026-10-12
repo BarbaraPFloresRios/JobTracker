@@ -14,30 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5117 | 2026-10-11 |
-| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5052 | 2026-10-11 |
-| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4799 | 2026-10-11 |
-| [Principal Software Engineer - AI Systems Observability](https://apply.careers.microsoft.com/careers/job/1970393557007452) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4444 | 2026-10-11 |
-| [Integrated Business Planner](https://apply.careers.microsoft.com/careers/job/1970393557023130) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4386 | 2026-10-11 |
-| [Security Threat Protection Programs Lead](https://apply.careers.microsoft.com/careers/job/1970393557026863) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4295 | 2026-10-11 |
+| [Senior Digital Solution Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022618) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5272 | 2026-10-11 |
+| [HR Partner, Human Resources, NACF](https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf) | amazon | US, NY, Liverpool | 0.5230 | 2026-10-12 |
+| [Dir Category](https://apply.careers.microsoft.com/careers/job/1970393557026797) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5070 | 2026-10-11 |
+| [Azure Solution Engineering Manager](https://apply.careers.microsoft.com/careers/job/1970393557025773) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4789 | 2026-10-11 |
+| [Integrated Business Planner](https://apply.careers.microsoft.com/careers/job/1970393557023130) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4575 | 2026-10-11 |
+| [Principal Software Engineer - AI Systems Observability](https://apply.careers.microsoft.com/careers/job/1970393557007452) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4452 | 2026-10-11 |
+| [Data Scientist, Product](https://www.metacareers.com/profile/job_details/4374182922893050) | meta | Bangalore, India | 0.4433 | 2026-10-12 |
+| [Senior Hardware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557024794) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4356 | 2026-10-11 |
+| [Principal Design Engineer, Interactive Graphics, Copilot](https://apply.careers.microsoft.com/careers/job/1970393557025843) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4354 | 2026-10-11 |
+| [Security Threat Protection Programs Lead](https://apply.careers.microsoft.com/careers/job/1970393557026863) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4264 | 2026-10-11 |
+| [Senior Software Engineer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU_JR2027781) | nvidia | US, CA, Santa Clara | 0.4154 | 2026-10-12 |
 | [Senior Software Engineer, AI Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812) | nvidia | US, TX, Austin; US, CA, Santa Clara | 0.4111 | 2026-10-12 |
-| [Principal Design Engineer, Interactive Graphics, Copilot](https://apply.careers.microsoft.com/careers/job/1970393557025843) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4098 | 2026-10-11 |
 | [Software Engineer, DL Kernel Libraries - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | nvidia | US, CA, Santa Clara | 0.4091 | 2026-10-12 |
-| [Senior Circuit Timing Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.4011 | 2026-10-12 |
-| [Senior Hardware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557024794) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4000 | 2026-10-11 |
-| [Technical Product Manager - Enterprise Products](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549) | nvidia | US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote | 0.3893 | 2026-10-12 |
+| [Data Scientist, Product](https://www.metacareers.com/profile/job_details/1755410732408318) | meta | São Paulo, Brazil | 0.4064 | 2026-10-12 |
+| [Senior Circuit Timing Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575) | nvidia | US, CA, Santa Clara; US, CA, Remote | 0.3998 | 2026-10-12 |
+| [Technical Product Manager - Enterprise Products](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549) | nvidia | US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote | 0.3887 | 2026-10-12 |
+| [Enterprise Account Executive - CEE](https://job-boards.greenhouse.io/anthropic/jobs/5449831008) | anthropic | Munich, Germany | 0.3784 | 2026-10-12 |
+| [Enterprise Account Executive, Energy & Utilities](https://job-boards.greenhouse.io/anthropic/jobs/5446414008) | anthropic | Munich, Germany | 0.3776 | 2026-10-12 |
 | [Human Factors Engineer-ARC](https://jobs.apple.com/en-us/details/200688368-0836/human-factors-engineer-arc?team=HRDWR) | apple | nan | 0.3423 | 2026-10-11 |
+| [Senior Legal Counsel, Americas](https://jobs.smartrecruiters.com/Canva/6000000001479285-senior-legal-counsel-americas) | canva | San Francisco, CA, United States | 0.3420 | 2026-10-12 |
 | [Software Engineer - Fleet Management & Repair Automation](https://www.metacareers.com/profile/job_details/1125521820153840) | meta | London, UK | 0.3230 | 2026-10-11 |
 | [Software Engineer, Product](https://www.metacareers.com/profile/job_details/1981788412485869) | meta | London, UK | 0.3210 | 2026-10-11 |
 | [Software Engineer, Wearables Interfaces Engineering](https://www.metacareers.com/profile/job_details/2010980536447079) | meta | Redmond, WA | 0.3158 | 2026-10-11 |
-| [Senior DTCO Engineer, CPU Physical Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716) | nvidia | US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham | 0.3057 | 2026-10-12 |
-| [Software Engineer, Multimedia & Multimodal AI](https://www.metacareers.com/profile/job_details/1556935935696387) | meta | Menlo Park, CA | 0.2883 | 2026-10-11 |
-| [ASIC Engineer, Performance Architecture and Modeling](https://www.metacareers.com/profile/job_details/1508340500461438) | meta | Sunnyvale, CA | 0.2821 | 2026-10-11 |
-| [Product Manager, Core Ads Quality](https://www.metacareers.com/profile/job_details/1103207882176191) | meta | London, UK | 0.2732 | 2026-10-11 |
-| [Product Manager, Identity](https://www.metacareers.com/profile/job_details/3052290235108380) | meta | London, UK | 0.2272 | 2026-10-11 |
-| [Graphics Software Engineer](https://jobs.apple.com/en-us/details/200688305-0157/graphics-software-engineer?team=HRDWR) | apple | nan | 0.2247 | 2026-10-11 |
-| [Connectivity Integration Lead](https://www.metacareers.com/profile/job_details/1379555217714628) | meta | New Albany, OH | 0.2136 | 2026-10-11 |
-| [Product Manager, Growth Platforms](https://www.metacareers.com/profile/job_details/2697455420705628) | meta | Tel Aviv, Israel | 0.1761 | 2026-10-11 |
+| [Senior Manager, Software Engineering - Rack Scale Systems Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Rack-Scale-Systems-Infrastructure_JR2027577) | nvidia | US, CA, Santa Clara; US, WA, Seattle | 0.3126 | 2026-10-12 |
+| [Senior DTCO Engineer, CPU Physical Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716) | nvidia | US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham | 0.3058 | 2026-10-12 |
 
 ## Companies tracked
 

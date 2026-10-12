@@ -1,17 +1,26 @@
 title,company,location,semantic_similarity,first_seen_date,url
+"HR Partner, Human Resources, NACF",amazon,"US, NY, Liverpool",0.523,2026-10-12,https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf
+"Data Scientist, Product",meta,"Bangalore, India",0.4433,2026-10-12,https://www.metacareers.com/profile/job_details/4374182922893050
+Senior Software Engineer - GPU,nvidia,"US, CA, Santa Clara",0.4154,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU_JR2027781
 "Senior Software Engineer, AI Networking",nvidia,"US, TX, Austin; US, CA, Santa Clara",0.4111,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812
 "Software Engineer, DL Kernel Libraries - New College Grad 2027",nvidia,"US, CA, Santa Clara",0.4091,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337
-Senior Circuit Timing Engineer,nvidia,"US, CA, Santa Clara; US, CA, Remote",0.4011,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575
-Technical Product Manager - Enterprise Products,nvidia,"US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote",0.3893,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549
-"Senior DTCO Engineer, CPU Physical Design",nvidia,"US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham",0.3057,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716
-Senior Digital Solution Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5117,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557022618
-Dir Category,microsoft,"United States, Multiple Locations, Multiple Locations",0.5052,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557026797
-Azure Solution Engineering Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4799,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557025773
-Principal Software Engineer - AI Systems Observability,microsoft,"United States, Multiple Locations, Multiple Locations",0.4444,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557007452
-Integrated Business Planner,microsoft,"United States, Multiple Locations, Multiple Locations",0.4386,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557023130
-Security Threat Protection Programs Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4295,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557026863
-"Principal Design Engineer, Interactive Graphics, Copilot",microsoft,"United States, Multiple Locations, Multiple Locations",0.4098,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557025843
-Senior Hardware Engineer,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond",0.4,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557024794
+"Data Scientist, Product",meta,"São Paulo, Brazil",0.4064,2026-10-12,https://www.metacareers.com/profile/job_details/1755410732408318
+Senior Circuit Timing Engineer,nvidia,"US, CA, Santa Clara; US, CA, Remote",0.3998,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Timing-Engineer_JR2027575
+Technical Product Manager - Enterprise Products,nvidia,"US, CA, Remote; US, NC, Remote; US, NY, Remote; US, CO, Remote; US, FL, Remote",0.3887,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549
+Enterprise Account Executive - CEE,anthropic,"Munich, Germany",0.3784,2026-10-12,https://job-boards.greenhouse.io/anthropic/jobs/5449831008
+"Enterprise Account Executive, Energy & Utilities",anthropic,"Munich, Germany",0.3776,2026-10-12,https://job-boards.greenhouse.io/anthropic/jobs/5446414008
+"Senior Legal Counsel, Americas",canva,"San Francisco, CA, United States",0.342,2026-10-12,https://jobs.smartrecruiters.com/Canva/6000000001479285-senior-legal-counsel-americas
+"Senior Manager, Software Engineering - Rack Scale Systems Infrastructure",nvidia,"US, CA, Santa Clara; US, WA, Seattle",0.3126,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Rack-Scale-Systems-Infrastructure_JR2027577
+"Senior DTCO Engineer, CPU Physical Design",nvidia,"US, CA, Santa Clara; US, TX, Austin; US, OR, Hillsboro; US, NC, Durham",0.3058,2026-10-12,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DTCO-Engineer--CPU-Physical-Design_JR2027716
+Analista Senior Lean Excelencia Operacional - Mercado Envios,mercadolibre,"Región Metropolitana de Santiago,Chile",0.1439,2026-10-12,https://mercadolibre.eightfold.ai/careers/job/44751329
+Senior Digital Solution Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.5272,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557022618
+Dir Category,microsoft,"United States, Multiple Locations, Multiple Locations",0.507,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557026797
+Azure Solution Engineering Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.4789,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557025773
+Integrated Business Planner,microsoft,"United States, Multiple Locations, Multiple Locations",0.4575,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557023130
+Principal Software Engineer - AI Systems Observability,microsoft,"United States, Multiple Locations, Multiple Locations",0.4452,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557007452
+Senior Hardware Engineer,microsoft,"United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond",0.4356,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557024794
+"Principal Design Engineer, Interactive Graphics, Copilot",microsoft,"United States, Multiple Locations, Multiple Locations",0.4354,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557025843
+Security Threat Protection Programs Lead,microsoft,"United States, Multiple Locations, Multiple Locations",0.4264,2026-10-11,https://apply.careers.microsoft.com/careers/job/1970393557026863
 Human Factors Engineer-ARC,apple,,0.3423,2026-10-11,https://jobs.apple.com/en-us/details/200688368-0836/human-factors-engineer-arc?team=HRDWR
 Software Engineer - Fleet Management & Repair Automation,meta,"London, UK",0.323,2026-10-11,https://www.metacareers.com/profile/job_details/1125521820153840
 "Software Engineer, Product",meta,"London, UK",0.321,2026-10-11,https://www.metacareers.com/profile/job_details/1981788412485869
