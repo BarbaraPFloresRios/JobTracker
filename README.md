@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Systems Development Engineer, Analytics ADC](https://www.amazon.jobs/en/jobs/10575807/systems-development-engineer-analytics-adc) | amazon | US, CO, Denver | 0.5891 | 2026-10-12 |
+| [Systems Development Engineer, Analytics ADC](https://www.amazon.jobs/en/jobs/10575807/systems-development-engineer-analytics-adc) | amazon | US, CO, Denver | 0.6116 | 2026-10-12 |
+| [Software Dev Engineer, Prime Video Personalization & Discovery ](https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) | amazon | US, NY, New York | 0.5862 | 2026-10-12 |
 | [Senior APN Programs Lead, Scalable GTM and Funding Programs ](https://www.amazon.jobs/en/jobs/10576437/senior-apn-programs-lead-scalable-gtm-and-funding-programs) | amazon | US, VA, Arlington | 0.5769 | 2026-10-13 |
-| [Software Dev Engineer, Prime Video Personalization & Discovery ](https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) | amazon | US, NY, New York | 0.5738 | 2026-10-12 |
 | [Senior Healthcare Solutions Architect, AI Solutions](https://www.amazon.jobs/en/jobs/10576576/senior-healthcare-solutions-architect-ai-solutions) | amazon | US, CA, San Francisco | 0.5594 | 2026-10-13 |
 | [Category Manager, GPO Tech Category](https://www.amazon.jobs/en/jobs/10576077/category-manager-gpo-tech-category) | amazon | US, TX, Austin | 0.5521 | 2026-10-12 |
 | [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10576577/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5497 | 2026-10-13 |
 | [Network Deployment Technician, GND-NASA-Deploy](https://www.amazon.jobs/en/jobs/10576323/network-deployment-technician-gnd-nasa-deploy) | amazon | US, TX, Dallas | 0.5481 | 2026-10-12 |
-| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10576138/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5408 | 2026-10-12 |
-| [Security Engineer, Leo Security](https://www.amazon.jobs/en/jobs/10575820/security-engineer-leo-security) | amazon | US, VA, Herndon | 0.5264 | 2026-10-12 |
-| [HR Partner, Human Resources, NACF](https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf) | amazon | US, NY, Liverpool | 0.5229 | 2026-10-12 |
+| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10576138/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5417 | 2026-10-12 |
+| [Data Center Technician III, DCO](https://www.amazon.jobs/en/jobs/10577167/data-center-technician-iii-dco) | amazon | US, OR, Boardman | 0.5347 | 2026-10-13 |
+| [Senior Solutions Architect, National Security Solutions Architecture Team](https://www.amazon.jobs/en/jobs/10576968/senior-solutions-architect-national-security-solutions-architecture-team) | amazon | US, VA, Herndon | 0.5344 | 2026-10-13 |
+| [Security Engineer, Leo Security](https://www.amazon.jobs/en/jobs/10575820/security-engineer-leo-security) | amazon | US, VA, Herndon | 0.5257 | 2026-10-12 |
+| [Sr. Tech Infra Program Manager, Capacity Delivery Planning](https://www.amazon.jobs/en/jobs/10577203/sr-tech-infra-program-manager-capacity-delivery-planning) | amazon | US, WA, Seattle | 0.5243 | 2026-10-13 |
+| [HR Partner, Human Resources, NACF](https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf) | amazon | US, NY, Liverpool | 0.5237 | 2026-10-12 |
 | [Sr. Life Sciences Business Development Lead, AI Solutions](https://www.amazon.jobs/en/jobs/10576622/sr-life-sciences-business-development-lead-ai-solutions) | amazon | US, CA, San Francisco | 0.5221 | 2026-10-13 |
+| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575746/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5198 | 2026-10-12 |
+| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575752/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5198 | 2026-10-12 |
+| [Engagement Manager, WWPS ProServe](https://www.amazon.jobs/en/jobs/10577075/engagement-manager-wwps-proserve) | amazon | US, VA, Arlington | 0.5150 | 2026-10-13 |
+| [DCO Tech (Night), DCO](https://www.amazon.jobs/en/jobs/10576966/dco-tech-night-dco) | amazon | US, NV, Sparks | 0.5117 | 2026-10-13 |
 | [ASIC Engineer Early Career - 2027, Project Leo](https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo) | amazon | US, WA, Redmond | 0.5081 | 2026-10-13 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575857/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.5069 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575859/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.5069 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575858/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.5069 | 2026-10-12 |
+| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575861/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.5069 | 2026-10-12 |
 | [Financial Analyst](https://www.amazon.jobs/en/jobs/10576260/financial-analyst) | amazon | US, TX, Irving | 0.5059 | 2026-10-12 |
-| [Industrial Engineer II, Layout](https://www.amazon.jobs/en/jobs/10576010/industrial-engineer-ii-layout) | amazon | US, PA, Pittsburgh | 0.5035 | 2026-10-12 |
-| [ASIC Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | amazon | US, CA, Sunnyvale | 0.5024 | 2026-10-13 |
-| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575746/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5020 | 2026-10-12 |
-| [Data Center Technician - Night Shift](https://www.amazon.jobs/en/jobs/10575752/data-center-technician-night-shift) | amazon | US, GA, Covington | 0.5020 | 2026-10-12 |
-| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576314/network-deployment-lead-dcc-communities) | amazon | US, GA, Covington | 0.4972 | 2026-10-12 |
-| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576305/network-deployment-lead-dcc-communities) | amazon | US, GA, Covington | 0.4972 | 2026-10-12 |
-| [Data Scientist, Product](https://www.metacareers.com/profile/job_details/4374182922893050) | meta | Bangalore, India | 0.4966 | 2026-10-12 |
-| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575858/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
-| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575861/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
-| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575859/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
-| [Engineering Operation Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10575857/engineering-operation-technician-dcc-communities) | amazon | US, OH, New Albany | 0.4965 | 2026-10-12 |
-| [Network Deployment Lead, DCC Communities ](https://www.amazon.jobs/en/jobs/10576324/network-deployment-lead-dcc-communities) | amazon | US, TX, Dallas | 0.4962 | 2026-10-12 |
+| [NW Deployment Build Lead I, DC Global Network Delivery](https://www.amazon.jobs/en/jobs/10576301/nw-deployment-build-lead-i-dc-global-network-delivery) | amazon | US, PA, Berwick | 0.5048 | 2026-10-12 |
 
 ## Companies tracked
 
