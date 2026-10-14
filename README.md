@@ -15,30 +15,30 @@ _Updated automatically from `data/recent_jobs.csv`._
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
 | [Data Scientist II - AMZ10564077](https://www.amazon.jobs/en/jobs/10577453/data-scientist-ii-amz10564077) | amazon | US, CA, Sunnyvale | 0.6134 | 2026-10-13 |
-| [Systems Development Engineer, Analytics ADC](https://www.amazon.jobs/en/jobs/10575807/systems-development-engineer-analytics-adc) | amazon | US, CO, Denver | 0.6131 | 2026-10-12 |
 | [Software Development Engineer , Ads Data Manager](https://www.amazon.jobs/en/jobs/10577607/software-development-engineer-ads-data-manager) | amazon | US, NY, New York | 0.6025 | 2026-10-13 |
-| [Senior APN Programs Lead, Scalable GTM and Funding Programs ](https://www.amazon.jobs/en/jobs/10576437/senior-apn-programs-lead-scalable-gtm-and-funding-programs) | amazon | US, VA, Arlington | 0.5884 | 2026-10-13 |
-| [Software Dev Engineer, Prime Video Personalization & Discovery ](https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) | amazon | US, NY, New York | 0.5850 | 2026-10-12 |
+| [Senior APN Programs Lead, Scalable GTM and Funding Programs ](https://www.amazon.jobs/en/jobs/10576437/senior-apn-programs-lead-scalable-gtm-and-funding-programs) | amazon | US, VA, Arlington | 0.5871 | 2026-10-13 |
 | [Data Engineer II - AMZ10595704](https://www.amazon.jobs/en/jobs/10577490/data-engineer-ii-amz10595704) | amazon | US, CO, Denver | 0.5846 | 2026-10-13 |
 | [Data Center Manager](https://www.amazon.jobs/en/jobs/10577646/data-center-manager) | amazon | US, MS, Ridgeland | 0.5770 | 2026-10-13 |
-| [Category Manager, GPO Tech Category](https://www.amazon.jobs/en/jobs/10576077/category-manager-gpo-tech-category) | amazon | US, TX, Austin | 0.5600 | 2026-10-12 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10576577/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5583 | 2026-10-13 |
-| [Data Center Technician III, DCO](https://www.amazon.jobs/en/jobs/10577167/data-center-technician-iii-dco) | amazon | US, OR, Boardman | 0.5576 | 2026-10-13 |
+| [Data Center Manager](https://www.amazon.jobs/en/jobs/10578053/data-center-manager) | amazon | US, MS, Ridgeland | 0.5770 | 2026-10-14 |
+| [Hardware Development Engineer Intern,  Summer 2027](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | amazon | US, CA, Sunnyvale | 0.5765 | 2026-10-14 |
+| [Sr. Customer Solutions Manager, Auto and Manufacturing ](https://www.amazon.jobs/en/jobs/10577677/sr-customer-solutions-manager-auto-and-manufacturing) | amazon | US, GA, Atlanta | 0.5678 | 2026-10-13 |
+| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10576577/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5566 | 2026-10-13 |
 | [Senior AppMod GTM Specialist, Media & Entertainment , Media and Entertainment - ASPI](https://www.amazon.jobs/en/jobs/10577688/senior-appmod-gtm-specialist-media-entertainment-media-and-entertainment-aspi) | amazon | US, NY, New York | 0.5535 | 2026-10-13 |
-| [Senior Healthcare Solutions Architect, AI Solutions](https://www.amazon.jobs/en/jobs/10576576/senior-healthcare-solutions-architect-ai-solutions) | amazon | US, CA, San Francisco | 0.5494 | 2026-10-13 |
+| [Senior Healthcare Solutions Architect, AI Solutions](https://www.amazon.jobs/en/jobs/10576576/senior-healthcare-solutions-architect-ai-solutions) | amazon | US, CA, San Francisco | 0.5497 | 2026-10-13 |
 | [Sr. Product Manager, NAS Ship Cost Optimization ](https://www.amazon.jobs/en/jobs/10578026/sr-product-manager-nas-ship-cost-optimization) | amazon | US, WA, Seattle | 0.5468 | 2026-10-13 |
-| [Sr. Customer Solutions Manager, Auto and Manufacturing ](https://www.amazon.jobs/en/jobs/10577677/sr-customer-solutions-manager-auto-and-manufacturing) | amazon | US, GA, Atlanta | 0.5454 | 2026-10-13 |
+| [Data Center Technician III, DCO](https://www.amazon.jobs/en/jobs/10577167/data-center-technician-iii-dco) | amazon | US, OR, Boardman | 0.5463 | 2026-10-13 |
 | [Cloud Technical Account Manager , ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10578036/cloud-technical-account-manager-es-strategic-industries) | amazon | US, TX, Dallas | 0.5425 | 2026-10-13 |
-| [Demand Generation Manager, Digital Acquisition](https://www.amazon.jobs/en/jobs/10576138/demand-generation-manager-digital-acquisition) | amazon | US, VA, Arlington | 0.5413 | 2026-10-12 |
+| [DCO Tech (Night), DCO](https://www.amazon.jobs/en/jobs/10576966/dco-tech-night-dco) | amazon | US, NV, Sparks | 0.5387 | 2026-10-13 |
 | [Sr. Product Lifecycle Mechanical Engineer, DCE - Mechanical Products & Services (MPS) ](https://www.amazon.jobs/en/jobs/10577780/sr-product-lifecycle-mechanical-engineer-dce-mechanical-products-services-mps) | amazon | US, VA, Herndon | 0.5347 | 2026-10-13 |
-| [Industrial Engineer II, Layout](https://www.amazon.jobs/en/jobs/10576010/industrial-engineer-ii-layout) | amazon | US, PA, Pittsburgh | 0.5306 | 2026-10-12 |
-| [Principal Technical Program Manager, AI Supercomputer Operations](https://apply.careers.microsoft.com/careers/job/1970393557027420) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5283 | 2026-10-13 |
-| [Security Engineer, Leo Security](https://www.amazon.jobs/en/jobs/10575820/security-engineer-leo-security) | amazon | US, VA, Herndon | 0.5259 | 2026-10-12 |
+| [Engineering Operations Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10576566/engineering-operations-technician-dcc-communities) | amazon | US, OR, Boardman | 0.5336 | 2026-10-13 |
+| [ASIC Engineer Early Career - 2027, Project Leo](https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo) | amazon | US, WA, Redmond | 0.5316 | 2026-10-13 |
+| [Principal Technical Program Manager, AI Supercomputer Operations](https://apply.careers.microsoft.com/careers/job/1970393557027420) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5251 | 2026-10-13 |
 | [Sr. Tech Infra Program Manager, Capacity Delivery Planning](https://www.amazon.jobs/en/jobs/10577203/sr-tech-infra-program-manager-capacity-delivery-planning) | amazon | US, WA, Seattle | 0.5243 | 2026-10-13 |
-| [Senior Solutions Architect, National Security Solutions Architecture Team](https://www.amazon.jobs/en/jobs/10576968/senior-solutions-architect-national-security-solutions-architecture-team) | amazon | US, VA, Herndon | 0.5240 | 2026-10-13 |
-| [HR Partner, Human Resources, NACF](https://www.amazon.jobs/en/jobs/10575433/hr-partner-human-resources-nacf) | amazon | US, NY, Liverpool | 0.5225 | 2026-10-12 |
-| [Sr. Life Sciences Business Development Lead, AI Solutions](https://www.amazon.jobs/en/jobs/10576622/sr-life-sciences-business-development-lead-ai-solutions) | amazon | US, CA, San Francisco | 0.5221 | 2026-10-13 |
-| [Principal Product Manager, Technical, Omni-Channel, Omni-Channel Advertising](https://www.amazon.jobs/en/jobs/10577097/principal-product-manager-technical-omni-channel-omni-channel-advertising) | amazon | US, MA, Boston | 0.5195 | 2026-10-13 |
+| [Senior Solutions Architect, National Security Solutions Architecture Team](https://www.amazon.jobs/en/jobs/10576968/senior-solutions-architect-national-security-solutions-architecture-team) | amazon | US, VA, Herndon | 0.5237 | 2026-10-13 |
+| [Sr. Life Sciences Business Development Lead, AI Solutions](https://www.amazon.jobs/en/jobs/10576622/sr-life-sciences-business-development-lead-ai-solutions) | amazon | US, CA, San Francisco | 0.5208 | 2026-10-13 |
+| [Senior Engagement Manager, Professional Services, AWSI](https://www.amazon.jobs/en/jobs/10577746/senior-engagement-manager-professional-services-awsi) | amazon | US, NY, New York | 0.5180 | 2026-10-13 |
+| [Sr. Mechanical Product Engineer, Data Center Eng, MPS](https://www.amazon.jobs/en/jobs/10577753/sr-mechanical-product-engineer-data-center-eng-mps) | amazon | US, TX, Austin | 0.5169 | 2026-10-13 |
+| [ASIC Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | amazon | US, CA, Sunnyvale | 0.5156 | 2026-10-13 |
 
 ## Companies tracked
 
