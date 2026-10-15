@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Software Development Engineer , Ads Data Manager](https://www.amazon.jobs/en/jobs/10577607/software-development-engineer-ads-data-manager) | amazon | US, NY, New York | 0.6239 | 2026-10-13 |
-| [Data Center Manager](https://www.amazon.jobs/en/jobs/10577646/data-center-manager) | amazon | US, MS, Ridgeland | 0.6018 | 2026-10-13 |
+| [Data Center Manager](https://www.amazon.jobs/en/jobs/10578053/data-center-manager) | amazon | US, MS, Ridgeland | 0.6018 | 2026-10-14 |
+| [Sr Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10578466/sr-delivery-consultant-genai-ml-data-science-professional-services-aws-industries) | amazon | US, TX, Dallas | 0.5973 | 2026-10-14 |
 | [Principal BD Specialist](https://www.amazon.jobs/en/jobs/10578649/principal-bd-specialist) | amazon | US, CA, Santa Monica | 0.5966 | 2026-10-14 |
-| [Sr Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10578466/sr-delivery-consultant-genai-ml-data-science-professional-services-aws-industries) | amazon | US, TX, Dallas | 0.5956 | 2026-10-14 |
-| [Senior APN Programs Lead, Scalable GTM and Funding Programs ](https://www.amazon.jobs/en/jobs/10576437/senior-apn-programs-lead-scalable-gtm-and-funding-programs) | amazon | US, VA, Arlington | 0.5867 | 2026-10-13 |
-| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/en/jobs/10577453/data-scientist-ii-amz10564077) | amazon | US, CA, Sunnyvale | 0.5834 | 2026-10-13 |
-| [Sr. Product Manager, NAS Ship Cost Optimization ](https://www.amazon.jobs/en/jobs/10578026/sr-product-manager-nas-ship-cost-optimization) | amazon | US, WA, Seattle | 0.5802 | 2026-10-13 |
-| [Data Center Manager](https://www.amazon.jobs/en/jobs/10578053/data-center-manager) | amazon | US, MS, Ridgeland | 0.5770 | 2026-10-14 |
-| [Senior AppMod GTM Specialist, Media & Entertainment , Media and Entertainment - ASPI](https://www.amazon.jobs/en/jobs/10577688/senior-appmod-gtm-specialist-media-entertainment-media-and-entertainment-aspi) | amazon | US, NY, New York | 0.5765 | 2026-10-13 |
-| [Hardware Development Engineer Intern,  Summer 2027](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | amazon | US, CA, Sunnyvale | 0.5765 | 2026-10-14 |
-| [Data Engineer II - AMZ10595704](https://www.amazon.jobs/en/jobs/10577490/data-engineer-ii-amz10595704) | amazon | US, CO, Denver | 0.5749 | 2026-10-13 |
-| [Sr. Customer Solutions Manager, Auto and Manufacturing ](https://www.amazon.jobs/en/jobs/10577677/sr-customer-solutions-manager-auto-and-manufacturing) | amazon | US, GA, Atlanta | 0.5738 | 2026-10-13 |
-| [Customer Solutions Manager, Media & Entertainment, Media & Entertainment](https://www.amazon.jobs/en/jobs/10578226/customer-solutions-manager-media-entertainment-media-entertainment) | amazon | US, NY, New York | 0.5711 | 2026-10-14 |
-| [Cloud Technical Account Manager , ES - Strategic Industries](https://www.amazon.jobs/en/jobs/10578036/cloud-technical-account-manager-es-strategic-industries) | amazon | US, TX, Dallas | 0.5669 | 2026-10-13 |
+| [Customer Solutions Manager, Media & Entertainment, Media & Entertainment](https://www.amazon.jobs/en/jobs/10578226/customer-solutions-manager-media-entertainment-media-entertainment) | amazon | US, NY, New York | 0.5847 | 2026-10-14 |
 | [Clearable Data Center Technician, InfraOps AG](https://www.amazon.jobs/en/jobs/10578557/clearable-data-center-technician-infraops-ag) | amazon | US, CO, Aurora | 0.5640 | 2026-10-14 |
-| [Data Center Logistics Specialist, DCC Communities](https://www.amazon.jobs/en/jobs/10576577/data-center-logistics-specialist-dcc-communities) | amazon | US, IN, New Carlisle | 0.5568 | 2026-10-13 |
-| [Senior Healthcare Solutions Architect, AI Solutions](https://www.amazon.jobs/en/jobs/10576576/senior-healthcare-solutions-architect-ai-solutions) | amazon | US, CA, San Francisco | 0.5550 | 2026-10-13 |
+| [Senior Applied Scientist, Materials and Process Development, AWS Center for Quantum Computing](https://www.amazon.jobs/en/jobs/10579007/senior-applied-scientist-materials-and-process-development-aws-center-for-quantum-computing) | amazon | US, CA, Pasadena | 0.5573 | 2026-10-14 |
+| [Data Center Technician](https://www.amazon.jobs/en/jobs/10578834/data-center-technician) | amazon | US, AZ, Avondale | 0.5537 | 2026-10-14 |
 | [Applied Scientist III - AMZ10564053](https://www.amazon.jobs/en/jobs/10579121/applied-scientist-iii-amz10564053) | amazon | US, CA, Santa Monica | 0.5518 | 2026-10-14 |
-| [Business Intelligence Engineer, Leo Global Customer Operations](https://www.amazon.jobs/en/jobs/10578710/business-intelligence-engineer-leo-global-customer-operations) | amazon | US, WA, Bellevue | 0.5486 | 2026-10-14 |
-| [Data Center Technician III, DCO](https://www.amazon.jobs/en/jobs/10577167/data-center-technician-iii-dco) | amazon | US, OR, Boardman | 0.5458 | 2026-10-13 |
-| [Data Center Technician](https://www.amazon.jobs/en/jobs/10578834/data-center-technician) | amazon | US, AZ, Avondale | 0.5397 | 2026-10-14 |
+| [Business Intelligence Engineer, Leo Global Customer Operations](https://www.amazon.jobs/en/jobs/10578710/business-intelligence-engineer-leo-global-customer-operations) | amazon | US, WA, Bellevue | 0.5499 | 2026-10-14 |
+| [Hardware Development Engineer Intern,  Summer 2027](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | amazon | US, CA, Sunnyvale | 0.5463 | 2026-10-14 |
+| [Senior Networking Solutions Architect, AWS Strategic Accounts](https://www.amazon.jobs/en/jobs/10579335/senior-networking-solutions-architect-aws-strategic-accounts) | amazon | US, WA, Seattle | 0.5382 | 2026-10-15 |
 | [Clearable DCEO Facility Manager, ADC InfraOps](https://www.amazon.jobs/en/jobs/10579172/clearable-dceo-facility-manager-adc-infraops) | amazon | US, TX, San Antonio | 0.5369 | 2026-10-14 |
 | [Delivery Consultant - Modernization, AWS Strategic Industries](https://www.amazon.jobs/en/jobs/10578468/delivery-consultant-modernization-aws-strategic-industries) | amazon | US, VA, Arlington | 0.5367 | 2026-10-14 |
-| [Amazon Robotics - Software Development Engineer Intern/Co-op - 2027](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) | amazon | US, MA, Westboro | 0.5361 | 2026-10-14 |
-| [Sr Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10578020/sr-delivery-consultant-genai-ml-data-science-professional-services-aws-industries) | amazon | US, TX, Dallas | 0.5350 | 2026-10-13 |
+| [Infra Delivery Technician ](https://www.amazon.jobs/en/jobs/10579308/infra-delivery-technician) | amazon | US, TX, Wink | 0.5350 | 2026-10-15 |
+| [Construction Manager , AMER SE](https://www.amazon.jobs/en/jobs/10578995/construction-manager-amer-se) | amazon | US, VA, Stafford | 0.5337 | 2026-10-14 |
+| [Sr Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10578465/sr-delivery-consultant-genai-ml-data-science-professional-services-aws-industries) | amazon | US, GA, Atlanta | 0.5313 | 2026-10-14 |
+| [Data Center Technician - Night Shift, DCC Communities ](https://www.amazon.jobs/en/jobs/10579126/data-center-technician-night-shift-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5299 | 2026-10-14 |
+| [Data Center Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10579119/data-center-technician-dcc-communities) | amazon | US, GA, Lithia Springs | 0.5288 | 2026-10-14 |
+| [Consultant, Agentic Delivery Acceleration, Professional Services, Professional Services](https://www.amazon.jobs/en/jobs/10579370/consultant-agentic-delivery-acceleration-professional-services-professional-services) | amazon | US, GA, Atlanta | 0.5288 | 2026-10-15 |
+| [Infra Delivery Technician](https://www.amazon.jobs/en/jobs/10578473/infra-delivery-technician) | amazon | US, TX, Wink | 0.5269 | 2026-10-14 |
+| [Senior Solutions Architect, Supercomputing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-IL-Remote/Senior-Solutions-Architect--Supercomputing_JR2015929) | nvidia | US, IL, Remote; US, TX, Remote; US, CA, Santa Clara | 0.5258 | 2026-10-14 |
+| [Amazon Robotics - Software Development Engineer Intern/Co-op - 2027](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) | amazon | US, MA, Westboro | 0.5255 | 2026-10-14 |
+| [ Principal Engineer:  Annapurna Labs Training and Inference , Annapurna Labs, AWS Neuron SDK](https://www.amazon.jobs/en/jobs/10579186/principal-engineer-annapurna-labs-training-and-inference-annapurna-labs-aws-neuron-sdk) | amazon | US, CA, Cupertino | 0.5234 | 2026-10-14 |
+| [Principal Technical Business Development Specialist , WWSO HPC Specialist, US Federal & Public Sector](https://www.amazon.jobs/en/jobs/10579162/principal-technical-business-development-specialist-wwso-hpc-specialist-us-federal-public-sector) | amazon | US, VA, Arlington | 0.5224 | 2026-10-14 |
+| [Software Development Engineer, Building Connectivity Engineering](https://www.amazon.jobs/en/jobs/10578861/software-development-engineer-building-connectivity-engineering) | amazon | US, WA, Seattle | 0.5217 | 2026-10-14 |
 
 ## Companies tracked
 
