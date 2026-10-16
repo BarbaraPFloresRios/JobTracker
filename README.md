@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Delivery Consultant - AI/ML, Professional Services, AWS Industries ](https://www.amazon.jobs/en/jobs/10579915/delivery-consultant-ai-ml-professional-services-aws-industries) | amazon | US, IL, Chicago | 0.6188 | 2026-10-15 |
-| [Delivery Consultant - Data , Professional Services, AWS Industries ](https://www.amazon.jobs/en/jobs/10579918/delivery-consultant-data-professional-services-aws-industries) | amazon | US, VA, Arlington | 0.6041 | 2026-10-15 |
-| [Business Intelligence Engineer - AWS, AWS DC Construction](https://www.amazon.jobs/en/jobs/10579778/business-intelligence-engineer-aws-aws-dc-construction) | amazon | US, WA, Seattle | 0.5994 | 2026-10-15 |
+| [Delivery Consultant - AI/ML, Professional Services, AWS Industries ](https://www.amazon.jobs/en/jobs/10579915/delivery-consultant-ai-ml-professional-services-aws-industries) | amazon | US, IL, Chicago | 0.6184 | 2026-10-15 |
+| [Delivery Consultant - Data , Professional Services, AWS Industries ](https://www.amazon.jobs/en/jobs/10579918/delivery-consultant-data-professional-services-aws-industries) | amazon | US, VA, Arlington | 0.6030 | 2026-10-15 |
+| [Business Intelligence Engineer - AWS, AWS DC Construction](https://www.amazon.jobs/en/jobs/10579778/business-intelligence-engineer-aws-aws-dc-construction) | amazon | US, WA, Seattle | 0.5984 | 2026-10-15 |
+| [Data Center Facility Manager, Data Center Community](https://www.amazon.jobs/en/jobs/10579820/data-center-facility-manager-data-center-community) | amazon | US, IN, New Carlisle | 0.5980 | 2026-10-15 |
 | [Software Development Manager, ADC Monitoring & Observability](https://www.amazon.jobs/en/jobs/10580970/software-development-manager-adc-monitoring-observability) | amazon | US, CO, Denver | 0.5867 | 2026-10-16 |
+| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/jobs/10577453/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5825 | 2026-10-16 |
 | [Senior Applied Scientist, Fauna](https://www.amazon.jobs/en/jobs/10580777/senior-applied-scientist-fauna) | amazon | US, CA, Sunnyvale | 0.5801 | 2026-10-15 |
 | [Data Center Facility Manager II- Nights](https://www.amazon.jobs/en/jobs/10580763/data-center-facility-manager-ii-nights) | amazon | US, OH, Jeffersonville | 0.5736 | 2026-10-15 |
-| [Data Center Facility Manager, Data Center Community](https://www.amazon.jobs/en/jobs/10579820/data-center-facility-manager-data-center-community) | amazon | US, IN, New Carlisle | 0.5725 | 2026-10-15 |
-| [Infra Delivery Technician ](https://www.amazon.jobs/en/jobs/10579308/infra-delivery-technician) | amazon | US, TX, Wink | 0.5595 | 2026-10-15 |
-| [Consultant, Agentic Delivery Acceleration, Professional Services, Professional Services](https://www.amazon.jobs/en/jobs/10579370/consultant-agentic-delivery-acceleration-professional-services-professional-services) | amazon | US, GA, Atlanta | 0.5580 | 2026-10-15 |
-| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/jobs/10577453/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5574 | 2026-10-16 |
+| [Infra Delivery Technician ](https://www.amazon.jobs/en/jobs/10579308/infra-delivery-technician) | amazon | US, TX, Wink | 0.5508 | 2026-10-15 |
+| [Consultant, Agentic Delivery Acceleration, Professional Services, Professional Services](https://www.amazon.jobs/en/jobs/10579370/consultant-agentic-delivery-acceleration-professional-services-professional-services) | amazon | US, GA, Atlanta | 0.5491 | 2026-10-15 |
 | [Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence](https://www.amazon.jobs/en/jobs/10580107/senior-data-engineer-aws-infrastructure-supply-chain-intelligence) | amazon | US, WA, Bellevue | 0.5446 | 2026-10-15 |
 | [Principal Solutions Architect, Retail, Consumer Goods & Restaurants, AWS](https://www.amazon.jobs/en/jobs/10580795/principal-solutions-architect-retail-consumer-goods-restaurants-aws) | amazon | US, OR, Portland | 0.5445 | 2026-10-15 |
 | [Customer Solutions Manager, Media & Entertainment, TMEGS](https://www.amazon.jobs/en/jobs/10580783/customer-solutions-manager-media-entertainment-tmegs) | amazon | US, CA, San Francisco | 0.5444 | 2026-10-15 |
-| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10579435/software-development-engineer) | amazon | US, WA, Seattle | 0.5417 | 2026-10-15 |
-| [Senior Manager, Hardware Engineering, Robotics Technical Services](https://www.amazon.jobs/en/jobs/10579864/senior-manager-hardware-engineering-robotics-technical-services) | amazon | US, MA, North Reading | 0.5411 | 2026-10-15 |
+| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10579435/software-development-engineer) | amazon | US, WA, Seattle | 0.5418 | 2026-10-15 |
+| [Senior Manager, Hardware Engineering, Robotics Technical Services](https://www.amazon.jobs/en/jobs/10579864/senior-manager-hardware-engineering-robotics-technical-services) | amazon | US, MA, North Reading | 0.5409 | 2026-10-15 |
+| [Senior Networking Solutions Architect, AWS Strategic Accounts](https://www.amazon.jobs/en/jobs/10579335/senior-networking-solutions-architect-aws-strategic-accounts) | amazon | US, WA, Seattle | 0.5406 | 2026-10-15 |
 | [Global Datacenter Engineer Sr Lease Program Manager-AI](https://apply.careers.microsoft.com/careers/job/1970393557023015) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5400 | 2026-10-15 |
-| [Senior Networking Solutions Architect, AWS Strategic Accounts](https://www.amazon.jobs/en/jobs/10579335/senior-networking-solutions-architect-aws-strategic-accounts) | amazon | US, WA, Seattle | 0.5383 | 2026-10-15 |
-| [Energy Procurement Manager, AWS Energy Team](https://www.amazon.jobs/en/jobs/10579851/energy-procurement-manager-aws-energy-team) | amazon | US, WA, Seattle | 0.5356 | 2026-10-15 |
-| [Sr. Delivery Consultant – Modernization, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10579919/sr-delivery-consultant-modernization-professional-services-aws-industries) | amazon | US, VA, Arlington | 0.5337 | 2026-10-15 |
-| [Senior Engagement Manager, AWS ProServe](https://www.amazon.jobs/en/jobs/10579795/senior-engagement-manager-aws-proserve) | amazon | US, CO, Denver | 0.5318 | 2026-10-15 |
-| [Principal Software Engineer, Storage Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557024780) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5259 | 2026-10-15 |
-| [Software Dev Manager, Amazon EMR](https://www.amazon.jobs/en/jobs/10579396/software-dev-manager-amazon-emr) | amazon | US, CA, East Palo Alto | 0.5232 | 2026-10-15 |
-| [Manager III, Network Development Engineering, Bespoke Solutions](https://www.amazon.jobs/en/jobs/10580380/manager-iii-network-development-engineering-bespoke-solutions) | amazon | US, VA, Arlington | 0.5231 | 2026-10-15 |
-| [Principal, Organization Effectiveness Specialist, Ads, IMDb & Grand Challenge](https://www.amazon.jobs/en/jobs/10579821/principal-organization-effectiveness-specialist-ads-imdb-grand-challenge) | amazon | US, WA, Seattle | 0.5197 | 2026-10-15 |
-| [Senior Financial Analyst, NACF](https://www.amazon.jobs/en/jobs/10580279/senior-financial-analyst-nacf) | amazon | US, NY, New York City | 0.5190 | 2026-10-15 |
+| [Sr. Delivery Consultant – Modernization, Professional Services, AWS Industries](https://www.amazon.jobs/en/jobs/10579919/sr-delivery-consultant-modernization-professional-services-aws-industries) | amazon | US, VA, Arlington | 0.5352 | 2026-10-15 |
+| [Energy Procurement Manager, AWS Energy Team](https://www.amazon.jobs/en/jobs/10579851/energy-procurement-manager-aws-energy-team) | amazon | US, WA, Seattle | 0.5349 | 2026-10-15 |
+| [Senior Engagement Manager, AWS ProServe](https://www.amazon.jobs/en/jobs/10579795/senior-engagement-manager-aws-proserve) | amazon | US, CO, Denver | 0.5309 | 2026-10-15 |
+| [Principal, Organization Effectiveness Specialist, Ads, IMDb & Grand Challenge](https://www.amazon.jobs/en/jobs/10579821/principal-organization-effectiveness-specialist-ads-imdb-grand-challenge) | amazon | US, WA, Seattle | 0.5243 | 2026-10-15 |
+| [Principal Software Engineer, Storage Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393557024780) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.5239 | 2026-10-15 |
+| [Manager III, Network Development Engineering, Bespoke Solutions](https://www.amazon.jobs/en/jobs/10580380/manager-iii-network-development-engineering-bespoke-solutions) | amazon | US, VA, Arlington | 0.5238 | 2026-10-15 |
+| [Software Dev Manager, Amazon EMR](https://www.amazon.jobs/en/jobs/10579396/software-dev-manager-amazon-emr) | amazon | US, CA, East Palo Alto | 0.5212 | 2026-10-15 |
+| [Project Engineer, CLT100](https://www.amazon.jobs/en/jobs/10580496/project-engineer-clt100) | amazon | US, NC, Hamlet | 0.5185 | 2026-10-15 |
 
 ## Companies tracked
 
