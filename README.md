@@ -16,29 +16,29 @@ _Updated automatically from `data/recent_jobs.csv`._
 |---|---|---|---:|---|
 | [Data Scientist, Experience Analytics](https://www.amazon.jobs/jobs/10580770/data-scientist-experience-analytics?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.6564 | 2026-10-16 |
 | [Data Scientist I, PXT Central Science](https://www.amazon.jobs/jobs/10579474/data-scientist-i-pxt-central-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.6056 | 2026-10-16 |
-| [Software Development Manager, ADC Monitoring & Observability](https://www.amazon.jobs/en/jobs/10580970/software-development-manager-adc-monitoring-observability) | amazon | US, CO, Denver | 0.5992 | 2026-10-16 |
 | [Specialist Solutions Architect – Data Lake and Semantics/Analytics (HCLS), Data Lake and Analytics](https://www.amazon.jobs/en/jobs/10581717/specialist-solutions-architect-data-lake-and-semantics-analytics-hcls-data-lake-and-analytics) | amazon | US, CA, San Francisco | 0.5990 | 2026-10-16 |
+| [Software Development Manager, ADC Monitoring & Observability](https://www.amazon.jobs/en/jobs/10580970/software-development-manager-adc-monitoring-observability) | amazon | US, CO, Denver | 0.5990 | 2026-10-16 |
 | [Ad Tech Consultant, Ad Tech Solutions](https://www.amazon.jobs/en/jobs/10581648/ad-tech-consultant-ad-tech-solutions) | amazon | US, NY, New York | 0.5894 | 2026-10-16 |
 | [Applied Scientist III - AMZ10564053](https://www.amazon.jobs/jobs/10579121/applied-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Santa Monica | 0.5802 | 2026-10-16 |
-| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/jobs/10577453/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5574 | 2026-10-16 |
+| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/jobs/10577453/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5575 | 2026-10-16 |
 | [Systems Development Engineer, Early Career – 2026 (US)](https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) | amazon | US, WA, Seattle | 0.5563 | 2026-10-17 |
 | [Category Analyst, Category Analytics](https://www.amazon.jobs/en/jobs/10581689/category-analyst-category-analytics) | amazon | US, TX, Austin | 0.5493 | 2026-10-16 |
-| [Data engineer, Decision Intelligence Technology](https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology) | amazon | US, WA, Bellevue | 0.5426 | 2026-10-16 |
 | [Delivery Consultant - AI/ML, AWS Professional Services WWPS Healthcare and Life Science](https://www.amazon.jobs/en/jobs/10581850/delivery-consultant-ai-ml-aws-professional-services-wwps-healthcare-and-life-science) | amazon | US, VA, Arlington | 0.5426 | 2026-10-16 |
+| [Data engineer, Decision Intelligence Technology](https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology) | amazon | US, WA, Bellevue | 0.5416 | 2026-10-16 |
 | [Applied Scientist II, Predictive Targeting](https://www.amazon.jobs/jobs/10580389/applied-scientist-ii-predictive-targeting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5399 | 2026-10-16 |
-| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581704/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, IL, Chicago | 0.5378 | 2026-10-16 |
 | [Data Center Infrastructure Delivery Manager](https://www.amazon.jobs/en/jobs/10581897/data-center-infrastructure-delivery-manager) | amazon | US, MD, Frederick | 0.5378 | 2026-10-16 |
-| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581698/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, VA, Herndon | 0.5358 | 2026-10-16 |
 | [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10581828/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-16 |
+| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581698/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, VA, Herndon | 0.5354 | 2026-10-16 |
+| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581704/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, IL, Chicago | 0.5348 | 2026-10-16 |
+| [Principal CX Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557001406) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5346 | 2026-10-16 |
 | [Applied Scientist II, Sponsored Products Bidding](https://www.amazon.jobs/en/jobs/10581930/applied-scientist-ii-sponsored-products-bidding) | amazon | US, WA, Seattle | 0.5238 | 2026-10-17 |
-| [Software Engineer - Simulation, Fauna](https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna) | amazon | US, NY, New York | 0.5234 | 2026-10-16 |
+| [Software Engineer - Simulation, Fauna](https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna) | amazon | US, NY, New York | 0.5231 | 2026-10-16 |
 | [Accounts Payable Analyst, FinOps, FinOps Support Center - HQ2](https://www.amazon.jobs/en/jobs/10581832/accounts-payable-analyst-finops-finops-support-center-hq2) | amazon | US, VA, Arlington | 0.5211 | 2026-10-16 |
 | [ICT Design Engineer, Data Center Design Engineering](https://www.amazon.jobs/en/jobs/10581923/ict-design-engineer-data-center-design-engineering) | amazon | US, VA, Herndon | 0.5162 | 2026-10-16 |
-| [Partner Enablement & Activation Program Lead , Applied AI Solutions](https://www.amazon.jobs/en/jobs/10581232/partner-enablement-activation-program-lead-applied-ai-solutions) | amazon | US, VA, Arlington | 0.5152 | 2026-10-16 |
-| [Data Center Facility Manager II - Nights](https://www.amazon.jobs/en/jobs/10581876/data-center-facility-manager-ii-nights) | amazon | US, OH, Jeffersonville | 0.5142 | 2026-10-16 |
 | [Commissioning Engineer, AWS Commissioning](https://www.amazon.jobs/en/jobs/10581733/commissioning-engineer-aws-commissioning) | amazon | US, VA, Herndon | 0.5142 | 2026-10-16 |
+| [Data Center Facility Manager II - Nights](https://www.amazon.jobs/en/jobs/10581876/data-center-facility-manager-ii-nights) | amazon | US, OH, Jeffersonville | 0.5142 | 2026-10-16 |
 | [Senior AI Acceleration Lead, Customer Success COE, AWS Specialist and Partner Organization , AWS Specialist and Partner Organization](https://www.amazon.jobs/en/jobs/10581750/senior-ai-acceleration-lead-customer-success-coe-aws-specialist-and-partner-organization-aws-specialist-and-partner-organization) | amazon | US, CA, Mountain View | 0.5088 | 2026-10-16 |
-| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581700/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, UT, Salt Lake City | 0.5077 | 2026-10-16 |
+| [Partner Enablement & Activation Program Lead , Applied AI Solutions](https://www.amazon.jobs/en/jobs/10581232/partner-enablement-activation-program-lead-applied-ai-solutions) | amazon | US, VA, Arlington | 0.5039 | 2026-10-16 |
 
 ## Companies tracked
 
