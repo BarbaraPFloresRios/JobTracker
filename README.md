@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Scientist, Experience Analytics](https://www.amazon.jobs/jobs/10580770/data-scientist-experience-analytics?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.6562 | 2026-10-16 |
-| [Data Scientist I, PXT Central Science](https://www.amazon.jobs/jobs/10579474/data-scientist-i-pxt-central-science?cmpid=bsp-amazon-science) | amazon_science | US, VA, Arlington | 0.6052 | 2026-10-16 |
-| [Software Development Manager, ADC Monitoring & Observability](https://www.amazon.jobs/en/jobs/10580970/software-development-manager-adc-monitoring-observability) | amazon | US, CO, Denver | 0.5990 | 2026-10-16 |
-| [Specialist Solutions Architect – Data Lake and Semantics/Analytics (HCLS), Data Lake and Analytics](https://www.amazon.jobs/en/jobs/10581717/specialist-solutions-architect-data-lake-and-semantics-analytics-hcls-data-lake-and-analytics) | amazon | US, CA, San Francisco | 0.5990 | 2026-10-16 |
-| [Ad Tech Consultant, Ad Tech Solutions](https://www.amazon.jobs/en/jobs/10581648/ad-tech-consultant-ad-tech-solutions) | amazon | US, NY, New York | 0.5894 | 2026-10-16 |
-| [Applied Scientist III - AMZ10564053](https://www.amazon.jobs/jobs/10579121/applied-scientist-iii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Santa Monica | 0.5802 | 2026-10-16 |
-| [Solution Engineering Manager - Cloud & AI Platform](https://apply.careers.microsoft.com/careers/job/1970393557040917) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5685 | 2026-10-17 |
-| [Data Scientist II - AMZ10564077](https://www.amazon.jobs/jobs/10577453/data-scientist-ii--amz?cmpid=bsp-amazon-science) | amazon_science | US, CA, Sunnyvale | 0.5575 | 2026-10-16 |
+| [Solution Engineering Manager - Cloud & AI Platform](https://apply.careers.microsoft.com/careers/job/1970393557040917) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5605 | 2026-10-17 |
 | [Systems Development Engineer, Early Career – 2026 (US)](https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) | amazon | US, WA, Seattle | 0.5563 | 2026-10-17 |
-| [Category Analyst, Category Analytics](https://www.amazon.jobs/en/jobs/10581689/category-analyst-category-analytics) | amazon | US, TX, Austin | 0.5493 | 2026-10-16 |
-| [Delivery Consultant - AI/ML, AWS Professional Services WWPS Healthcare and Life Science](https://www.amazon.jobs/en/jobs/10581850/delivery-consultant-ai-ml-aws-professional-services-wwps-healthcare-and-life-science) | amazon | US, VA, Arlington | 0.5426 | 2026-10-16 |
-| [Data engineer, Decision Intelligence Technology](https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology) | amazon | US, WA, Bellevue | 0.5416 | 2026-10-16 |
-| [Applied Scientist II, Predictive Targeting](https://www.amazon.jobs/jobs/10580389/applied-scientist-ii-predictive-targeting?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.5403 | 2026-10-16 |
-| [Data Center Infrastructure Delivery Manager](https://www.amazon.jobs/en/jobs/10581897/data-center-infrastructure-delivery-manager) | amazon | US, MD, Frederick | 0.5378 | 2026-10-16 |
-| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581698/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, VA, Herndon | 0.5368 | 2026-10-16 |
-| [Data Center Facility Manager II](https://www.amazon.jobs/en/jobs/10581828/data-center-facility-manager-ii) | amazon | US, OH, Jeffersonville | 0.5357 | 2026-10-16 |
-| [Procurement Manager, Data Centers, Data Center Sourcing & Procurement](https://www.amazon.jobs/en/jobs/10581704/procurement-manager-data-centers-data-center-sourcing-procurement) | amazon | US, IL, Chicago | 0.5336 | 2026-10-16 |
-| [Principal CX Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557001406) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5326 | 2026-10-16 |
-| [Product Manager, CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027388) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5277 | 2026-10-17 |
+| [Product Manager, CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027388) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5335 | 2026-10-17 |
 | [Applied Scientist II, Sponsored Products Bidding](https://www.amazon.jobs/en/jobs/10581930/applied-scientist-ii-sponsored-products-bidding) | amazon | US, WA, Seattle | 0.5238 | 2026-10-17 |
-| [Software Engineer - Simulation, Fauna](https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna) | amazon | US, NY, New York | 0.5234 | 2026-10-16 |
-| [Accounts Payable Analyst, FinOps, FinOps Support Center - HQ2](https://www.amazon.jobs/en/jobs/10581832/accounts-payable-analyst-finops-finops-support-center-hq2) | amazon | US, VA, Arlington | 0.5211 | 2026-10-16 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026008) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5177 | 2026-10-17 |
-| [ICT Design Engineer, Data Center Design Engineering](https://www.amazon.jobs/en/jobs/10581923/ict-design-engineer-data-center-design-engineering) | amazon | US, VA, Herndon | 0.5162 | 2026-10-16 |
-| [Commissioning Engineer, AWS Commissioning](https://www.amazon.jobs/en/jobs/10581733/commissioning-engineer-aws-commissioning) | amazon | US, VA, Herndon | 0.5142 | 2026-10-16 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026008) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5191 | 2026-10-17 |
+| [Sr Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026792) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5034 | 2026-10-17 |
+| [Cloud Endpoint Global Black Belt (GBB)](https://apply.careers.microsoft.com/careers/job/1970393557022785) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4776 | 2026-10-17 |
+| [Customer Success Manager, Enterprise Tech](https://job-boards.greenhouse.io/anthropic/jobs/5454800008) | anthropic | New York City, NY | 0.4744 | 2026-10-17 |
+| [Senior Solution Engineering - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984074) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4716 | 2026-10-17 |
+| [Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557027338) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4677 | 2026-10-17 |
+| [Sr. Procurement Manager - Electrical & Mechanical](https://apply.careers.microsoft.com/careers/job/1970393556978143) | microsoft | United States, California, San Jose; United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4611 | 2026-10-17 |
+| [Senior Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557027336) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4587 | 2026-10-17 |
+| [Systems Development Engineer, OISL Test Automation](https://www.amazon.jobs/en/jobs/10582075/systems-development-engineer-oisl-test-automation) | amazon | US, WA, Redmond | 0.4515 | 2026-10-17 |
+| [Principal Penetration Tester](https://apply.careers.microsoft.com/careers/job/1970393557027335) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4481 | 2026-10-17 |
+| [Applied Scientist, Personalization, DTx Science](https://www.amazon.jobs/jobs/10581936/applied-scientist-personalization-dtx-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.4473 | 2026-10-17 |
+| [Data Scientist - Intelligent Experiences, MLO](https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI) | apple | nan | 0.4425 | 2026-10-17 |
+| [Cloud Solution Architect](https://apply.careers.microsoft.com/careers/job/1970393557026798) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4417 | 2026-10-17 |
+| [Sales Director](https://apply.careers.microsoft.com/careers/job/1970393557026874) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4362 | 2026-10-17 |
+| [Multidisciplinary Manager (Software Engineering) - FDE](https://apply.careers.microsoft.com/careers/job/1970393556939556) | microsoft | United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond; United States, California, Mountain View; United States, Texas, Houston; United States, Texas, Austin; United States, Illinois, Chicago; United States, Massachusetts, Cambridge; United States, New York, New York; United States, Georgia, Atlanta | 0.4310 | 2026-10-17 |
+| [Software Engineer, Full Stack — Dots](https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445) | openai | New York City | 0.4270 | 2026-10-17 |
+| [Research Scientist II, PXT Central Science](https://www.amazon.jobs/jobs/10581666/research-scientist-ii-pxt-central-science?cmpid=bsp-amazon-science) | amazon_science | US, WA, Seattle | 0.4204 | 2026-10-17 |
+| [Senior Director, Business Program Management - Non-AI Capacity Leader](https://apply.careers.microsoft.com/careers/job/1970393557026897) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4197 | 2026-10-17 |
+| [Digital Cloud & AI Solution Engineer - Azure Platform](https://apply.careers.microsoft.com/careers/job/1970393557040185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4193 | 2026-10-17 |
+| [Principal Product Manager, Azure PaaS & Serverless - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557040295) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4182 | 2026-10-17 |
+| [Applied Scientist, North America Sort Centers, Amazon Transportation Services, North America Sort Centers, Amazon Transportation Services](https://www.amazon.jobs/jobs/10581525/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services?cmpid=bsp-amazon-science) | amazon_science | US, WA, Bellevue | 0.4182 | 2026-10-17 |
 
 ## Companies tracked
 
