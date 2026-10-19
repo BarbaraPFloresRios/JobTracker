@@ -14,31 +14,31 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Solution Engineering Manager - Cloud & AI Platform](https://apply.careers.microsoft.com/careers/job/1970393557040917) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5595 | 2026-10-17 |
-| [Systems Development Engineer, Early Career – 2026 (US)](https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) | amazon | US, WA, Seattle | 0.5563 | 2026-10-17 |
-| [Product Manager, CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027388) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5280 | 2026-10-17 |
-| [Applied Scientist II, Sponsored Products Bidding](https://www.amazon.jobs/en/jobs/10581930/applied-scientist-ii-sponsored-products-bidding) | amazon | US, WA, Seattle | 0.5238 | 2026-10-17 |
 | [Testing JSQs edits](https://www.amazon.jobs/en/jobs/10582189/testing-jsqs-edits) | amazon | US, WA, Bellevue | 0.5227 | 2026-10-18 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026008) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5171 | 2026-10-17 |
-| [Sr Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026792) | microsoft | United States, Multiple Locations, Multiple Locations | 0.5026 | 2026-10-17 |
-| [Senior Solution Engineering - AI Business Process](https://apply.careers.microsoft.com/careers/job/1970393556984074) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4901 | 2026-10-17 |
-| [Cloud Endpoint Global Black Belt (GBB)](https://apply.careers.microsoft.com/careers/job/1970393557022785) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4786 | 2026-10-17 |
-| [Customer Success Manager, Enterprise Tech](https://job-boards.greenhouse.io/anthropic/jobs/5454800008) | anthropic | New York City, NY | 0.4744 | 2026-10-17 |
 | [Principal Threat Intelligence Analyst - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393557007277) | microsoft | United States, Virginia, Reston; United States, Multiple Locations, Multiple Locations | 0.4727 | 2026-10-18 |
-| [Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557027338) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4681 | 2026-10-17 |
-| [Sr. Procurement Manager - Electrical & Mechanical](https://apply.careers.microsoft.com/careers/job/1970393556978143) | microsoft | United States, California, San Jose; United States, Multiple Locations, Multiple Locations; United States, Washington, Redmond | 0.4617 | 2026-10-17 |
-| [Senior Technical Program Manager](https://apply.careers.microsoft.com/careers/job/1970393557027336) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4587 | 2026-10-17 |
-| [Principal Penetration Tester](https://apply.careers.microsoft.com/careers/job/1970393557027335) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4570 | 2026-10-17 |
-| [Sales Excellence Lead, Cloud and AI Platform](https://apply.careers.microsoft.com/careers/job/1970393557039176) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4550 | 2026-10-18 |
-| [Systems Development Engineer, OISL Test Automation](https://www.amazon.jobs/en/jobs/10582075/systems-development-engineer-oisl-test-automation) | amazon | US, WA, Redmond | 0.4515 | 2026-10-17 |
-| [Applied Scientist, Personalization, DTx Science](https://www.amazon.jobs/jobs/10581936/applied-scientist-personalization-dtx-science?cmpid=bsp-amazon-science) | amazon_science | US, NY, New York | 0.4474 | 2026-10-17 |
-| [Data Scientist - Intelligent Experiences, MLO](https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI) | apple | nan | 0.4425 | 2026-10-17 |
-| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557025706) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4422 | 2026-10-18 |
-| [Cloud Solution Architect](https://apply.careers.microsoft.com/careers/job/1970393557026798) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4403 | 2026-10-17 |
-| [Sales Director](https://apply.careers.microsoft.com/careers/job/1970393557026874) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4375 | 2026-10-17 |
-| [Digital Cloud & AI Solution Engineer - Azure Platform](https://apply.careers.microsoft.com/careers/job/1970393557040185) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4370 | 2026-10-17 |
-| [Principal Product Manager, Azure PaaS & Serverless - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557040295) | microsoft | United States, Washington, Redmond; United States, Multiple Locations, Multiple Locations | 0.4273 | 2026-10-17 |
-| [Software Engineer, Full Stack — Dots](https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445) | openai | New York City | 0.4270 | 2026-10-17 |
+| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557023190) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4646 | 2026-10-19 |
+| [Sales Excellence Lead, Cloud and AI Platform](https://apply.careers.microsoft.com/careers/job/1970393557039176) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4553 | 2026-10-18 |
+| [Business Program Manager, Culture & Transformation](https://apply.careers.microsoft.com/careers/job/1970393557026746) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4529 | 2026-10-19 |
+| [Commissioning Technical Director - Americas](https://apply.careers.microsoft.com/careers/job/1970393557027327) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4478 | 2026-10-19 |
+| [Senior Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557025706) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4408 | 2026-10-18 |
+| [Senior Forward Deployed Engineer, Open Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Forward-Deployed-Engineer--Open-Models_JR2028008) | nvidia | US, CA, Santa Clara | 0.4274 | 2026-10-19 |
+| [Principal Engineer Capacity/Compute](https://job-boards.greenhouse.io/anthropic/jobs/5456406008) | anthropic | San Francisco, CA | 0.4047 | 2026-10-19 |
+| [Principal Engineer Capacity/Compute](https://job-boards.greenhouse.io/anthropic/jobs/5456039008) | anthropic | San Francisco, CA | 0.4047 | 2026-10-18 |
+| [Principal Engineer Capacity/Compute](https://job-boards.greenhouse.io/anthropic/jobs/5456405008) | anthropic | San Francisco, CA | 0.4047 | 2026-10-19 |
+| [Senior Performance Creative](https://jobs.smartrecruiters.com/Canva/6000000001497054-senior-performance-creative) | canva | San Francisco, CA, United States | 0.4013 | 2026-10-19 |
+| [Mobile User Acquisition Manager, Amazon Music](https://www.amazon.jobs/en/jobs/10582083/mobile-user-acquisition-manager-amazon-music) | amazon | US, CA, Culver City | 0.3846 | 2026-10-18 |
+| [Community Engagement Manager, Data Centers (Indiana & Kentucky)](https://job-boards.greenhouse.io/anthropic/jobs/5454535008) | anthropic | Remote-Friendly US (Travel Required) | 0.3739 | 2026-10-18 |
+| [Process Assistant, CMH5](https://www.amazon.jobs/en/jobs/10582202/process-assistant-cmh5) | amazon | US, OH, West Jefferson | 0.3530 | 2026-10-19 |
+| [Business Architect for Security Usage Strategy](https://apply.careers.microsoft.com/careers/job/1970393557021834) | microsoft | United States, Multiple Locations, Multiple Locations | 0.3409 | 2026-10-18 |
+| [Senior Legal Counsel, Intellectual Property, 12 month FTC](https://jobs.smartrecruiters.com/Canva/6000000001496794-senior-legal-counsel-intellectual-property-12-month-ftc) | canva | San Francisco, CA, United States | 0.3370 | 2026-10-18 |
+| [Manager, Account Executive](https://job-boards.greenhouse.io/anthropic/jobs/5391356008) | anthropic | Tokyo, Japan | 0.3364 | 2026-10-18 |
+| [Director, Forward Deployed Engineering - Open Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Forward-Deployed-Engineering---Open-Models_JR2028004) | nvidia | US, CA, Santa Clara | 0.3228 | 2026-10-19 |
+| [Estimating Manager, MEP - Data Center](https://www.metacareers.com/profile/job_details/1017755164517174) | meta | Reston, VA | 0.3140 | 2026-10-19 |
+| [Hardware Validation Procedures and Documentation Lead](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Validation-Procedures-and-Documentation-Lead_JR2027991) | nvidia | US, CA, Santa Clara | 0.3042 | 2026-10-19 |
+| [Marketing Manager, Wearables (South Korea)](https://www.metacareers.com/profile/job_details/916066364475112) | meta | Singapore | 0.2216 | 2026-10-19 |
+| [Software Engineer, Agent Optimization & Evaluation](https://job-boards.greenhouse.io/reddit/jobs/8275745) | reddit | Remote - United States | 0.2078 | 2026-10-19 |
+| [Machine Learning Engineer, Answers Relevance](https://job-boards.greenhouse.io/reddit/jobs/8299781) | reddit | Remote - United States | 0.1238 | 2026-10-19 |
+| [Brand Marketing Manager, Facebook](https://www.metacareers.com/profile/job_details/1403577618658210) | meta | Los Angeles, CA | 0.1210 | 2026-10-19 |
 
 ## Companies tracked
 
