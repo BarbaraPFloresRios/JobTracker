@@ -1,23 +1,36 @@
 title,company,location,semantic_similarity,first_seen_date,url
-Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4646,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557023190
-"Business Program Manager, Culture & Transformation",microsoft,"United States, Multiple Locations, Multiple Locations",0.4529,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557026746
-Commissioning Technical Director - Americas,microsoft,"United States, Multiple Locations, Multiple Locations",0.4478,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557027327
-"Senior Forward Deployed Engineer, Open Models",nvidia,"US, CA, Santa Clara",0.4274,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Forward-Deployed-Engineer--Open-Models_JR2028008
-Principal Engineer Capacity/Compute,anthropic,"San Francisco, CA",0.4047,2026-10-19,https://job-boards.greenhouse.io/anthropic/jobs/5456406008
+Marketing Technology Operations Manager,microsoft,"United States, Multiple Locations, Multiple Locations",0.5039,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557024807
+Principal Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.477,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557023190
+"Business Program Manager, Culture & Transformation",microsoft,"United States, Multiple Locations, Multiple Locations",0.4745,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557026746
+Commissioning Technical Director - Americas,microsoft,"United States, Multiple Locations, Multiple Locations",0.466,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557027327
+"Senior Cloud Solution Architect - Cloud & AI Infrastructure, Azure Government Cloud",microsoft,"United States, Multiple Locations, Multiple Locations",0.4505,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557040543
+Senior Cloud Software Engineer,nvidia,"US, CA, Santa Clara; US, Remote; US, WA, Seattle",0.446,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Software-Engineer_JR2027863
+Cloud Hosting Finance Analyst,canva,"San Francisco, CA, United States",0.4304,2026-10-19,https://jobs.smartrecruiters.com/Canva/6000000001501262-cloud-hosting-finance-analyst
+"Applied AI Engineer, Startups (Mandarin-speaking)",openai,Singapore,0.4291,2026-10-19,https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca
+"Senior Forward Deployed Engineer, Open Models",nvidia,"US, CA, Santa Clara",0.4276,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Forward-Deployed-Engineer--Open-Models_JR2028008
+Customer Success Manager,anthropic,"Tokyo, Japan",0.4128,2026-10-19,https://job-boards.greenhouse.io/anthropic/jobs/5456491008
 Principal Engineer Capacity/Compute,anthropic,"San Francisco, CA",0.4047,2026-10-19,https://job-boards.greenhouse.io/anthropic/jobs/5456405008
+Principal Engineer Capacity/Compute,anthropic,"San Francisco, CA",0.4047,2026-10-19,https://job-boards.greenhouse.io/anthropic/jobs/5456406008
 Senior Performance Creative,canva,"San Francisco, CA, United States",0.4013,2026-10-19,https://jobs.smartrecruiters.com/Canva/6000000001497054-senior-performance-creative
+Director of Sales Strategy Enablement,microsoft,"United States, Multiple Locations, Multiple Locations",0.3603,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557007602
 "Process Assistant, CMH5",amazon,"US, OH, West Jefferson",0.353,2026-10-19,https://www.amazon.jobs/en/jobs/10582202/process-assistant-cmh5
-"Director, Forward Deployed Engineering - Open Models",nvidia,"US, CA, Santa Clara",0.3228,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Forward-Deployed-Engineering---Open-Models_JR2028004
+Partner Technology Strategist,microsoft,"United States, Multiple Locations, Multiple Locations",0.3452,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557018950
+Lead Associate,amazon,"US, LA, New Orleans",0.3414,2026-10-19,https://www.amazon.jobs/en/jobs/10582432/lead-associate
+Principal Software Engineer - Networking,microsoft,"United States, Multiple Locations, Multiple Locations",0.3392,2026-10-19,https://apply.careers.microsoft.com/careers/job/1970393557019358
+"Lead Associate, Amazon Now",amazon,"US, IA, Des Moines",0.3366,2026-10-19,https://www.amazon.jobs/en/jobs/10582427/lead-associate-amazon-now
+"Software Engineer, Memory & Search",anthropic,"San Francisco, CA",0.3343,2026-10-19,https://job-boards.greenhouse.io/anthropic/jobs/5456453008
+"Director, Forward Deployed Engineering - Open Models",nvidia,"US, CA, Santa Clara",0.3234,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Forward-Deployed-Engineering---Open-Models_JR2028004
 "Estimating Manager, MEP - Data Center",meta,"Reston, VA",0.314,2026-10-19,https://www.metacareers.com/profile/job_details/1017755164517174
-Hardware Validation Procedures and Documentation Lead,nvidia,"US, CA, Santa Clara",0.3042,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Validation-Procedures-and-Documentation-Lead_JR2027991
+Hardware Validation Procedures and Documentation Lead,nvidia,"US, CA, Santa Clara",0.3053,2026-10-19,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Validation-Procedures-and-Documentation-Lead_JR2027991
 "Marketing Manager, Wearables (South Korea)",meta,Singapore,0.2216,2026-10-19,https://www.metacareers.com/profile/job_details/916066364475112
 "Software Engineer, Agent Optimization & Evaluation",reddit,Remote - United States,0.2078,2026-10-19,https://job-boards.greenhouse.io/reddit/jobs/8275745
+"Public Policy Manager, Philippines",meta,"Manila, Philippines",0.145,2026-10-19,https://www.metacareers.com/profile/job_details/4496585923940057
 "Machine Learning Engineer, Answers Relevance",reddit,Remote - United States,0.1238,2026-10-19,https://job-boards.greenhouse.io/reddit/jobs/8299781
 "Brand Marketing Manager, Facebook",meta,"Los Angeles, CA",0.121,2026-10-19,https://www.metacareers.com/profile/job_details/1403577618658210
 Testing JSQs edits,amazon,"US, WA, Bellevue",0.5227,2026-10-18,https://www.amazon.jobs/en/jobs/10582189/testing-jsqs-edits
-Principal Threat Intelligence Analyst - CTJ - Top Secret,microsoft,"United States, Virginia, Reston; United States, Multiple Locations, Multiple Locations",0.4727,2026-10-18,https://apply.careers.microsoft.com/careers/job/1970393557007277
+Principal Threat Intelligence Analyst - CTJ - Top Secret,microsoft,"United States, Virginia, Reston; United States, Multiple Locations, Multiple Locations",0.51,2026-10-18,https://apply.careers.microsoft.com/careers/job/1970393557007277
 "Sales Excellence Lead, Cloud and AI Platform",microsoft,"United States, Multiple Locations, Multiple Locations",0.4553,2026-10-18,https://apply.careers.microsoft.com/careers/job/1970393557039176
-Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4408,2026-10-18,https://apply.careers.microsoft.com/careers/job/1970393557025706
+Senior Software Engineer,microsoft,"United States, Multiple Locations, Multiple Locations",0.4414,2026-10-18,https://apply.careers.microsoft.com/careers/job/1970393557025706
 Principal Engineer Capacity/Compute,anthropic,"San Francisco, CA",0.4047,2026-10-18,https://job-boards.greenhouse.io/anthropic/jobs/5456039008
 "Mobile User Acquisition Manager, Amazon Music",amazon,"US, CA, Culver City",0.3846,2026-10-18,https://www.amazon.jobs/en/jobs/10582083/mobile-user-acquisition-manager-amazon-music
 "Community Engagement Manager, Data Centers (Indiana & Kentucky)",anthropic,Remote-Friendly US (Travel Required),0.3739,2026-10-18,https://job-boards.greenhouse.io/anthropic/jobs/5454535008
