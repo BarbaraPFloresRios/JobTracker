@@ -14,9 +14,14 @@ _Updated automatically from `data/recent_jobs.csv`._
 
 | Title | Company | Location | Similarity | First Seen |
 |---|---|---|---:|---|
-| [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco) | amazon | US, VA, Culpeper | 0.5607 | 2026-10-19 |
+| [Sr Applied Scientist, CreativeX](https://www.amazon.jobs/en/jobs/10583488/sr-applied-scientist-creativex) | amazon | US, NY, New York | 0.6235 | 2026-10-20 |
+| [Sr. Customer Success Specialist, Applied AI, AWS WWSO CDS](https://www.amazon.jobs/en/jobs/10583368/sr-customer-success-specialist-applied-ai-aws-wwso-cds) | amazon | US, WA, Seattle | 0.5775 | 2026-10-20 |
 | [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10583072/data-center-technician-adc-infraops-dco) | amazon | US, VA, Culpeper | 0.5607 | 2026-10-19 |
+| [Data Center Technician, ADC InfraOps DCO](https://www.amazon.jobs/en/jobs/10583227/data-center-technician-adc-infraops-dco) | amazon | US, VA, Culpeper | 0.5607 | 2026-10-19 |
+| [Robotics Systems Engineer I, Robotics Delivery and Packaging Innovation (RDPI) - Tech Deployment](https://www.amazon.jobs/en/jobs/10583485/robotics-systems-engineer-i-robotics-delivery-and-packaging-innovation-rdpi-tech-deployment) | amazon | US, MA, N.reading | 0.5568 | 2026-10-20 |
 | [Data Center Facility Manager, Data Center Community](https://www.amazon.jobs/en/jobs/10583136/data-center-facility-manager-data-center-community) | amazon | US, MO, New Florence | 0.5518 | 2026-10-19 |
+| [Applied Scientist, CreativeX](https://www.amazon.jobs/en/jobs/10583487/applied-scientist-creativex) | amazon | US, NY, New York | 0.5497 | 2026-10-20 |
+| [Senior PR Manager, Datacenter Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-PR-Manager--Datacenter-Architecture_JR2027726-1) | nvidia | US, CA, Santa Clara | 0.5493 | 2026-10-20 |
 | [Delivery Consultant - AI/ML, Professional Services - AWS Industries , ProServe AWSI Delivery - AutoMfg](https://www.amazon.jobs/en/jobs/10583256/delivery-consultant-ai-ml-professional-services-aws-industries-proserve-awsi-delivery-automfg) | amazon | US, VA, Arlington | 0.5471 | 2026-10-19 |
 | [Data Center Facility Manager, Data Center Community](https://www.amazon.jobs/en/jobs/10583236/data-center-facility-manager-data-center-community) | amazon | US, MO, New Florence | 0.5455 | 2026-10-19 |
 | [Software Engineer, Backend — Dots](https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519) | openai | New York City | 0.5432 | 2026-10-19 |
@@ -24,21 +29,16 @@ _Updated automatically from `data/recent_jobs.csv`._
 | [Sourcing Recruiter, AWS TA](https://www.amazon.jobs/en/jobs/10583207/sourcing-recruiter-aws-ta) | amazon | US, VA, Arlington | 0.5310 | 2026-10-19 |
 | [Global Candidate Experience Manager](https://jobs.ashbyhq.com/openai/6224a72e-16cc-49c2-8b8c-b87b001e6c61) | openai | San Francisco | 0.5305 | 2026-10-19 |
 | [Project Engineer, Data Center Construction](https://www.amazon.jobs/en/jobs/10582684/project-engineer-data-center-construction) | amazon | US, IN, Hobart | 0.5256 | 2026-10-19 |
-| [Testing JSQs edits](https://www.amazon.jobs/en/jobs/10582189/testing-jsqs-edits) | amazon | US, WA, Bellevue | 0.5227 | 2026-10-18 |
+| [Sr Program Manager, Worldwide Grocery Stores, Strategy and Business Planning](https://www.amazon.jobs/en/jobs/10583369/sr-program-manager-worldwide-grocery-stores-strategy-and-business-planning) | amazon | US, TX, Austin | 0.5245 | 2026-10-20 |
+| [Structural Engineer, Data Center Eng, Mech Products and Services](https://www.amazon.jobs/en/jobs/10583412/structural-engineer-data-center-eng-mech-products-and-services) | amazon | US, GA, Atlanta | 0.5168 | 2026-10-20 |
 | [Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS)](https://www.amazon.jobs/en/jobs/10583165/product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps) | amazon | US, GA, Atlanta | 0.5144 | 2026-10-19 |
 | [Engineering Operations Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10582777/engineering-operations-technician-dcc-communities) | amazon | US, NC, Hamlet | 0.5142 | 2026-10-19 |
-| [Senior Data Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Data-Engineer_JR2027678) | nvidia | US, CA, Remote; US, TX, Remote; US, CA, Santa Clara | 0.5090 | 2026-10-19 |
-| [Principal Threat Intelligence Analyst - CTJ - Top Secret](https://apply.careers.microsoft.com/careers/job/1970393557007277) | microsoft | United States, Virginia, Reston; United States, Multiple Locations, Multiple Locations | 0.5055 | 2026-10-18 |
-| [Marketing Technology Operations Manager](https://apply.careers.microsoft.com/careers/job/1970393557024807) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4944 | 2026-10-19 |
-| [Engineering Operations Technician, DCC Communities ](https://www.amazon.jobs/en/jobs/10583219/engineering-operations-technician-dcc-communities) | amazon | US, OR, Hermiston | 0.4833 | 2026-10-19 |
-| [Principal Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557023190) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4748 | 2026-10-19 |
-| [Logistics Specialist, ADC InfraOps Logistics](https://www.amazon.jobs/en/jobs/10582988/logistics-specialist-adc-infraops-logistics) | amazon | US, VA, Manassas | 0.4745 | 2026-10-19 |
-| [Sr. Go-To-Market Partner Specialist, Agentic Workspaces, AWS, Applied AI Solutions Partner GTM](https://www.amazon.jobs/en/jobs/10582843/sr-go-to-market-partner-specialist-agentic-workspaces-aws-applied-ai-solutions-partner-gtm) | amazon | US, WA, Seattle | 0.4728 | 2026-10-19 |
-| [Business Program Manager, Culture & Transformation](https://apply.careers.microsoft.com/careers/job/1970393557026746) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4715 | 2026-10-19 |
-| [Commissioning Technical Director - Americas](https://apply.careers.microsoft.com/careers/job/1970393557027327) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4698 | 2026-10-19 |
-| [Senior Solutions Architect, Enterprise AI Factories](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Enterprise-AI-Factories_JR2027958-1) | nvidia | US, CA, Santa Clara; US, NC, Remote; US, TX, Remote; US, CA, Remote | 0.4679 | 2026-10-19 |
-| [Controls Engineer, Deployment, CDS - DCCD](https://www.amazon.jobs/en/jobs/10582606/controls-engineer-deployment-cds-dccd) | amazon | US, VA, Herndon | 0.4650 | 2026-10-19 |
-| [Customer Success Insights Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Success-Insights-Engineer_JR2023258-1) | nvidia | US, CA, Santa Clara | 0.4632 | 2026-10-19 |
+| [Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) Foundations- Traffic ](https://www.amazon.jobs/en/jobs/10583465/software-development-engineer-measurement-ad-tech-and-data-science-mads-foundations-traffic) | amazon | US, WA, Seattle | 0.5140 | 2026-10-20 |
+| [Software Development Engineer](https://www.amazon.jobs/en/jobs/10583312/software-development-engineer) | amazon | US, WA, Seattle | 0.5124 | 2026-10-20 |
+| [Senior Data Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Data-Engineer_JR2027678) | nvidia | US, CA, Remote; US, TX, Remote; US, CA, Santa Clara | 0.5092 | 2026-10-19 |
+| [Sr. Go-To-Market Partner Specialist, Agentic Workspaces, AWS, Applied AI Solutions Partner GTM](https://www.amazon.jobs/en/jobs/10582843/sr-go-to-market-partner-specialist-agentic-workspaces-aws-applied-ai-solutions-partner-gtm) | amazon | US, WA, Seattle | 0.5069 | 2026-10-19 |
+| [Principal Software Engineer](https://www.amazon.jobs/en/jobs/10583518/principal-software-engineer) | amazon | US, WA, Seattle | 0.4981 | 2026-10-20 |
+| [Marketing Technology Operations Manager](https://apply.careers.microsoft.com/careers/job/1970393557024807) | microsoft | United States, Multiple Locations, Multiple Locations | 0.4953 | 2026-10-19 |
 
 ## Companies tracked
 
